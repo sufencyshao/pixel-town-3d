@@ -78,6 +78,8 @@ def main():
                         shutil.copyfileobj(src, output, length=1024 * 1024)
                 if digest(tmp) != row['sha256']:
                     raise SystemExit('Asset checksum mismatch: ' + row['file'])
+                if os.name == 'posix' and (info.external_attr >> 16) & 0o111:
+                    os.chmod(tmp, 0o755)
                 # Atomic no-overwrite installation. A concurrent edit is preserved.
                 os.link(tmp, dest)
                 restored += 1

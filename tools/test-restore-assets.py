@@ -20,7 +20,9 @@ class RestoreChecks(unittest.TestCase):
         self.data = b'original-test-asset\x00\x01'
         self.archive = self.root / 'source.zip'
         with zipfile.ZipFile(self.archive, 'w') as z:
-            z.writestr('source/assets/test.bin', self.data)
+            entry = zipfile.ZipInfo('source/assets/test.bin')
+            entry.external_attr = 0o100755 << 16
+            z.writestr(entry, self.data)
         self.spec = {'archive': self.archive.name, 'tag': 'test', 'prefix': 'source/',
                      'sha256': hashlib.sha256(self.archive.read_bytes()).hexdigest(),
                      'files': [{'file': 'assets/test.bin', 'bytes': len(self.data),
@@ -37,6 +39,8 @@ class RestoreChecks(unittest.TestCase):
     def test_restore_and_repeat(self):
         self.assertEqual(self.run_restore().returncode, 0)
         self.assertEqual((self.root / 'assets/test.bin').read_bytes(), self.data)
+        if sys.platform != 'win32':
+            self.assertTrue((self.root / 'assets/test.bin').stat().st_mode & 0o111)
         result = self.run_restore()
         self.assertEqual(result.returncode, 0)
         self.assertIn('Restored and verified 0 files; 1 already correct.', result.stdout)
