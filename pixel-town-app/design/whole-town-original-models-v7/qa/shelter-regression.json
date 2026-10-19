@@ -1,0 +1,65 @@
+{
+  "cases": [
+    {
+      "seed": 1,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 2,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 3,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 4,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 5,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 6,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 7,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 8,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 9,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 10,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 11,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "seed": 12,
+      "pass": true,
+      "failures": []
+    }
+  ],
+  "status": "PASS"
+}

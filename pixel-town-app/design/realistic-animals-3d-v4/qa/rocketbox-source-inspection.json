@@ -1,0 +1,42 @@
+[
+  {
+    "file": "vendor/rocketbox/Assets/Animals/Dog_Beagle_01/Export/Dog_Beagle_01.fbx",
+    "actions": [],
+    "armatures": {
+      "Bip01": 35
+    },
+    "meshes": 1
+  },
+  {
+    "file": "vendor/rocketbox/Assets/Animals/Dog_GermanShepard_01/Export/Dog_GermanShepard_01.fbx",
+    "actions": [],
+    "armatures": {
+      "Bip01": 35
+    },
+    "meshes": 1
+  },
+  {
+    "file": "vendor/rocketbox/Assets/Animals/Bird_Sparrow_01/Export/Bird_Sparrow_01.fbx",
+    "actions": [],
+    "armatures": {
+      "Bip01": 41
+    },
+    "meshes": 1
+  },
+  {
+    "file": "vendor/rocketbox/Assets/Animals/Horse_Brown_01/Export/Horse_Brown_01.fbx",
+    "actions": [],
+    "armatures": {
+      "Bip01": 39
+    },
+    "meshes": 1
+  },
+  {
+    "file": "vendor/rocketbox/Assets/Animals/Bird_Duck_Male_01/Export/Bird_Duck_Male_01.fbx",
+    "actions": [],
+    "armatures": {
+      "Bip01": 27
+    },
+    "meshes": 1
+  }
+]

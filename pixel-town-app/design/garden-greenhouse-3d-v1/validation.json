@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "blender": "5.2.2 LTS",
+  "meshObjects": 2547,
+  "triangles": 96812,
+  "scenes": [
+    "01 Whole block",
+    "02 Master plan",
+    "03 Greenhouse interior",
+    "04 Tool house interior",
+    "05 Fields and orchard"
+  ],
+  "pathTiles": 37,
+  "pathNetwork": "connected, no overlapping top faces",
+  "portals": "all reach site boundary",
+  "greenhouseAisles": "two 1 m clear test corridors and 2.4 m east doorway",
+  "toolHousePassages": "west and south entry approach volumes clear",
+  "glbReimport": "mesh and triangle counts match",
+  "sha256": "f4ada1fe8319b85a7767590555d0c50cdbd55887c6999dcaa7a7720e710801d8"
+}

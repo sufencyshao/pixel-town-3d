@@ -1,0 +1,13 @@
+{
+  "models": 8,
+  "browserChecks": [
+    25,
+    25
+  ],
+  "sourceFilesMatchDownloads": true,
+  "geometryAndAnimationDefinitionsPreserved": true,
+  "zipCRC": true,
+  "zipFiles": 188,
+  "zipBytes": 16086217,
+  "zipSha256": "dbe84949c317f26a24258a2c9781efb52fcf700c3be8ef36f43d942c7fb5ac55"
+}

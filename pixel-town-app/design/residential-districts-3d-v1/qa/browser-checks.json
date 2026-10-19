@@ -1,0 +1,80 @@
+{
+  "zones": [
+    {
+      "zone": "A",
+      "caption": "A 区整体 / 完整外观",
+      "rootA": true,
+      "rootC": false,
+      "context": false
+    },
+    {
+      "zone": "C",
+      "caption": "C 区整体 / 完整外观",
+      "rootA": false,
+      "rootC": true,
+      "context": false
+    },
+    {
+      "zone": "all",
+      "caption": "A / B / C 总图关系 / 完整外观",
+      "rootA": true,
+      "rootC": true,
+      "context": true
+    }
+  ],
+  "buildings": [
+    {
+      "id": "A01",
+      "floorsChecked": 2
+    },
+    {
+      "id": "A02",
+      "floorsChecked": 2
+    },
+    {
+      "id": "A03",
+      "floorsChecked": 2
+    },
+    {
+      "id": "A04",
+      "floorsChecked": 2
+    },
+    {
+      "id": "A05",
+      "floorsChecked": 2
+    },
+    {
+      "id": "A06",
+      "floorsChecked": 2
+    },
+    {
+      "id": "A07",
+      "floorsChecked": 2
+    },
+    {
+      "id": "C01",
+      "floorsChecked": 3
+    },
+    {
+      "id": "C02",
+      "floorsChecked": 4
+    },
+    {
+      "id": "C03",
+      "floorsChecked": 4
+    },
+    {
+      "id": "C04",
+      "floorsChecked": 4
+    },
+    {
+      "id": "C05",
+      "floorsChecked": 5
+    }
+  ],
+  "errors": [],
+  "glbDownload": "AC-residential-districts.glb",
+  "capture": "A07-exterior.png",
+  "mobileNoOverflow": true,
+  "fileOfflineLoaded": true
+}

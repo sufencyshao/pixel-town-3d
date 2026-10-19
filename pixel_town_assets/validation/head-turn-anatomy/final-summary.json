@@ -1,0 +1,31 @@
+{
+  "revision": "20261003-refusal-anatomy-v7",
+  "existingChangedFiles": 1339,
+  "groups": {
+    "manifests": 120,
+    "atlasesGifsOverviews": 120,
+    "individualFrames": 820,
+    "registeredHeads": 247,
+    "existingMasks": 32
+  },
+  "newBodyRepairMasks": 40,
+  "productionVisualReviewRoles": 40,
+  "uniquePosesReviewed": 280,
+  "originalExactNeutralRoles": 36,
+  "tests": {
+    "shakeHeadErrors": 0,
+    "dailyErrors": 0,
+    "fullErrors": 0,
+    "fullWarnings": 137
+  },
+  "userApproval": "pending for v7 and Wendou corrective revision",
+  "latestRoleCorrection": {
+    "role": "36_barista_female",
+    "revision": "20261003-wendou-joint-v1",
+    "changedAssetAndMetadataFiles": 36,
+    "technicalFramesChecked": 25,
+    "freshUniquePosesReviewed": 7,
+    "unchangedPriorPosesCarried": 273,
+    "report": "../wendou-joint/completion.md"
+  }
+}

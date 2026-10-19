@@ -1,0 +1,26 @@
+{
+  "commit": "29a6bdfd01ad175c389cbd0bac80c30f926ff96b",
+  "author": "Quaternius",
+  "official": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+  "license": "CC0 1.0",
+  "files": [
+    {
+      "source": "https://raw.githubusercontent.com/euuuuuuan/fatal-funnel-public/29a6bdfd01ad175c389cbd0bac80c30f926ff96b/packages/renderer/assets/models/quaternius-men/casual-character.glb",
+      "file": "Quaternius-Casual.glb",
+      "sha256": "fea7e71271203e7073f1a073fa1208de7402df276f87f80e149bf7589b5d46b4",
+      "bytes": 1430660
+    },
+    {
+      "source": "https://raw.githubusercontent.com/euuuuuuan/fatal-funnel-public/29a6bdfd01ad175c389cbd0bac80c30f926ff96b/packages/renderer/assets/models/quaternius-men/worker.glb",
+      "file": "Quaternius-Worker.glb",
+      "sha256": "9c28614f465b7dc105f908c20c22fc045f4b07caf8c5ef0e9f8049eceb6dd38d",
+      "bytes": 1344928
+    },
+    {
+      "source": "https://raw.githubusercontent.com/euuuuuuan/fatal-funnel-public/29a6bdfd01ad175c389cbd0bac80c30f926ff96b/LICENSES/CC0-1.0.txt",
+      "file": "License_Modular_Men_CC0.txt",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    }
+  ]
+}

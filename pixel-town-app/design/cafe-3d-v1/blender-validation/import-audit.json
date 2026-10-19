@@ -1,0 +1,87 @@
+{
+  "blender": "5.2.2 LTS",
+  "source_sha256": "b0ecf37fd7a4b36d290b79dfdb0c98f24cb62cf33bd3ddfd98237678c8919d71",
+  "import_result": [
+    "FINISHED"
+  ],
+  "objects": 823,
+  "meshes": 790,
+  "triangles": 27670,
+  "materials": 30,
+  "images": [
+    {
+      "name": "Image_0",
+      "width": 1024,
+      "height": 148,
+      "has_data": true,
+      "packed": true
+    },
+    {
+      "name": "Image_1",
+      "width": 1024,
+      "height": 106,
+      "has_data": true,
+      "packed": true
+    },
+    {
+      "name": "Image_2",
+      "width": 1024,
+      "height": 88,
+      "has_data": true,
+      "packed": true
+    },
+    {
+      "name": "Image_3",
+      "width": 1024,
+      "height": 195,
+      "has_data": true,
+      "packed": true
+    },
+    {
+      "name": "Image_4",
+      "width": 1024,
+      "height": 461,
+      "has_data": true,
+      "packed": true
+    },
+    {
+      "name": "Image_5",
+      "width": 1024,
+      "height": 162,
+      "has_data": true,
+      "packed": true
+    },
+    {
+      "name": "Image_6",
+      "width": 1024,
+      "height": 580,
+      "has_data": true,
+      "packed": true
+    },
+    {
+      "name": "Image_7",
+      "width": 1024,
+      "height": 354,
+      "has_data": true,
+      "packed": true
+    }
+  ],
+  "nonfinite_vertices": [],
+  "degenerate_triangles": 0,
+  "meshes_without_material": [],
+  "bounds_xyz_metres": [
+    22.700000762939453,
+    12.039794921875,
+    6.252416878938675
+  ],
+  "bounds_min": [
+    -11.350000381469727,
+    -6.980000019073486,
+    -0.2800000011920929
+  ],
+  "bounds_max": [
+    11.350000381469727,
+    5.059794902801514,
+    5.972416877746582
+  ]
+}

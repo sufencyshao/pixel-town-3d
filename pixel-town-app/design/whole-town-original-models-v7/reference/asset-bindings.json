@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-18",
+  "approvedStyle": "Quaternius原版犬马自然比例，用户回复可以",
+  "bindings": {
+    "06_dog_corgi": "animal-shiba",
+    "07_dog_shiba": "animal-shiba",
+    "08_dog_border": "animal-husky",
+    "09_dog_golden": "animal-husky",
+    "10_dog_dachshund": "animal-shiba",
+    "11_dog_poodle": "animal-husky",
+    "20_pony_shetland": "animal-horse"
+  },
+  "caretaker": "male-casual",
+  "identityPolicy": "原身份档案不改；无对应原品种的动物先列为待匹配，未渲染旧自建模型。",
+  "pendingBreedPreference": false,
+  "fitHeights": {
+    "06_dog_corgi": 0.6,
+    "07_dog_shiba": 0.63,
+    "08_dog_border": 0.78,
+    "09_dog_golden": 0.82,
+    "10_dog_dachshund": 0.58,
+    "11_dog_poodle": 0.72,
+    "20_pony_shetland": 1.49542
+  },
+  "breedPolicy": "用户明确允许更换犬种，直接采用合适的作者原版；名字和历史档案保留。"
+}

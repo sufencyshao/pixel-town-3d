@@ -1,0 +1,32 @@
+{
+  "name": "pixel-town-life",
+  "productName": "像素小镇",
+  "version": "0.9.0",
+  "description": "独立的 AI 小镇生活白板实验室",
+  "main": "main/main.js",
+  "scripts": {
+    "start": "node scripts/start.js",
+    "test": "node --test scripts/*.test.js",
+    "build:mac": "bash scripts/build-mac.sh",
+    "test:renderer": "node scripts/test-renderer.js",
+    "test:player": "node scripts/test-player-renderer.js",
+    "test:batch": "node scripts/test-model-assignment-renderer.js",
+    "test:api": "node scripts/test-api-behavior-renderer.js",
+    "test:time": "node scripts/test-environment-renderer.js",
+    "test:life": "node scripts/test-life-renderer.js",
+    "test:mood": "node scripts/test-recovery-mood-renderer.js",
+    "test:side": "node scripts/test-side-lying-renderer.js",
+    "start:3d": "node scripts/start-3d.js",
+    "build:3d": "node scripts/build-town-3d.js",
+    "test:3d": "node scripts/test-town-3d.js",
+    "package:3d": "node scripts/package-desktop-3d.js"
+  },
+  "dependencies": {
+    "undici": "6.21.1"
+  },
+  "devDependencies": {
+    "electron": "33.4.11",
+    "three": "0.180.0",
+    "esbuild": "0.25.9"
+  }
+}

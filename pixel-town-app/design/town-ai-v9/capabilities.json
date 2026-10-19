@@ -1,0 +1,6037 @@
+{
+  "version": 1,
+  "actors": [
+    {
+      "id": "01_hero_male",
+      "name": "阿澈",
+      "type": "person",
+      "zone": "F",
+      "position": [
+        59,
+        0.044,
+        13.5
+      ],
+      "sourceModel": "male-adult-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:01_hero_male",
+          "name": "中央广场 · 职业练习",
+          "workplace": "中央广场",
+          "location": [
+            59,
+            0.044,
+            13.5
+          ],
+          "zone": "F",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "整理活动物资",
+              "seconds": 8
+            },
+            {
+              "name": "引导访客",
+              "seconds": 10
+            },
+            {
+              "name": "归还借用物品",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "02_hero_female",
+      "name": "小满",
+      "type": "person",
+      "zone": "E",
+      "position": [
+        -4.5,
+        0.09,
+        14
+      ],
+      "sourceModel": "female-adult-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:02_hero_female",
+          "name": "中央广场 · 职业练习",
+          "workplace": "中央广场",
+          "location": [
+            -4.5,
+            0.09,
+            14
+          ],
+          "zone": "E",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "登记活动报名",
+              "seconds": 8
+            },
+            {
+              "name": "布置摊位",
+              "seconds": 10
+            },
+            {
+              "name": "整理失物",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "03_barista_male",
+      "name": "林屿",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        -4.5,
+        0.09,
+        81.5
+      ],
+      "sourceModel": "male-adult-02",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:03_barista_male",
+          "name": "咖啡馆 · 职业练习",
+          "workplace": "咖啡馆",
+          "location": [
+            -4.5,
+            0.09,
+            81.5
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "校准研磨",
+              "seconds": 8
+            },
+            {
+              "name": "冲煮咖啡",
+              "seconds": 10
+            },
+            {
+              "name": "清洁器具",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "04_baker_male",
+      "name": "麦麦",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        -1.5,
+        0.09,
+        81.5
+      ],
+      "sourceModel": "male-adult-03",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:04_baker_male",
+          "name": "面包房 · 职业练习",
+          "workplace": "面包房",
+          "location": [
+            -1.5,
+            0.09,
+            81.5
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "称量面粉",
+              "seconds": 8
+            },
+            {
+              "name": "整形发酵",
+              "seconds": 10
+            },
+            {
+              "name": "烘烤并标示出炉时间",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "05_carpenter_male",
+      "name": "大森",
+      "type": "person",
+      "zone": "D",
+      "position": [
+        -90,
+        0.09,
+        14
+      ],
+      "sourceModel": "construction-male-02",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:05_carpenter_male",
+          "name": "木工坊 · 职业练习",
+          "workplace": "木工坊",
+          "location": [
+            -90,
+            0.09,
+            14
+          ],
+          "zone": "D",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "测量尺寸",
+              "seconds": 8
+            },
+            {
+              "name": "修补桌椅",
+              "seconds": 10
+            },
+            {
+              "name": "打磨与清理木屑",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "06_postman_male",
+      "name": "小路",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        -11,
+        0.09,
+        -60
+      ],
+      "sourceModel": "delivery-male-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:06_postman_male",
+          "name": "邮局 · 职业练习",
+          "workplace": "邮局",
+          "location": [
+            -11,
+            0.09,
+            -60
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "分拣信件",
+              "seconds": 8
+            },
+            {
+              "name": "按路线投递",
+              "seconds": 10
+            },
+            {
+              "name": "登记无法交付件",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 81
+    },
+    {
+      "id": "07_police_male",
+      "name": "程正",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        -0.5,
+        0.09,
+        -65.5
+      ],
+      "sourceModel": "police-male-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:07_police_male",
+          "name": "社区警务站 · 职业练习",
+          "workplace": "社区警务站",
+          "location": [
+            -0.5,
+            0.09,
+            -65.5
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "步行巡查",
+              "seconds": 8
+            },
+            {
+              "name": "处理失物登记",
+              "seconds": 10
+            },
+            {
+              "name": "讲解防骗常识",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "08_doctor_male",
+      "name": "许衡",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        1.5,
+        0.09,
+        -65.5
+      ],
+      "sourceModel": "medical-male-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:08_doctor_male",
+          "name": "诊所 · 职业练习",
+          "workplace": "诊所",
+          "location": [
+            1.5,
+            0.09,
+            -65.5
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "整理门诊物资",
+              "seconds": 8
+            },
+            {
+              "name": "接待预约",
+              "seconds": 10
+            },
+            {
+              "name": "记录随访安排",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "09_gardener_male",
+      "name": "阿禾",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        4,
+        0.09,
+        81.5
+      ],
+      "sourceModel": "gardener-male-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:09_gardener_male",
+          "name": "河岸公园 · 职业练习",
+          "workplace": "河岸公园",
+          "location": [
+            4,
+            0.09,
+            81.5
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "修剪枯枝",
+              "seconds": 8
+            },
+            {
+              "name": "清点苗木",
+              "seconds": 10
+            },
+            {
+              "name": "清理步道落叶",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "10_musician_male",
+      "name": "迟野",
+      "type": "person",
+      "zone": "D",
+      "position": [
+        -88,
+        0.09,
+        14
+      ],
+      "sourceModel": "male-adult-04",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:10_musician_male",
+          "name": "中央广场 · 职业练习",
+          "workplace": "中央广场",
+          "location": [
+            -88,
+            0.09,
+            14
+          ],
+          "zone": "D",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "调音练习",
+              "seconds": 8
+            },
+            {
+              "name": "定时演奏",
+              "seconds": 10
+            },
+            {
+              "name": "收好线材",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "11_chef_male",
+      "name": "陈锅",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        6,
+        0.09,
+        81.5
+      ],
+      "sourceModel": "male-adult-05",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:11_chef_male",
+          "name": "餐馆 · 职业练习",
+          "workplace": "餐馆",
+          "location": [
+            6,
+            0.09,
+            81.5
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "检查食材",
+              "seconds": 8
+            },
+            {
+              "name": "分区备菜",
+              "seconds": 10
+            },
+            {
+              "name": "完成厨房收尾",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "12_florist_female",
+      "name": "花音",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        -11,
+        0.09,
+        88.5
+      ],
+      "sourceModel": "female-adult-02",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:12_florist_female",
+          "name": "花店 · 职业练习",
+          "workplace": "花店",
+          "location": [
+            -11,
+            0.09,
+            88.5
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "修剪花材",
+              "seconds": 8
+            },
+            {
+              "name": "换水",
+              "seconds": 10
+            },
+            {
+              "name": "包装预约花束",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "13_pastrychef_female",
+      "name": "糖糖",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        -1.5,
+        0.09,
+        95
+      ],
+      "sourceModel": "chef-female-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:13_pastrychef_female",
+          "name": "糕点店 · 职业练习",
+          "workplace": "糕点店",
+          "location": [
+            -1.5,
+            0.09,
+            95
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "称料搅拌",
+              "seconds": 8
+            },
+            {
+              "name": "烘烤冷却",
+              "seconds": 10
+            },
+            {
+              "name": "装饰与标价",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "14_teacher_female",
+      "name": "温书",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        4.5,
+        0.09,
+        -67.5
+      ],
+      "sourceModel": "business-female-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:14_teacher_female",
+          "name": "学校 · 职业练习",
+          "workplace": "学校",
+          "location": [
+            4.5,
+            0.09,
+            -67.5
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "备课",
+              "seconds": 8
+            },
+            {
+              "name": "组织课堂",
+              "seconds": 10
+            },
+            {
+              "name": "归还教学器材",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "15_nurse_female",
+      "name": "苏晴",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        -11,
+        0.09,
+        -58
+      ],
+      "sourceModel": "medical-female-02",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:15_nurse_female",
+          "name": "诊所 · 职业练习",
+          "workplace": "诊所",
+          "location": [
+            -11,
+            0.09,
+            -58
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对预约",
+              "seconds": 8
+            },
+            {
+              "name": "整理护理物资",
+              "seconds": 10
+            },
+            {
+              "name": "维护清洁记录",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "16_librarian_female",
+      "name": "知秋",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        0.5,
+        0.09,
+        -67
+      ],
+      "sourceModel": "business-female-02",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:16_librarian_female",
+          "name": "图书馆 · 职业练习",
+          "workplace": "图书馆",
+          "location": [
+            0.5,
+            0.09,
+            -67
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "登记借还",
+              "seconds": 8
+            },
+            {
+              "name": "归架",
+              "seconds": 10
+            },
+            {
+              "name": "修补简单破损",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "17_cafeowner_female",
+      "name": "沈知",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        1.5,
+        0.09,
+        95
+      ],
+      "sourceModel": "female-adult-03",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:17_cafeowner_female",
+          "name": "咖啡馆 · 职业练习",
+          "workplace": "咖啡馆",
+          "location": [
+            1.5,
+            0.09,
+            95
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "检查库存",
+              "seconds": 8
+            },
+            {
+              "name": "协调排班",
+              "seconds": 10
+            },
+            {
+              "name": "接待场地预约",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "18_artist_female",
+      "name": "鹿眠",
+      "type": "person",
+      "zone": "D",
+      "position": [
+        -88,
+        0.09,
+        12
+      ],
+      "sourceModel": "female-adult-04",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:18_artist_female",
+          "name": "河岸公园 · 职业练习",
+          "workplace": "河岸公园",
+          "location": [
+            -88,
+            0.09,
+            12
+          ],
+          "zone": "D",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "寻找光线",
+              "seconds": 8
+            },
+            {
+              "name": "画速写",
+              "seconds": 10
+            },
+            {
+              "name": "整理画具",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "19_vet_female",
+      "name": "安安",
+      "type": "person",
+      "zone": "F",
+      "position": [
+        49,
+        0.09,
+        -15
+      ],
+      "sourceModel": "medical-female-03",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:19_vet_female",
+          "name": "动物诊所 · 职业练习",
+          "workplace": "动物诊所",
+          "location": [
+            49,
+            0.09,
+            -15
+          ],
+          "zone": "F",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "整理用具",
+              "seconds": 8
+            },
+            {
+              "name": "核对预约",
+              "seconds": 10
+            },
+            {
+              "name": "清洁候诊区域",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "20_student_female",
+      "name": "夏芽",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        2.5,
+        0.09,
+        -67.5
+      ],
+      "sourceModel": "female-adult-05",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:20_student_female",
+          "name": "中央广场 · 职业练习",
+          "workplace": "中央广场",
+          "location": [
+            2.5,
+            0.09,
+            -67.5
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "帮助登记",
+              "seconds": 8
+            },
+            {
+              "name": "整理活动照片",
+              "seconds": 10
+            },
+            {
+              "name": "清点物资",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "21_firefighter_male",
+      "name": "陆焰",
+      "type": "person",
+      "zone": "I",
+      "position": [
+        70.5,
+        0.13,
+        80.5
+      ],
+      "sourceModel": "fire-male-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:21_firefighter_male",
+          "name": "消防员 · 职业练习",
+          "workplace": "消防员",
+          "location": [
+            70.5,
+            0.13,
+            80.5
+          ],
+          "zone": "I",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对值勤清单",
+              "seconds": 8
+            },
+            {
+              "name": "演练报警信息复述与现场分工",
+              "seconds": 10
+            },
+            {
+              "name": "记录训练结果与交接事项",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "22_grocer_male",
+      "name": "周籽",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        4.5,
+        0.09,
+        95
+      ],
+      "sourceModel": "male-adult-06",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:22_grocer_male",
+          "name": "杂货店员 · 职业练习",
+          "workplace": "杂货店员",
+          "location": [
+            4.5,
+            0.09,
+            95
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对补货清单",
+              "seconds": 8
+            },
+            {
+              "name": "练习商品分类和顾客需求问询",
+              "seconds": 10
+            },
+            {
+              "name": "记录货架整理计划",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "23_farmer_male",
+      "name": "田伯",
+      "type": "person",
+      "zone": "G",
+      "position": [
+        -91.5,
+        0.1,
+        86.5
+      ],
+      "sourceModel": "wood-male-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:23_farmer_male",
+          "name": "农夫 · 职业练习",
+          "workplace": "农夫",
+          "location": [
+            -91.5,
+            0.1,
+            86.5
+          ],
+          "zone": "G",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "查看田间巡查安排",
+              "seconds": 8
+            },
+            {
+              "name": "观察作物与讨论养护方法",
+              "seconds": 10
+            },
+            {
+              "name": "记录下一轮田间计划",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "24_driver_male",
+      "name": "韩途",
+      "type": "person",
+      "zone": "I",
+      "position": [
+        70.5,
+        0.13,
+        78.5
+      ],
+      "sourceModel": "male-adult-07",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:24_driver_male",
+          "name": "公交司机 · 职业练习",
+          "workplace": "公交司机",
+          "location": [
+            70.5,
+            0.13,
+            78.5
+          ],
+          "zone": "I",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "复述出车检查项目",
+              "seconds": 8
+            },
+            {
+              "name": "练习站点播报与安全提醒",
+              "seconds": 10
+            },
+            {
+              "name": "记录交接事项",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "25_hairdresser_male",
+      "name": "银梳",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        -4.5,
+        0.09,
+        95
+      ],
+      "sourceModel": "male-adult-08",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:25_hairdresser_male",
+          "name": "理发师 · 职业练习",
+          "workplace": "理发师",
+          "location": [
+            -4.5,
+            0.09,
+            95
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "询问发型偏好",
+              "seconds": 8
+            },
+            {
+              "name": "练习服务沟通与操作顺序",
+              "seconds": 10
+            },
+            {
+              "name": "复述清洁整理流程",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "26_baker_male",
+      "name": "陶麦",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        -3,
+        0.09,
+        96
+      ],
+      "sourceModel": "male-adult-09",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:26_baker_male",
+          "name": "面包师 · 职业练习",
+          "workplace": "面包师",
+          "location": [
+            -3,
+            0.09,
+            96
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "检查配方和准备清单",
+              "seconds": 8
+            },
+            {
+              "name": "练习配比与烘焙顺序",
+              "seconds": 10
+            },
+            {
+              "name": "记录清洁和交接事项",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "27_librarian_male",
+      "name": "书衡",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        -11,
+        0.09,
+        -56
+      ],
+      "sourceModel": "business-male-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:27_librarian_male",
+          "name": "图书管理员 · 职业练习",
+          "workplace": "图书管理员",
+          "location": [
+            -11,
+            0.09,
+            -56
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对读者需求",
+              "seconds": 8
+            },
+            {
+              "name": "练习图书分类和检索引导",
+              "seconds": 10
+            },
+            {
+              "name": "记录整理计划",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "28_mechanic_male",
+      "name": "罗栓",
+      "type": "person",
+      "zone": "D",
+      "position": [
+        -88,
+        0.09,
+        16
+      ],
+      "sourceModel": "construction-male-03",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:28_mechanic_male",
+          "name": "维修师 · 职业练习",
+          "workplace": "维修师",
+          "location": [
+            -88,
+            0.09,
+            16
+          ],
+          "zone": "D",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "询问故障现象",
+              "seconds": 8
+            },
+            {
+              "name": "练习排查步骤与安全检查",
+              "seconds": 10
+            },
+            {
+              "name": "记录维修建议与待办",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "29_innkeeper_male",
+      "name": "顾栈",
+      "type": "person",
+      "zone": "I",
+      "position": [
+        83,
+        0.13,
+        76
+      ],
+      "sourceModel": "business-male-02",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:29_innkeeper_male",
+          "name": "旅店管家 · 职业练习",
+          "workplace": "旅店管家",
+          "location": [
+            83,
+            0.13,
+            76
+          ],
+          "zone": "I",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对接待准备事项",
+              "seconds": 8
+            },
+            {
+              "name": "练习入住说明和访客问询",
+              "seconds": 10
+            },
+            {
+              "name": "记录房务交接事项",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "30_florist_male",
+      "name": "林苔",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        6.5,
+        0.09,
+        95
+      ],
+      "sourceModel": "male-adult-10",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:30_florist_male",
+          "name": "花艺师 · 职业练习",
+          "workplace": "花艺师",
+          "location": [
+            6.5,
+            0.09,
+            95
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "询问花材与色彩偏好",
+              "seconds": 8
+            },
+            {
+              "name": "练习搭配方案说明",
+              "seconds": 10
+            },
+            {
+              "name": "记录养护提示",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "31_firefighter_female",
+      "name": "岑灯",
+      "type": "person",
+      "zone": "I",
+      "position": [
+        81.5,
+        0.13,
+        75
+      ],
+      "sourceModel": "fire-female-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:31_firefighter_female",
+          "name": "消防员 · 职业练习",
+          "workplace": "消防员",
+          "location": [
+            81.5,
+            0.13,
+            75
+          ],
+          "zone": "I",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对值勤清单",
+              "seconds": 8
+            },
+            {
+              "name": "演练报警信息复述与现场分工",
+              "seconds": 10
+            },
+            {
+              "name": "记录训练结果与交接事项",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "32_grocer_female",
+      "name": "陆杏",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        -6.5,
+        0.09,
+        95
+      ],
+      "sourceModel": "female-adult-17",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:32_grocer_female",
+          "name": "杂货店员 · 职业练习",
+          "workplace": "杂货店员",
+          "location": [
+            -6.5,
+            0.09,
+            95
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对补货清单",
+              "seconds": 8
+            },
+            {
+              "name": "练习商品分类和顾客需求问询",
+              "seconds": 10
+            },
+            {
+              "name": "记录货架整理计划",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "33_farmer_female",
+      "name": "禾青",
+      "type": "person",
+      "zone": "G",
+      "position": [
+        -89.5,
+        0.1,
+        86.5
+      ],
+      "sourceModel": "female-adult-07",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:33_farmer_female",
+          "name": "农夫 · 职业练习",
+          "workplace": "农夫",
+          "location": [
+            -89.5,
+            0.1,
+            86.5
+          ],
+          "zone": "G",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "查看田间巡查安排",
+              "seconds": 8
+            },
+            {
+              "name": "观察作物与讨论养护方法",
+              "seconds": 10
+            },
+            {
+              "name": "记录下一轮田间计划",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 81
+    },
+    {
+      "id": "34_driver_female",
+      "name": "叶驰",
+      "type": "person",
+      "zone": "I",
+      "position": [
+        69,
+        0.13,
+        79.5
+      ],
+      "sourceModel": "female-adult-08",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:34_driver_female",
+          "name": "公交司机 · 职业练习",
+          "workplace": "公交司机",
+          "location": [
+            69,
+            0.13,
+            79.5
+          ],
+          "zone": "I",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "复述出车检查项目",
+              "seconds": 8
+            },
+            {
+              "name": "练习站点播报与安全提醒",
+              "seconds": 10
+            },
+            {
+              "name": "记录交接事项",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "35_hairdresser_female",
+      "name": "卷云",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        -1.5,
+        0.09,
+        97
+      ],
+      "sourceModel": "female-adult-09",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:35_hairdresser_female",
+          "name": "理发师 · 职业练习",
+          "workplace": "理发师",
+          "location": [
+            -1.5,
+            0.09,
+            97
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "询问发型偏好",
+              "seconds": 8
+            },
+            {
+              "name": "练习服务沟通与操作顺序",
+              "seconds": 10
+            },
+            {
+              "name": "复述清洁整理流程",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "36_barista_female",
+      "name": "闻豆",
+      "type": "person",
+      "zone": "H",
+      "position": [
+        3,
+        0.09,
+        96
+      ],
+      "sourceModel": "business-female-03",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:36_barista_female",
+          "name": "咖啡师 · 职业练习",
+          "workplace": "咖啡师",
+          "location": [
+            3,
+            0.09,
+            96
+          ],
+          "zone": "H",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "询问咖啡口味",
+              "seconds": 8
+            },
+            {
+              "name": "练习冲煮顺序与风味说明",
+              "seconds": 10
+            },
+            {
+              "name": "记录器具清洁清单",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "37_carpenter_female",
+      "name": "榆棠",
+      "type": "person",
+      "zone": "D",
+      "position": [
+        -89,
+        0.09,
+        15
+      ],
+      "sourceModel": "construction-female-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:37_carpenter_female",
+          "name": "木匠 · 职业练习",
+          "workplace": "木匠",
+          "location": [
+            -89,
+            0.09,
+            15
+          ],
+          "zone": "D",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对尺寸与工具清单",
+              "seconds": 8
+            },
+            {
+              "name": "练习工序说明和安全检查",
+              "seconds": 10
+            },
+            {
+              "name": "记录后续修缮计划",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "38_postal_female",
+      "name": "章铃",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        -0.5,
+        0.09,
+        -48
+      ],
+      "sourceModel": "female-adult-11",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:38_postal_female",
+          "name": "邮差 · 职业练习",
+          "workplace": "邮差",
+          "location": [
+            -0.5,
+            0.09,
+            -48
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对配送准备清单",
+              "seconds": 8
+            },
+            {
+              "name": "练习地址确认与路线复述",
+              "seconds": 10
+            },
+            {
+              "name": "记录投递待办",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "39_police_female",
+      "name": "许巡",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        3,
+        0.09,
+        -47
+      ],
+      "sourceModel": "security-female-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:39_police_female",
+          "name": "社区警察 · 职业练习",
+          "workplace": "社区警察",
+          "location": [
+            3,
+            0.09,
+            -47
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对社区巡访事项",
+              "seconds": 8
+            },
+            {
+              "name": "练习安全提示和邻里沟通",
+              "seconds": 10
+            },
+            {
+              "name": "记录值班交接",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "40_doctor_female",
+      "name": "余笙",
+      "type": "person",
+      "zone": "B",
+      "position": [
+        5,
+        0.09,
+        -47
+      ],
+      "sourceModel": "medical-female-01",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [
+        {
+          "id": "daily:40_doctor_female",
+          "name": "医生 · 职业练习",
+          "workplace": "医生",
+          "location": [
+            5,
+            0.09,
+            -47
+          ],
+          "zone": "B",
+          "scope": "已布置的公共室外工作点；不代表进入室内或操作真实设备",
+          "steps": [
+            {
+              "name": "核对接待准备清单",
+              "seconds": 8
+            },
+            {
+              "name": "练习一般健康服务沟通",
+              "seconds": 10
+            },
+            {
+              "name": "记录交接和清洁事项",
+              "seconds": 12
+            }
+          ]
+        }
+      ],
+      "boneCount": 80
+    },
+    {
+      "id": "hai-qin-yan",
+      "name": "海琴烟",
+      "type": "person",
+      "zone": "E",
+      "position": [
+        -1.5,
+        0.09,
+        14
+      ],
+      "sourceModel": "female-adult-12",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [],
+      "boneCount": 80
+    },
+    {
+      "id": "kanna",
+      "name": "康娜",
+      "type": "person",
+      "zone": "E",
+      "position": [
+        1.5,
+        0.09,
+        14
+      ],
+      "sourceModel": "female-child-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 81
+    },
+    {
+      "id": "rui",
+      "name": "锐",
+      "type": "person",
+      "zone": "E",
+      "position": [
+        4.5,
+        0.09,
+        14
+      ],
+      "sourceModel": "female-adult-13",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [],
+      "boneCount": 80
+    },
+    {
+      "id": "xin",
+      "name": "歆",
+      "type": "person",
+      "zone": "E",
+      "position": [
+        -4.5,
+        0.09,
+        16
+      ],
+      "sourceModel": "female-adult-14",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [],
+      "boneCount": 80
+    },
+    {
+      "id": "xin-fragrance",
+      "name": "馨",
+      "type": "person",
+      "zone": "E",
+      "position": [
+        -1.5,
+        0.09,
+        16
+      ],
+      "sourceModel": "female-adult-15",
+      "license": "MIT",
+      "clips": [
+        "Idle",
+        "Look around",
+        "Talk",
+        "Thoughtful",
+        "Wave",
+        "Cheer",
+        "Clap",
+        "Dance",
+        "Walk",
+        "Run"
+      ],
+      "joints": {
+        "head": {
+          "bone": "Bip01_Head",
+          "limit": [
+            18,
+            30,
+            12
+          ]
+        },
+        "neck": {
+          "bone": "Bip01_Neck",
+          "limit": [
+            10,
+            15,
+            8
+          ]
+        },
+        "chest": {
+          "bone": "Bip01_Spine2",
+          "limit": [
+            8,
+            12,
+            8
+          ]
+        },
+        "leftUpperArm": {
+          "bone": "Bip01_L_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "rightUpperArm": {
+          "bone": "Bip01_R_UpperArm",
+          "limit": [
+            25,
+            25,
+            40
+          ]
+        },
+        "leftForearm": {
+          "bone": "Bip01_L_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "rightForearm": {
+          "bone": "Bip01_R_Forearm",
+          "limit": [
+            15,
+            15,
+            50
+          ]
+        },
+        "leftHand": {
+          "bone": "Bip01_L_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        },
+        "rightHand": {
+          "bone": "Bip01_R_Hand",
+          "limit": [
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "locomotion": {
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "jobs": [],
+      "boneCount": 80
+    },
+    {
+      "id": "01_cat_tabby",
+      "name": "麦粒",
+      "type": "animal",
+      "zone": "A",
+      "position": [
+        -88,
+        0.07,
+        -91
+      ],
+      "sourceModel": "animal:bicolor-cat",
+      "license": "CC-BY-4.0",
+      "clips": [
+        "Animation"
+      ],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 40
+    },
+    {
+      "id": "02_cat_calico",
+      "name": "三叶",
+      "type": "animal",
+      "zone": "H",
+      "position": [
+        1,
+        0.09,
+        78
+      ],
+      "sourceModel": "animal:bicolor-cat",
+      "license": "CC-BY-4.0",
+      "clips": [
+        "Animation"
+      ],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 40
+    },
+    {
+      "id": "03_cat_british_blue",
+      "name": "灰团",
+      "type": "animal",
+      "zone": "I",
+      "position": [
+        68,
+        0.13,
+        49.5
+      ],
+      "sourceModel": "animal:bicolor-cat",
+      "license": "CC-BY-4.0",
+      "clips": [
+        "Animation"
+      ],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 40
+    },
+    {
+      "id": "04_cat_siamese",
+      "name": "浅墨",
+      "type": "animal",
+      "zone": "B",
+      "position": [
+        1,
+        0.09,
+        -78
+      ],
+      "sourceModel": "animal:bicolor-cat",
+      "license": "CC-BY-4.0",
+      "clips": [
+        "Animation"
+      ],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 40
+    },
+    {
+      "id": "05_cat_maine",
+      "name": "松尾",
+      "type": "animal",
+      "zone": "A",
+      "position": [
+        -88,
+        0.07,
+        -92
+      ],
+      "sourceModel": "animal:bicolor-cat",
+      "license": "CC-BY-4.0",
+      "clips": [
+        "Animation"
+      ],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 40
+    },
+    {
+      "id": "06_dog_corgi",
+      "name": "栗饼",
+      "type": "animal",
+      "zone": "F",
+      "position": [
+        64,
+        0.044,
+        13
+      ],
+      "sourceModel": "animal:dog-beagle-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 34
+    },
+    {
+      "id": "07_dog_shiba",
+      "name": "赤丸",
+      "type": "animal",
+      "zone": "F",
+      "position": [
+        63,
+        0.044,
+        11.5
+      ],
+      "sourceModel": "animal:dog-beagle-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 34
+    },
+    {
+      "id": "08_dog_border",
+      "name": "墨点",
+      "type": "animal",
+      "zone": "G",
+      "position": [
+        -63,
+        0,
+        61
+      ],
+      "sourceModel": "animal:dog-germanshepard-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 35
+    },
+    {
+      "id": "09_dog_golden",
+      "name": "麦穗",
+      "type": "animal",
+      "zone": "F",
+      "position": [
+        65,
+        0.044,
+        11.5
+      ],
+      "sourceModel": "animal:dog-germanshepard-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 35
+    },
+    {
+      "id": "10_dog_dachshund",
+      "name": "可栗",
+      "type": "animal",
+      "zone": "H",
+      "position": [
+        -0.5,
+        0,
+        77
+      ],
+      "sourceModel": "animal:dog-beagle-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 34
+    },
+    {
+      "id": "11_dog_poodle",
+      "name": "卷卷",
+      "type": "animal",
+      "zone": "I",
+      "position": [
+        67,
+        0.13,
+        48
+      ],
+      "sourceModel": "animal:dog-germanshepard-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 35
+    },
+    {
+      "id": "16_rabbit_lop",
+      "name": "绒耳",
+      "type": "animal",
+      "zone": "G",
+      "position": [
+        -84,
+        0,
+        54
+      ],
+      "sourceModel": "animal:rabbit",
+      "license": "CC0-1.0",
+      "clips": [
+        "Dying.000",
+        "Dying.001",
+        "Guarding",
+        "Jump",
+        "Running",
+        "Sitting.000",
+        "Sitting.001"
+      ],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 37
+    },
+    {
+      "id": "17_rabbit_dutch",
+      "name": "黑豆",
+      "type": "animal",
+      "zone": "G",
+      "position": [
+        -84,
+        0,
+        53
+      ],
+      "sourceModel": "animal:rabbit",
+      "license": "CC0-1.0",
+      "clips": [
+        "Dying.000",
+        "Dying.001",
+        "Guarding",
+        "Jump",
+        "Running",
+        "Sitting.000",
+        "Sitting.001"
+      ],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 37
+    },
+    {
+      "id": "20_pony_shetland",
+      "name": "小栗",
+      "type": "animal",
+      "zone": "G",
+      "position": [
+        -74,
+        0,
+        61
+      ],
+      "sourceModel": "animal:horse-brown-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 39
+    },
+    {
+      "id": "scenery-sparrow",
+      "name": "公园麻雀",
+      "type": "animal",
+      "zone": "F",
+      "position": [
+        87,
+        0,
+        -21
+      ],
+      "sourceModel": "animal:bird-sparrow-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 39
+    },
+    {
+      "id": "scenery-duck",
+      "name": "河岸绿头鸭",
+      "type": "animal",
+      "zone": "F",
+      "position": [
+        87,
+        0,
+        -22
+      ],
+      "sourceModel": "animal:bird-duck-male-01",
+      "license": "MIT",
+      "clips": [],
+      "joints": {},
+      "locomotion": {},
+      "jobs": [],
+      "boneCount": 17
+    }
+  ]
+}

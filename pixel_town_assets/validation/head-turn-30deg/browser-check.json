@@ -1,0 +1,13 @@
+{
+  "url": "http://127.0.0.1:8769/validation/head-turn-revision/preview.html",
+  "title": "人物拒绝摇头 · 30° / 快速两下",
+  "cards": 40,
+  "images": 80,
+  "loadedImagesAtObservedViewport": 18,
+  "loadedImageDimensions": [
+    256,
+    256
+  ],
+  "horizontalOverflow": false,
+  "method": "cua DOM observation and browser screenshot"
+}

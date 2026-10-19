@@ -1,0 +1,55 @@
+{
+  "views": [
+    {
+      "mode": "overview",
+      "meshCount": 3599,
+      "roof": true,
+      "vetFront": true
+    },
+    {
+      "mode": "plan",
+      "meshCount": 3599,
+      "roof": false,
+      "vetFront": true
+    },
+    {
+      "mode": "vet",
+      "meshCount": 3599,
+      "roof": false,
+      "vetFront": false
+    },
+    {
+      "mode": "pets",
+      "meshCount": 3599,
+      "roof": true,
+      "vetFront": true
+    },
+    {
+      "mode": "stage",
+      "meshCount": 3599,
+      "roof": true,
+      "vetFront": true
+    },
+    {
+      "mode": "river",
+      "meshCount": 3599,
+      "roof": true,
+      "vetFront": true
+    },
+    {
+      "mode": "habitat",
+      "meshCount": 3599,
+      "roof": true,
+      "vetFront": true
+    }
+  ],
+  "errors": [],
+  "glbDownload": "F-river-park.glb",
+  "capture": "F-overview.png",
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "canvasWidth": 390
+  },
+  "fileOfflineLoaded": true
+}

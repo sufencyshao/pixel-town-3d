@@ -1,0 +1,61 @@
+{
+  "id": "08_dog_border",
+  "sprite": "08_dog_border",
+  "assetFolder": "pets/08_dog_border",
+  "kind": "animal",
+  "name": "墨点",
+  "sex": "未指定",
+  "role": "狗",
+  "animal": {
+    "species": "狗",
+    "breed": "边境牧羊犬",
+    "coat": "黑白长毛",
+    "bodySize": "中大",
+    "scale": 0.7,
+    "rig": "dog",
+    "senses": "近地面视点，以可接近的气味线索和声响触发观察、嗅闻；熟悉与陌生气味分开。",
+    "behavior": "观察、嗅闻、四足跑动、趴卧",
+    "allowedActions": [
+      "idle",
+      "walk",
+      "run",
+      "eat",
+      "drink",
+      "groom",
+      "rest",
+      "observe",
+      "sniff",
+      "flee",
+      "wag",
+      "stretch"
+    ],
+    "habitat": "农田边缘",
+    "locomotion": "四足运动；禁止双足直立",
+    "speedFactor": 0.8,
+    "nonAnthropomorphic": true
+  },
+  "persona": {
+    "personality": "活跃，对移动物体关注",
+    "background": "在农田边缘生活的边境牧羊犬个体",
+    "interests": "观察、嗅闻、四足跑动、趴卧",
+    "speech": "仅自然叫声与姿态；不使用人类语言"
+  },
+  "presets": [
+    {
+      "id": "familiar",
+      "label": "熟悉环境",
+      "personality": "活跃，对移动物体关注",
+      "background": "已熟悉农田边缘的气味与安全位置",
+      "interests": "可接近食物、同类线索与安全藏身处",
+      "speech": "仅物种自然声音与身体姿态"
+    },
+    {
+      "id": "cautious",
+      "label": "刚到新环境",
+      "personality": "警觉，接近刺激前先观察，允许躲藏与退让",
+      "background": "刚进入农田边缘，逐渐建立安全感",
+      "interests": "熟悉照护者气味与退路",
+      "speech": "仅物种自然声音与身体姿态"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "阿澈",
+  "source": "C方向首版V1.1副本",
+  "actions": [
+    "Crouch",
+    "CrouchWalk",
+    "Dance",
+    "Feed",
+    "Idle",
+    "JumpLand",
+    "JumpLoop",
+    "JumpStart",
+    "Nod",
+    "Pet",
+    "PickUp",
+    "Run",
+    "ShakeHead",
+    "Sit",
+    "SitDown",
+    "StandUp",
+    "Swim",
+    "Talk",
+    "ThrowBall",
+    "Walk",
+    "Wave",
+    "Work"
+  ],
+  "notes": "Pet/Feed复用跪姿作业循环并在运行中对准动物，ThrowBall为本轮制作；动作接触由互动系统校正。"
+}

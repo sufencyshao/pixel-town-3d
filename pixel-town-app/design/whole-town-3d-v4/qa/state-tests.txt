@@ -1,0 +1,22 @@
+✔ midnight rolls to the next day without losing simulated time (0.70875ms)
+✔ pausing stops the clock but allows weather transitions (0.059917ms)
+✔ all speeds are frame-rate independent (0.56425ms)
+✔ night lights fade on and off around sunset and sunrise (0.098833ms)
+✔ rain levels are ordered and dry weather clears rain while ground dries gradually (0.086042ms)
+✔ automatic weather advances once per three simulated hours; manual selection takes over (0.042625ms)
+✔ invalid input cannot poison state (0.08925ms)
+✔ fresh light medium and heavy snow accumulate toward distinct depths (0.055625ms)
+✔ lighter snow preserves previous heavy snow and sunshine melts gradually (0.061208ms)
+✔ river rise scales with rainfall and typhoon remains below bank level (0.0815ms)
+✔ river recedes gradually after rain and clock jumps do not alter surface water (0.04225ms)
+✔ surface reset and settled preview keep weather and clock intact (0.0465ms)
+✔ surface accumulation is independent of rendering frame rate (0.942584ms)
+✔ extreme wind and tornado have distinct combinations and clear on switch (0.034708ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 35.443125

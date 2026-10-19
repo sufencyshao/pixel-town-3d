@@ -1,0 +1,2719 @@
+{
+  "schemaVersion": 1,
+  "purpose": "45位居民原2D身份视觉审计及C方向自然比例3D建模输入",
+  "created": "2026-10-18",
+  "scope": {
+    "regularHumans": 40,
+    "companions": 5,
+    "total": 45,
+    "sourceChanged": false
+  },
+  "designParameterUnits": {
+    "height": "metres, sole to crown, excluding hats/horns/hair volume",
+    "shoulder": "metres, full shoulder breadth",
+    "waist": "metres, full transverse waist breadth",
+    "hip": "metres, full transverse hip breadth",
+    "legRatio": "crotch-to-floor / height",
+    "headScale": "head size multiplier relative to the C natural adult base",
+    "faceWidth": "face transverse width multiplier relative to C natural adult face"
+  },
+  "sourcePolicy": "原frame_01及补充背面帧视觉核对，原2D、API和存档不修改；职业只读roster中的role。",
+  "decisions": [
+    "数值身高、身材与比例均为新增设计，逐人不同；未从旧像素身高推导真实厘米数。",
+    "阿澈原帧白T与已选C V1.1黑T有差异，本批按主任务决定沿用selected-C-approved黑T，并显式记录覆盖。",
+    "33禾青前后辫子简化不一致，3D取正面双辫保持身份；其余发型优先结合背面帧核对。",
+    "所有图片联系表仅用于审阅，透明原图只读；图中缩放为最近邻。",
+    "本JSON是建模输入和身份审计，不能单独代表45个3D模型已完成或已获用户视觉签收。"
+  ],
+  "characters": [
+    {
+      "id": "01_hero_male",
+      "name": "阿澈",
+      "kind": "human",
+      "role": "社区服务志愿者",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/01_hero_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/01_hero_male/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#252420",
+        "skinColor": "#F5CEA6",
+        "eyeColor": "#6B4429",
+        "topType": "tshirt",
+        "topColor": "#20242B",
+        "bottomType": "jeans",
+        "bottomColor": "#38648C",
+        "shoeType": "sneakers",
+        "shoeColor": "#EDE9DF",
+        "accessories": [],
+        "distinctive": [
+          "黑色蓬松短发",
+          "棕色眼睛",
+          "本批沿用已选C V1.1黑T外观",
+          "蓝色翻边牛仔裤",
+          "浅白运动鞋"
+        ],
+        "sourceTopColor": "#F4F2EB",
+        "sourceTopType": "tshirt"
+      },
+      "design": {
+        "height": 1.76,
+        "build": "lean-athletic",
+        "shoulder": 0.455,
+        "waist": 0.315,
+        "hip": 0.35,
+        "legRatio": 0.49,
+        "headScale": 1.0,
+        "faceWidth": 1.0,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "黑色蓬松短发",
+        "棕色眼睛",
+        "原图白色短袖T恤",
+        "蓝色翻边牛仔裤",
+        "浅白运动鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。",
+        "黑色T恤是selected-C-approved外观覆盖；原2D frame_01为白色T恤。"
+      ],
+      "designOverrides": {
+        "basis": "selected-C-approved",
+        "topColor": "#20242B",
+        "topType": "tshirt",
+        "reason": "按主任务指令沿用用户已选并看过的C V1.1黑T、蓝裤、浅鞋；原始2D白T事实单独保留。"
+      }
+    },
+    {
+      "id": "02_hero_female",
+      "name": "小满",
+      "kind": "human",
+      "role": "社区活动协理",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/02_hero_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/02_hero_female/frame_01.png",
+      "features": {
+        "hairStyle": "bob",
+        "hairColor": "#302825",
+        "skinColor": "#F7D8B6",
+        "eyeColor": "#543B2A",
+        "topType": "dress",
+        "topColor": "#F5EBD8",
+        "bottomType": "dress",
+        "bottomColor": "#F5EBD8",
+        "shoeType": "maryjane",
+        "shoeColor": "#262321",
+        "accessories": [],
+        "distinctive": [
+          "齐下巴深棕短发",
+          "奶油白短袖分层裙",
+          "黑色花朵印花",
+          "白袜黑色搭带鞋"
+        ],
+        "pattern": "black-flower",
+        "patternColor": "#242421"
+      },
+      "design": {
+        "height": 1.62,
+        "build": "balanced",
+        "shoulder": 0.365,
+        "waist": 0.278,
+        "hip": 0.377,
+        "legRatio": 0.48,
+        "headScale": 1.02,
+        "faceWidth": 0.97,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "齐下巴深棕短发",
+        "奶油白短袖分层裙",
+        "黑色花朵印花",
+        "白袜黑色搭带鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "03_barista_male",
+      "name": "林屿",
+      "kind": "human",
+      "role": "咖啡师",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/03_barista_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/03_barista_male/frame_01.png",
+      "features": {
+        "hairStyle": "sidepart",
+        "hairColor": "#3D2C21",
+        "skinColor": "#F7D5AF",
+        "eyeColor": "#503527",
+        "topType": "apron",
+        "topColor": "#171A18",
+        "bottomType": "trousers",
+        "bottomColor": "#242829",
+        "shoeType": "workshoes",
+        "shoeColor": "#25251F",
+        "accessories": [],
+        "distinctive": [
+          "蓬松侧分棕发",
+          "白色衬衫卷袖",
+          "纯黑长围裙",
+          "深灰长裤",
+          "闭眼笑是原帧表情"
+        ],
+        "underlayerType": "shirt",
+        "underlayerColor": "#ECEDE7",
+        "sleeveLength": "rolled-elbow"
+      },
+      "design": {
+        "height": 1.79,
+        "build": "slender",
+        "shoulder": 0.425,
+        "waist": 0.3,
+        "hip": 0.345,
+        "legRatio": 0.505,
+        "headScale": 0.98,
+        "faceWidth": 0.96,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "蓬松侧分棕发",
+        "白色衬衫卷袖",
+        "纯黑长围裙",
+        "深灰长裤",
+        "闭眼笑是原帧表情"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "04_baker_male",
+      "name": "麦麦",
+      "kind": "human",
+      "role": "面包师",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/04_baker_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/04_baker_male/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#2E2721",
+        "skinColor": "#FCEBD4",
+        "eyeColor": "#4F382C",
+        "topType": "chefcoat",
+        "topColor": "#F4F2EA",
+        "bottomType": "trousers",
+        "bottomColor": "#253044",
+        "shoeType": "workshoes",
+        "shoeColor": "#292724",
+        "accessories": [
+          "bakerhat",
+          "buttons"
+        ],
+        "distinctive": [
+          "宽白色软面包帽",
+          "黑色短发",
+          "白色双排扣厨衣",
+          "深蓝灰裤",
+          "黑色工作鞋"
+        ],
+        "hatColor": "#F2F0E7"
+      },
+      "design": {
+        "height": 1.67,
+        "build": "compact-stocky",
+        "shoulder": 0.455,
+        "waist": 0.36,
+        "hip": 0.4,
+        "legRatio": 0.465,
+        "headScale": 1.05,
+        "faceWidth": 1.08,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "宽白色软面包帽",
+        "黑色短发",
+        "白色双排扣厨衣",
+        "深蓝灰裤",
+        "黑色工作鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "05_carpenter_male",
+      "name": "大森",
+      "kind": "human",
+      "role": "木匠",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/05_carpenter_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/05_carpenter_male/frame_01.png",
+      "features": {
+        "hairStyle": "spiky",
+        "hairColor": "#35251A",
+        "skinColor": "#F4BB86",
+        "eyeColor": "#513624",
+        "topType": "shirt",
+        "topColor": "#A7282C",
+        "bottomType": "jeans",
+        "bottomColor": "#334B65",
+        "shoeType": "workboots",
+        "shoeColor": "#705039",
+        "accessories": [
+          "toolbelt",
+          "tools",
+          "belt"
+        ],
+        "distinctive": [
+          "短棕发向上梳",
+          "浓直眉与方下颌",
+          "红黑格纹衬衫",
+          "蓝牛仔裤",
+          "腰带与工具袋",
+          "棕工作靴"
+        ],
+        "pattern": "plaid",
+        "patternColor": "#342023",
+        "sleeveLength": "rolled-elbow"
+      },
+      "design": {
+        "height": 1.88,
+        "build": "broad-muscular",
+        "shoulder": 0.565,
+        "waist": 0.43,
+        "hip": 0.43,
+        "legRatio": 0.48,
+        "headScale": 1.0,
+        "faceWidth": 1.15,
+        "ageStyle": "mature-adult"
+      },
+      "observed": [
+        "短棕发向上梳",
+        "浓直眉与方下颌",
+        "红黑格纹衬衫",
+        "蓝牛仔裤",
+        "腰带与工具袋",
+        "棕工作靴"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "06_postman_male",
+      "name": "小路",
+      "kind": "human",
+      "role": "邮递员",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/06_postman_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/06_postman_male/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#29221D",
+        "skinColor": "#F9D9B0",
+        "eyeColor": "#583A24",
+        "topType": "uniform",
+        "topColor": "#0D5F2E",
+        "bottomType": "uniform",
+        "bottomColor": "#176D37",
+        "shoeType": "workshoes",
+        "shoeColor": "#29281F",
+        "accessories": [
+          "cap_postal",
+          "badge",
+          "tie",
+          "pouch",
+          "belt"
+        ],
+        "distinctive": [
+          "绿色有檐制服帽和金徽",
+          "绿制服与金色滚边",
+          "白衬衫领黑领带",
+          "棕色斜挎邮包",
+          "黑鞋"
+        ],
+        "hatColor": "#0D5F2E",
+        "accessoryColor": "#826136",
+        "trimColor": "#D9AE37"
+      },
+      "design": {
+        "height": 1.73,
+        "build": "wiry",
+        "shoulder": 0.43,
+        "waist": 0.306,
+        "hip": 0.34,
+        "legRatio": 0.5,
+        "headScale": 0.99,
+        "faceWidth": 0.96,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "绿色有檐制服帽和金徽",
+        "绿制服与金色滚边",
+        "白衬衫领黑领带",
+        "棕色斜挎邮包",
+        "黑鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "07_police_male",
+      "name": "程正",
+      "kind": "human",
+      "role": "社区警务人员",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/07_police_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/07_police_male/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#201F1C",
+        "skinColor": "#F9D7AF",
+        "eyeColor": "#4A3124",
+        "topType": "uniform",
+        "topColor": "#0B1838",
+        "bottomType": "uniform",
+        "bottomColor": "#152341",
+        "shoeType": "workshoes",
+        "shoeColor": "#22282B",
+        "accessories": [
+          "cap_police",
+          "badge",
+          "epaulettes",
+          "belt"
+        ],
+        "distinctive": [
+          "深蓝警帽金徽",
+          "深蓝长袖制服",
+          "肩章胸徽与腰带",
+          "短黑发",
+          "正直浓眉"
+        ],
+        "hatColor": "#0B1838",
+        "trimColor": "#D2AB47"
+      },
+      "design": {
+        "height": 1.84,
+        "build": "solid-athletic",
+        "shoulder": 0.5,
+        "waist": 0.37,
+        "hip": 0.39,
+        "legRatio": 0.49,
+        "headScale": 0.98,
+        "faceWidth": 1.05,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "深蓝警帽金徽",
+        "深蓝长袖制服",
+        "肩章胸徽与腰带",
+        "短黑发",
+        "正直浓眉"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "08_doctor_male",
+      "name": "许衡",
+      "kind": "human",
+      "role": "社区医生",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/08_doctor_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/08_doctor_male/frame_01.png",
+      "features": {
+        "hairStyle": "sidepart",
+        "hairColor": "#201F1D",
+        "skinColor": "#F8D6AE",
+        "eyeColor": "#4B3326",
+        "topType": "coat",
+        "topColor": "#EEEDE8",
+        "bottomType": "trousers",
+        "bottomColor": "#222933",
+        "shoeType": "dressshoes",
+        "shoeColor": "#292A28",
+        "accessories": [
+          "glasses_square",
+          "stethoscope",
+          "belt"
+        ],
+        "distinctive": [
+          "黑色侧分刘海",
+          "黑框长方眼镜",
+          "白大褂",
+          "浅蓝衬衫",
+          "深色裤",
+          "颈挂听诊器"
+        ],
+        "underlayerType": "shirt",
+        "underlayerColor": "#88B7E4",
+        "glassesShape": "rectangular"
+      },
+      "design": {
+        "height": 1.82,
+        "build": "slender",
+        "shoulder": 0.435,
+        "waist": 0.31,
+        "hip": 0.355,
+        "legRatio": 0.51,
+        "headScale": 0.98,
+        "faceWidth": 0.98,
+        "ageStyle": "mature-adult"
+      },
+      "observed": [
+        "黑色侧分刘海",
+        "黑框长方眼镜",
+        "白大褂",
+        "浅蓝衬衫",
+        "深色裤",
+        "颈挂听诊器"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "09_gardener_male",
+      "name": "阿禾",
+      "kind": "human",
+      "role": "园丁",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/09_gardener_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/09_gardener_male/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#25221A",
+        "skinColor": "#A6572C",
+        "eyeColor": "#3F2418",
+        "topType": "shirt",
+        "topColor": "#516736",
+        "bottomType": "shorts",
+        "bottomColor": "#52683B",
+        "shoeType": "rubberboots",
+        "shoeColor": "#795030",
+        "accessories": [
+          "strawhat",
+          "belt"
+        ],
+        "distinctive": [
+          "宽檐草帽",
+          "深棕肤色",
+          "橄榄绿卷袖工装",
+          "绿短裤",
+          "棕色高筒园艺靴"
+        ],
+        "hatColor": "#D8B967",
+        "sleeveLength": "rolled-elbow"
+      },
+      "design": {
+        "height": 1.71,
+        "build": "sturdy",
+        "shoulder": 0.475,
+        "waist": 0.36,
+        "hip": 0.375,
+        "legRatio": 0.47,
+        "headScale": 1.04,
+        "faceWidth": 1.04,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "宽檐草帽",
+        "深棕肤色",
+        "橄榄绿卷袖工装",
+        "绿短裤",
+        "棕色高筒园艺靴"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "10_musician_male",
+      "name": "迟野",
+      "kind": "human",
+      "role": "音乐演奏者",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/10_musician_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/10_musician_male/frame_01.png",
+      "features": {
+        "hairStyle": "long",
+        "hairColor": "#2B201A",
+        "skinColor": "#EACAA6",
+        "eyeColor": "#5E432B",
+        "topType": "jacket",
+        "topColor": "#33231E",
+        "bottomType": "jeans",
+        "bottomColor": "#2F4864",
+        "shoeType": "boots",
+        "shoeColor": "#392E26",
+        "accessories": [
+          "guitar",
+          "belt"
+        ],
+        "distinctive": [
+          "深棕凌乱中长发覆盖耳侧",
+          "棕黑皮夹克",
+          "白内搭",
+          "蓝牛仔裤",
+          "肩背木色吉他"
+        ],
+        "underlayerType": "tshirt",
+        "underlayerColor": "#E9E5DC",
+        "guitarColor": "#9A5828"
+      },
+      "design": {
+        "height": 1.81,
+        "build": "long-limbed-lean",
+        "shoulder": 0.422,
+        "waist": 0.295,
+        "hip": 0.337,
+        "legRatio": 0.515,
+        "headScale": 1.0,
+        "faceWidth": 0.96,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "深棕凌乱中长发覆盖耳侧",
+        "棕黑皮夹克",
+        "白内搭",
+        "蓝牛仔裤",
+        "肩背木色吉他"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "11_chef_male",
+      "name": "陈锅",
+      "kind": "human",
+      "role": "厨师",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/11_chef_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/11_chef_male/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#29241D",
+        "skinColor": "#F8D9B3",
+        "eyeColor": "#513B29",
+        "topType": "chefcoat",
+        "topColor": "#ECEEE9",
+        "bottomType": "trousers",
+        "bottomColor": "#202125",
+        "shoeType": "workshoes",
+        "shoeColor": "#2D2D27",
+        "accessories": [
+          "chefhat",
+          "scarf_red",
+          "buttons"
+        ],
+        "distinctive": [
+          "高白色厨师帽",
+          "红色颈巾",
+          "白色双排扣厨衣",
+          "黑长裤",
+          "笑眼与微红脸颊"
+        ],
+        "hatColor": "#F1F0E7",
+        "scarfColor": "#A62A21"
+      },
+      "design": {
+        "height": 1.7,
+        "build": "compact",
+        "shoulder": 0.455,
+        "waist": 0.36,
+        "hip": 0.395,
+        "legRatio": 0.475,
+        "headScale": 1.04,
+        "faceWidth": 1.06,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "高白色厨师帽",
+        "红色颈巾",
+        "白色双排扣厨衣",
+        "黑长裤",
+        "笑眼与微红脸颊"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "12_florist_female",
+      "name": "花音",
+      "kind": "human",
+      "role": "花店店主",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/12_florist_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/12_florist_female/frame_01.png",
+      "features": {
+        "hairStyle": "singlebraid",
+        "hairColor": "#3E2F28",
+        "skinColor": "#F8DDBD",
+        "eyeColor": "#5D3D27",
+        "topType": "dress",
+        "topColor": "#F3E2C4",
+        "bottomType": "dress",
+        "bottomColor": "#F3E2C4",
+        "shoeType": "maryjane",
+        "shoeColor": "#342B23",
+        "accessories": [
+          "bouquet",
+          "bow"
+        ],
+        "distinctive": [
+          "侧面单条长棕辫",
+          "奶油色泡袖碎花裙",
+          "腰部蝴蝶结",
+          "手持白黄小花束",
+          "白袜黑搭带鞋"
+        ],
+        "pattern": "small-flowers",
+        "patternColor": "#B09B75",
+        "hairDetail": "single side braid",
+        "bowColor": "#C9C2B7"
+      },
+      "design": {
+        "height": 1.58,
+        "build": "petite-slender",
+        "shoulder": 0.348,
+        "waist": 0.26,
+        "hip": 0.361,
+        "legRatio": 0.48,
+        "headScale": 1.03,
+        "faceWidth": 0.95,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "侧面单条长棕辫",
+        "奶油色泡袖碎花裙",
+        "腰部蝴蝶结",
+        "手持白黄小花束",
+        "白袜黑搭带鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ],
+      "supplementaryReferencePaths": [
+        "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/12_florist_female/frame_10.png"
+      ]
+    },
+    {
+      "id": "13_pastrychef_female",
+      "name": "糖糖",
+      "kind": "human",
+      "role": "糕点师",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/13_pastrychef_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/13_pastrychef_female/frame_01.png",
+      "features": {
+        "hairStyle": "twin-buns",
+        "hairColor": "#2E2520",
+        "skinColor": "#F8D8BC",
+        "eyeColor": "#583D2B",
+        "topType": "uniform",
+        "topColor": "#F4A3B7",
+        "bottomType": "skirt",
+        "bottomColor": "#F4A3B7",
+        "shoeType": "maryjane",
+        "shoeColor": "#2C2726",
+        "accessories": [
+          "bakerhat_pink",
+          "buttons"
+        ],
+        "distinctive": [
+          "两侧圆发髻",
+          "粉色糕点软帽",
+          "粉色双排扣短袖制服与短裙",
+          "白袜黑鞋",
+          "笑眼"
+        ],
+        "hairDetail": "twin round buns",
+        "hatColor": "#F7B4C3"
+      },
+      "design": {
+        "height": 1.55,
+        "build": "compact-rounded",
+        "shoulder": 0.36,
+        "waist": 0.294,
+        "hip": 0.39,
+        "legRatio": 0.455,
+        "headScale": 1.06,
+        "faceWidth": 1.03,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "两侧圆发髻",
+        "粉色糕点软帽",
+        "粉色双排扣短袖制服与短裙",
+        "白袜黑鞋",
+        "笑眼"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "14_teacher_female",
+      "name": "温书",
+      "kind": "human",
+      "role": "小学教师",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/14_teacher_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/14_teacher_female/frame_01.png",
+      "features": {
+        "hairStyle": "bob",
+        "hairColor": "#322721",
+        "skinColor": "#F6D9BB",
+        "eyeColor": "#62432D",
+        "topType": "jacket",
+        "topColor": "#DBC39D",
+        "bottomType": "dress",
+        "bottomColor": "#F1EBDE",
+        "shoeType": "maryjane",
+        "shoeColor": "#302A24",
+        "accessories": [
+          "glasses_round",
+          "book"
+        ],
+        "distinctive": [
+          "棕色短直发",
+          "细框眼镜",
+          "米色开衫内搭白裙",
+          "手持蓝封面书",
+          "白袜黑搭带鞋"
+        ],
+        "underlayerType": "dress",
+        "underlayerColor": "#F1EBDE",
+        "glassesShape": "oval",
+        "bookColor": "#234A7B"
+      },
+      "design": {
+        "height": 1.65,
+        "build": "slender",
+        "shoulder": 0.36,
+        "waist": 0.27,
+        "hip": 0.37,
+        "legRatio": 0.485,
+        "headScale": 1.0,
+        "faceWidth": 0.98,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "棕色短直发",
+        "细框眼镜",
+        "米色开衫内搭白裙",
+        "手持蓝封面书",
+        "白袜黑搭带鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "15_nurse_female",
+      "name": "苏晴",
+      "kind": "human",
+      "role": "社区护士",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/15_nurse_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/15_nurse_female/frame_01.png",
+      "features": {
+        "hairStyle": "bob",
+        "hairColor": "#2B2320",
+        "skinColor": "#F7D9BD",
+        "eyeColor": "#593D2B",
+        "topType": "uniform",
+        "topColor": "#F4B3CA",
+        "bottomType": "skirt",
+        "bottomColor": "#F4B3CA",
+        "shoeType": "maryjane",
+        "shoeColor": "#2C2728",
+        "accessories": [
+          "nursehat",
+          "redcross",
+          "stethoscope"
+        ],
+        "distinctive": [
+          "深棕齐颈发",
+          "白护士帽红十字",
+          "粉色护士服与裙",
+          "听诊器",
+          "白袜黑搭带鞋"
+        ],
+        "hatColor": "#F6F1EA",
+        "crossColor": "#CD5474"
+      },
+      "design": {
+        "height": 1.6,
+        "build": "balanced",
+        "shoulder": 0.365,
+        "waist": 0.28,
+        "hip": 0.38,
+        "legRatio": 0.478,
+        "headScale": 1.02,
+        "faceWidth": 0.99,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "深棕齐颈发",
+        "白护士帽红十字",
+        "粉色护士服与裙",
+        "听诊器",
+        "白袜黑搭带鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "16_librarian_female",
+      "name": "知秋",
+      "kind": "human",
+      "role": "图书管理员",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/16_librarian_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/16_librarian_female/frame_01.png",
+      "features": {
+        "hairStyle": "bun",
+        "hairColor": "#2D2824",
+        "skinColor": "#F1D7B6",
+        "eyeColor": "#624734",
+        "topType": "cardigan",
+        "topColor": "#184C35",
+        "bottomType": "skirt",
+        "bottomColor": "#EEDDBD",
+        "shoeType": "maryjane",
+        "shoeColor": "#2E2B24",
+        "accessories": [
+          "glasses_round",
+          "book"
+        ],
+        "distinctive": [
+          "深色头发向后盘成低发髻",
+          "圆眼镜",
+          "墨绿开衫",
+          "米色及膝裙",
+          "怀抱棕色书",
+          "白袜黑鞋"
+        ],
+        "hairDetail": "low centered bun",
+        "glassesShape": "round",
+        "bookColor": "#8C6D43"
+      },
+      "design": {
+        "height": 1.64,
+        "build": "slender",
+        "shoulder": 0.35,
+        "waist": 0.27,
+        "hip": 0.365,
+        "legRatio": 0.48,
+        "headScale": 1.0,
+        "faceWidth": 0.96,
+        "ageStyle": "mature-adult"
+      },
+      "observed": [
+        "深色头发向后盘成低发髻",
+        "圆眼镜",
+        "墨绿开衫",
+        "米色及膝裙",
+        "怀抱棕色书",
+        "白袜黑鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ],
+      "supplementaryReferencePaths": [
+        "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/16_librarian_female/frame_10.png"
+      ]
+    },
+    {
+      "id": "17_cafeowner_female",
+      "name": "沈知",
+      "kind": "human",
+      "role": "咖啡馆店长",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/17_cafeowner_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/17_cafeowner_female/frame_01.png",
+      "features": {
+        "hairStyle": "ponytail",
+        "hairColor": "#4F3022",
+        "skinColor": "#F4D1AD",
+        "eyeColor": "#67462B",
+        "topType": "vest",
+        "topColor": "#194C3A",
+        "bottomType": "skirt",
+        "bottomColor": "#262827",
+        "shoeType": "workshoes",
+        "shoeColor": "#2C2924",
+        "accessories": [
+          "apron",
+          "badge"
+        ],
+        "distinctive": [
+          "低棕马尾",
+          "白卷袖衬衫与深绿马甲",
+          "棕色系腰围裙覆盖深色裙",
+          "黑色工作鞋"
+        ],
+        "hairDetail": "low ponytail",
+        "underlayerType": "shirt",
+        "underlayerColor": "#EDEBE2",
+        "apronColor": "#795135"
+      },
+      "design": {
+        "height": 1.69,
+        "build": "balanced",
+        "shoulder": 0.38,
+        "waist": 0.293,
+        "hip": 0.394,
+        "legRatio": 0.49,
+        "headScale": 0.98,
+        "faceWidth": 1.0,
+        "ageStyle": "mature-adult"
+      },
+      "observed": [
+        "低棕马尾",
+        "白卷袖衬衫与深绿马甲",
+        "棕色系腰围裙覆盖深色裙",
+        "黑色工作鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ],
+      "supplementaryReferencePaths": [
+        "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/17_cafeowner_female/frame_10.png"
+      ]
+    },
+    {
+      "id": "18_artist_female",
+      "name": "鹿眠",
+      "kind": "human",
+      "role": "画家",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/18_artist_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/18_artist_female/frame_01.png",
+      "features": {
+        "hairStyle": "bob",
+        "hairColor": "#332923",
+        "skinColor": "#F0D2AE",
+        "eyeColor": "#65492F",
+        "topType": "apron",
+        "topColor": "#EDE7D8",
+        "bottomType": "jeans",
+        "bottomColor": "#314F75",
+        "shoeType": "maryjane",
+        "shoeColor": "#2A2726",
+        "accessories": [
+          "beret",
+          "gloves",
+          "paint_marks"
+        ],
+        "distinctive": [
+          "黑色贝雷帽",
+          "棕色不齐短发",
+          "白T上方彩色颜料围裙",
+          "蓝牛仔裤",
+          "浅绿手套"
+        ],
+        "underlayerType": "tshirt",
+        "underlayerColor": "#ECEAE0",
+        "hatColor": "#242320",
+        "pattern": "paint-splashes"
+      },
+      "design": {
+        "height": 1.66,
+        "build": "lean",
+        "shoulder": 0.36,
+        "waist": 0.27,
+        "hip": 0.365,
+        "legRatio": 0.51,
+        "headScale": 0.99,
+        "faceWidth": 1.0,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "黑色贝雷帽",
+        "棕色不齐短发",
+        "白T上方彩色颜料围裙",
+        "蓝牛仔裤",
+        "浅绿手套"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "19_vet_female",
+      "name": "安安",
+      "kind": "human",
+      "role": "兽医助理",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/19_vet_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/19_vet_female/frame_01.png",
+      "features": {
+        "hairStyle": "ponytail",
+        "hairColor": "#2A2623",
+        "skinColor": "#F7DABB",
+        "eyeColor": "#553B2B",
+        "topType": "scrubs",
+        "topColor": "#9DC7EE",
+        "bottomType": "scrubs",
+        "bottomColor": "#9DC7EE",
+        "shoeType": "sneakers",
+        "shoeColor": "#F1EFE7",
+        "accessories": [
+          "stethoscope",
+          "hairtie"
+        ],
+        "distinctive": [
+          "黑色齐颈发搭高小马尾",
+          "蓝色发圈",
+          "淡蓝上下分体医护服",
+          "颈挂听诊器",
+          "白运动鞋"
+        ],
+        "hairDetail": "bob with small high ponytail",
+        "hairtieColor": "#346195"
+      },
+      "design": {
+        "height": 1.57,
+        "build": "petite",
+        "shoulder": 0.345,
+        "waist": 0.263,
+        "hip": 0.355,
+        "legRatio": 0.475,
+        "headScale": 1.05,
+        "faceWidth": 0.95,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "黑色齐颈发搭高小马尾",
+        "蓝色发圈",
+        "淡蓝上下分体医护服",
+        "颈挂听诊器",
+        "白运动鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ],
+      "supplementaryReferencePaths": [
+        "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/19_vet_female/frame_10.png"
+      ]
+    },
+    {
+      "id": "20_student_female",
+      "name": "夏芽",
+      "kind": "human",
+      "role": "大学生志愿者",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/20_student_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/20_student_female/frame_01.png",
+      "features": {
+        "hairStyle": "ponytail",
+        "hairColor": "#4B3227",
+        "skinColor": "#F3D3B0",
+        "eyeColor": "#5C3B28",
+        "topType": "hoodie",
+        "topColor": "#CDB0E0",
+        "bottomType": "skirt",
+        "bottomColor": "#28282F",
+        "shoeType": "sneakers",
+        "shoeColor": "#2A292B",
+        "accessories": [
+          "backpack",
+          "hairtie"
+        ],
+        "distinctive": [
+          "棕色短发半扎小马尾",
+          "浅紫帽衫",
+          "黑色短裙",
+          "浅棕双肩包",
+          "白袜黑鞋"
+        ],
+        "hairDetail": "half-up short ponytail",
+        "backpackColor": "#B99969"
+      },
+      "design": {
+        "height": 1.63,
+        "build": "slim",
+        "shoulder": 0.35,
+        "waist": 0.265,
+        "hip": 0.36,
+        "legRatio": 0.5,
+        "headScale": 1.01,
+        "faceWidth": 0.96,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "棕色短发半扎小马尾",
+        "浅紫帽衫",
+        "黑色短裙",
+        "浅棕双肩包",
+        "白袜黑鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ],
+      "supplementaryReferencePaths": [
+        "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/20_student_female/frame_10.png"
+      ]
+    },
+    {
+      "id": "21_firefighter_male",
+      "name": "陆焰",
+      "kind": "human",
+      "role": "消防员",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/21_firefighter_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/21_firefighter_male/frame_01.png",
+      "features": {
+        "hairStyle": "spiky",
+        "hairColor": "#B64A15",
+        "skinColor": "#EAA16B",
+        "eyeColor": "#3C281C",
+        "topType": "uniform",
+        "topColor": "#1C2F4B",
+        "bottomType": "uniform",
+        "bottomColor": "#1F3049",
+        "shoeType": "workboots",
+        "shoeColor": "#232328",
+        "accessories": [
+          "reflective_stripes",
+          "badge",
+          "belt"
+        ],
+        "distinctive": [
+          "橘棕上竖短发",
+          "深蓝消防服",
+          "胸臂腰与小腿黄色反光条",
+          "黑腰带与靴"
+        ],
+        "trimColor": "#E8BF1E"
+      },
+      "design": {
+        "height": 1.86,
+        "build": "powerful-athletic",
+        "shoulder": 0.53,
+        "waist": 0.405,
+        "hip": 0.415,
+        "legRatio": 0.495,
+        "headScale": 0.98,
+        "faceWidth": 1.09,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "橘棕上竖短发",
+        "深蓝消防服",
+        "胸臂腰与小腿黄色反光条",
+        "黑腰带与靴"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "22_grocer_male",
+      "name": "周籽",
+      "kind": "human",
+      "role": "杂货店员",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/22_grocer_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/22_grocer_male/frame_01.png",
+      "features": {
+        "hairStyle": "curly",
+        "hairColor": "#2C1B18",
+        "skinColor": "#955028",
+        "eyeColor": "#34241B",
+        "topType": "vest",
+        "topColor": "#4E735A",
+        "bottomType": "trousers",
+        "bottomColor": "#202A3D",
+        "shoeType": "workshoes",
+        "shoeColor": "#644329",
+        "accessories": [
+          "glasses_round",
+          "badge"
+        ],
+        "distinctive": [
+          "深棕肤色",
+          "短卷棕发",
+          "圆黑框眼镜",
+          "白卷袖衬衫绿马甲",
+          "深蓝裤",
+          "棕鞋"
+        ],
+        "hairDetail": "short close curls",
+        "underlayerType": "shirt",
+        "underlayerColor": "#F3F0E7",
+        "glassesShape": "round"
+      },
+      "design": {
+        "height": 1.74,
+        "build": "stocky",
+        "shoulder": 0.48,
+        "waist": 0.39,
+        "hip": 0.41,
+        "legRatio": 0.47,
+        "headScale": 1.04,
+        "faceWidth": 1.08,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "深棕肤色",
+        "短卷棕发",
+        "圆黑框眼镜",
+        "白卷袖衬衫绿马甲",
+        "深蓝裤",
+        "棕鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "23_farmer_male",
+      "name": "田伯",
+      "kind": "human",
+      "role": "农夫",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/23_farmer_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/23_farmer_male/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#D6D5D0",
+        "skinColor": "#EDAA72",
+        "eyeColor": "#463326",
+        "topType": "overalls",
+        "topColor": "#355D99",
+        "bottomType": "overalls",
+        "bottomColor": "#355D99",
+        "shoeType": "workboots",
+        "shoeColor": "#6D452B",
+        "accessories": [
+          "strawhat",
+          "moustache",
+          "buttons"
+        ],
+        "distinctive": [
+          "灰白眉鬓与白胡子",
+          "红带宽檐草帽",
+          "红格衬衫",
+          "蓝色背带裤",
+          "棕色工作鞋",
+          "鼻头较圆"
+        ],
+        "underlayerType": "shirt",
+        "underlayerColor": "#A73A31",
+        "pattern": "plaid",
+        "hatColor": "#DFA548",
+        "hatBandColor": "#A73B26",
+        "facialHairColor": "#DDDCD5"
+      },
+      "design": {
+        "height": 1.68,
+        "build": "broad-elder",
+        "shoulder": 0.46,
+        "waist": 0.41,
+        "hip": 0.415,
+        "legRatio": 0.46,
+        "headScale": 1.07,
+        "faceWidth": 1.1,
+        "ageStyle": "elder"
+      },
+      "observed": [
+        "灰白眉鬓与白胡子",
+        "红带宽檐草帽",
+        "红格衬衫",
+        "蓝色背带裤",
+        "棕色工作鞋",
+        "鼻头较圆"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "24_driver_male",
+      "name": "韩途",
+      "kind": "human",
+      "role": "公交司机",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/24_driver_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/24_driver_male/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#28231D",
+        "skinColor": "#D9945F",
+        "eyeColor": "#413124",
+        "topType": "uniform",
+        "topColor": "#759FC8",
+        "bottomType": "uniform",
+        "bottomColor": "#19253F",
+        "shoeType": "dressshoes",
+        "shoeColor": "#26272B",
+        "accessories": [
+          "cap_driver",
+          "tie",
+          "moustache",
+          "badge",
+          "belt"
+        ],
+        "distinctive": [
+          "深蓝金徽司机帽",
+          "细黑胡须",
+          "浅蓝短袖衬衫",
+          "红领带",
+          "深蓝裤",
+          "黑皮鞋"
+        ],
+        "hatColor": "#172D58",
+        "tieColor": "#8D2D2B",
+        "facialHairColor": "#332A23"
+      },
+      "design": {
+        "height": 1.78,
+        "build": "regular",
+        "shoulder": 0.465,
+        "waist": 0.365,
+        "hip": 0.385,
+        "legRatio": 0.485,
+        "headScale": 1.02,
+        "faceWidth": 1.04,
+        "ageStyle": "mature-adult"
+      },
+      "observed": [
+        "深蓝金徽司机帽",
+        "细黑胡须",
+        "浅蓝短袖衬衫",
+        "红领带",
+        "深蓝裤",
+        "黑皮鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "25_hairdresser_male",
+      "name": "银梳",
+      "kind": "human",
+      "role": "理发师",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/25_hairdresser_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/25_hairdresser_male/frame_01.png",
+      "features": {
+        "hairStyle": "swept",
+        "hairColor": "#A4A09D",
+        "skinColor": "#D9A271",
+        "eyeColor": "#4D3525",
+        "topType": "apron",
+        "topColor": "#733A7E",
+        "bottomType": "trousers",
+        "bottomColor": "#262226",
+        "shoeType": "workshoes",
+        "shoeColor": "#25242B",
+        "accessories": [
+          "earrings"
+        ],
+        "distinctive": [
+          "银灰向上后梳的蓬发",
+          "黑短袖",
+          "紫色工作围裙",
+          "深色裤鞋",
+          "单侧小耳饰"
+        ],
+        "hairDetail": "tall swept-back silver quiff",
+        "underlayerType": "tshirt",
+        "underlayerColor": "#282226"
+      },
+      "design": {
+        "height": 1.83,
+        "build": "lean",
+        "shoulder": 0.44,
+        "waist": 0.325,
+        "hip": 0.36,
+        "legRatio": 0.51,
+        "headScale": 0.99,
+        "faceWidth": 1.0,
+        "ageStyle": "mature-adult"
+      },
+      "observed": [
+        "银灰向上后梳的蓬发",
+        "黑短袖",
+        "紫色工作围裙",
+        "深色裤鞋",
+        "单侧小耳饰"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "26_baker_male",
+      "name": "陶麦",
+      "kind": "human",
+      "role": "面包师",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/26_baker_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/26_baker_male/frame_01.png",
+      "features": {
+        "hairStyle": "curly",
+        "hairColor": "#24232C",
+        "skinColor": "#BE6C32",
+        "eyeColor": "#402A1D",
+        "topType": "apron",
+        "topColor": "#F5DEB8",
+        "bottomType": "jeans",
+        "bottomColor": "#244B68",
+        "shoeType": "workshoes",
+        "shoeColor": "#26282C",
+        "accessories": [],
+        "distinctive": [
+          "乌黑短卷发",
+          "暖棕肤色",
+          "蓝色卷袖衬衫",
+          "奶油白围裙",
+          "深蓝裤",
+          "黑工作鞋"
+        ],
+        "hairDetail": "short soft curls",
+        "underlayerType": "shirt",
+        "underlayerColor": "#2C6790"
+      },
+      "design": {
+        "height": 1.72,
+        "build": "sturdy",
+        "shoulder": 0.48,
+        "waist": 0.38,
+        "hip": 0.4,
+        "legRatio": 0.48,
+        "headScale": 1.04,
+        "faceWidth": 1.08,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "乌黑短卷发",
+        "暖棕肤色",
+        "蓝色卷袖衬衫",
+        "奶油白围裙",
+        "深蓝裤",
+        "黑工作鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "27_librarian_male",
+      "name": "书衡",
+      "kind": "human",
+      "role": "图书管理员",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/27_librarian_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/27_librarian_male/frame_01.png",
+      "features": {
+        "hairStyle": "swept",
+        "hairColor": "#8C8787",
+        "skinColor": "#E9AC7B",
+        "eyeColor": "#4F372A",
+        "topType": "sweater",
+        "topColor": "#0E5555",
+        "bottomType": "trousers",
+        "bottomColor": "#493A38",
+        "shoeType": "dressshoes",
+        "shoeColor": "#67442D",
+        "accessories": [
+          "glasses_square"
+        ],
+        "distinctive": [
+          "灰色后梳短发与灰眉",
+          "方黑框眼镜",
+          "白衬衫领",
+          "蓝绿色毛衣",
+          "棕灰裤与棕鞋",
+          "年长面容"
+        ],
+        "glassesShape": "rectangular",
+        "collarColor": "#F2EBE1"
+      },
+      "design": {
+        "height": 1.75,
+        "build": "slim-elder",
+        "shoulder": 0.43,
+        "waist": 0.335,
+        "hip": 0.36,
+        "legRatio": 0.48,
+        "headScale": 1.03,
+        "faceWidth": 1.03,
+        "ageStyle": "elder"
+      },
+      "observed": [
+        "灰色后梳短发与灰眉",
+        "方黑框眼镜",
+        "白衬衫领",
+        "蓝绿色毛衣",
+        "棕灰裤与棕鞋",
+        "年长面容"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "28_mechanic_male",
+      "name": "罗栓",
+      "kind": "human",
+      "role": "维修师",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/28_mechanic_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/28_mechanic_male/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#261D1D",
+        "skinColor": "#844226",
+        "eyeColor": "#2E201A",
+        "topType": "overalls",
+        "topColor": "#D94708",
+        "bottomType": "overalls",
+        "bottomColor": "#D94708",
+        "shoeType": "workboots",
+        "shoeColor": "#643F29",
+        "accessories": [
+          "beard",
+          "oil_marks"
+        ],
+        "distinctive": [
+          "深棕肤色",
+          "黑短发与浓黑全胡须",
+          "亮橘色维修连体工装",
+          "深色油污补斑",
+          "棕靴"
+        ],
+        "facialHairColor": "#261D1D",
+        "pattern": "oil-spots",
+        "patternColor": "#623B27"
+      },
+      "design": {
+        "height": 1.89,
+        "build": "broad-muscular",
+        "shoulder": 0.565,
+        "waist": 0.43,
+        "hip": 0.435,
+        "legRatio": 0.485,
+        "headScale": 1.0,
+        "faceWidth": 1.12,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "深棕肤色",
+        "黑短发与浓黑全胡须",
+        "亮橘色维修连体工装",
+        "深色油污补斑",
+        "棕靴"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "29_innkeeper_male",
+      "name": "顾栈",
+      "kind": "human",
+      "role": "旅店管家",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/29_innkeeper_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/29_innkeeper_male/frame_01.png",
+      "features": {
+        "hairStyle": "swept",
+        "hairColor": "#793E21",
+        "skinColor": "#E5A16E",
+        "eyeColor": "#5B3923",
+        "topType": "vest",
+        "topColor": "#633A24",
+        "bottomType": "trousers",
+        "bottomColor": "#474334",
+        "shoeType": "dressshoes",
+        "shoeColor": "#543A29",
+        "accessories": [
+          "moustache",
+          "buttons",
+          "badge"
+        ],
+        "distinctive": [
+          "棕色波浪短发",
+          "棕色上翘胡须",
+          "白短袖衬衫与棕马甲金扣",
+          "橄榄灰裤",
+          "圆润脸和腹部"
+        ],
+        "facialHairColor": "#743C20",
+        "underlayerType": "shirt",
+        "underlayerColor": "#F3EDE2",
+        "buttonColor": "#DBAC38"
+      },
+      "design": {
+        "height": 1.705,
+        "build": "rounded",
+        "shoulder": 0.51,
+        "waist": 0.465,
+        "hip": 0.45,
+        "legRatio": 0.445,
+        "headScale": 1.07,
+        "faceWidth": 1.14,
+        "ageStyle": "mature-adult"
+      },
+      "observed": [
+        "棕色波浪短发",
+        "棕色上翘胡须",
+        "白短袖衬衫与棕马甲金扣",
+        "橄榄灰裤",
+        "圆润脸和腹部"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "30_florist_male",
+      "name": "林苔",
+      "kind": "human",
+      "role": "花艺师",
+      "sex": "male",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/30_florist_male/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/30_florist_male/frame_01.png",
+      "features": {
+        "hairStyle": "long",
+        "hairColor": "#6B351C",
+        "skinColor": "#E5AA7A",
+        "eyeColor": "#397549",
+        "topType": "apron",
+        "topColor": "#65937F",
+        "bottomType": "trousers",
+        "bottomColor": "#483A28",
+        "shoeType": "workboots",
+        "shoeColor": "#5F402A",
+        "accessories": [
+          "earrings",
+          "flower_emblem"
+        ],
+        "distinctive": [
+          "偏分棕色波浪及肩发",
+          "绿色眼睛",
+          "米白卷袖衬衫",
+          "灰绿花朵围裙",
+          "棕裤与棕靴"
+        ],
+        "hairDetail": "shoulder-length side-part waves",
+        "underlayerType": "shirt",
+        "underlayerColor": "#EFE0BF",
+        "emblemColor": "#E99CC4"
+      },
+      "design": {
+        "height": 1.77,
+        "build": "slender",
+        "shoulder": 0.41,
+        "waist": 0.3,
+        "hip": 0.37,
+        "legRatio": 0.515,
+        "headScale": 1.0,
+        "faceWidth": 0.99,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "偏分棕色波浪及肩发",
+        "绿色眼睛",
+        "米白卷袖衬衫",
+        "灰绿花朵围裙",
+        "棕裤与棕靴"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "31_firefighter_female",
+      "name": "岑灯",
+      "kind": "human",
+      "role": "消防员",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/31_firefighter_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/31_firefighter_female/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#312323",
+        "skinColor": "#8D482C",
+        "eyeColor": "#352319",
+        "topType": "uniform",
+        "topColor": "#1C2C48",
+        "bottomType": "uniform",
+        "bottomColor": "#1D2D48",
+        "shoeType": "workboots",
+        "shoeColor": "#25242A",
+        "accessories": [
+          "reflective_stripes",
+          "badge",
+          "belt"
+        ],
+        "distinctive": [
+          "深棕肤色",
+          "贴头短卷黑发",
+          "深蓝消防服",
+          "黄色反光条与胸徽",
+          "黑腰带与靴"
+        ],
+        "hairDetail": "close cropped curls",
+        "trimColor": "#E8BF1E"
+      },
+      "design": {
+        "height": 1.8,
+        "build": "athletic",
+        "shoulder": 0.465,
+        "waist": 0.34,
+        "hip": 0.4,
+        "legRatio": 0.5,
+        "headScale": 1.0,
+        "faceWidth": 1.04,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "深棕肤色",
+        "贴头短卷黑发",
+        "深蓝消防服",
+        "黄色反光条与胸徽",
+        "黑腰带与靴"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "32_grocer_female",
+      "name": "陆杏",
+      "kind": "human",
+      "role": "杂货店员",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/32_grocer_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/32_grocer_female/frame_01.png",
+      "features": {
+        "hairStyle": "bob",
+        "hairColor": "#AE351D",
+        "skinColor": "#EDAD77",
+        "eyeColor": "#453025",
+        "topType": "apron",
+        "topColor": "#F14F32",
+        "bottomType": "jeans",
+        "bottomColor": "#264266",
+        "shoeType": "workshoes",
+        "shoeColor": "#68432B",
+        "accessories": [
+          "badge"
+        ],
+        "distinctive": [
+          "红橘色齐颈短发",
+          "黄短袖翻领衬衫",
+          "红橘围裙",
+          "蓝裤",
+          "棕鞋"
+        ],
+        "underlayerType": "shirt",
+        "underlayerColor": "#E6B54C"
+      },
+      "design": {
+        "height": 1.595,
+        "build": "compact-broad",
+        "shoulder": 0.405,
+        "waist": 0.33,
+        "hip": 0.41,
+        "legRatio": 0.47,
+        "headScale": 1.04,
+        "faceWidth": 1.03,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "红橘色齐颈短发",
+        "黄短袖翻领衬衫",
+        "红橘围裙",
+        "蓝裤",
+        "棕鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "33_farmer_female",
+      "name": "禾青",
+      "kind": "human",
+      "role": "农夫",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/33_farmer_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/33_farmer_female/frame_01.png",
+      "features": {
+        "hairStyle": "twinbraid",
+        "hairColor": "#24231D",
+        "skinColor": "#E7A16A",
+        "eyeColor": "#4D3220",
+        "topType": "overalls",
+        "topColor": "#515C29",
+        "bottomType": "overalls",
+        "bottomColor": "#515C29",
+        "shoeType": "workboots",
+        "shoeColor": "#6A482C",
+        "accessories": [
+          "strawhat",
+          "earrings",
+          "buttons"
+        ],
+        "distinctive": [
+          "绿色帽带草帽",
+          "前侧两条黑辫",
+          "米白卷袖衬衫",
+          "橄榄绿背带裤",
+          "棕靴"
+        ],
+        "underlayerType": "shirt",
+        "underlayerColor": "#EAD5AC",
+        "hatColor": "#DFA548",
+        "hatBandColor": "#466730"
+      },
+      "design": {
+        "height": 1.675,
+        "build": "sturdy",
+        "shoulder": 0.415,
+        "waist": 0.335,
+        "hip": 0.415,
+        "legRatio": 0.465,
+        "headScale": 1.03,
+        "faceWidth": 1.05,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "绿色帽带草帽",
+        "前侧两条黑辫",
+        "米白卷袖衬衫",
+        "橄榄绿背带裤",
+        "棕靴",
+        "正面为两条前侧辫；原背面帧辫子像素汇成单条中辫，源图各视图有简化差异。"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。",
+        "3D采用连贯双辫，优先保持原正面身份辨识点。"
+      ],
+      "supplementaryReferencePaths": [
+        "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/33_farmer_female/frame_10.png"
+      ]
+    },
+    {
+      "id": "34_driver_female",
+      "name": "叶驰",
+      "kind": "human",
+      "role": "公交司机",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/34_driver_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/34_driver_female/frame_01.png",
+      "features": {
+        "hairStyle": "short",
+        "hairColor": "#929294",
+        "skinColor": "#E8AE83",
+        "eyeColor": "#5C4030",
+        "topType": "uniform",
+        "topColor": "#275E49",
+        "bottomType": "uniform",
+        "bottomColor": "#142447",
+        "shoeType": "dressshoes",
+        "shoeColor": "#25282A",
+        "accessories": [
+          "cap_driver",
+          "tie",
+          "badge"
+        ],
+        "distinctive": [
+          "灰色耳侧短发",
+          "深蓝金徽司机帽",
+          "墨绿制服外套金扣和金袖口",
+          "白领黑领带",
+          "深蓝裤",
+          "年长面容"
+        ],
+        "hatColor": "#172D58",
+        "trimColor": "#DDAF38",
+        "collarColor": "#F2EFE7"
+      },
+      "design": {
+        "height": 1.615,
+        "build": "balanced-elder",
+        "shoulder": 0.385,
+        "waist": 0.325,
+        "hip": 0.39,
+        "legRatio": 0.47,
+        "headScale": 1.04,
+        "faceWidth": 1.06,
+        "ageStyle": "elder"
+      },
+      "observed": [
+        "灰色耳侧短发",
+        "深蓝金徽司机帽",
+        "墨绿制服外套金扣和金袖口",
+        "白领黑领带",
+        "深蓝裤",
+        "年长面容"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "35_hairdresser_female",
+      "name": "卷云",
+      "kind": "human",
+      "role": "理发师",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/35_hairdresser_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/35_hairdresser_female/frame_01.png",
+      "features": {
+        "hairStyle": "curly",
+        "hairColor": "#E3B653",
+        "skinColor": "#E3A777",
+        "eyeColor": "#4C2C30",
+        "topType": "uniform",
+        "topColor": "#743F8E",
+        "bottomType": "trousers",
+        "bottomColor": "#29262E",
+        "shoeType": "workshoes",
+        "shoeColor": "#29252A",
+        "accessories": [
+          "glasses_cat_eye",
+          "earrings",
+          "scissors"
+        ],
+        "distinctive": [
+          "金黄色蓬松短卷发",
+          "紫色上挑猫眼镜",
+          "金耳环",
+          "紫色短袖工服",
+          "腰侧剪刀",
+          "黑裤鞋"
+        ],
+        "hairDetail": "short voluminous blonde curls",
+        "glassesShape": "cat-eye",
+        "glassesColor": "#542263",
+        "earringColor": "#E4BF49"
+      },
+      "design": {
+        "height": 1.645,
+        "build": "rounded",
+        "shoulder": 0.4,
+        "waist": 0.32,
+        "hip": 0.42,
+        "legRatio": 0.48,
+        "headScale": 1.05,
+        "faceWidth": 1.05,
+        "ageStyle": "mature-adult"
+      },
+      "observed": [
+        "金黄色蓬松短卷发",
+        "紫色上挑猫眼镜",
+        "金耳环",
+        "紫色短袖工服",
+        "腰侧剪刀",
+        "黑裤鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "36_barista_female",
+      "name": "闻豆",
+      "kind": "human",
+      "role": "咖啡师",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/36_barista_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/36_barista_female/frame_01.png",
+      "features": {
+        "hairStyle": "ponytail",
+        "hairColor": "#57301F",
+        "skinColor": "#95502D",
+        "eyeColor": "#3C251C",
+        "topType": "apron",
+        "topColor": "#29519D",
+        "bottomType": "trousers",
+        "bottomColor": "#253753",
+        "shoeType": "workshoes",
+        "shoeColor": "#2C272A",
+        "accessories": [
+          "earrings_hoop",
+          "hairtie",
+          "cup_emblem"
+        ],
+        "distinctive": [
+          "深棕肤色",
+          "高卷发侧马尾金发圈",
+          "金色大圈耳环",
+          "米色短袖衬衫",
+          "蓝围裙白咖啡杯标",
+          "深裤黑鞋"
+        ],
+        "hairDetail": "high curly side ponytail",
+        "underlayerType": "shirt",
+        "underlayerColor": "#EFE0BF",
+        "hairtieColor": "#DDAF23",
+        "earringColor": "#E2B63D",
+        "emblemColor": "#EBEBE5"
+      },
+      "design": {
+        "height": 1.725,
+        "build": "athletic",
+        "shoulder": 0.42,
+        "waist": 0.31,
+        "hip": 0.405,
+        "legRatio": 0.51,
+        "headScale": 0.99,
+        "faceWidth": 1.02,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "深棕肤色",
+        "高卷发侧马尾金发圈",
+        "金色大圈耳环",
+        "米色短袖衬衫",
+        "蓝围裙白咖啡杯标",
+        "深裤黑鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ],
+      "supplementaryReferencePaths": [
+        "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/36_barista_female/frame_10.png"
+      ]
+    },
+    {
+      "id": "37_carpenter_female",
+      "name": "榆棠",
+      "kind": "human",
+      "role": "木匠",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/37_carpenter_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/37_carpenter_female/frame_01.png",
+      "features": {
+        "hairStyle": "spiky",
+        "hairColor": "#9F3519",
+        "skinColor": "#D99462",
+        "eyeColor": "#4F2F22",
+        "topType": "overalls",
+        "topColor": "#7B2536",
+        "bottomType": "overalls",
+        "bottomColor": "#7B2536",
+        "shoeType": "workboots",
+        "shoeColor": "#65422B",
+        "accessories": [
+          "earrings",
+          "buttons"
+        ],
+        "distinctive": [
+          "赤棕色短碎翘发",
+          "金色耳钉",
+          "黑短袖",
+          "酒红色背带工装裤",
+          "金搭扣",
+          "棕工作靴"
+        ],
+        "underlayerType": "tshirt",
+        "underlayerColor": "#292328",
+        "buttonColor": "#D7A838"
+      },
+      "design": {
+        "height": 1.695,
+        "build": "compact-muscular",
+        "shoulder": 0.445,
+        "waist": 0.35,
+        "hip": 0.42,
+        "legRatio": 0.48,
+        "headScale": 1.02,
+        "faceWidth": 1.06,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "赤棕色短碎翘发",
+        "金色耳钉",
+        "黑短袖",
+        "酒红色背带工装裤",
+        "金搭扣",
+        "棕工作靴"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "38_postal_female",
+      "name": "章铃",
+      "kind": "human",
+      "role": "邮差",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/38_postal_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/38_postal_female/frame_01.png",
+      "features": {
+        "hairStyle": "bob",
+        "hairColor": "#24232C",
+        "skinColor": "#ECAC77",
+        "eyeColor": "#4D3425",
+        "topType": "uniform",
+        "topColor": "#526331",
+        "bottomType": "trousers",
+        "bottomColor": "#323725",
+        "shoeType": "workshoes",
+        "shoeColor": "#62452E",
+        "accessories": [
+          "pouch",
+          "badge",
+          "earrings"
+        ],
+        "distinctive": [
+          "黑色齐下巴短发",
+          "橄榄绿短袖邮服",
+          "金黄斜挎邮包",
+          "深绿裤",
+          "棕鞋",
+          "金色小耳饰"
+        ],
+        "satchelColor": "#E4A92E",
+        "earringColor": "#D7AC45"
+      },
+      "design": {
+        "height": 1.585,
+        "build": "petite-balanced",
+        "shoulder": 0.37,
+        "waist": 0.295,
+        "hip": 0.38,
+        "legRatio": 0.48,
+        "headScale": 1.04,
+        "faceWidth": 1.02,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "黑色齐下巴短发",
+        "橄榄绿短袖邮服",
+        "金黄斜挎邮包",
+        "深绿裤",
+        "棕鞋",
+        "金色小耳饰"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "39_police_female",
+      "name": "许巡",
+      "kind": "human",
+      "role": "社区警察",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/39_police_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/39_police_female/frame_01.png",
+      "features": {
+        "hairStyle": "singlebraid",
+        "hairColor": "#242533",
+        "skinColor": "#E9A675",
+        "eyeColor": "#433124",
+        "topType": "uniform",
+        "topColor": "#172644",
+        "bottomType": "uniform",
+        "bottomColor": "#162543",
+        "shoeType": "workboots",
+        "shoeColor": "#26252C",
+        "accessories": [
+          "badge",
+          "epaulettes",
+          "belt"
+        ],
+        "distinctive": [
+          "深蓝黑侧分发",
+          "后侧单条长辫",
+          "无帽深蓝短袖警服",
+          "金胸徽肩章",
+          "黑腰带靴"
+        ],
+        "hairDetail": "one long centered back braid",
+        "trimColor": "#D7AA3F"
+      },
+      "design": {
+        "height": 1.755,
+        "build": "long-limbed-athletic",
+        "shoulder": 0.425,
+        "waist": 0.31,
+        "hip": 0.395,
+        "legRatio": 0.51,
+        "headScale": 0.99,
+        "faceWidth": 1.0,
+        "ageStyle": "adult"
+      },
+      "observed": [
+        "深蓝黑侧分发",
+        "后侧单条长辫",
+        "无帽深蓝短袖警服",
+        "金胸徽肩章",
+        "黑腰带靴"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ],
+      "supplementaryReferencePaths": [
+        "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/39_police_female/frame_10.png"
+      ]
+    },
+    {
+      "id": "40_doctor_female",
+      "name": "余笙",
+      "kind": "human",
+      "role": "医生",
+      "sex": "female",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/40_doctor_female/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/characters/40_doctor_female/frame_01.png",
+      "features": {
+        "hairStyle": "bob",
+        "hairColor": "#61351F",
+        "skinColor": "#EBB58A",
+        "eyeColor": "#60422F",
+        "topType": "coat",
+        "topColor": "#F1F0EA",
+        "bottomType": "scrubs",
+        "bottomColor": "#147C80",
+        "shoeType": "sneakers",
+        "shoeColor": "#E8E8E2",
+        "accessories": [
+          "glasses_round",
+          "stethoscope",
+          "earrings"
+        ],
+        "distinctive": [
+          "棕色波浪短发",
+          "圆黑框眼镜",
+          "金小耳饰",
+          "白大褂",
+          "蓝绿色医护内搭和裤",
+          "听诊器",
+          "白鞋"
+        ],
+        "underlayerType": "scrubs",
+        "underlayerColor": "#147C80",
+        "glassesShape": "round"
+      },
+      "design": {
+        "height": 1.665,
+        "build": "regular",
+        "shoulder": 0.38,
+        "waist": 0.295,
+        "hip": 0.39,
+        "legRatio": 0.49,
+        "headScale": 1.01,
+        "faceWidth": 1.03,
+        "ageStyle": "mature-adult"
+      },
+      "observed": [
+        "棕色波浪短发",
+        "圆黑框眼镜",
+        "金小耳饰",
+        "白大褂",
+        "蓝绿色医护内搭和裤",
+        "听诊器",
+        "白鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "hai-qin-yan",
+      "name": "海琴烟",
+      "kind": "codexmini",
+      "role": "小镇陪伴访客",
+      "sex": "unspecified",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/hai-qin-yan/frames/idle/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/codexmini/hai-qin-yan/frames/idle/frame_01.png",
+      "features": {
+        "hairStyle": "long",
+        "hairColor": "#C6C4D8",
+        "skinColor": "#F5D6C9",
+        "eyeColor": "#2485DC",
+        "topType": "dress",
+        "topColor": "#84B2EA",
+        "bottomType": "dress",
+        "bottomColor": "#84B2EA",
+        "shoeType": "maryjane",
+        "shoeColor": "#5688D0",
+        "accessories": [
+          "crown",
+          "pointed_ears",
+          "earrings",
+          "neck_jewel"
+        ],
+        "distinctive": [
+          "银灰长波浪发带淡紫冷光",
+          "明显尖耳",
+          "蓝色大眼",
+          "蓝宝石银冠和垂饰",
+          "浅蓝宝石领饰",
+          "蓝白花瓣短裙",
+          "蓝鞋"
+        ],
+        "hairDetail": "long silver lavender waves",
+        "hemColor": "#DDE7FB",
+        "crownColor": "#D9DCE6",
+        "gemColor": "#287DE1",
+        "earShape": "pointed",
+        "dressSilhouette": "short layered petal skirt"
+      },
+      "design": {
+        "height": 1.465,
+        "build": "petite-fantasy",
+        "shoulder": 0.325,
+        "waist": 0.245,
+        "hip": 0.325,
+        "legRatio": 0.455,
+        "headScale": 1.12,
+        "faceWidth": 0.98,
+        "ageStyle": "youthful-fantasy"
+      },
+      "observed": [
+        "银灰长波浪发带淡紫冷光",
+        "明显尖耳",
+        "蓝色大眼",
+        "蓝宝石银冠和垂饰",
+        "浅蓝宝石领饰",
+        "蓝白花瓣短裙",
+        "蓝鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。",
+        "保留原图幻想/幼态外观，单独设计头身和身高；不套用统一成年人体型。"
+      ]
+    },
+    {
+      "id": "kanna",
+      "name": "康娜",
+      "kind": "codexmini",
+      "role": "小镇陪伴访客",
+      "sex": "unspecified",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/kanna/frames/idle/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/codexmini/kanna/frames/idle/frame_01.png",
+      "features": {
+        "hairStyle": "bob",
+        "hairColor": "#E8E6F1",
+        "skinColor": "#F7E3D4",
+        "eyeColor": "#45AAE7",
+        "topType": "coat",
+        "topColor": "#F3B8D3",
+        "bottomType": "shorts",
+        "bottomColor": "#F5E9EE",
+        "shoeType": "boots",
+        "shoeColor": "#DD7EAC",
+        "accessories": [
+          "horns",
+          "tail",
+          "hair_beads",
+          "bow"
+        ],
+        "distinctive": [
+          "白色齐肩发与浅紫发梢",
+          "一对浅白弯角",
+          "蓝色眼睛",
+          "深蓝蝴蝶结与串球发饰",
+          "粉白长袖外套",
+          "白短裤袜",
+          "粉靴",
+          "紫色尖球尾巴"
+        ],
+        "hairDetail": "straight bob with pale lavender tips",
+        "hairTipColor": "#C5A3E2",
+        "hornColor": "#EDF4FA",
+        "hairbeadsColor": "#353B78",
+        "tailColor": "#AC87D5",
+        "underlayerColor": "#F5EBEE",
+        "coatTrimColor": "#EFEDEB"
+      },
+      "design": {
+        "height": 1.2,
+        "build": "childlike-fantasy",
+        "shoulder": 0.3,
+        "waist": 0.25,
+        "hip": 0.28,
+        "legRatio": 0.43,
+        "headScale": 1.28,
+        "faceWidth": 1.08,
+        "ageStyle": "childlike-fantasy"
+      },
+      "observed": [
+        "白色齐肩发与浅紫发梢",
+        "一对浅白弯角",
+        "蓝色眼睛",
+        "深蓝蝴蝶结与串球发饰",
+        "粉白长袖外套",
+        "白短裤袜",
+        "粉靴",
+        "紫色尖球尾巴"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。",
+        "保留原图幻想/幼态外观，单独设计头身和身高；不套用统一成年人体型。"
+      ]
+    },
+    {
+      "id": "rui",
+      "name": "锐",
+      "kind": "codexmini",
+      "role": "小镇陪伴访客",
+      "sex": "unspecified",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/rui/frames/idle/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/codexmini/rui/frames/idle/frame_01.png",
+      "features": {
+        "hairStyle": "long",
+        "hairColor": "#4A2D20",
+        "skinColor": "#F1D2AE",
+        "eyeColor": "#A56A3C",
+        "topType": "dress",
+        "topColor": "#F1DFC3",
+        "bottomType": "dress",
+        "bottomColor": "#F1DFC3",
+        "shoeType": "flats",
+        "shoeColor": "#E9CAAD",
+        "accessories": [],
+        "distinctive": [
+          "深棕偏分长波浪发",
+          "棕色眼睛",
+          "奶油色长袖长连衣裙",
+          "双手放在腹前",
+          "米色平底鞋"
+        ],
+        "hairDetail": "long side-part waves",
+        "dressSilhouette": "ankle-length gathered long-sleeve dress"
+      },
+      "design": {
+        "height": 1.735,
+        "build": "slender",
+        "shoulder": 0.36,
+        "waist": 0.27,
+        "hip": 0.38,
+        "legRatio": 0.5,
+        "headScale": 0.98,
+        "faceWidth": 0.96,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "深棕偏分长波浪发",
+        "棕色眼睛",
+        "奶油色长袖长连衣裙",
+        "双手放在腹前",
+        "米色平底鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "xin",
+      "name": "歆",
+      "kind": "codexmini",
+      "role": "小镇陪伴访客",
+      "sex": "unspecified",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/xin/frames/idle/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/codexmini/xin/frames/idle/frame_01.png",
+      "features": {
+        "hairStyle": "bob",
+        "hairColor": "#342C27",
+        "skinColor": "#F5D9B8",
+        "eyeColor": "#6A4328",
+        "topType": "dress",
+        "topColor": "#F0E4CC",
+        "bottomType": "dress",
+        "bottomColor": "#F0E4CC",
+        "shoeType": "maryjane",
+        "shoeColor": "#282525",
+        "accessories": [],
+        "distinctive": [
+          "深棕色短直发",
+          "奶油色层叠短袖裙",
+          "黑色花朵印花",
+          "白短袜黑色搭带鞋"
+        ],
+        "pattern": "black-flower",
+        "patternColor": "#282626"
+      },
+      "design": {
+        "height": 1.565,
+        "build": "petite",
+        "shoulder": 0.34,
+        "waist": 0.255,
+        "hip": 0.35,
+        "legRatio": 0.475,
+        "headScale": 1.06,
+        "faceWidth": 0.98,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "深棕色短直发",
+        "奶油色层叠短袖裙",
+        "黑色花朵印花",
+        "白短袜黑色搭带鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    },
+    {
+      "id": "xin-fragrance",
+      "name": "馨",
+      "kind": "codexmini",
+      "role": "小镇陪伴访客",
+      "sex": "unspecified",
+      "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/xin-fragrance/frames/idle/frame_01.png",
+      "referenceRelativePath": "pixel_town_assets/codexmini/xin-fragrance/frames/idle/frame_01.png",
+      "features": {
+        "hairStyle": "long",
+        "hairColor": "#302A2E",
+        "skinColor": "#F4D6B4",
+        "eyeColor": "#765038",
+        "topType": "tshirt",
+        "topColor": "#F3F1EA",
+        "bottomType": "skirt",
+        "bottomColor": "#242329",
+        "shoeType": "sneakers",
+        "shoeColor": "#68656C",
+        "accessories": [
+          "glasses_square",
+          "graphic_tee"
+        ],
+        "distinctive": [
+          "黑色长卷发与齐刘海",
+          "粗黑大方框眼镜",
+          "白色图案T恤",
+          "中央红黄小图案",
+          "黑短裙",
+          "白袜灰黑运动鞋"
+        ],
+        "hairDetail": "long curls with straight fringe",
+        "glassesShape": "large-square",
+        "glassesColor": "#242124",
+        "emblemColor": "#CB472F"
+      },
+      "design": {
+        "height": 1.605,
+        "build": "compact",
+        "shoulder": 0.35,
+        "waist": 0.27,
+        "hip": 0.36,
+        "legRatio": 0.485,
+        "headScale": 1.04,
+        "faceWidth": 1.0,
+        "ageStyle": "young-adult"
+      },
+      "observed": [
+        "黑色长卷发与齐刘海",
+        "粗黑大方框眼镜",
+        "白色图案T恤",
+        "中央红黄小图案",
+        "黑短裙",
+        "白袜灰黑运动鞋"
+      ],
+      "inferred": [
+        "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+        "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+        "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+      ]
+    }
+  ]
+}

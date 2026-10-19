@@ -1,0 +1,541 @@
+[
+  {
+    "id": "male-casual",
+    "label": "便装男性",
+    "kind": "人物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "license": "CC0-1.0",
+    "note": "开源项目保存的完整便装成品，24项原生动画。",
+    "glb": "assets/male-casual.glb",
+    "sourceFile": "vendor/quaternius-men/Quaternius-Casual.glb",
+    "sourceSha256": "fea7e71271203e7073f1a073fa1208de7402df276f87f80e149bf7589b5d46b4",
+    "portableSha256": "57d276fd1f78874343972dc269b84a7e0663f0d1ea3706428ea27b1e2dddaf13",
+    "binaryDataSha256": "e93f9c97a5623423f2f8030aaff6378f21dd0068091a6ce8c5845eb78654d21c",
+    "sourceBinaryDataSha256": "e93f9c97a5623423f2f8030aaff6378f21dd0068091a6ce8c5845eb78654d21c",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "CharacterArmature|Death"
+      },
+      {
+        "name": "CharacterArmature|Gun_Shoot"
+      },
+      {
+        "name": "CharacterArmature|HitRecieve"
+      },
+      {
+        "name": "CharacterArmature|HitRecieve_2"
+      },
+      {
+        "name": "CharacterArmature|Idle"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun_Pointing"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun_Shoot"
+      },
+      {
+        "name": "CharacterArmature|Idle_Neutral"
+      },
+      {
+        "name": "CharacterArmature|Idle_Sword"
+      },
+      {
+        "name": "CharacterArmature|Interact"
+      },
+      {
+        "name": "CharacterArmature|Kick_Left"
+      },
+      {
+        "name": "CharacterArmature|Kick_Right"
+      },
+      {
+        "name": "CharacterArmature|Punch_Left"
+      },
+      {
+        "name": "CharacterArmature|Punch_Right"
+      },
+      {
+        "name": "CharacterArmature|Roll"
+      },
+      {
+        "name": "CharacterArmature|Run"
+      },
+      {
+        "name": "CharacterArmature|Run_Back"
+      },
+      {
+        "name": "CharacterArmature|Run_Left"
+      },
+      {
+        "name": "CharacterArmature|Run_Right"
+      },
+      {
+        "name": "CharacterArmature|Run_Shoot"
+      },
+      {
+        "name": "CharacterArmature|Sword_Slash"
+      },
+      {
+        "name": "CharacterArmature|Walk"
+      },
+      {
+        "name": "CharacterArmature|Wave"
+      }
+    ],
+    "meshCount": 4,
+    "skinCount": 4
+  },
+  {
+    "id": "male-worker",
+    "label": "工装男性",
+    "kind": "人物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "license": "CC0-1.0",
+    "note": "开源项目保存的完整工装成品，24项原生动画。",
+    "glb": "assets/male-worker.glb",
+    "sourceFile": "vendor/quaternius-men/Quaternius-Worker.glb",
+    "sourceSha256": "9c28614f465b7dc105f908c20c22fc045f4b07caf8c5ef0e9f8049eceb6dd38d",
+    "portableSha256": "0a685a94b25b2ddcb9616958a98efbaf9aa500bb8d63c82a70f808290729fb8f",
+    "binaryDataSha256": "cdd738234ab6da3a7cd355afeef8a08f9482cbdf33d8d3d86f47019c51602ee4",
+    "sourceBinaryDataSha256": "cdd738234ab6da3a7cd355afeef8a08f9482cbdf33d8d3d86f47019c51602ee4",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "CharacterArmature|Death"
+      },
+      {
+        "name": "CharacterArmature|Gun_Shoot"
+      },
+      {
+        "name": "CharacterArmature|HitRecieve"
+      },
+      {
+        "name": "CharacterArmature|HitRecieve_2"
+      },
+      {
+        "name": "CharacterArmature|Idle"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun_Pointing"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun_Shoot"
+      },
+      {
+        "name": "CharacterArmature|Idle_Neutral"
+      },
+      {
+        "name": "CharacterArmature|Idle_Sword"
+      },
+      {
+        "name": "CharacterArmature|Interact"
+      },
+      {
+        "name": "CharacterArmature|Kick_Left"
+      },
+      {
+        "name": "CharacterArmature|Kick_Right"
+      },
+      {
+        "name": "CharacterArmature|Punch_Left"
+      },
+      {
+        "name": "CharacterArmature|Punch_Right"
+      },
+      {
+        "name": "CharacterArmature|Roll"
+      },
+      {
+        "name": "CharacterArmature|Run"
+      },
+      {
+        "name": "CharacterArmature|Run_Back"
+      },
+      {
+        "name": "CharacterArmature|Run_Left"
+      },
+      {
+        "name": "CharacterArmature|Run_Right"
+      },
+      {
+        "name": "CharacterArmature|Run_Shoot"
+      },
+      {
+        "name": "CharacterArmature|Sword_Slash"
+      },
+      {
+        "name": "CharacterArmature|Walk"
+      },
+      {
+        "name": "CharacterArmature|Wave"
+      }
+    ],
+    "meshCount": 4,
+    "skinCount": 4
+  },
+  {
+    "id": "female-casual",
+    "label": "便装女性",
+    "kind": "人物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimatemodularwomen.html",
+    "license": "CC0-1.0",
+    "note": "作者下载目录中的完整便装角色，24项原生动画。",
+    "glb": "assets/female-casual.glb",
+    "sourceFile": "vendor/quaternius-women/Casual.gltf",
+    "sourceSha256": "b0fe6e92219cd71808844a20a1a8b960fd1cf640a6546dc6362b5add6604e87c",
+    "portableSha256": "5ca77eac451a73665616455a75e6d9a4980b9f839ba3d049f877d8855aef45d2",
+    "binaryDataSha256": "18033e9d2bb8c605080f212c04c00b155649cc78485df8d596ceae58c7538de9",
+    "sourceBinaryDataSha256": "18033e9d2bb8c605080f212c04c00b155649cc78485df8d596ceae58c7538de9",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "Death"
+      },
+      {
+        "name": "Gun_Shoot"
+      },
+      {
+        "name": "HitRecieve"
+      },
+      {
+        "name": "HitRecieve_2"
+      },
+      {
+        "name": "Idle"
+      },
+      {
+        "name": "Idle_Gun"
+      },
+      {
+        "name": "Idle_Gun_Pointing"
+      },
+      {
+        "name": "Idle_Gun_Shoot"
+      },
+      {
+        "name": "Idle_Neutral"
+      },
+      {
+        "name": "Idle_Sword"
+      },
+      {
+        "name": "Interact"
+      },
+      {
+        "name": "Kick_Left"
+      },
+      {
+        "name": "Kick_Right"
+      },
+      {
+        "name": "Punch_Left"
+      },
+      {
+        "name": "Punch_Right"
+      },
+      {
+        "name": "Roll"
+      },
+      {
+        "name": "Run"
+      },
+      {
+        "name": "Run_Back"
+      },
+      {
+        "name": "Run_Left"
+      },
+      {
+        "name": "Run_Right"
+      },
+      {
+        "name": "Run_Shoot"
+      },
+      {
+        "name": "Sword_Slash"
+      },
+      {
+        "name": "Walk"
+      },
+      {
+        "name": "Wave"
+      }
+    ],
+    "meshCount": 4,
+    "skinCount": 1
+  },
+  {
+    "id": "female-worker",
+    "label": "工装女性",
+    "kind": "人物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimatemodularwomen.html",
+    "license": "CC0-1.0",
+    "note": "作者下载目录中的完整工装角色，24项原生动画。",
+    "glb": "assets/female-worker.glb",
+    "sourceFile": "vendor/quaternius-women/Worker.gltf",
+    "sourceSha256": "e2bfc1039f429e870a0119e274c2dd45f6304f00c39f4570dfeb9ed4d97a063d",
+    "portableSha256": "555f8ac66c19ea1a06474481e47dcaa2a6f30cc83f7748fde894558467fc46d6",
+    "binaryDataSha256": "f35a8767b5bf0cbe3eac8559ed0772eaf2587c5329690296277d297d15d748f0",
+    "sourceBinaryDataSha256": "f35a8767b5bf0cbe3eac8559ed0772eaf2587c5329690296277d297d15d748f0",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "Death"
+      },
+      {
+        "name": "Gun_Shoot"
+      },
+      {
+        "name": "HitRecieve"
+      },
+      {
+        "name": "HitRecieve_2"
+      },
+      {
+        "name": "Idle"
+      },
+      {
+        "name": "Idle_Gun"
+      },
+      {
+        "name": "Idle_Gun_Pointing"
+      },
+      {
+        "name": "Idle_Gun_Shoot"
+      },
+      {
+        "name": "Idle_Neutral"
+      },
+      {
+        "name": "Idle_Sword"
+      },
+      {
+        "name": "Interact"
+      },
+      {
+        "name": "Kick_Left"
+      },
+      {
+        "name": "Kick_Right"
+      },
+      {
+        "name": "Punch_Left"
+      },
+      {
+        "name": "Punch_Right"
+      },
+      {
+        "name": "Roll"
+      },
+      {
+        "name": "Run"
+      },
+      {
+        "name": "Run_Back"
+      },
+      {
+        "name": "Run_Left"
+      },
+      {
+        "name": "Run_Right"
+      },
+      {
+        "name": "Run_Shoot"
+      },
+      {
+        "name": "Sword_Slash"
+      },
+      {
+        "name": "Walk"
+      },
+      {
+        "name": "Wave"
+      }
+    ],
+    "meshCount": 4,
+    "skinCount": 1
+  },
+  {
+    "id": "animal-husky",
+    "label": "哈士奇",
+    "kind": "动物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "license": "CC0-1.0",
+    "note": "作者原版四足犬，保留躯干、四肢和头身比例；12项原生动画。",
+    "glb": "assets/animal-husky.glb",
+    "sourceFile": "vendor/animals/Husky.gltf",
+    "sourceSha256": "0cfd85ddfcc5c07caf1bdeb296b21017b0da4c8558a92086daf4a172e0bf8d97",
+    "portableSha256": "d5e33b7f9ffc92e5278df5035f86e8749f14c5ff8d9c79a922b2e8c1c906fcec",
+    "binaryDataSha256": "7b167bc454603a1effcbc913bafda7f12d1ab606927f1368db37b3d9a9158db0",
+    "sourceBinaryDataSha256": "7b167bc454603a1effcbc913bafda7f12d1ab606927f1368db37b3d9a9158db0",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "Attack"
+      },
+      {
+        "name": "Death"
+      },
+      {
+        "name": "Eating"
+      },
+      {
+        "name": "Gallop"
+      },
+      {
+        "name": "Gallop_Jump"
+      },
+      {
+        "name": "Idle"
+      },
+      {
+        "name": "Idle_2"
+      },
+      {
+        "name": "Idle_2_HeadLow"
+      },
+      {
+        "name": "Idle_HitReact1"
+      },
+      {
+        "name": "Idle_HitReact2"
+      },
+      {
+        "name": "Jump_ToIdle"
+      },
+      {
+        "name": "Walk"
+      }
+    ],
+    "meshCount": 1,
+    "skinCount": 1
+  },
+  {
+    "id": "animal-shiba",
+    "label": "柴犬",
+    "kind": "动物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "license": "CC0-1.0",
+    "note": "作者原版四足柴犬，保留毛色与比例；12项原生动画。",
+    "glb": "assets/animal-shiba.glb",
+    "sourceFile": "vendor/animals/ShibaInu.gltf",
+    "sourceSha256": "3236979b94a840eb72d9ce091b1361da327a96f5ce068e666680297480f30f6b",
+    "portableSha256": "8302af941f144185c1afbde4ad8cc79358b575311deea23be4fbcd3d367f50a8",
+    "binaryDataSha256": "a0a5495ed3d0f55ebb2625491babf88d9758c4080ebe99c2b82458688fb8632c",
+    "sourceBinaryDataSha256": "a0a5495ed3d0f55ebb2625491babf88d9758c4080ebe99c2b82458688fb8632c",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "Attack"
+      },
+      {
+        "name": "Death"
+      },
+      {
+        "name": "Eating"
+      },
+      {
+        "name": "Gallop"
+      },
+      {
+        "name": "Gallop_Jump"
+      },
+      {
+        "name": "Idle"
+      },
+      {
+        "name": "Idle_2"
+      },
+      {
+        "name": "Idle_2_HeadLow"
+      },
+      {
+        "name": "Idle_HitReact1"
+      },
+      {
+        "name": "Idle_HitReact2"
+      },
+      {
+        "name": "Jump_ToIdle"
+      },
+      {
+        "name": "Walk"
+      }
+    ],
+    "meshCount": 1,
+    "skinCount": 1
+  },
+  {
+    "id": "animal-horse",
+    "label": "马",
+    "kind": "动物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "license": "CC0-1.0",
+    "note": "作者原版长腿马匹，13项原生动画；用于比较自然四足体型。",
+    "glb": "assets/animal-horse.glb",
+    "sourceFile": "vendor/animals/Horse.gltf",
+    "sourceSha256": "3deb61550dff1d2786d04b6e8559d63ad3907d6ab606ba28ce0af074ed96341b",
+    "portableSha256": "0588334842feae74a257dea69983db37088da2e97d76beb4a2ecbe6afdb81e26",
+    "binaryDataSha256": "b3fd034cc3728887528a413bba878b81f2c0e9b427a3e5fcf6aafb0aca0c8593",
+    "sourceBinaryDataSha256": "b3fd034cc3728887528a413bba878b81f2c0e9b427a3e5fcf6aafb0aca0c8593",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "Attack_Headbutt"
+      },
+      {
+        "name": "Attack_Kick"
+      },
+      {
+        "name": "Death"
+      },
+      {
+        "name": "Eating"
+      },
+      {
+        "name": "Gallop"
+      },
+      {
+        "name": "Gallop_Jump"
+      },
+      {
+        "name": "Idle"
+      },
+      {
+        "name": "Idle_2"
+      },
+      {
+        "name": "Idle_Headlow"
+      },
+      {
+        "name": "Idle_HitReact1"
+      },
+      {
+        "name": "Idle_HitReact2"
+      },
+      {
+        "name": "Jump_toIdle"
+      },
+      {
+        "name": "Walk"
+      }
+    ],
+    "meshCount": 1,
+    "skinCount": 1
+  }
+]

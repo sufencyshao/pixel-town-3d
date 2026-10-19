@@ -1,0 +1,236 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "Pedestrian paving has no duplicate overlapping tiles",
+      "passed": true
+    },
+    {
+      "check": "Pedestrian paving is one connected network",
+      "passed": true
+    },
+    {
+      "check": "Connected portal westCommercial",
+      "passed": true
+    },
+    {
+      "check": "Connected portal northPark",
+      "passed": true
+    },
+    {
+      "check": "Connected portal southWest",
+      "passed": true
+    },
+    {
+      "check": "Connected inn west door",
+      "passed": true
+    },
+    {
+      "check": "Connected fire staff door",
+      "passed": true
+    },
+    {
+      "check": "Connected inn rear terrace",
+      "passed": true
+    },
+    {
+      "check": "No pedestrian paving crosses the fire vehicle apron",
+      "passed": true
+    },
+    {
+      "check": "Bus bay separated north of fire apron",
+      "passed": true
+    },
+    {
+      "check": "Six ensuite rooms",
+      "passed": true
+    },
+    {
+      "check": "Rooms are disjoint",
+      "passed": true
+    },
+    {
+      "check": "GLB SHA256 matches",
+      "passed": true
+    },
+    {
+      "check": "Seven saved camera scenes",
+      "passed": true
+    },
+    {
+      "check": "Recycling bin outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Recycling bin.001 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Signpost outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Signpost.001 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Signpost.002 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Signpost.003 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Signpost.004 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Signpost.005 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Street lamp pole outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Street lamp pole.001 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Street lamp pole.002 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Street lamp pole.003 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk.001 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk.002 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk.003 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk.004 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk.005 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk.006 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk.007 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk.008 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Tree trunk.009 outside pedestrian paths",
+      "passed": true
+    },
+    {
+      "check": "Fire exit corridor 1 clear",
+      "passed": true
+    },
+    {
+      "check": "Fire exit corridor 2 clear",
+      "passed": true
+    },
+    {
+      "check": "Guest corridor free of furniture",
+      "passed": true
+    },
+    {
+      "check": "Room 201 door clear of furniture",
+      "passed": true
+    },
+    {
+      "check": "Room 202 door clear of furniture",
+      "passed": true
+    },
+    {
+      "check": "Room 203 door clear of furniture",
+      "passed": true
+    },
+    {
+      "check": "Room 204 door clear of furniture",
+      "passed": true
+    },
+    {
+      "check": "Room 205 door clear of furniture",
+      "passed": true
+    },
+    {
+      "check": "Room 206 door clear of furniture",
+      "passed": true
+    },
+    {
+      "check": "Upper slab leaves stair opening unobstructed",
+      "passed": true
+    },
+    {
+      "check": "20 stair treads",
+      "passed": true
+    },
+    {
+      "check": "Stair arrives at upper floor",
+      "passed": true
+    },
+    {
+      "check": "Six bed frames",
+      "passed": true
+    },
+    {
+      "check": "Six bathroom fixtures",
+      "passed": true
+    },
+    {
+      "check": "Fire engine wheels contact floor",
+      "passed": true
+    },
+    {
+      "check": "Two garage thresholds connect floor to apron",
+      "passed": true
+    },
+    {
+      "check": "One fire engine and one bus",
+      "passed": true
+    },
+    {
+      "check": "Blend triangle count",
+      "passed": true
+    },
+    {
+      "check": "Blend object count",
+      "passed": true
+    },
+    {
+      "check": "GLB reimport triangle count",
+      "passed": true
+    },
+    {
+      "check": "All cutaway groups survived GLB export",
+      "passed": true
+    }
+  ],
+  "glbTriangles": 106388,
+  "glbMeshObjects": 2491,
+  "note": "Static layout and clearance checks; no runtime driving, navigation or engineering certification."
+}

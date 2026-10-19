@@ -1,0 +1,172 @@
+[
+  {
+    "object": "Top_dress",
+    "uvLayers": [
+      {
+        "name": "UVMap",
+        "activeRender": true,
+        "bounds": [
+          [
+            0.0018771439790725708,
+            0.0023812055587768555
+          ],
+          [
+            0.9970440864562988,
+            0.8755664229393005
+          ]
+        ]
+      },
+      {
+        "name": "UVMap.001",
+        "activeRender": false,
+        "bounds": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "name": "UVMap.002",
+        "activeRender": false,
+        "bounds": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "name": "UVMap.003",
+        "activeRender": false,
+        "bounds": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "name": "UVMap.004",
+        "activeRender": false,
+        "bounds": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "name": "GarmentUV",
+        "activeRender": false,
+        "bounds": [
+          [
+            -0.11346440017223358,
+            1.380237340927124
+          ],
+          [
+            1.113465666770935,
+            2.186035394668579
+          ]
+        ]
+      }
+    ],
+    "materialImageCoordinateInputs": [
+      {
+        "material": "Garment dress",
+        "node": "\u56fe\u50cf\u7eb9\u7406",
+        "vectorLinked": false
+      }
+    ]
+  },
+  {
+    "object": "Dress_Skirt",
+    "uvLayers": [
+      {
+        "name": "UVMap",
+        "activeRender": true,
+        "bounds": [
+          [
+            -0.05703998729586601,
+            0.7830000519752502
+          ],
+          [
+            1.0570399761199951,
+            1.4648003578186035
+          ]
+        ]
+      },
+      {
+        "name": "GarmentUV",
+        "activeRender": false,
+        "bounds": [
+          [
+            -0.05703998729586601,
+            0.7830000519752502
+          ],
+          [
+            1.0570399761199951,
+            1.4648003578186035
+          ]
+        ]
+      }
+    ],
+    "materialImageCoordinateInputs": [
+      {
+        "material": "Dress skirt",
+        "node": "\u56fe\u50cf\u7eb9\u7406",
+        "vectorLinked": false
+      }
+    ]
+  },
+  {
+    "object": "Dress_Hem",
+    "uvLayers": [
+      {
+        "name": "UVMap",
+        "activeRender": true,
+        "bounds": [
+          [
+            -0.021070018410682678,
+            0.8047500252723694
+          ],
+          [
+            1.0210700035095215,
+            0.822149932384491
+          ]
+        ]
+      },
+      {
+        "name": "GarmentUV",
+        "activeRender": false,
+        "bounds": [
+          [
+            -0.021070018410682678,
+            0.8047500252723694
+          ],
+          [
+            1.0210700035095215,
+            0.822149932384491
+          ]
+        ]
+      }
+    ],
+    "materialImageCoordinateInputs": []
+  }
+]

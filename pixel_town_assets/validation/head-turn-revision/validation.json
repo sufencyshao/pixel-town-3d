@@ -1,0 +1,1612 @@
+{
+  "revision": "20261003-shake-yaw-v2",
+  "roles": 40,
+  "replacedClips": 40,
+  "frames": 640,
+  "preservedFiles": 4744,
+  "backupFiles": 880,
+  "errors": [],
+  "checks": [
+    {
+      "role": "01_hero_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 113,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          76,
+          13,
+          180,
+          243
+        ],
+        "sourceHeadCut": 102,
+        "scale": 0.9117647058823529,
+        "paste": [
+          82,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          62,
+          28,
+          153,
+          243
+        ],
+        "sourceHeadCut": 95,
+        "scale": 0.9789473684210527,
+        "paste": [
+          85,
+          20
+        ]
+      }
+    },
+    {
+      "role": "02_hero_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 116,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_07.png",
+        "mirrored": true,
+        "trimBox": [
+          78,
+          34,
+          177,
+          243
+        ],
+        "sourceHeadCut": 96,
+        "scale": 1.0,
+        "paste": [
+          82,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          78,
+          34,
+          177,
+          243
+        ],
+        "sourceHeadCut": 96,
+        "scale": 1.0,
+        "paste": [
+          76,
+          20
+        ]
+      }
+    },
+    {
+      "role": "03_barista_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 115,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          69,
+          13,
+          186,
+          242
+        ],
+        "sourceHeadCut": 104,
+        "scale": 0.9134615384615384,
+        "paste": [
+          73,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          78,
+          24,
+          179,
+          238
+        ],
+        "sourceHeadCut": 97,
+        "scale": 0.979381443298969,
+        "paste": [
+          80,
+          20
+        ]
+      }
+    },
+    {
+      "role": "04_baker_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 138,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          64,
+          13,
+          192,
+          243
+        ],
+        "sourceHeadCut": 129,
+        "scale": 0.9147286821705426,
+        "paste": [
+          73,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          64,
+          13,
+          191,
+          242
+        ],
+        "sourceHeadCut": 129,
+        "scale": 0.9147286821705426,
+        "paste": [
+          64,
+          20
+        ]
+      }
+    },
+    {
+      "role": "05_carpenter_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 115,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          73,
+          13,
+          173,
+          243
+        ],
+        "sourceHeadCut": 104,
+        "scale": 0.9134615384615384,
+        "paste": [
+          81,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          69,
+          14,
+          177,
+          243
+        ],
+        "sourceHeadCut": 104,
+        "scale": 0.9134615384615384,
+        "paste": [
+          78,
+          20
+        ]
+      }
+    },
+    {
+      "role": "06_postman_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 124,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          66,
+          13,
+          190,
+          243
+        ],
+        "sourceHeadCut": 114,
+        "scale": 0.9122807017543859,
+        "paste": [
+          67,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          68,
+          13,
+          188,
+          243
+        ],
+        "sourceHeadCut": 114,
+        "scale": 0.9122807017543859,
+        "paste": [
+          73,
+          20
+        ]
+      }
+    },
+    {
+      "role": "07_police_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 121,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          71,
+          13,
+          182,
+          243
+        ],
+        "sourceHeadCut": 111,
+        "scale": 0.9099099099099099,
+        "paste": [
+          77,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          68,
+          13,
+          178,
+          242
+        ],
+        "sourceHeadCut": 110,
+        "scale": 0.9181818181818182,
+        "paste": [
+          76,
+          20
+        ]
+      }
+    },
+    {
+      "role": "08_doctor_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 122,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          65,
+          13,
+          189,
+          243
+        ],
+        "sourceHeadCut": 112,
+        "scale": 0.9107142857142857,
+        "paste": [
+          69,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          74,
+          26,
+          181,
+          241
+        ],
+        "sourceHeadCut": 104,
+        "scale": 0.9807692307692307,
+        "paste": [
+          77,
+          20
+        ]
+      }
+    },
+    {
+      "role": "09_gardener_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 119,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          57,
+          13,
+          198,
+          243
+        ],
+        "sourceHeadCut": 108,
+        "scale": 0.9166666666666666,
+        "paste": [
+          62,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          62,
+          35,
+          191,
+          243
+        ],
+        "sourceHeadCut": 98,
+        "scale": 1.010204081632653,
+        "paste": [
+          64,
+          20
+        ]
+      }
+    },
+    {
+      "role": "10_musician_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 122,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          56,
+          13,
+          200,
+          243
+        ],
+        "sourceHeadCut": 112,
+        "scale": 0.9107142857142857,
+        "paste": [
+          65,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          87,
+          21,
+          211,
+          242
+        ],
+        "sourceHeadCut": 107,
+        "scale": 0.9532710280373832,
+        "paste": [
+          84,
+          20
+        ]
+      }
+    },
+    {
+      "role": "11_chef_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 139,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          71,
+          13,
+          184,
+          243
+        ],
+        "sourceHeadCut": 130,
+        "scale": 0.9153846153846154,
+        "paste": [
+          78,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          74,
+          13,
+          182,
+          243
+        ],
+        "sourceHeadCut": 130,
+        "scale": 0.9153846153846154,
+        "paste": [
+          75,
+          20
+        ]
+      }
+    },
+    {
+      "role": "12_florist_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 180,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          75,
+          13,
+          181,
+          243
+        ],
+        "sourceHeadCut": 107,
+        "scale": 0.9158878504672897,
+        "paste": [
+          74,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          84,
+          26,
+          172,
+          242
+        ],
+        "sourceHeadCut": 101,
+        "scale": 0.9702970297029703,
+        "paste": [
+          85,
+          20
+        ]
+      }
+    },
+    {
+      "role": "13_pastrychef_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 140,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          61,
+          13,
+          195,
+          243
+        ],
+        "sourceHeadCut": 131,
+        "scale": 0.916030534351145,
+        "paste": [
+          73,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          61,
+          13,
+          195,
+          242
+        ],
+        "sourceHeadCut": 131,
+        "scale": 0.916030534351145,
+        "paste": [
+          64,
+          20
+        ]
+      }
+    },
+    {
+      "role": "14_teacher_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 126,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          69,
+          13,
+          187,
+          243
+        ],
+        "sourceHeadCut": 116,
+        "scale": 0.9137931034482759,
+        "paste": [
+          77,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          74,
+          31,
+          174,
+          243
+        ],
+        "sourceHeadCut": 107,
+        "scale": 0.9906542056074766,
+        "paste": [
+          75,
+          20
+        ]
+      }
+    },
+    {
+      "role": "15_nurse_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 147,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          60,
+          13,
+          195,
+          243
+        ],
+        "sourceHeadCut": 139,
+        "scale": 0.9136690647482014,
+        "paste": [
+          74,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          63,
+          13,
+          192,
+          243
+        ],
+        "sourceHeadCut": 139,
+        "scale": 0.9136690647482014,
+        "paste": [
+          62,
+          20
+        ]
+      }
+    },
+    {
+      "role": "16_librarian_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 115,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          74,
+          13,
+          182,
+          243
+        ],
+        "sourceHeadCut": 104,
+        "scale": 0.9134615384615384,
+        "paste": [
+          80,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          99,
+          21,
+          196,
+          242
+        ],
+        "sourceHeadCut": 100,
+        "scale": 0.95,
+        "paste": [
+          78,
+          20
+        ]
+      }
+    },
+    {
+      "role": "17_cafeowner_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 159,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          80,
+          13,
+          176,
+          243
+        ],
+        "sourceHeadCut": 110,
+        "scale": 0.9090909090909091,
+        "paste": [
+          86,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          82,
+          13,
+          170,
+          243
+        ],
+        "sourceHeadCut": 110,
+        "scale": 0.9090909090909091,
+        "paste": [
+          86,
+          20
+        ]
+      }
+    },
+    {
+      "role": "18_artist_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 124,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          58,
+          13,
+          198,
+          243
+        ],
+        "sourceHeadCut": 114,
+        "scale": 0.9122807017543859,
+        "paste": [
+          77,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          69,
+          13,
+          186,
+          242
+        ],
+        "sourceHeadCut": 113,
+        "scale": 0.9203539823008849,
+        "paste": [
+          73,
+          20
+        ]
+      }
+    },
+    {
+      "role": "19_vet_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 181,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          57,
+          13,
+          199,
+          243
+        ],
+        "sourceHeadCut": 120,
+        "scale": 0.9166666666666666,
+        "paste": [
+          77,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          65,
+          30,
+          191,
+          242
+        ],
+        "sourceHeadCut": 111,
+        "scale": 0.990990990990991,
+        "paste": [
+          58,
+          20
+        ]
+      }
+    },
+    {
+      "role": "20_student_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 178,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          70,
+          13,
+          185,
+          243
+        ],
+        "sourceHeadCut": 110,
+        "scale": 0.9090909090909091,
+        "paste": [
+          85,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          71,
+          13,
+          173,
+          243
+        ],
+        "sourceHeadCut": 110,
+        "scale": 0.9090909090909091,
+        "paste": [
+          77,
+          20
+        ]
+      }
+    },
+    {
+      "role": "21_firefighter_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 122,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          77,
+          20,
+          178,
+          230
+        ],
+        "sourceHeadCut": 102,
+        "scale": 1.0,
+        "paste": [
+          75,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          78,
+          20,
+          179,
+          230
+        ],
+        "sourceHeadCut": 102,
+        "scale": 1.0,
+        "paste": [
+          81,
+          20
+        ]
+      }
+    },
+    {
+      "role": "22_grocer_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 123,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          76,
+          20,
+          179,
+          230
+        ],
+        "sourceHeadCut": 103,
+        "scale": 1.0,
+        "paste": [
+          79,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          77,
+          20,
+          180,
+          230
+        ],
+        "sourceHeadCut": 103,
+        "scale": 1.0,
+        "paste": [
+          75,
+          20
+        ]
+      }
+    },
+    {
+      "role": "23_farmer_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 131,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          60,
+          20,
+          195,
+          230
+        ],
+        "sourceHeadCut": 111,
+        "scale": 1.0,
+        "paste": [
+          57,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          61,
+          20,
+          196,
+          230
+        ],
+        "sourceHeadCut": 111,
+        "scale": 1.0,
+        "paste": [
+          65,
+          20
+        ]
+      }
+    },
+    {
+      "role": "24_driver_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 129,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          68,
+          20,
+          187,
+          230
+        ],
+        "sourceHeadCut": 109,
+        "scale": 1.0,
+        "paste": [
+          64,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          69,
+          20,
+          188,
+          230
+        ],
+        "sourceHeadCut": 109,
+        "scale": 1.0,
+        "paste": [
+          74,
+          20
+        ]
+      }
+    },
+    {
+      "role": "25_hairdresser_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 126,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          72,
+          20,
+          183,
+          230
+        ],
+        "sourceHeadCut": 106,
+        "scale": 1.0,
+        "paste": [
+          71,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          73,
+          20,
+          184,
+          230
+        ],
+        "sourceHeadCut": 106,
+        "scale": 1.0,
+        "paste": [
+          75,
+          20
+        ]
+      }
+    },
+    {
+      "role": "26_baker_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 127,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          71,
+          20,
+          184,
+          230
+        ],
+        "sourceHeadCut": 107,
+        "scale": 1.0,
+        "paste": [
+          73,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          72,
+          20,
+          185,
+          230
+        ],
+        "sourceHeadCut": 107,
+        "scale": 1.0,
+        "paste": [
+          71,
+          20
+        ]
+      }
+    },
+    {
+      "role": "27_librarian_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 128,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          76,
+          20,
+          180,
+          230
+        ],
+        "sourceHeadCut": 108,
+        "scale": 1.0,
+        "paste": [
+          78,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          76,
+          20,
+          180,
+          230
+        ],
+        "sourceHeadCut": 108,
+        "scale": 1.0,
+        "paste": [
+          76,
+          20
+        ]
+      }
+    },
+    {
+      "role": "28_mechanic_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 126,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          76,
+          20,
+          179,
+          230
+        ],
+        "sourceHeadCut": 106,
+        "scale": 1.0,
+        "paste": [
+          76,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          77,
+          20,
+          180,
+          230
+        ],
+        "sourceHeadCut": 106,
+        "scale": 1.0,
+        "paste": [
+          78,
+          20
+        ]
+      }
+    },
+    {
+      "role": "29_innkeeper_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 127,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          71,
+          20,
+          184,
+          230
+        ],
+        "sourceHeadCut": 107,
+        "scale": 1.0,
+        "paste": [
+          74,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          72,
+          20,
+          185,
+          230
+        ],
+        "sourceHeadCut": 107,
+        "scale": 1.0,
+        "paste": [
+          70,
+          20
+        ]
+      }
+    },
+    {
+      "role": "30_florist_male",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 169,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          68,
+          20,
+          188,
+          230
+        ],
+        "sourceHeadCut": 109,
+        "scale": 1.0,
+        "paste": [
+          74,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          68,
+          20,
+          188,
+          230
+        ],
+        "sourceHeadCut": 109,
+        "scale": 1.0,
+        "paste": [
+          63,
+          20
+        ]
+      }
+    },
+    {
+      "role": "31_firefighter_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 122,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          78,
+          20,
+          178,
+          230
+        ],
+        "sourceHeadCut": 102,
+        "scale": 1.0,
+        "paste": [
+          78,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          78,
+          20,
+          178,
+          230
+        ],
+        "sourceHeadCut": 102,
+        "scale": 1.0,
+        "paste": [
+          78,
+          20
+        ]
+      }
+    },
+    {
+      "role": "32_grocer_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 125,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          65,
+          20,
+          190,
+          230
+        ],
+        "sourceHeadCut": 105,
+        "scale": 1.0,
+        "paste": [
+          74,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          66,
+          20,
+          191,
+          230
+        ],
+        "sourceHeadCut": 105,
+        "scale": 1.0,
+        "paste": [
+          58,
+          20
+        ]
+      }
+    },
+    {
+      "role": "33_farmer_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 179,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          56,
+          20,
+          200,
+          230
+        ],
+        "sourceHeadCut": 116,
+        "scale": 1.0,
+        "paste": [
+          57,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          56,
+          20,
+          200,
+          230
+        ],
+        "sourceHeadCut": 116,
+        "scale": 1.0,
+        "paste": [
+          56,
+          20
+        ]
+      }
+    },
+    {
+      "role": "34_driver_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 129,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          66,
+          20,
+          189,
+          230
+        ],
+        "sourceHeadCut": 109,
+        "scale": 1.0,
+        "paste": [
+          66,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          67,
+          20,
+          190,
+          230
+        ],
+        "sourceHeadCut": 109,
+        "scale": 1.0,
+        "paste": [
+          68,
+          20
+        ]
+      }
+    },
+    {
+      "role": "35_hairdresser_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 130,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          62,
+          20,
+          194,
+          230
+        ],
+        "sourceHeadCut": 110,
+        "scale": 1.0,
+        "paste": [
+          66,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          62,
+          20,
+          194,
+          230
+        ],
+        "sourceHeadCut": 110,
+        "scale": 1.0,
+        "paste": [
+          60,
+          20
+        ]
+      }
+    },
+    {
+      "role": "36_barista_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 169,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          59,
+          20,
+          197,
+          230
+        ],
+        "sourceHeadCut": 114,
+        "scale": 1.0,
+        "paste": [
+          82,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          59,
+          20,
+          197,
+          230
+        ],
+        "sourceHeadCut": 114,
+        "scale": 1.0,
+        "paste": [
+          37,
+          20
+        ]
+      }
+    },
+    {
+      "role": "37_carpenter_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 126,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          68,
+          20,
+          188,
+          230
+        ],
+        "sourceHeadCut": 106,
+        "scale": 1.0,
+        "paste": [
+          74,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          68,
+          20,
+          188,
+          230
+        ],
+        "sourceHeadCut": 106,
+        "scale": 1.0,
+        "paste": [
+          62,
+          20
+        ]
+      }
+    },
+    {
+      "role": "38_postal_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 125,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          67,
+          20,
+          189,
+          230
+        ],
+        "sourceHeadCut": 105,
+        "scale": 1.0,
+        "paste": [
+          84,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          67,
+          20,
+          189,
+          230
+        ],
+        "sourceHeadCut": 105,
+        "scale": 1.0,
+        "paste": [
+          51,
+          20
+        ]
+      }
+    },
+    {
+      "role": "39_police_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 173,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          74,
+          20,
+          182,
+          230
+        ],
+        "sourceHeadCut": 104,
+        "scale": 1.0,
+        "paste": [
+          70,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          74,
+          20,
+          182,
+          230
+        ],
+        "sourceHeadCut": 104,
+        "scale": 1.0,
+        "paste": [
+          80,
+          20
+        ]
+      }
+    },
+    {
+      "role": "40_doctor_female",
+      "uniqueYawPoses": 7,
+      "lowerBodyFixedFromY": 135,
+      "frontExact": true,
+      "nativeDirectionalHeads": true,
+      "durationMs": 1440,
+      "leftSource": {
+        "source": "frame_04.png",
+        "mirrored": false,
+        "trimBox": [
+          65,
+          20,
+          191,
+          230
+        ],
+        "sourceHeadCut": 115,
+        "scale": 1.0,
+        "paste": [
+          72,
+          20
+        ]
+      },
+      "rightSource": {
+        "source": "frame_07.png",
+        "mirrored": false,
+        "trimBox": [
+          65,
+          20,
+          191,
+          230
+        ],
+        "sourceHeadCut": 115,
+        "scale": 1.0,
+        "paste": [
+          58,
+          20
+        ]
+      }
+    }
+  ],
+  "humanApproval": "pending visual review of the corrected shake_head clips"
+}

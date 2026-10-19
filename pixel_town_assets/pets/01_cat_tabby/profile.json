@@ -1,0 +1,63 @@
+{
+  "id": "01_cat_tabby",
+  "sprite": "01_cat_tabby",
+  "assetFolder": "pets/01_cat_tabby",
+  "kind": "animal",
+  "name": "麦粒",
+  "sex": "未指定",
+  "role": "猫",
+  "animal": {
+    "species": "猫",
+    "breed": "中华田园猫",
+    "coat": "棕黑虎斑",
+    "bodySize": "小",
+    "scale": 0.46,
+    "rig": "cat",
+    "senses": "近地面视点，先根据气味、耳朵方向和移动物体定位，保留逃离路线；不读取人类文字或猜测人类动机。",
+    "behavior": "伏低观察、嗅闻、舔毛、抓挠、缓慢靠近",
+    "allowedActions": [
+      "idle",
+      "walk",
+      "run",
+      "eat",
+      "drink",
+      "groom",
+      "rest",
+      "observe",
+      "sniff",
+      "flee",
+      "wag",
+      "pounce",
+      "stretch",
+      "sleep"
+    ],
+    "habitat": "住宅街安静角落",
+    "locomotion": "四足运动；禁止双足直立",
+    "speedFactor": 0.8,
+    "nonAnthropomorphic": true
+  },
+  "persona": {
+    "personality": "好奇，接近后先嗅闻",
+    "background": "在住宅街安静角落生活的中华田园猫个体",
+    "interests": "伏低观察、嗅闻、舔毛、抓挠、缓慢靠近",
+    "speech": "仅自然叫声与姿态；不使用人类语言"
+  },
+  "presets": [
+    {
+      "id": "familiar",
+      "label": "熟悉环境",
+      "personality": "好奇，接近后先嗅闻",
+      "background": "已熟悉住宅街安静角落的气味与安全位置",
+      "interests": "可接近食物、同类线索与安全藏身处",
+      "speech": "仅物种自然声音与身体姿态"
+    },
+    {
+      "id": "cautious",
+      "label": "刚到新环境",
+      "personality": "警觉，接近刺激前先观察，允许躲藏与退让",
+      "background": "刚进入住宅街安静角落，逐渐建立安全感",
+      "interests": "熟悉照护者气味与退路",
+      "speech": "仅物种自然声音与身体姿态"
+    }
+  ]
+}

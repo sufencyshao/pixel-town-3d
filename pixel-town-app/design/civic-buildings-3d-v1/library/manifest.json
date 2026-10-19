@@ -1,0 +1,65 @@
+{
+  "id": "B02",
+  "title": "溪畔图书馆",
+  "building": [
+    19,
+    12
+  ],
+  "plot": [
+    23.75,
+    15.5
+  ],
+  "areas": [
+    "借还书台",
+    "六组双面书架",
+    "共享阅览",
+    "靠窗阅读",
+    "儿童阅读角",
+    "新书展示"
+  ],
+  "residents": [
+    "知秋",
+    "书衡"
+  ],
+  "seats": 15,
+  "anchors": {
+    "entrance": [
+      0,
+      -5.9,
+      0.2
+    ],
+    "lending": [
+      -4.25,
+      -4.95,
+      0.2
+    ],
+    "staff": [
+      -4.8,
+      -2.67,
+      0.2
+    ],
+    "children": [
+      5.55,
+      -4.35,
+      0.2
+    ]
+  },
+  "units": "metres",
+  "sourceAxes": {
+    "up": "+Z",
+    "front": "-Y"
+  },
+  "glbAxes": {
+    "up": "+Y",
+    "front": "+Z"
+  },
+  "blenderVersion": "5.2.2 LTS",
+  "meshObjects": 1018,
+  "triangles": 39856,
+  "nonfinite": [],
+  "degenerateTriangles": 0,
+  "asset": "B02-library.glb",
+  "sha256": "81bde0bf98ee0dc36c18350a9434a7116b4b59c40a8838d57d5fba85adfce767",
+  "status": "design-review",
+  "anchorsStatus": "proposed-not-pathfinding-tested"
+}

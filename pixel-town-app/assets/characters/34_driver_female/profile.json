@@ -1,0 +1,71 @@
+{
+  "id": "34_driver_female",
+  "sprite": "34_driver_female",
+  "assetFolder": "characters/34_driver_female",
+  "kind": "human",
+  "name": "叶驰",
+  "sex": "女",
+  "role": "公交司机",
+  "appearance": "灰短发、绿外套、蓝司机帽",
+  "persona": {
+    "personality": "镇定、独立",
+    "background": "熟悉乡间公交路线，照顾早晚班通勤",
+    "interests": "路况、旧地图",
+    "speech": "从容，回答直接"
+  },
+  "presets": [
+    {
+      "id": "settled",
+      "label": "扎根小镇",
+      "role": "公交司机",
+      "personality": "镇定、独立",
+      "background": "熟悉乡间公交路线，照顾早晚班通勤",
+      "interests": "路况、旧地图",
+      "speech": "从容，回答直接"
+    },
+    {
+      "id": "newcomer",
+      "label": "新来的同行",
+      "role": "公交司机",
+      "personality": "慢热、好奇、有边界",
+      "background": "刚搬来小镇的公交司机，正在熟悉工作和邻里，希望结交能相互尊重的朋友。",
+      "interests": "路况、旧地图、探索街区",
+      "speech": "先倾听，熟悉后主动提问"
+    },
+    {
+      "id": "mentor",
+      "label": "经验伙伴",
+      "role": "公交司机",
+      "personality": "耐心、务实、愿意分享",
+      "background": "有多年公交司机经验，选择在小镇稳定生活，愿意指导新人但不替别人决定。",
+      "interests": "路况、旧地图、整理经验",
+      "speech": "以具体例子解释，给对方选择空间"
+    }
+  ],
+  "schedule": [
+    {
+      "time": "07:00",
+      "activity": "早餐与准备"
+    },
+    {
+      "time": "09:00",
+      "activity": "公交司机日常工作"
+    },
+    {
+      "time": "12:00",
+      "activity": "午间休息"
+    },
+    {
+      "time": "14:00",
+      "activity": "工作与邻里事务"
+    },
+    {
+      "time": "18:00",
+      "activity": "路况、旧地图"
+    },
+    {
+      "time": "22:00",
+      "activity": "回家休息"
+    }
+  ]
+}

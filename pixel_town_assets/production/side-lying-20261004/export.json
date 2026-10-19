@@ -1,0 +1,902 @@
+[
+  {
+    "id": "01_hero_male",
+    "name": "阿澈",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/01_hero_male.png",
+    "sourceBounds": [
+      30,
+      318,
+      1216,
+      934
+    ],
+    "bounds": [
+      12,
+      104,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "be98f41eaae71f3160c2c6d201c2bb37631958b6710728b99e450dc0b27054dc"
+  },
+  {
+    "id": "02_hero_female",
+    "name": "小满",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/02_hero_female.png",
+    "sourceBounds": [
+      22,
+      329,
+      1227,
+      948
+    ],
+    "bounds": [
+      12,
+      104,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "eaa7d246d9d5c869fe16c5c6c85d770cde7582b0c6b5e516113f7ebe29c653aa"
+  },
+  {
+    "id": "03_barista_male",
+    "name": "林屿",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/03_barista_male.png",
+    "sourceBounds": [
+      32,
+      361,
+      1234,
+      961
+    ],
+    "bounds": [
+      12,
+      108,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "a79d3611be2564908ae74451093f3ae02a95432ba483f0600302f0cce8227808"
+  },
+  {
+    "id": "04_baker_male",
+    "name": "麦麦",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/04_baker_male.png",
+    "sourceBounds": [
+      17,
+      307,
+      1234,
+      1012
+    ],
+    "bounds": [
+      12,
+      90,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "f515d31d62eb8924f3e643433a6bc112f43928a6a884ff4c9028d7b3bd030173"
+  },
+  {
+    "id": "05_carpenter_male",
+    "name": "大森",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/05_carpenter_male.png",
+    "sourceBounds": [
+      42,
+      375,
+      1225,
+      953
+    ],
+    "bounds": [
+      12,
+      110,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "5ab969c78df2c0903e91923f07315d00b84bc67c3e386bc31ea07a8a5f3ecccd"
+  },
+  {
+    "id": "06_postman_male",
+    "name": "小路",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/06_postman_male.png",
+    "sourceBounds": [
+      34,
+      341,
+      1216,
+      954
+    ],
+    "bounds": [
+      12,
+      104,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "62b1d2065e1d3bf0d704d4cccf60c667cccec2044905051ce369cc8733818c24"
+  },
+  {
+    "id": "07_police_male",
+    "name": "程正",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/07_police_male.png",
+    "sourceBounds": [
+      38,
+      375,
+      1218,
+      965
+    ],
+    "bounds": [
+      12,
+      108,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "77ff791882d8a020abca51d1061f0b837cfd15fafc3249320075b153c01979dc"
+  },
+  {
+    "id": "08_doctor_male",
+    "name": "许衡",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/08_doctor_male.png",
+    "sourceBounds": [
+      23,
+      335,
+      1232,
+      993
+    ],
+    "bounds": [
+      12,
+      98,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "e7dd4e07d8228ddb89f8d408821c6d48f4bde0130b0f2f6284eeb2f072481ffd"
+  },
+  {
+    "id": "09_gardener_male",
+    "name": "阿禾",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/09_gardener_male.png",
+    "sourceBounds": [
+      27,
+      361,
+      1230,
+      948
+    ],
+    "bounds": [
+      12,
+      110,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "9136097de860efd03697c4f44886fa3ccb870f28f6081c6157516857b97c5582"
+  },
+  {
+    "id": "10_musician_male",
+    "name": "迟野",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/10_musician_male.png",
+    "sourceBounds": [
+      20,
+      349,
+      1213,
+      952
+    ],
+    "bounds": [
+      12,
+      106,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "c3b7788102d47dc42db95daa6d0f311fee689119fc7c23671d4d3be6a79fcdeb"
+  },
+  {
+    "id": "11_chef_male",
+    "name": "陈锅",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/11_chef_male.png",
+    "sourceBounds": [
+      21,
+      322,
+      1226,
+      969
+    ],
+    "bounds": [
+      12,
+      100,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "23500fb54c8616206aee6f8ebc630dfb75e1b4513da2ca6f5c9195137afcccec"
+  },
+  {
+    "id": "12_florist_female",
+    "name": "花音",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/12_florist_female.png",
+    "sourceBounds": [
+      31,
+      348,
+      1216,
+      943
+    ],
+    "bounds": [
+      12,
+      108,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "6dbd84e9efcf8004b772d6c2d438a4e1b12b4ff5b0687005ca48eea34fa7ef99"
+  },
+  {
+    "id": "13_pastrychef_female",
+    "name": "糖糖",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/13_pastrychef_female.png",
+    "sourceBounds": [
+      56,
+      276,
+      1197,
+      980
+    ],
+    "bounds": [
+      12,
+      80,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "7ebf92199116f0fee5ae6513a7603042a79d68138f5d493793f65e4130755096"
+  },
+  {
+    "id": "14_teacher_female",
+    "name": "温书",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/14_teacher_female.png",
+    "sourceBounds": [
+      32,
+      355,
+      1225,
+      941
+    ],
+    "bounds": [
+      12,
+      110,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "ef1d7dfc48c84e91f5e7921a33259e195e9f86a40d8713abcec8b683dabde161"
+  },
+  {
+    "id": "15_nurse_female",
+    "name": "苏晴",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/15_nurse_female.png",
+    "sourceBounds": [
+      38,
+      343,
+      1218,
+      965
+    ],
+    "bounds": [
+      12,
+      102,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "8e60edfb2a364bfd13727913999d21d254d298d4b5920fb8e9ff7a34f2cf5518"
+  },
+  {
+    "id": "16_librarian_female",
+    "name": "知秋",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/16_librarian_female.png",
+    "sourceBounds": [
+      33,
+      371,
+      1229,
+      980
+    ],
+    "bounds": [
+      12,
+      106,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "168300b8051827c5020c388dac5777b7ebea410e6f6109c3ad642f6768d0887f"
+  },
+  {
+    "id": "17_cafeowner_female",
+    "name": "沈知",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/17_cafeowner_female.png",
+    "sourceBounds": [
+      29,
+      353,
+      1226,
+      960
+    ],
+    "bounds": [
+      12,
+      106,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "6374fc611020b6b1c90a60691465b68a138484368ce93d135ebf303e15bb2516"
+  },
+  {
+    "id": "18_artist_female",
+    "name": "鹿眠",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/18_artist_female.png",
+    "sourceBounds": [
+      31,
+      380,
+      1233,
+      995
+    ],
+    "bounds": [
+      12,
+      106,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "3ebc3943c30a4b5b4442d2571a0a2b2bc2053d1f564362f7ecacb5f0c5d9faa7"
+  },
+  {
+    "id": "19_vet_female",
+    "name": "安安",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/19_vet_female.png",
+    "sourceBounds": [
+      44,
+      325,
+      1209,
+      975
+    ],
+    "bounds": [
+      12,
+      94,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "b123f3ea83bf009964056854962b277ae2484e7dc972199e50fc43667011c5be"
+  },
+  {
+    "id": "20_student_female",
+    "name": "夏芽",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/20_student_female.png",
+    "sourceBounds": [
+      17,
+      338,
+      1237,
+      963
+    ],
+    "bounds": [
+      12,
+      106,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "f001eb77830b491dadb7a3e0529961ca463ff4eb6e9ad198f2a26b1c2ec3c0dd"
+  },
+  {
+    "id": "21_firefighter_male",
+    "name": "陆焰",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/21_firefighter_male.png",
+    "sourceBounds": [
+      45,
+      382,
+      1218,
+      930
+    ],
+    "bounds": [
+      12,
+      116,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "3e95c62e3b80673ab144f46981729ede4ebe0c11c4fe22fd2571e4e8baff1e56"
+  },
+  {
+    "id": "22_grocer_male",
+    "name": "周籽",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/22_grocer_male.png",
+    "sourceBounds": [
+      33,
+      322,
+      1210,
+      965
+    ],
+    "bounds": [
+      12,
+      98,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "6d217d84d77468bbac7414c7c1a43e9cf2b999f73cecb7f52c0903d382aa7526"
+  },
+  {
+    "id": "23_farmer_male",
+    "name": "田伯",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/23_farmer_male.png",
+    "sourceBounds": [
+      34,
+      369,
+      1232,
+      964
+    ],
+    "bounds": [
+      12,
+      108,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "74ccd5a3c8bed634383c03f1065cfc1bf439b69640596c0faffffef9e9180097"
+  },
+  {
+    "id": "24_driver_male",
+    "name": "韩途",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/24_driver_male.png",
+    "sourceBounds": [
+      47,
+      343,
+      1222,
+      932
+    ],
+    "bounds": [
+      12,
+      108,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "df535ada79038f503712ac9b1d51138e41f0b8bf2500eed83cc9317bb986a426"
+  },
+  {
+    "id": "25_hairdresser_male",
+    "name": "银梳",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/25_hairdresser_male.png",
+    "sourceBounds": [
+      78,
+      111,
+      1700,
+      793
+    ],
+    "bounds": [
+      12,
+      126,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "25269488401a78b7dd7a3eb59c906ac0ada70a0ca8da01eae338fbca87e0e168"
+  },
+  {
+    "id": "26_baker_male",
+    "name": "陶麦",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/26_baker_male.png",
+    "sourceBounds": [
+      112,
+      138,
+      1676,
+      778
+    ],
+    "bounds": [
+      12,
+      130,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "1b171c2a99d24b863f9faa7ada50341a63e0dc60250b0ed4fb96dacc081e5247"
+  },
+  {
+    "id": "27_librarian_male",
+    "name": "书衡",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/27_librarian_male.png",
+    "sourceBounds": [
+      113,
+      123,
+      1661,
+      797
+    ],
+    "bounds": [
+      12,
+      122,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "7254d12058bbe01603c9456a58233ddfc2c23b125dfebb38945f6bb4340a606a"
+  },
+  {
+    "id": "28_mechanic_male",
+    "name": "罗栓",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/28_mechanic_male.png",
+    "sourceBounds": [
+      62,
+      109,
+      1729,
+      789
+    ],
+    "bounds": [
+      12,
+      130,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "c9e017a61cecee89264a824be1cba276de5a7e6bb41ef9ae7f396021d9ccedf4"
+  },
+  {
+    "id": "29_innkeeper_male",
+    "name": "顾栈",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/29_innkeeper_male.png",
+    "sourceBounds": [
+      116,
+      138,
+      1669,
+      777
+    ],
+    "bounds": [
+      12,
+      128,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "d94a667391061481fbb54109f937aaf48ac04faa865597841b8b639d72e96f8c"
+  },
+  {
+    "id": "30_florist_male",
+    "name": "林苔",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/30_florist_male.png",
+    "sourceBounds": [
+      71,
+      150,
+      1713,
+      766
+    ],
+    "bounds": [
+      12,
+      136,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "173d24e7247ab780cdd22f041b280b7da2c3e01d7d4f1682e03d4fc3d4dffce8"
+  },
+  {
+    "id": "31_firefighter_female",
+    "name": "岑灯",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/31_firefighter_female.png",
+    "sourceBounds": [
+      100,
+      127,
+      1661,
+      776
+    ],
+    "bounds": [
+      12,
+      128,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "d9b8f08c991205d49772574b36e2b26f9b6aaad5097ad03d156f351a88960373"
+  },
+  {
+    "id": "32_grocer_female",
+    "name": "陆杏",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/32_grocer_female.png",
+    "sourceBounds": [
+      116,
+      128,
+      1662,
+      769
+    ],
+    "bounds": [
+      12,
+      128,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "859c029a6f486a1ced4c6592289dc85fe7195855d972edc2d0870acb73844eff"
+  },
+  {
+    "id": "33_farmer_female",
+    "name": "禾青",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/33_farmer_female.png",
+    "sourceBounds": [
+      34,
+      353,
+      1225,
+      945
+    ],
+    "bounds": [
+      12,
+      108,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "ada8fca8afdd18ed3e68bd4d4c3661a08ffb501f2d5189cf93f500f1122ee8f4"
+  },
+  {
+    "id": "34_driver_female",
+    "name": "叶驰",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/34_driver_female.png",
+    "sourceBounds": [
+      49,
+      374,
+      1214,
+      991
+    ],
+    "bounds": [
+      12,
+      102,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "6915565961329d233f359464939c917d3b6da7371a9b44773a28fe95a56dc50c"
+  },
+  {
+    "id": "35_hairdresser_female",
+    "name": "卷云",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/35_hairdresser_female.png",
+    "sourceBounds": [
+      31,
+      338,
+      1222,
+      943
+    ],
+    "bounds": [
+      12,
+      106,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "1d0f42e0fb2ce8b57a6e0b1ff55a02f83655d7b28fdb4e89e0aba607c197d8b3"
+  },
+  {
+    "id": "36_barista_female",
+    "name": "闻豆",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/36_barista_female.png",
+    "sourceBounds": [
+      23,
+      376,
+      1229,
+      939
+    ],
+    "bounds": [
+      12,
+      116,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "fd3532120f832cdc75fff5663e66fc4802016f6e5a879c781e40d075a1da5d1d"
+  },
+  {
+    "id": "37_carpenter_female",
+    "name": "榆棠",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/37_carpenter_female.png",
+    "sourceBounds": [
+      36,
+      359,
+      1220,
+      921
+    ],
+    "bounds": [
+      12,
+      114,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "a9709fe0007de1dec08bf589db2972585e467d044aa8aee81e869f1eb5790ebd"
+  },
+  {
+    "id": "38_postal_female",
+    "name": "章铃",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/38_postal_female.png",
+    "sourceBounds": [
+      15,
+      336,
+      1230,
+      936
+    ],
+    "bounds": [
+      12,
+      110,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "559533547b7d655c5ceb9645c54600b2e69dacb671b87d46866ccdd1dce70c47"
+  },
+  {
+    "id": "39_police_female",
+    "name": "许巡",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/39_police_female.png",
+    "sourceBounds": [
+      33,
+      332,
+      1216,
+      933
+    ],
+    "bounds": [
+      12,
+      106,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "6eee1a93576ad33d98e283f77bd9bb6bd05a92918dbfb1b9accf2fa397dca785"
+  },
+  {
+    "id": "40_doctor_female",
+    "name": "余笙",
+    "kind": "human",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/40_doctor_female.png",
+    "sourceBounds": [
+      14,
+      327,
+      1220,
+      955
+    ],
+    "bounds": [
+      12,
+      104,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "d56032c0e1a4f6179297d1aaefdd85657bf39e391fc4fe2d47ca52bdf0c2cbd3"
+  },
+  {
+    "id": "hai-qin-yan",
+    "name": "海琴烟",
+    "kind": "codexmini",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/hai-qin-yan.png",
+    "sourceBounds": [
+      32,
+      287,
+      1235,
+      976
+    ],
+    "bounds": [
+      12,
+      92,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "4959019ab931e714c6dfff8166bcb944f6d04517026eb3d5ae5e43ea72912633"
+  },
+  {
+    "id": "kanna",
+    "name": "康娜",
+    "kind": "codexmini",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/kanna.png",
+    "sourceBounds": [
+      33,
+      238,
+      1227,
+      996
+    ],
+    "bounds": [
+      12,
+      76,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "536eee663bf76bdafc95ae5a7e4deb587ec10c52a07fcb285b8ff311a90c8d56"
+  },
+  {
+    "id": "rui",
+    "name": "锐",
+    "kind": "codexmini",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/rui.png",
+    "sourceBounds": [
+      18,
+      341,
+      1236,
+      967
+    ],
+    "bounds": [
+      12,
+      104,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "3debbd5a8fd6fff5dcd34779717856e6d654c0a0e989fb3c789543e4210b0dbf"
+  },
+  {
+    "id": "xin",
+    "name": "歆",
+    "kind": "codexmini",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/xin.png",
+    "sourceBounds": [
+      11,
+      344,
+      1228,
+      928
+    ],
+    "bounds": [
+      12,
+      112,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "9cbb7669b26fb44a413e61eeacfa3eac9a1d6a6fcc251fdb98e031f8f0ca00af"
+  },
+  {
+    "id": "xin-fragrance",
+    "name": "馨",
+    "kind": "codexmini",
+    "raw": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/xin-fragrance.png",
+    "sourceBounds": [
+      26,
+      371,
+      1211,
+      924
+    ],
+    "bounds": [
+      12,
+      116,
+      244,
+      224
+    ],
+    "colors": 48,
+    "atlasSHA256": "90fa2fcb32d39d804f105855a38d9eb39e8d8c270a23aab9e8ae1fb3eea6fcc4"
+  }
+]

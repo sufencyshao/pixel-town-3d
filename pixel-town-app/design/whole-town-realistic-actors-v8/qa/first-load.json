@@ -1,0 +1,1381 @@
+{
+  "errors": [],
+  "warnings": [],
+  "snapshot": {
+    "ready": true,
+    "people": 45,
+    "animals": 16,
+    "pending": 6,
+    "selected": "scenery-duck",
+    "actors": [
+      {
+        "id": "03_barista_male",
+        "type": "person",
+        "position": [
+          -4.5,
+          0.09,
+          81.5
+        ],
+        "height": 1.8199070618142426,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "02_hero_female",
+        "type": "person",
+        "position": [
+          -4.5,
+          0.09,
+          14
+        ],
+        "height": 1.7421995918694677,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "01_hero_male",
+        "type": "person",
+        "position": [
+          59,
+          0.044,
+          13.5
+        ],
+        "height": 1.8194144533525114,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "05_carpenter_male",
+        "type": "person",
+        "position": [
+          -90,
+          0.09,
+          14
+        ],
+        "height": 1.8377176733221245,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "04_baker_male",
+        "type": "person",
+        "position": [
+          -1.5,
+          0.09,
+          81.5
+        ],
+        "height": 1.8031744131234553,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "06_postman_male",
+        "type": "person",
+        "position": [
+          -11,
+          0.09,
+          -60
+        ],
+        "height": 1.8121866089463907,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "07_police_male",
+        "type": "person",
+        "position": [
+          -0.5,
+          0.09,
+          -65.5
+        ],
+        "height": 1.8064224475751796,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "08_doctor_male",
+        "type": "person",
+        "position": [
+          1.5,
+          0.09,
+          -65.5
+        ],
+        "height": 1.8023942425627337,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "09_gardener_male",
+        "type": "person",
+        "position": [
+          4,
+          0.09,
+          81.5
+        ],
+        "height": 1.8071422314537615,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "12_florist_female",
+        "type": "person",
+        "position": [
+          -11,
+          0.09,
+          88.5
+        ],
+        "height": 1.7336963449174032,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "10_musician_male",
+        "type": "person",
+        "position": [
+          -88,
+          0.09,
+          14
+        ],
+        "height": 1.8647799620520404,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "11_chef_male",
+        "type": "person",
+        "position": [
+          6,
+          0.09,
+          81.5
+        ],
+        "height": 1.8071435221903964,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "13_pastrychef_female",
+        "type": "person",
+        "position": [
+          -1.5,
+          0.09,
+          95
+        ],
+        "height": 1.72821530091994,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "14_teacher_female",
+        "type": "person",
+        "position": [
+          4.5,
+          0.09,
+          -67.5
+        ],
+        "height": 1.7394214340518999,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "15_nurse_female",
+        "type": "person",
+        "position": [
+          -11,
+          0.09,
+          -58
+        ],
+        "height": 1.7318731985272497,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "18_artist_female",
+        "type": "person",
+        "position": [
+          -88,
+          0.09,
+          12
+        ],
+        "height": 1.7730331441228782,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "17_cafeowner_female",
+        "type": "person",
+        "position": [
+          1.5,
+          0.09,
+          95
+        ],
+        "height": 1.739307546510852,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "16_librarian_female",
+        "type": "person",
+        "position": [
+          0.5,
+          0.09,
+          -67
+        ],
+        "height": 1.7285150314731212,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "19_vet_female",
+        "type": "person",
+        "position": [
+          49,
+          0.09,
+          -15
+        ],
+        "height": 1.7343697452661337,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "20_student_female",
+        "type": "person",
+        "position": [
+          2.5,
+          0.09,
+          -67.5
+        ],
+        "height": 1.7339666090311174,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "21_firefighter_male",
+        "type": "person",
+        "position": [
+          70.5,
+          0.13,
+          80.5
+        ],
+        "height": 1.8533374484749061,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "23_farmer_male",
+        "type": "person",
+        "position": [
+          -91.5,
+          0.1,
+          86.5
+        ],
+        "height": 1.8096947166801645,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "22_grocer_male",
+        "type": "person",
+        "position": [
+          4.5,
+          0.09,
+          95
+        ],
+        "height": 1.8272120014819089,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "24_driver_male",
+        "type": "person",
+        "position": [
+          70.5,
+          0.13,
+          78.5
+        ],
+        "height": 1.8154356886359715,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "25_hairdresser_male",
+        "type": "person",
+        "position": [
+          -4.5,
+          0.09,
+          95
+        ],
+        "height": 1.8218934011620609,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "26_baker_male",
+        "type": "person",
+        "position": [
+          -3,
+          0.09,
+          96
+        ],
+        "height": 1.8183910977230127,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "27_librarian_male",
+        "type": "person",
+        "position": [
+          -11,
+          0.09,
+          -56
+        ],
+        "height": 1.8023922112354551,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "29_innkeeper_male",
+        "type": "person",
+        "position": [
+          83,
+          0.13,
+          76
+        ],
+        "height": 1.8192362343605486,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "28_mechanic_male",
+        "type": "person",
+        "position": [
+          -88,
+          0.09,
+          16
+        ],
+        "height": 1.8435871886391066,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "30_florist_male",
+        "type": "person",
+        "position": [
+          6.5,
+          0.09,
+          95
+        ],
+        "height": 1.8260234484567999,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "31_firefighter_female",
+        "type": "person",
+        "position": [
+          81.5,
+          0.13,
+          75
+        ],
+        "height": 1.864961679920161,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "32_grocer_female",
+        "type": "person",
+        "position": [
+          -6.5,
+          0.09,
+          95
+        ],
+        "height": 1.7559911818212002,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "33_farmer_female",
+        "type": "person",
+        "position": [
+          -89.5,
+          0.1,
+          86.5
+        ],
+        "height": 1.7208321532927704,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "34_driver_female",
+        "type": "person",
+        "position": [
+          69,
+          0.13,
+          79.5
+        ],
+        "height": 1.7351528147127413,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "36_barista_female",
+        "type": "person",
+        "position": [
+          3,
+          0.09,
+          96
+        ],
+        "height": 1.7410078942277,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "35_hairdresser_female",
+        "type": "person",
+        "position": [
+          -1.5,
+          0.09,
+          97
+        ],
+        "height": 1.7352751554022336,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "37_carpenter_female",
+        "type": "person",
+        "position": [
+          -89,
+          0.09,
+          15
+        ],
+        "height": 1.77078992895822,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "39_police_female",
+        "type": "person",
+        "position": [
+          3,
+          0.09,
+          -47
+        ],
+        "height": 1.7380486513677826,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "38_postal_female",
+        "type": "person",
+        "position": [
+          -0.5,
+          0.09,
+          -48
+        ],
+        "height": 1.7367978264282296,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "40_doctor_female",
+        "type": "person",
+        "position": [
+          5,
+          0.09,
+          -47
+        ],
+        "height": 1.7387510731430116,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "kanna",
+        "type": "person",
+        "position": [
+          1.5,
+          0.09,
+          14
+        ],
+        "height": 1.4330282463966941,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "hai-qin-yan",
+        "type": "person",
+        "position": [
+          -1.5,
+          0.09,
+          14
+        ],
+        "height": 1.725531991181557,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "rui",
+        "type": "person",
+        "position": [
+          4.5,
+          0.09,
+          14
+        ],
+        "height": 1.7520511485295365,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "xin-fragrance",
+        "type": "person",
+        "position": [
+          -1.5,
+          0.09,
+          16
+        ],
+        "height": 1.7392499800624737,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "xin",
+        "type": "person",
+        "position": [
+          -4.5,
+          0.09,
+          16
+        ],
+        "height": 1.7430686982063932,
+        "action": "Idle",
+        "clips": [
+          "Idle",
+          "Look around",
+          "Talk",
+          "Thoughtful",
+          "Wave",
+          "Cheer",
+          "Clap",
+          "Dance",
+          "Walk",
+          "Run"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "01_cat_tabby",
+        "type": "animal",
+        "position": [
+          -88,
+          0.07,
+          -91
+        ],
+        "height": 0.51,
+        "action": "Animation",
+        "clips": [
+          "Animation"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "02_cat_calico",
+        "type": "animal",
+        "position": [
+          1,
+          0.09,
+          78
+        ],
+        "height": 0.51,
+        "action": "Animation",
+        "clips": [
+          "Animation"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "03_cat_british_blue",
+        "type": "animal",
+        "position": [
+          68,
+          0.13,
+          49.5
+        ],
+        "height": 0.51,
+        "action": "Animation",
+        "clips": [
+          "Animation"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "04_cat_siamese",
+        "type": "animal",
+        "position": [
+          1,
+          0.09,
+          -78
+        ],
+        "height": 0.51,
+        "action": "Animation",
+        "clips": [
+          "Animation"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "05_cat_maine",
+        "type": "animal",
+        "position": [
+          -88,
+          0.07,
+          -92
+        ],
+        "height": 0.51,
+        "action": "Animation",
+        "clips": [
+          "Animation"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "06_dog_corgi",
+        "type": "animal",
+        "position": [
+          64,
+          0.044,
+          13
+        ],
+        "height": 0.61,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "07_dog_shiba",
+        "type": "animal",
+        "position": [
+          63,
+          0.044,
+          11.5
+        ],
+        "height": 0.61,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "08_dog_border",
+        "type": "animal",
+        "position": [
+          -63,
+          0,
+          61
+        ],
+        "height": 0.86,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "09_dog_golden",
+        "type": "animal",
+        "position": [
+          65,
+          0.044,
+          11.5
+        ],
+        "height": 0.86,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "10_dog_dachshund",
+        "type": "animal",
+        "position": [
+          -0.5,
+          0,
+          77
+        ],
+        "height": 0.61,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "11_dog_poodle",
+        "type": "animal",
+        "position": [
+          67,
+          0.13,
+          48
+        ],
+        "height": 0.86,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "16_rabbit_lop",
+        "type": "animal",
+        "position": [
+          -84,
+          0,
+          54
+        ],
+        "height": 0.32,
+        "action": "Guarding",
+        "clips": [
+          "Basic",
+          "Dead",
+          "Dying.000",
+          "Dying.001",
+          "Guarding",
+          "Jump",
+          "Running",
+          "Sitting.000",
+          "Sitting.001"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "17_rabbit_dutch",
+        "type": "animal",
+        "position": [
+          -84,
+          0,
+          53
+        ],
+        "height": 0.32,
+        "action": "Guarding",
+        "clips": [
+          "Basic",
+          "Dead",
+          "Dying.000",
+          "Dying.001",
+          "Guarding",
+          "Jump",
+          "Running",
+          "Sitting.000",
+          "Sitting.001"
+        ],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "20_pony_shetland",
+        "type": "animal",
+        "position": [
+          -74,
+          0,
+          61
+        ],
+        "height": 1.5,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "scenery-sparrow",
+        "type": "animal",
+        "position": [
+          87,
+          0,
+          -21
+        ],
+        "height": 0.13999999999999999,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      },
+      {
+        "id": "scenery-duck",
+        "type": "animal",
+        "position": [
+          87,
+          0,
+          -22
+        ],
+        "height": 0.36,
+        "action": null,
+        "clips": [],
+        "skipped": [],
+        "visible": true
+      }
+    ]
+  }
+}

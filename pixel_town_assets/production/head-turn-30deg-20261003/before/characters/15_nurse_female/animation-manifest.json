@@ -1,0 +1,267 @@
+{
+  "version": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": [
+    0.5,
+    0.9
+  ],
+  "animations": {
+    "idle": {
+      "atlas": "animations/idle.png",
+      "gif": "animations/idle.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_down": {
+      "atlas": "animations/walk_down.png",
+      "gif": "animations/walk_down.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_left": {
+      "atlas": "animations/walk_left.png",
+      "gif": "animations/walk_left.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_04.png"
+    },
+    "walk_right": {
+      "atlas": "animations/walk_right.png",
+      "gif": "animations/walk_right.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_07.png"
+    },
+    "walk_up": {
+      "atlas": "animations/walk_up.png",
+      "gif": "animations/walk_up.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_10.png",
+      "keyframes": [
+        "frame_10.png",
+        "frame_11.png",
+        "frame_12.png"
+      ],
+      "keyframeAtlas": "animations/back_walk_keys.png",
+      "keyframeGif": "animations/back_walk_keys.gif",
+      "keyframeSequence": [
+        10,
+        11,
+        10,
+        12
+      ],
+      "keyframeMs": 160
+    },
+    "wave": {
+      "atlas": "animations/wave.png",
+      "gif": "animations/wave.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_14.png"
+    },
+    "surprise": {
+      "atlas": "animations/surprise.png",
+      "gif": "animations/surprise.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_15.png"
+    },
+    "sit": {
+      "atlas": "animations/sit.png",
+      "gif": "animations/sit.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_16.png"
+    },
+    "jump": {
+      "atlas": "animations/jump.png",
+      "gif": "animations/jump.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "cheer": {
+      "atlas": "animations/cheer.png",
+      "gif": "animations/cheer.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "legacy_actions/frame_11.png"
+    },
+    "work": {
+      "atlas": "animations/work.png",
+      "gif": "animations/work.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "nod": {
+      "atlas": "animations/daily/nod.png",
+      "gif": "animations/daily/nod.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/nod",
+      "humanApproval": "pending review of this new clip"
+    },
+    "shake_head": {
+      "atlas": "animations/daily/shake_head.png",
+      "gif": "animations/daily/shake_head.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 12,
+      "source": "frame_01.png",
+      "technique": "original directional head keyposes; horizontal yaw perspective; fixed frontal body; no head roll",
+      "individualFrames": "animations/daily/shake_head",
+      "humanApproval": "pending review of this new clip",
+      "sources": [
+        "frame_01.png",
+        "frame_04.png",
+        "frame_07.png"
+      ],
+      "headTurn": {
+        "revision": "20261003-shake-yaw-v2",
+        "cutY": 147,
+        "bodyFixedFromY": 147,
+        "hairRegions": {},
+        "yawKeySequence": [
+          0,
+          -1,
+          -2,
+          -3,
+          -3,
+          -3,
+          -2,
+          -1,
+          0,
+          1,
+          2,
+          3,
+          3,
+          3,
+          2,
+          1
+        ],
+        "leftProfilePhase": 3,
+        "rightProfilePhase": 11,
+        "registrations": {
+          "-1": {
+            "source": "frame_04.png",
+            "mirrored": false,
+            "trimBox": [
+              60,
+              13,
+              195,
+              243
+            ],
+            "sourceHeadCut": 139,
+            "scale": 0.9136690647482014,
+            "paste": [
+              74,
+              20
+            ]
+          },
+          "1": {
+            "source": "frame_07.png",
+            "mirrored": false,
+            "trimBox": [
+              63,
+              13,
+              192,
+              243
+            ],
+            "sourceHeadCut": 139,
+            "scale": 0.9136690647482014,
+            "paste": [
+              62,
+              20
+            ]
+          }
+        },
+        "rollDegrees": 0,
+        "verticalMotion": 0
+      }
+    },
+    "chat": {
+      "atlas": "animations/daily/chat.png",
+      "gif": "animations/daily/chat.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/chat",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "renderer": "nearest-neighbour anatomical weighted rigid deformation",
+  "sourcePreserved": true,
+  "sourceSHA256": {
+    "frame_01.png": "26271f69ed8fd69b256c8b88465fc4fdf0e5325bef36276ff403df2a171f82b3",
+    "frame_04.png": "1cd7b59c289cc13b8ede3d780a1666c13dba04975258482cc07290e5b2b0d35a",
+    "frame_07.png": "8e1f98e86759708643ce7d674aa7a36d1faa5227510a76672c871ddade2b5d4b",
+    "frame_10.png": "b709859b0e991046dbcf3e62fddac2bce78db2903764e25fb329ac11cbb66984",
+    "frame_14.png": "bd73cee1defe562c6bed717ae68d2ce35e745e3b3410361c3f6235338147fd13",
+    "frame_15.png": "5e0467cddf08fb967a20e27839391e236cc64264b5e54ba4e03efa1b4144c2f1",
+    "frame_16.png": "23f9e079a3f35d1f32454b3ae98ffd96960ae8caa9d297e30b6f2715a4cff60c",
+    "legacy_actions/frame_11.png": "7d2686f6295384df2d905c80748e08ccbebc8f2e0726be212a3d76ab661bcaf4",
+    "legacy_actions/frame_12.png": "7dae2e36fcac8badeecbd54ff190247ff995131247dd2c3b01c93f638688739a",
+    "frame_12.png": "63d545601fecfbe39d41d5202a24233975306e497926d949dac564778bb8405a",
+    "frame_11.png": "353f2c216c61e7b2e0aa8705c0cb9ce649c9bac2d58bdafbf737d2cdf675f2a6"
+  },
+  "backWalkCompletion": {
+    "version": 1,
+    "scope": "original characters 01..20",
+    "method": "existing walk_up atlas extraction; fixed nearest-neighbour registration; original head strip retained",
+    "zeroBasedSourcePhases": [
+      2,
+      10
+    ],
+    "sourceAtlasSHA256": "2e437285057d9ee75f12f8ea8d8b8a9c05271157c5a3bfb9b2690affa17a8fc3",
+    "legacyBackup": "legacy_actions",
+    "standingFramePreserved": true,
+    "continuousWalkUpPreserved": true,
+    "originalHeadStripPreserved": true,
+    "humanApproval": "approved by user on 2026-10-03"
+  },
+  "dailyActionExpansion": {
+    "version": "20261003-daily-v1",
+    "manifest": "animations/daily/manifest.json",
+    "actions": [
+      "nod",
+      "shake_head",
+      "chat"
+    ],
+    "humanApproval": "pending new-action review"
+  }
+}

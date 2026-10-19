@@ -1,0 +1,317 @@
+[
+  {
+    "id": "01_hero_male",
+    "name": "阿澈",
+    "kind": "human",
+    "role": "社区服务志愿者",
+    "sex": "male"
+  },
+  {
+    "id": "02_hero_female",
+    "name": "小满",
+    "kind": "human",
+    "role": "社区活动协理",
+    "sex": "female"
+  },
+  {
+    "id": "03_barista_male",
+    "name": "林屿",
+    "kind": "human",
+    "role": "咖啡师",
+    "sex": "male"
+  },
+  {
+    "id": "04_baker_male",
+    "name": "麦麦",
+    "kind": "human",
+    "role": "面包师",
+    "sex": "male"
+  },
+  {
+    "id": "05_carpenter_male",
+    "name": "大森",
+    "kind": "human",
+    "role": "木匠",
+    "sex": "male"
+  },
+  {
+    "id": "06_postman_male",
+    "name": "小路",
+    "kind": "human",
+    "role": "邮递员",
+    "sex": "male"
+  },
+  {
+    "id": "07_police_male",
+    "name": "程正",
+    "kind": "human",
+    "role": "社区警务人员",
+    "sex": "male"
+  },
+  {
+    "id": "08_doctor_male",
+    "name": "许衡",
+    "kind": "human",
+    "role": "社区医生",
+    "sex": "male"
+  },
+  {
+    "id": "09_gardener_male",
+    "name": "阿禾",
+    "kind": "human",
+    "role": "园丁",
+    "sex": "male"
+  },
+  {
+    "id": "10_musician_male",
+    "name": "迟野",
+    "kind": "human",
+    "role": "音乐演奏者",
+    "sex": "male"
+  },
+  {
+    "id": "11_chef_male",
+    "name": "陈锅",
+    "kind": "human",
+    "role": "厨师",
+    "sex": "male"
+  },
+  {
+    "id": "12_florist_female",
+    "name": "花音",
+    "kind": "human",
+    "role": "花店店主",
+    "sex": "female"
+  },
+  {
+    "id": "13_pastrychef_female",
+    "name": "糖糖",
+    "kind": "human",
+    "role": "糕点师",
+    "sex": "female"
+  },
+  {
+    "id": "14_teacher_female",
+    "name": "温书",
+    "kind": "human",
+    "role": "小学教师",
+    "sex": "female"
+  },
+  {
+    "id": "15_nurse_female",
+    "name": "苏晴",
+    "kind": "human",
+    "role": "社区护士",
+    "sex": "female"
+  },
+  {
+    "id": "16_librarian_female",
+    "name": "知秋",
+    "kind": "human",
+    "role": "图书管理员",
+    "sex": "female"
+  },
+  {
+    "id": "17_cafeowner_female",
+    "name": "沈知",
+    "kind": "human",
+    "role": "咖啡馆店长",
+    "sex": "female"
+  },
+  {
+    "id": "18_artist_female",
+    "name": "鹿眠",
+    "kind": "human",
+    "role": "画家",
+    "sex": "female"
+  },
+  {
+    "id": "19_vet_female",
+    "name": "安安",
+    "kind": "human",
+    "role": "兽医助理",
+    "sex": "female"
+  },
+  {
+    "id": "20_student_female",
+    "name": "夏芽",
+    "kind": "human",
+    "role": "大学生志愿者",
+    "sex": "female"
+  },
+  {
+    "id": "21_firefighter_male",
+    "name": "陆焰",
+    "kind": "human",
+    "role": "消防员",
+    "sex": "male"
+  },
+  {
+    "id": "22_grocer_male",
+    "name": "周籽",
+    "kind": "human",
+    "role": "杂货店员",
+    "sex": "male"
+  },
+  {
+    "id": "23_farmer_male",
+    "name": "田伯",
+    "kind": "human",
+    "role": "农夫",
+    "sex": "male"
+  },
+  {
+    "id": "24_driver_male",
+    "name": "韩途",
+    "kind": "human",
+    "role": "公交司机",
+    "sex": "male"
+  },
+  {
+    "id": "25_hairdresser_male",
+    "name": "银梳",
+    "kind": "human",
+    "role": "理发师",
+    "sex": "male"
+  },
+  {
+    "id": "26_baker_male",
+    "name": "陶麦",
+    "kind": "human",
+    "role": "面包师",
+    "sex": "male"
+  },
+  {
+    "id": "27_librarian_male",
+    "name": "书衡",
+    "kind": "human",
+    "role": "图书管理员",
+    "sex": "male"
+  },
+  {
+    "id": "28_mechanic_male",
+    "name": "罗栓",
+    "kind": "human",
+    "role": "维修师",
+    "sex": "male"
+  },
+  {
+    "id": "29_innkeeper_male",
+    "name": "顾栈",
+    "kind": "human",
+    "role": "旅店管家",
+    "sex": "male"
+  },
+  {
+    "id": "30_florist_male",
+    "name": "林苔",
+    "kind": "human",
+    "role": "花艺师",
+    "sex": "male"
+  },
+  {
+    "id": "31_firefighter_female",
+    "name": "岑灯",
+    "kind": "human",
+    "role": "消防员",
+    "sex": "female"
+  },
+  {
+    "id": "32_grocer_female",
+    "name": "陆杏",
+    "kind": "human",
+    "role": "杂货店员",
+    "sex": "female"
+  },
+  {
+    "id": "33_farmer_female",
+    "name": "禾青",
+    "kind": "human",
+    "role": "农夫",
+    "sex": "female"
+  },
+  {
+    "id": "34_driver_female",
+    "name": "叶驰",
+    "kind": "human",
+    "role": "公交司机",
+    "sex": "female"
+  },
+  {
+    "id": "35_hairdresser_female",
+    "name": "卷云",
+    "kind": "human",
+    "role": "理发师",
+    "sex": "female"
+  },
+  {
+    "id": "36_barista_female",
+    "name": "闻豆",
+    "kind": "human",
+    "role": "咖啡师",
+    "sex": "female"
+  },
+  {
+    "id": "37_carpenter_female",
+    "name": "榆棠",
+    "kind": "human",
+    "role": "木匠",
+    "sex": "female"
+  },
+  {
+    "id": "38_postal_female",
+    "name": "章铃",
+    "kind": "human",
+    "role": "邮差",
+    "sex": "female"
+  },
+  {
+    "id": "39_police_female",
+    "name": "许巡",
+    "kind": "human",
+    "role": "社区警察",
+    "sex": "female"
+  },
+  {
+    "id": "40_doctor_female",
+    "name": "余笙",
+    "kind": "human",
+    "role": "医生",
+    "sex": "female"
+  },
+  {
+    "id": "hai-qin-yan",
+    "name": "海琴烟",
+    "kind": "codexmini",
+    "role": "小镇陪伴访客",
+    "sex": "unspecified"
+  },
+  {
+    "id": "kanna",
+    "name": "康娜",
+    "kind": "codexmini",
+    "role": "小镇陪伴访客",
+    "sex": "unspecified"
+  },
+  {
+    "id": "rui",
+    "name": "锐",
+    "kind": "codexmini",
+    "role": "小镇陪伴访客",
+    "sex": "unspecified"
+  },
+  {
+    "id": "xin",
+    "name": "歆",
+    "kind": "codexmini",
+    "role": "小镇陪伴访客",
+    "sex": "unspecified"
+  },
+  {
+    "id": "xin-fragrance",
+    "name": "馨",
+    "kind": "codexmini",
+    "role": "小镇陪伴访客",
+    "sex": "unspecified"
+  }
+]

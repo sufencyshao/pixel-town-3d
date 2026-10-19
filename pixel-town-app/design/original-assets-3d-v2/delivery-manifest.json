@@ -1,0 +1,214 @@
+{
+  "README.md": {
+    "bytes": 3401,
+    "sha256": "e315e5345e56eacdaf55938f915b8ef0382ba95dbdf807d61b22edc1ef71452c"
+  },
+  "assets/animal-horse.glb": {
+    "bytes": 2215824,
+    "sha256": "0588334842feae74a257dea69983db37088da2e97d76beb4a2ecbe6afdb81e26"
+  },
+  "assets/animal-husky.glb": {
+    "bytes": 1849832,
+    "sha256": "d5e33b7f9ffc92e5278df5035f86e8749f14c5ff8d9c79a922b2e8c1c906fcec"
+  },
+  "assets/animal-shiba.glb": {
+    "bytes": 1752268,
+    "sha256": "8302af941f144185c1afbde4ad8cc79358b575311deea23be4fbcd3d367f50a8"
+  },
+  "assets/female-casual.glb": {
+    "bytes": 1668348,
+    "sha256": "5ca77eac451a73665616455a75e6d9a4980b9f839ba3d049f877d8855aef45d2"
+  },
+  "assets/female-worker.glb": {
+    "bytes": 1638356,
+    "sha256": "555f8ac66c19ea1a06474481e47dcaa2a6f30cc83f7748fde894558467fc46d6"
+  },
+  "assets/male-casual.glb": {
+    "bytes": 1387476,
+    "sha256": "57d276fd1f78874343972dc269b84a7e0663f0d1ea3706428ea27b1e2dddaf13"
+  },
+  "assets/male-worker.glb": {
+    "bytes": 1301212,
+    "sha256": "0a685a94b25b2ddcb9616958a98efbaf9aa500bb8d63c82a70f808290729fb8f"
+  },
+  "manifest.json": {
+    "bytes": 12910,
+    "sha256": "24977672914df2634e44405835f8c1e3f4acfa66f1f62483180121934358cda4"
+  },
+  "qa/animal-horse-back.png": {
+    "bytes": 118256,
+    "sha256": "f8388ec4c6c938656e48f387818f96f35ca3ca41b084081be1067f5dd1a58c2d"
+  },
+  "qa/animal-horse-full.png": {
+    "bytes": 131065,
+    "sha256": "c7c1903406db4b05be0bf94acab483c9f53c91c1021b03911446c40df7d2b0a8"
+  },
+  "qa/animal-horse-side.png": {
+    "bytes": 143951,
+    "sha256": "33e42b080e2ab161886a04d9ef128b4cb39ea2b9b8305307e62956ddbfe6b32b"
+  },
+  "qa/animal-husky-back.png": {
+    "bytes": 122316,
+    "sha256": "bf4b1f45afa8b654095f6d29fb395864016876973924e9c74ae6c70170b637db"
+  },
+  "qa/animal-husky-full.png": {
+    "bytes": 140959,
+    "sha256": "36d29b7d0e6ab792a6957342abe6eb4c94d68ed995cc118a1fbdfa7cbd2bd165"
+  },
+  "qa/animal-husky-side.png": {
+    "bytes": 149707,
+    "sha256": "a9acd2cca18fc4b8fb84eebfe672c5474f048130f0cddeeadcc976fa37325ece"
+  },
+  "qa/animal-shiba-back.png": {
+    "bytes": 122602,
+    "sha256": "156fa4fd4259493e86f54f8c45bbfdfb0c236951469f9bd2cf03cd440527ba48"
+  },
+  "qa/animal-shiba-full.png": {
+    "bytes": 145222,
+    "sha256": "6d284c848047bb1952f66eec2aacead8718ac86df126aef839e577e586a68ad0"
+  },
+  "qa/animal-shiba-side.png": {
+    "bytes": 149503,
+    "sha256": "e56dcac2f1cbadaf7cecab7ac9b5ef3abaa5d2f56bbd83b878f1f126774dd178"
+  },
+  "qa/browser-validation.json": {
+    "bytes": 2920,
+    "sha256": "c23100de828fec8e3698ee1b0f7c1a569e10df8dd9ba756e79330fc427d8b6b6"
+  },
+  "qa/female-casual-back.png": {
+    "bytes": 143604,
+    "sha256": "2eb566dc3fb4f6560b5a9c0a265623073b25bb06de3eb35f128aeb7306cd3a72"
+  },
+  "qa/female-casual-full.png": {
+    "bytes": 153959,
+    "sha256": "791e05f64f2aa6afba6cea72be584a101a58c4f89e894dc6a1ec9d8b8b6e2bc7"
+  },
+  "qa/female-casual-side.png": {
+    "bytes": 135745,
+    "sha256": "64600fd3a2eac4a272b15947fac8cbe9c10cb69eab3491f2160cd4a3101fc21d"
+  },
+  "qa/female-worker-back.png": {
+    "bytes": 143137,
+    "sha256": "03f78d25cc6b3f1a328bd4e106c365fd9937be39212c6df7247750793c625ac3"
+  },
+  "qa/female-worker-full.png": {
+    "bytes": 153051,
+    "sha256": "bc44e6a947de3b4c05744ed8f09c25719807fd89df4b5a07b477116a11ece5d1"
+  },
+  "qa/female-worker-side.png": {
+    "bytes": 135297,
+    "sha256": "d25a65e8eb0fefe0e5f26300823f05a521a4b2d361f801a081439f6be7cc92cb"
+  },
+  "qa/male-casual-back.png": {
+    "bytes": 142401,
+    "sha256": "56c14076619772bcd2d88cdc4305c3e65d6be7e3dbe64690d5d209e36692ae10"
+  },
+  "qa/male-casual-full.png": {
+    "bytes": 150256,
+    "sha256": "5f89261d16900fb96f0aa67ef45e33d9d82da6cc6aa5dfea2915b1e6d7589321"
+  },
+  "qa/male-casual-side.png": {
+    "bytes": 135323,
+    "sha256": "e9af5f7cec5fa429b19c6645306b694f837bd9928a543460013db74b4e5ecd74"
+  },
+  "qa/male-worker-back.png": {
+    "bytes": 142993,
+    "sha256": "c4662a2c8bec1c0d19b49a5e5ca2dd9f440da026c47bd342a7b02b2bb8314fb4"
+  },
+  "qa/male-worker-full.png": {
+    "bytes": 153582,
+    "sha256": "249eb43434150dbd29237554b51b8681558be1e49a50776e8cc5e6b1094fbe08"
+  },
+  "qa/male-worker-side.png": {
+    "bytes": 135398,
+    "sha256": "62d1e9cf650121ea412064dc20d5f1f25b511025a7227314a7951c85fb0667ab"
+  },
+  "qa/mobile.png": {
+    "bytes": 58190,
+    "sha256": "a7943db7b2e400bfae5fd839d611cabb8c975d423b2ed20c7971d4838bb0c226"
+  },
+  "qa/source-hashes.json": {
+    "bytes": 1512,
+    "sha256": "1f7a5f5a2ef6c7000d7396988e42100e3399bfc5f1e7d7460cbdb53c19e08a61"
+  },
+  "src/prepare.py": {
+    "bytes": 4487,
+    "sha256": "6472f4af013fe7d8b4b13fffefaa77eb170fe3dd7c763603d968fcde1673d322"
+  },
+  "src/verify.cjs": {
+    "bytes": 4332,
+    "sha256": "a31f91fc1cf580703a81f94f2f033a52b46c915dc6f636a3262735114aa62498"
+  },
+  "src/viewer.js": {
+    "bytes": 8289,
+    "sha256": "65886bd764e429f5fc4b10431bbb9ac48c0fe6dd2ca5cc9ff23d078f45164106"
+  },
+  "template.html": {
+    "bytes": 4485,
+    "sha256": "1a6f573f10427bb67099fb417c7df33c8b7f85dceb10a414c689175c32ad491f"
+  },
+  "vendor/THREE-LICENSE.txt": {
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  "vendor/animals/Horse.gltf": {
+    "bytes": 3610082,
+    "sha256": "3deb61550dff1d2786d04b6e8559d63ad3907d6ab606ba28ce0af074ed96341b"
+  },
+  "vendor/animals/Husky.gltf": {
+    "bytes": 3059335,
+    "sha256": "0cfd85ddfcc5c07caf1bdeb296b21017b0da4c8558a92086daf4a172e0bf8d97"
+  },
+  "vendor/animals/Quaternius-License.txt": {
+    "bytes": 364,
+    "sha256": "83d8959f9fc56353ed571fbe2dc52e4bcd64508e2399501cd45ac2ce3df0bf8c"
+  },
+  "vendor/animals/ShibaInu.gltf": {
+    "bytes": 2894445,
+    "sha256": "3236979b94a840eb72d9ce091b1361da327a96f5ce068e666680297480f30f6b"
+  },
+  "vendor/animals/sources.json": {
+    "bytes": 1264,
+    "sha256": "397549178db39d7b5c195c5476fe362b5a4ff13a90404e80f7f10d8d05cf1e22"
+  },
+  "vendor/quaternius-men/License_Modular_Men_CC0.txt": {
+    "bytes": 7048,
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+  },
+  "vendor/quaternius-men/Quaternius-Casual.glb": {
+    "bytes": 1430660,
+    "sha256": "fea7e71271203e7073f1a073fa1208de7402df276f87f80e149bf7589b5d46b4"
+  },
+  "vendor/quaternius-men/Quaternius-Worker.glb": {
+    "bytes": 1344928,
+    "sha256": "9c28614f465b7dc105f908c20c22fc045f4b07caf8c5ef0e9f8049eceb6dd38d"
+  },
+  "vendor/quaternius-men/source.json": {
+    "bytes": 1201,
+    "sha256": "52b83c964c255cbef1785241e7bb048897f22bb8b3c5df1b006e65f8216e3a72"
+  },
+  "vendor/quaternius-women/Casual.gltf": {
+    "bytes": 3131788,
+    "sha256": "b0fe6e92219cd71808844a20a1a8b960fd1cf640a6546dc6362b5add6604e87c"
+  },
+  "vendor/quaternius-women/License.txt": {
+    "bytes": 372,
+    "sha256": "e8dbf915a2b82229913e301a0787696611241bdefec4832bc084f54161db1efe"
+  },
+  "vendor/quaternius-women/Worker.gltf": {
+    "bytes": 3095030,
+    "sha256": "e2bfc1039f429e870a0119e274c2dd45f6304f00c39f4570dfeb9ed4d97a063d"
+  },
+  "vendor/quaternius-women/source.json": {
+    "bytes": 700,
+    "sha256": "0839dbcfd4f949c82c56cedfc5531dfda74d87399ad5ec87117aab24cb064f1d"
+  },
+  "viewer.bundle.js": {
+    "bytes": 609259,
+    "sha256": "a9eba4cd8807d724c8b7956c9c7f77d3df9fb0ccd7a325063392c2aed4fe8277"
+  },
+  "原版成品-离线预览.html": {
+    "bytes": 16374374,
+    "sha256": "4dbfb1deca3cd85ded5ffbac5204a1ff783b7070e41848379b06dd2617e062b7"
+  }
+}

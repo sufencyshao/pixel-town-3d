@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": [
+    0.5,
+    0.9
+  ],
+  "animations": {
+    "idle": {
+      "atlas": "animations/idle.png",
+      "gif": "animations/idle.gif",
+      "frames": 6,
+      "frameMs": 280,
+      "durations": [
+        280,
+        110,
+        110,
+        140,
+        140,
+        320
+      ],
+      "loop": true,
+      "sourceState": "idle",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 0,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "walk_right": {
+      "atlas": "animations/walk_right.png",
+      "gif": "animations/walk_right.gif",
+      "frames": 8,
+      "frameMs": 120,
+      "durations": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ],
+      "loop": true,
+      "sourceState": "running-right",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 1,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "walk_left": {
+      "atlas": "animations/walk_left.png",
+      "gif": "animations/walk_left.gif",
+      "frames": 8,
+      "frameMs": 120,
+      "durations": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ],
+      "loop": true,
+      "sourceState": "running-left",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 2,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "wave": {
+      "atlas": "animations/wave.png",
+      "gif": "animations/wave.gif",
+      "frames": 4,
+      "frameMs": 140,
+      "durations": [
+        140,
+        140,
+        140,
+        280
+      ],
+      "loop": false,
+      "sourceState": "waving",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 3,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "jump": {
+      "atlas": "animations/jump.png",
+      "gif": "animations/jump.gif",
+      "frames": 5,
+      "frameMs": 140,
+      "durations": [
+        140,
+        140,
+        140,
+        140,
+        280
+      ],
+      "loop": false,
+      "sourceState": "jumping",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 4,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "sad": {
+      "atlas": "animations/sad.png",
+      "gif": "animations/sad.gif",
+      "frames": 8,
+      "frameMs": 140,
+      "durations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        240
+      ],
+      "loop": false,
+      "sourceState": "failed",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 5,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "wait": {
+      "atlas": "animations/wait.png",
+      "gif": "animations/wait.gif",
+      "frames": 6,
+      "frameMs": 150,
+      "durations": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        260
+      ],
+      "loop": true,
+      "sourceState": "waiting",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 6,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "work": {
+      "atlas": "animations/work.png",
+      "gif": "animations/work.gif",
+      "frames": 6,
+      "frameMs": 120,
+      "durations": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ],
+      "loop": true,
+      "sourceState": "running",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 7,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "think": {
+      "atlas": "animations/think.png",
+      "gif": "animations/think.gif",
+      "frames": 6,
+      "frameMs": 150,
+      "durations": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        280
+      ],
+      "loop": true,
+      "sourceState": "review",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 8,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "look": {
+      "atlas": "animations/look.png",
+      "gif": "animations/look.gif",
+      "frames": 16,
+      "frameMs": 150,
+      "durations": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150
+      ],
+      "loop": true,
+      "sourceState": "look-directions",
+      "sourceCell": [
+        192,
+        208
+      ],
+      "sourceRow": 9,
+      "derivation": "真实原始帧，透明补边；未插值、未变形"
+    },
+    "lie_down": {
+      "atlas": "animations/daily/lie_down.png",
+      "frames": 4,
+      "frameMs": 900,
+      "loop": true,
+      "durations": [
+        1200,
+        800,
+        800,
+        1000
+      ],
+      "individualFrames": "animations/daily/lie_down",
+      "source": "source/side-lying-v1.png",
+      "revision": "20261004-side-lying-v1",
+      "technique": "imagegen redesigned side-lying pose, folded forearms and bent knees; native 2px grid, 48-color palette; stationary anatomy, animated sleep indicator",
+      "sideLying": {
+        "nativeGrid": 2,
+        "groundY": 224,
+        "face": {
+          "x": 32,
+          "y": 146,
+          "width": 66,
+          "height": 58,
+          "cx": 65,
+          "cy": 175,
+          "bottom": 204
+        },
+        "headBounds": [
+          12,
+          96,
+          122,
+          218
+        ],
+        "headAngle": -27
+      },
+      "humanApproval": "not yet reviewed by user"
+    }
+  },
+  "overview": "overview.gif",
+  "missingActions": [
+    "walk_up",
+    "walk_down",
+    "sleep",
+    "eat"
+  ],
+  "sourceTiming": "原V2行时长；支持 durations 数组，frameMs 为首帧兼容值"
+}

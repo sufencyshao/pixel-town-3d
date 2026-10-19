@@ -1,0 +1,8 @@
+Characters and animation: Microsoft / Rocketbox
+Copyright (c) 2020 Microsoft. MIT License. Full text in Microsoft-Rocketbox-MIT.txt.
+Original: https://github.com/microsoft/Microsoft-Rocketbox
+Pinned source commit: 0943055db6ec570bcef9f2c8b41c9e5467c808f9
+GLB conversions: https://models.codelove.in/ (Gowtham). All 45 models and 20 clips are preserved byte-for-byte.
+Viewer: Three.js (MIT) and meshoptimizer decoder (MIT).
+No face, hairstyle, clothes, textures, anatomy, bone rig or authored motion has been recreated.
+Name/role mappings are local appearance proposals only; formal entity data remains untouched.

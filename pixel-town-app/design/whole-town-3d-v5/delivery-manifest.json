@@ -1,0 +1,206 @@
+{
+  "version": "5.0.0",
+  "date": "2026-10-16",
+  "files": {
+    "README.md": {
+      "bytes": 6468,
+      "sha256": "0a1f7dba00624192e5bc8098b6d06c4de617ab35c6aaefde9a907098094c51e7"
+    },
+    "THIRD_PARTY_LICENSES.txt": {
+      "bytes": 2184,
+      "sha256": "584a15115b220302245e88d3524ca4b7944fce3c73c936fa7f59b64a5db06fa4"
+    },
+    "Town-complete.blend": {
+      "bytes": 22388341,
+      "sha256": "131bace9631887565f12a61da65585c98c87b658d420886fa3c6c3d76fba92e7"
+    },
+    "Town-complete.glb": {
+      "bytes": 89714632,
+      "sha256": "e81ec64d17ae3a51c101f98757893387aa86d0a353268d118285fd1c3a4c75a0"
+    },
+    "environment-data.json": {
+      "bytes": 592470,
+      "sha256": "af545d67ec511003eb20bd34ece3646919af5ecceedcd04046a929f1e2e3d07b"
+    },
+    "manifest.json": {
+      "bytes": 136767,
+      "sha256": "3cfed13ac5e54594e530d2eeab65dd7544c68a8e1649065f72b14c230bc69a35"
+    },
+    "package.json": {
+      "bytes": 404,
+      "sha256": "a9cf1e060545e991739b0ba4a6ec2053af311837aed71f90f98a4eef8760bc4e"
+    },
+    "qa/asset-validation.json": {
+      "bytes": 423,
+      "sha256": "eefe2b409a36164970c1d03fd18de60f228d4799f2570a0abecbe53288067cff"
+    },
+    "qa/automatic-season-boundary.png": {
+      "bytes": 365429,
+      "sha256": "a1b528cc01d077c0444642a905e2bdcd51148d7e6a911c86bdde325bcd7f7f1d"
+    },
+    "qa/autumn-leaves-close.png": {
+      "bytes": 465837,
+      "sha256": "bca46471338181f23520751a4e1252256114a919a52151ccfcae68f6adef8bc8"
+    },
+    "qa/autumn-leaves-phase-0.png": {
+      "bytes": 376570,
+      "sha256": "0290be04513a06b0c419f16a358bf59e278006626f2d71d28c4c8e4fed99077e"
+    },
+    "qa/autumn-leaves-phase-1.png": {
+      "bytes": 375800,
+      "sha256": "d7bf34b7a68f1a9e50b0a36475a33ea8b0c958c2ed5f409f4e4741d2c1bd0515"
+    },
+    "qa/autumn-wind-park.png": {
+      "bytes": 852625,
+      "sha256": "55c327363fbade9835192f0fce0c0446f6c24f76823244968c2fcb78427a0023"
+    },
+    "qa/browser-validation.json": {
+      "bytes": 12292,
+      "sha256": "bf0b3ccaac8ea118181e03de01fd070fba63974a0edd35a50700cf150d8071cb"
+    },
+    "qa/leaf-animation-validation.json": {
+      "bytes": 117,
+      "sha256": "4077cfa93c51ff6e145d047ed600f01fc671aa3378350dccc0b28bdda7b0fbaf"
+    },
+    "qa/mobile-weather-controls.png": {
+      "bytes": 52419,
+      "sha256": "a39a43b4ee9d2ede99bf33cac8c9f05a1cc7942f46eac51c5f055877e4ed0683"
+    },
+    "qa/mobile-winter.png": {
+      "bytes": 123249,
+      "sha256": "3620fd08ab0ed9c2948273b706850f90fa1e6dd509e311f35a2dca729532fe7b"
+    },
+    "qa/park-autumn.png": {
+      "bytes": 725389,
+      "sha256": "8cffb254ac9359901f61abb86b75dc2596d9a72c8f43a07be3adeefd46d68c6d"
+    },
+    "qa/park-winter.png": {
+      "bytes": 880771,
+      "sha256": "20213fb2c8e959453de9b872c735eb2d4390ff28a95f1e0bca852bbc9a9ffb60"
+    },
+    "qa/season-autumn.png": {
+      "bytes": 428603,
+      "sha256": "e131a714a221ea016f8e7591d9e34f369f4c7acbb80869607683e1606bb39b8a"
+    },
+    "qa/season-spring.png": {
+      "bytes": 429159,
+      "sha256": "7dd7d036db16ab503a484ab5431b9c6eb2a33b279e7a39ba70b957ba3822b3fe"
+    },
+    "qa/season-summer.png": {
+      "bytes": 419863,
+      "sha256": "f19855db2a990606a37c6827ed56ef5ff9d21d0b001609cede7247395a03aa17"
+    },
+    "qa/season-winter.png": {
+      "bytes": 472672,
+      "sha256": "a4effabbcba982af4197939daef2030b7bc0a6eb43eaa4a0ad6e4726b8c8b7a1"
+    },
+    "qa/square-autumn.png": {
+      "bytes": 740353,
+      "sha256": "00f3cb19217630e605535c8854be9e7c465d29ce6ad360e4293f7165624a4926"
+    },
+    "qa/square-spring.png": {
+      "bytes": 747364,
+      "sha256": "205e35ceea19320e1437914bd5e98bc9ff63a6459c7ea725c9615157a6c16bcb"
+    },
+    "qa/square-summer.png": {
+      "bytes": 701324,
+      "sha256": "c1667891d8255df79238b18b54f6615e7cae373f3a59120bf76c326e5c091b80"
+    },
+    "qa/square-winter.png": {
+      "bytes": 913591,
+      "sha256": "993b3aba581750502d22b299f225156a086380dc0bf53b78b9176012eac4fbcf"
+    },
+    "qa/state-tests.txt": {
+      "bytes": 2131,
+      "sha256": "cd950797fd05df1b2715b11188cc0f17f753ef9e21224e934bf8d92ccf711c37"
+    },
+    "qa/summer-dawn.png": {
+      "bytes": 400880,
+      "sha256": "9be6aab0f9005a417f90d2b79d0976a2d8e5b03e876fe022f6a07efd6049d923"
+    },
+    "qa/summer-typhoon.png": {
+      "bytes": 560107,
+      "sha256": "5b8abdf4880808b633f8d5dbc421f3d238d760241c999db825089d662e912087"
+    },
+    "qa/winter-cutaway.png": {
+      "bytes": 680258,
+      "sha256": "d9cefacf9f122c7d7c07e688502d1de1adf8d3be3aebfa500344a60dbfe5accb"
+    },
+    "qa/winter-dawn.png": {
+      "bytes": 361639,
+      "sha256": "932a9f2cef41aee27a18782bfec27a6975cd157ffa61f16a6d23efbfb42ec6c0"
+    },
+    "qa/winter-evening.png": {
+      "bytes": 361240,
+      "sha256": "4bda2506b89552e84c2371d6208a6b66cfa6f5a6a471bdf1cc85bfaa82d5ea38"
+    },
+    "qa/winter-snow-residential.png": {
+      "bytes": 477950,
+      "sha256": "2a0044a7b47ac002d0c4e3a7901e31e236ff15ac9415a8ca9c076729a49347a1"
+    },
+    "reference/v4-hashes.json": {
+      "bytes": 4375,
+      "sha256": "41843501e6464f02d0938d2915eca43568bebf4e10ea2de530815223ab88c8d4"
+    },
+    "src/autumn-leaves.js": {
+      "bytes": 4565,
+      "sha256": "c24292a953f904c33045fbb6f49a747deeeb6ed3c1c40ecc15ef9852b06c7f2d"
+    },
+    "src/environment-renderer.js": {
+      "bytes": 13799,
+      "sha256": "3e92496f781bf8b2abfa42bdc84a4a394a417cc407aa1b1ad19108afa93b77b1"
+    },
+    "src/environment-state.js": {
+      "bytes": 8002,
+      "sha256": "7fb37cdc34591f30d77ba6f4ced4bfcc2ed091fddb1b42bd1e3a47e65c573d7f"
+    },
+    "src/environment-state.test.js": {
+      "bytes": 10022,
+      "sha256": "46ffd2ca010e2d3c77bacd7e5dbe424f7eaad1f86e774b4e49a158eebc9f1ec2"
+    },
+    "src/export_environment.py": {
+      "bytes": 1632,
+      "sha256": "045953d56c0af211958a1bad3419479d3338b5f1ca0d2c7195c72ba8f89bf83e"
+    },
+    "src/extended-weather.js": {
+      "bytes": 16700,
+      "sha256": "4a4f870f823b8c6074813260045da378599604c2b49a82a24e2aa3cb96b363ae"
+    },
+    "src/package_preview.py": {
+      "bytes": 478,
+      "sha256": "802b6a3b9d94c60372ad13a7591fca22e11ee39e2bc023f870d2593adb5d7a9a"
+    },
+    "src/seasonal-vegetation.js": {
+      "bytes": 7334,
+      "sha256": "70ba6d3e4b7dca2ba5afebbe56d8f4a8231a4e650d5c2e64611317bb2e4cbc0c"
+    },
+    "src/viewer.js": {
+      "bytes": 15099,
+      "sha256": "7e35ea184e1c872c69465539de4874def78ccb02124a2edc024c30f109baccff"
+    },
+    "template.html": {
+      "bytes": 13366,
+      "sha256": "276b5459fa2a762349c82ff4748088dff7b1515b6f661fd7cc8ca53004576682"
+    },
+    "viewer.bundle.js": {
+      "bytes": 646707,
+      "sha256": "f2b508577b991b7035814748075f3703ec3e9ec5d35fb7b0caa6f2be96cc6176"
+    },
+    "完整小镇-离线预览.html": {
+      "bytes": 121008790,
+      "sha256": "3e6fb2eb0b563317da7c8f10120080c820f943b5e8d57c011c4e9306d043207a"
+    },
+    "整镇分区总图.png": {
+      "bytes": 2187539,
+      "sha256": "a24346cbec7055bb91680d9bf9eb616de1f80f9cdcb2479f3d48291673aa9c6c"
+    },
+    "整镇分区总图.svg": {
+      "bytes": 4066222,
+      "sha256": "afcea379c25b1b22f5a3b0040179a8496735451442df8c2b38c43d8d3b57f83b"
+    },
+    "验收报告.md": {
+      "bytes": 6716,
+      "sha256": "4f27efd4dfcc38258815fa752aab270c4a00eb4aa3defcbd8802803ed7efd017"
+    }
+  }
+}

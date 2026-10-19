@@ -1,0 +1,362 @@
+{
+  "date": "2026-10-16",
+  "browser": "isolated Chrome headless / Playwright",
+  "checks": [
+    {
+      "name": "page identity and model load",
+      "pass": true
+    },
+    {
+      "name": "meaningful controls present",
+      "pass": true
+    },
+    {
+      "name": "no framework overlay",
+      "pass": true
+    },
+    {
+      "name": "noon lights off",
+      "pass": true
+    },
+    {
+      "name": "night lamps on",
+      "pass": true
+    },
+    {
+      "name": "hide facilities hides light effects",
+      "pass": true
+    },
+    {
+      "name": "weather sunny",
+      "pass": true
+    },
+    {
+      "name": "weather cloudy",
+      "pass": true
+    },
+    {
+      "name": "weather overcast",
+      "pass": true
+    },
+    {
+      "name": "weather lightRain",
+      "pass": true
+    },
+    {
+      "name": "weather rain",
+      "pass": true
+    },
+    {
+      "name": "weather heavyRain",
+      "pass": true
+    },
+    {
+      "name": "weather storm",
+      "pass": true
+    },
+    {
+      "name": "thunder audio context starts",
+      "pass": true
+    },
+    {
+      "name": "manual lightning triggers",
+      "pass": true
+    },
+    {
+      "name": "flash control off",
+      "pass": true
+    },
+    {
+      "name": "flash preview disabled",
+      "pass": true
+    },
+    {
+      "name": "cutaway suppresses precipitation",
+      "pass": true
+    },
+    {
+      "name": "exterior restores precipitation",
+      "pass": true
+    },
+    {
+      "name": "sunshine clears rain with gradual drying",
+      "pass": true
+    },
+    {
+      "name": "live clock crosses midnight",
+      "pass": true
+    },
+    {
+      "name": "paused clock stays fixed",
+      "pass": true
+    },
+    {
+      "name": "automatic three hour transition",
+      "pass": true
+    },
+    {
+      "name": "manual weather disables automatic",
+      "pass": true
+    },
+    {
+      "name": "downloaded GLB exact match",
+      "pass": true
+    },
+    {
+      "name": "mobile no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "mobile weather controls work",
+      "pass": true
+    },
+    {
+      "name": "no WebGL shader failures",
+      "pass": true
+    },
+    {
+      "name": "console clean",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "standalone file works offline",
+      "pass": true
+    }
+  ],
+  "console": [],
+  "screenshots": [
+    "01-noon.png",
+    "02-night.png",
+    "03-river-night.png",
+    "weather-sunny.png",
+    "weather-cloudy.png",
+    "weather-overcast.png",
+    "weather-lightRain.png",
+    "weather-rain.png",
+    "weather-heavyRain.png",
+    "weather-storm.png",
+    "04-cutaway.png",
+    "05-mobile-top.png",
+    "06-mobile-controls.png"
+  ],
+  "weather": [
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "sunny",
+      "autoWeather": false,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.12,
+        "dark": 0.02,
+        "rain": 0,
+        "wind": 0.7,
+        "fog": 0.00006,
+        "wet": 0
+      },
+      "wetness": 0,
+      "elevation": 1,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 0,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": false,
+      "wetMaterials": 29
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "cloudy",
+      "autoWeather": false,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.5360517139452673,
+        "dark": 0.17480994007265754,
+        "rain": 0,
+        "wind": 1.0870248501816444,
+        "fog": 0.00012772934878178764,
+        "wet": 0
+      },
+      "wetness": 0,
+      "elevation": 1,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 0,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": false,
+      "wetMaterials": 29
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "overcast",
+      "autoWeather": false,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.946290090620584,
+        "dark": 0.644277879032371,
+        "rain": 0,
+        "wind": 0.8093480340373261,
+        "fog": 0.0003137702832294143,
+        "wet": 0
+      },
+      "wetness": 0,
+      "elevation": 1,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 0,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": false,
+      "wetMaterials": 29
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "lightRain",
+      "autoWeather": false,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.9497886674577874,
+        "dark": 0.5849960671176492,
+        "rain": 0.1662413029539005,
+        "wind": 1.0777341176220916,
+        "fog": 0.0003934416680654143,
+        "wet": 0
+      },
+      "wetness": 0.1796298957461337,
+      "elevation": 1,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 1995,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": true,
+      "wetMaterials": 29
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "rain",
+      "autoWeather": false,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.9977809183993113,
+        "dark": 0.714016565903802,
+        "rain": 0.4661713917457459,
+        "wind": 1.768138170026927,
+        "fog": 0.0005622147556986509,
+        "wet": 0
+      },
+      "wetness": 0.47246435983643637,
+      "elevation": 1,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 5594,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": true,
+      "wetMaterials": 29
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "heavyRain",
+      "autoWeather": false,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.9999245160444455,
+        "dark": 0.8643163029189888,
+        "rain": 0.8360118666115925,
+        "wind": 2.4733420871620426,
+        "fog": 0.0007431589797140908,
+        "wet": 0
+      },
+      "wetness": 0.7927893376827441,
+      "elevation": 1,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 10032,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": true,
+      "wetMaterials": 29
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "storm",
+      "autoWeather": false,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.9999940913337776,
+        "dark": 0.9611484107009794,
+        "rain": 0.9862950204440576,
+        "wind": 3.505439750689867,
+        "fog": 0.0008227391559586088,
+        "wet": 0
+      },
+      "wetness": 0.8984617100611304,
+      "elevation": 1,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 11836,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 1,
+      "flash": 0,
+      "rainVisible": true,
+      "wetMaterials": 29
+    }
+  ]
+}

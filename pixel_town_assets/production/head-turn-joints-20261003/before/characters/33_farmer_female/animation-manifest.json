@@ -1,0 +1,498 @@
+{
+  "version": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": [
+    0.5,
+    0.9
+  ],
+  "animations": {
+    "idle": {
+      "atlas": "animations/idle.png",
+      "gif": "animations/idle.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_down": {
+      "atlas": "animations/walk_down.png",
+      "gif": "animations/walk_down.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_left": {
+      "atlas": "animations/walk_left.png",
+      "gif": "animations/walk_left.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_04.png"
+    },
+    "walk_right": {
+      "atlas": "animations/walk_right.png",
+      "gif": "animations/walk_right.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_07.png"
+    },
+    "walk_up": {
+      "atlas": "animations/walk_up.png",
+      "gif": "animations/walk_up.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_10.png"
+    },
+    "wave": {
+      "atlas": "animations/wave.png",
+      "gif": "animations/wave.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_14.png"
+    },
+    "surprise": {
+      "atlas": "animations/surprise.png",
+      "gif": "animations/surprise.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_15.png"
+    },
+    "sit": {
+      "atlas": "animations/sit.png",
+      "gif": "animations/sit.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_16.png"
+    },
+    "jump": {
+      "atlas": "animations/jump.png",
+      "gif": "animations/jump.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "cheer": {
+      "atlas": "animations/cheer.png",
+      "gif": "animations/cheer.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_11.png"
+    },
+    "work": {
+      "atlas": "animations/work.png",
+      "gif": "animations/work.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "nod": {
+      "atlas": "animations/daily/nod.png",
+      "gif": "animations/daily/nod.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/nod",
+      "humanApproval": "pending review of this new clip"
+    },
+    "shake_head": {
+      "atlas": "animations/daily/shake_head.png",
+      "gif": "animations/daily/shake_head.gif",
+      "frames": 25,
+      "frameMs": 30,
+      "loop": false,
+      "gifFrames": 25,
+      "source": "frame_01.png",
+      "technique": "imagegen whole-head keyposes from original directional sprites; original palette and body; +/-30-degree pose targets; two quick refusal shakes",
+      "individualFrames": "animations/daily/shake_head",
+      "humanApproval": "pending review of this new clip",
+      "durations": [
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        480
+      ],
+      "previewLoop": true,
+      "sources": [
+        "frame_01.png",
+        "frame_04.png",
+        "frame_07.png",
+        "source/shake-head-solid-poses.png"
+      ],
+      "headTurn": {
+        "revision": "20261003-refusal-whole-head-v5",
+        "anchors": [
+          [
+            251.0,
+            358
+          ],
+          [
+            224.5,
+            358
+          ],
+          [
+            210.0,
+            366
+          ],
+          [
+            237.0,
+            373
+          ],
+          [
+            250.0,
+            317
+          ],
+          [
+            205.0,
+            343
+          ],
+          [
+            197.0,
+            340
+          ],
+          [
+            169.0,
+            335
+          ]
+        ],
+        "keyRegistration": {
+          "-15": {
+            "sheetCell": 1,
+            "cropBox": [
+              47,
+              80,
+              430,
+              411
+            ],
+            "neckAnchor": [
+              224.5,
+              358
+            ],
+            "scale": [
+              0.4166666666666667,
+              0.4172661870503597
+            ],
+            "paste": [
+              54,
+              20,
+              214,
+              158
+            ]
+          },
+          "-25.980762": {
+            "sheetCell": 2,
+            "cropBox": [
+              25,
+              80,
+              411,
+              411
+            ],
+            "neckAnchor": [
+              210.0,
+              366
+            ],
+            "scale": [
+              0.4166666666666667,
+              0.40559440559440557
+            ],
+            "paste": [
+              51,
+              20,
+              212,
+              154
+            ]
+          },
+          "-30": {
+            "sheetCell": 3,
+            "cropBox": [
+              9,
+              80,
+              390,
+              416
+            ],
+            "neckAnchor": [
+              237.0,
+              373
+            ],
+            "scale": [
+              0.4166666666666667,
+              0.39590443686006827
+            ],
+            "paste": [
+              33,
+              20,
+              192,
+              153
+            ]
+          },
+          "15": {
+            "sheetCell": 5,
+            "cropBox": [
+              42,
+              36,
+              431,
+              370
+            ],
+            "neckAnchor": [
+              205.0,
+              343
+            ],
+            "scale": [
+              0.4166666666666667,
+              0.3778501628664495
+            ],
+            "paste": [
+              60,
+              20,
+              222,
+              146
+            ]
+          },
+          "25.980762": {
+            "sheetCell": 6,
+            "cropBox": [
+              33,
+              36,
+              423,
+              366
+            ],
+            "neckAnchor": [
+              197.0,
+              340
+            ],
+            "scale": [
+              0.4166666666666667,
+              0.3815789473684211
+            ],
+            "paste": [
+              60,
+              20,
+              222,
+              146
+            ]
+          },
+          "30": {
+            "sheetCell": 7,
+            "cropBox": [
+              15,
+              36,
+              400,
+              369
+            ],
+            "neckAnchor": [
+              169.0,
+              335
+            ],
+            "scale": [
+              0.4166666666666667,
+              0.3879598662207358
+            ],
+            "paste": [
+              64,
+              20,
+              224,
+              149
+            ]
+          }
+        },
+        "cutY": 136,
+        "originalHeadBox": [
+          48,
+          20,
+          208,
+          143
+        ],
+        "rawSheetSize": [
+          1774,
+          887
+        ],
+        "neutralUsesOriginal": true,
+        "bodyFixedFromY": 158,
+        "maxYawDegrees": 30,
+        "yawDegreesSequence": [
+          0,
+          -15.0,
+          -25.980762,
+          -30.0,
+          -25.980762,
+          -15.0,
+          -0.0,
+          15.0,
+          25.980762,
+          30.0,
+          25.980762,
+          15.0,
+          0,
+          -15.0,
+          -25.980762,
+          -30.0,
+          -25.980762,
+          -15.0,
+          -0.0,
+          15.0,
+          25.980762,
+          30.0,
+          25.980762,
+          15.0,
+          0
+        ],
+        "angleInterpretation": "illustrated pose targets; not a measured 3D model",
+        "shakeCount": 2,
+        "activeDurationMs": 720,
+        "neutralPauseMs": 480,
+        "durations": [
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          480
+        ],
+        "frameMs": 30,
+        "loop": false,
+        "previewLoop": true,
+        "neutralFrameIndices": [
+          0,
+          6,
+          12,
+          18,
+          24
+        ],
+        "sources": [
+          "frame_01.png",
+          "frame_04.png",
+          "frame_07.png",
+          "source/shake-head-solid-poses.png"
+        ],
+        "method": "imagegen whole-head keyposes referenced to original front and side sprites",
+        "registeredHeadPaths": {
+          "0": "source/shake-head-solid/key_+0.png",
+          "-15": "source/shake-head-solid/key_-15.png",
+          "-25.980762": "source/shake-head-solid/key_-25.9808.png",
+          "-30": "source/shake-head-solid/key_-30.png",
+          "15": "source/shake-head-solid/key_+15.png",
+          "25.980762": "source/shake-head-solid/key_+25.9808.png",
+          "30": "source/shake-head-solid/key_+30.png"
+        },
+        "registeredHeadSHA256": {
+          "source/shake-head-solid/key_+0.png": "4645b4aee59a1c9d43e7c2132631ee832b49cc55b00c48fe4255ff31e17e8738",
+          "source/shake-head-solid/key_-15.png": "bfdc343e5b5134f517a192e512fecd8f986aaf74563a81b9fd8b6c8e1c38f441",
+          "source/shake-head-solid/key_-25.9808.png": "1ba6fe4de26bc7df93380f7dbb11d717f0008776c2e786eec07da61ac4937709",
+          "source/shake-head-solid/key_-30.png": "d7128da8689e13619eb06b9680fce57b6046d962b8085b4243821148407de505",
+          "source/shake-head-solid/key_+15.png": "b1f304f823ee470efa3d6c2096b612882e2b5a48e3bf74b533358b793b025a55",
+          "source/shake-head-solid/key_+25.9808.png": "83c8e4873a31dffb130c36dc751726461658c8a952aafcec00510b00c9aab8c6",
+          "source/shake-head-solid/key_+30.png": "76b0424ba1ebf2d6bc665c2b2bb250da93f4f6b3ded8249c4d6937d1ac1568c6"
+        },
+        "wholeHeadTurns": true,
+        "headSilhouetteFixed": false,
+        "palette": "original frame_01 opaque colours",
+        "rollDegrees": 0,
+        "verticalMotion": 0
+      }
+    },
+    "chat": {
+      "atlas": "animations/daily/chat.png",
+      "gif": "animations/daily/chat.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/chat",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "renderer": "nearest-neighbour anatomical weighted rigid deformation",
+  "sourcePreserved": true,
+  "sourceSHA256": {
+    "frame_01.png": "37d444ba2c238d6965c0d1fa64e17f3ec1fb2057153e9835f57f21d51f594ac2",
+    "frame_04.png": "634073ebb18f0a1c4ebc6920552667b8c42cf9d036a4193ae66c16b01f6bacc1",
+    "frame_07.png": "474951df80a314e15ee0afb1fce519721e129ce9c8dd2404afa3bd5eeffe52e3",
+    "frame_10.png": "5a42a31e07c6481ee6824e33274e62796e2356c6cece3b6c71aa65d31f4e5268",
+    "frame_14.png": "ca17c46f2459b6a0e4d8bad17da3b38052385b1a217f0ed8503d9398554791eb",
+    "frame_15.png": "de8d631ba3d5d2917f56e5d0045416ce6465b3f7b789805de8c01487d62e6183",
+    "frame_16.png": "662f178ace606b466b09615c8209dd02c744b92f26b53986fc76b73155403e54",
+    "frame_11.png": "9cdcf2ee50596ae0e867e154945529fbc1e848cce29e0c1ca2f4793c6079b4c3",
+    "source/shake-head-solid-poses.png": "5705f078e8f31ae54dbf0f10cd1b69f1428494eac8c8a1f76587f277fc707ba3"
+  },
+  "qualityNotes": [
+    "Continuous anatomical rig derived from genuine front/left/back/wave/sit/cheer key poses",
+    "Work tools are occupational visual indications; tool interaction and vehicle physics are not simulated",
+    "Right view is a mirror of the left-view source"
+  ],
+  "previewBoard": "basic_actions.png",
+  "dailyActionExpansion": {
+    "version": "20261003-daily-v1",
+    "manifest": "animations/daily/manifest.json",
+    "actions": [
+      "nod",
+      "shake_head",
+      "chat"
+    ],
+    "humanApproval": "pending new-action review"
+  }
+}

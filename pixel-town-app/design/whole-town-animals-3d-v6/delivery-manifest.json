@@ -1,0 +1,891 @@
+{
+  "version": "6.0.0",
+  "date": "2026-10-18",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 7350,
+      "sha256": "e193c56fbdde2338fae7fb91c997e808c7d9b2428882a0223d4200bb15d93610"
+    },
+    {
+      "path": "THIRD_PARTY_LICENSES.txt",
+      "bytes": 2184,
+      "sha256": "584a15115b220302245e88d3524ca4b7944fce3c73c936fa7f59b64a5db06fa4"
+    },
+    {
+      "path": "Town-complete.blend",
+      "bytes": 22388341,
+      "sha256": "131bace9631887565f12a61da65585c98c87b658d420886fa3c6c3d76fba92e7"
+    },
+    {
+      "path": "Town-complete.glb",
+      "bytes": 89714632,
+      "sha256": "e81ec64d17ae3a51c101f98757893387aa86d0a353268d118285fd1c3a4c75a0"
+    },
+    {
+      "path": "Town-with-animals.blend",
+      "bytes": 34913927,
+      "sha256": "84673e0878f8eccf581aac6a98f0d09ad320ad0e40c2b223e1156f33759ea91c"
+    },
+    {
+      "path": "animal-library/ATTRIBUTION.md",
+      "bytes": 2613,
+      "sha256": "026f3d938f015961aee0b7c6762cb891c3f0bfd0711bc330301ae3dc6a2e08c3"
+    },
+    {
+      "path": "animal-library/README.md",
+      "bytes": 3130,
+      "sha256": "0b5cd0d12db485c28a68509aa49ae7427a3924342ad43909d94098e95197221b"
+    },
+    {
+      "path": "animal-library/assets/01_cat_tabby.blend",
+      "bytes": 542679,
+      "sha256": "e0f491e33dcbbb1550c6e33c72af45f25fef79d96e252015a45ba1baee2e9159"
+    },
+    {
+      "path": "animal-library/assets/01_cat_tabby.glb",
+      "bytes": 514352,
+      "sha256": "e57c94dfe321987446f86f39b1b90956f2a79dba97b237c90a6d32181d982b8c"
+    },
+    {
+      "path": "animal-library/assets/02_cat_calico.blend",
+      "bytes": 544681,
+      "sha256": "21a74fa7ec682ad5cc565338468b44197c7892903b85eb3a387495825f1cb5d4"
+    },
+    {
+      "path": "animal-library/assets/02_cat_calico.glb",
+      "bytes": 514404,
+      "sha256": "5d02d1aa1303c98ce39e37f13b083990c1b2f041b45d3a609b266a03ac4c5e7e"
+    },
+    {
+      "path": "animal-library/assets/03_cat_british_blue.blend",
+      "bytes": 541946,
+      "sha256": "ef1d5c8bf701d7f471b6e5d0c715a154c973cb458c41f225963300418d5e47e5"
+    },
+    {
+      "path": "animal-library/assets/03_cat_british_blue.glb",
+      "bytes": 514176,
+      "sha256": "1949fd2bd8ee338d9c069f0c0b0020cef654dc6233a4bde93bf78cb51972b190"
+    },
+    {
+      "path": "animal-library/assets/04_cat_siamese.blend",
+      "bytes": 542077,
+      "sha256": "d5b81c599a99b8ef252b37c6abcc4360c0d3f847bbf3f5ae1b6bb23efb85adc4"
+    },
+    {
+      "path": "animal-library/assets/04_cat_siamese.glb",
+      "bytes": 514260,
+      "sha256": "46b5bebd5caad79e8261dbd7d925c2c0b98ab1734be9267a094a5e13f92b7924"
+    },
+    {
+      "path": "animal-library/assets/05_cat_maine.blend",
+      "bytes": 553427,
+      "sha256": "af9e902bcc5ffc183735c7ec0f852463d4d5e8826339043aa6a99db9a7ac4ed3"
+    },
+    {
+      "path": "animal-library/assets/05_cat_maine.glb",
+      "bytes": 562448,
+      "sha256": "447cbdb40962b6e2d9f203b147b0c2f85fe7b02948debd33a2ac75beaa6121d3"
+    },
+    {
+      "path": "animal-library/assets/06_dog_corgi.blend",
+      "bytes": 1073072,
+      "sha256": "8ff9cfc3a88f1b6444d971bc53ba8bb71df90a9726c06c7be9adebcea1b9bdce"
+    },
+    {
+      "path": "animal-library/assets/06_dog_corgi.glb",
+      "bytes": 516120,
+      "sha256": "0b39a4e468821d493f9489513ebec02b778e457e26f2fc7b4d1c2e24f0de91ba"
+    },
+    {
+      "path": "animal-library/assets/07_dog_shiba.blend",
+      "bytes": 1079083,
+      "sha256": "7361f93ab091a0f1242e0b71d34e43548ced5156818a6baff18ff994f2d29782"
+    },
+    {
+      "path": "animal-library/assets/07_dog_shiba.glb",
+      "bytes": 498776,
+      "sha256": "e0865294217878408c44c9e435c5b9c5045393187bd34634368e2cec3d2a63a1"
+    },
+    {
+      "path": "animal-library/assets/08_dog_border.blend",
+      "bytes": 1152790,
+      "sha256": "299c0e61f5b288e8fdf4986075dd291aca1a5d69981d1e77e95cd672a9248ad3"
+    },
+    {
+      "path": "animal-library/assets/08_dog_border.glb",
+      "bytes": 540992,
+      "sha256": "839d87e353ef7e3c31dd8e15ae0f42c2f6b289147fe7d7651d46ae6608c32094"
+    },
+    {
+      "path": "animal-library/assets/09_dog_golden.blend",
+      "bytes": 1176859,
+      "sha256": "79293d81ff5ff83e1780f0a7d750097b79022c97456e25109216af1301404059"
+    },
+    {
+      "path": "animal-library/assets/09_dog_golden.glb",
+      "bytes": 606764,
+      "sha256": "5789057177bdb3af187d0135c5427a2507e4862e5eaa805ee38f142dcd977443"
+    },
+    {
+      "path": "animal-library/assets/10_dog_dachshund.blend",
+      "bytes": 1094854,
+      "sha256": "474ad219026af81247e6bd8387663bde5c29760c06334dbe98eec7ce9c5e624b"
+    },
+    {
+      "path": "animal-library/assets/10_dog_dachshund.glb",
+      "bytes": 589784,
+      "sha256": "33ac7147861d5c57beb4d017847dd29f7ddd7300f0b47228fe01bc3f7e8d380c"
+    },
+    {
+      "path": "animal-library/assets/11_dog_poodle.blend",
+      "bytes": 1153600,
+      "sha256": "8d3ccf54f6b93bdea72ae8c5d9210fc73f34922a4a3d46fc9a42208ee9da3ca8"
+    },
+    {
+      "path": "animal-library/assets/11_dog_poodle.glb",
+      "bytes": 736848,
+      "sha256": "10f4f6d711c173b5f45f71413995df9c0f06662575c0e05a570bdc43c25c939b"
+    },
+    {
+      "path": "animal-library/assets/12_bird_budgie_green.blend",
+      "bytes": 337172,
+      "sha256": "48fcde052b3ed0fd7d658a2454f3217a2fdbe31cd300c62bc5f7beadb6b389da"
+    },
+    {
+      "path": "animal-library/assets/12_bird_budgie_green.glb",
+      "bytes": 471948,
+      "sha256": "be44877f2056e19effb2ae4ab4287eb6f42023edc101d1010126e340c60c3ac5"
+    },
+    {
+      "path": "animal-library/assets/13_bird_budgie_blue.blend",
+      "bytes": 338054,
+      "sha256": "58fbebdb7201a547d94bde0eb63d314908daf2abfde70658c51c8d49b9ca5a00"
+    },
+    {
+      "path": "animal-library/assets/13_bird_budgie_blue.glb",
+      "bytes": 471944,
+      "sha256": "3552fcdf3aac37a5e2a16b715805bb8d638a5043e4f8b17157b14e770fee702e"
+    },
+    {
+      "path": "animal-library/assets/14_bird_cockatiel.blend",
+      "bytes": 366584,
+      "sha256": "aa693c70c750112a7b9bee65635ea1f4e7357fd996f0f905b2d8e8a3af546b19"
+    },
+    {
+      "path": "animal-library/assets/14_bird_cockatiel.glb",
+      "bytes": 540648,
+      "sha256": "94b75b1628ce46a129598807885636ca64c07a626409fd0301125cdc72c904ce"
+    },
+    {
+      "path": "animal-library/assets/15_bird_canary.blend",
+      "bytes": 338567,
+      "sha256": "f57c8cb07af118e07382067ce188ba8a79fb745553ff4209539ced828ea4bc60"
+    },
+    {
+      "path": "animal-library/assets/15_bird_canary.glb",
+      "bytes": 467040,
+      "sha256": "05b2c333e84ff4ac8892848b1c90d268075a888fa0bdad74100a8f08d8e1b801"
+    },
+    {
+      "path": "animal-library/assets/16_rabbit_lop.blend",
+      "bytes": 326801,
+      "sha256": "4922503479bdd9dd219b1bddcf04f05ebe3530d54cdd8d913775a81f22779dd2"
+    },
+    {
+      "path": "animal-library/assets/16_rabbit_lop.glb",
+      "bytes": 372516,
+      "sha256": "ee883a884c5d43cabe12cc478d38a207a8f76d2d50e930dc5fa6a59e543172e5"
+    },
+    {
+      "path": "animal-library/assets/17_rabbit_dutch.blend",
+      "bytes": 333866,
+      "sha256": "ae6c6f760365346c12f8500eede0a75bd1559f216d86d9b20d5749332101fe21"
+    },
+    {
+      "path": "animal-library/assets/17_rabbit_dutch.glb",
+      "bytes": 384116,
+      "sha256": "01263b0ad04bc0c1dd82f0728aff64d4766b06aa8c03932215e8498ad2878ec0"
+    },
+    {
+      "path": "animal-library/assets/18_guineapig_rosette.blend",
+      "bytes": 345583,
+      "sha256": "7cbb2f58b84c2b94a84202382c9345fed594eccc431b45e62ef1794af2c040e5"
+    },
+    {
+      "path": "animal-library/assets/18_guineapig_rosette.glb",
+      "bytes": 439124,
+      "sha256": "8c7bfc4432dfd70c21a7e178b877605fb90d7f0df427fe52ed4621f2ff39ca91"
+    },
+    {
+      "path": "animal-library/assets/19_tortoise_hermann.blend",
+      "bytes": 260135,
+      "sha256": "ee6b64044d0573b0776fdab33fed7f426b5748dfaf6f6a1ef7285293d6f25354"
+    },
+    {
+      "path": "animal-library/assets/19_tortoise_hermann.glb",
+      "bytes": 345808,
+      "sha256": "bc15f705135152afdbaba6f9995e985ac606c97f216565cb55337107eff9c38b"
+    },
+    {
+      "path": "animal-library/assets/20_pony_shetland.blend",
+      "bytes": 1577090,
+      "sha256": "7d420f297b91335b48b48f57f713060d7175ad6ace384fe05eaff8af94286358"
+    },
+    {
+      "path": "animal-library/assets/20_pony_shetland.glb",
+      "bytes": 640344,
+      "sha256": "164cc4128dffc994bd6a3685595afbc13ed71cb357c5396c5f11fab51fb08609"
+    },
+    {
+      "path": "animal-library/assets/manifest.json",
+      "bytes": 18317,
+      "sha256": "1e04a748f7e61d886399a0f706ceecd8e89ad1331007fa8908c73c939752d43b"
+    },
+    {
+      "path": "animal-library/progress.md",
+      "bytes": 1256,
+      "sha256": "f7b5e5f0f7b70c6c6a3bfae8fbf20d26f980e05f9b4b260df825a40c5aec51b8"
+    },
+    {
+      "path": "animal-library/qa/01_cat_tabby-Eat-18.png",
+      "bytes": 131678,
+      "sha256": "bc620f749ac34d279fd9a82870f59bc619a1ecb847d625eda9f3b99a11e84aa9"
+    },
+    {
+      "path": "animal-library/qa/01_cat_tabby-Rest-16.png",
+      "bytes": 124515,
+      "sha256": "22b9c04f287e0af8a3bcbf598604d874e74251ebb135498afa077c7d3bbd4c91"
+    },
+    {
+      "path": "animal-library/qa/01_cat_tabby-Walk-12.png",
+      "bytes": 133306,
+      "sha256": "c8850f88861b7d14e3e3449ee011e653a260d2cf3fa4a7ff36daa7f1bed2b7dc"
+    },
+    {
+      "path": "animal-library/qa/07_dog_shiba-Rest-16.png",
+      "bytes": 121187,
+      "sha256": "a90892cac09ee9e153aef39ee5b75a6a4d3b6e0adea38e5b220392504d8549c6"
+    },
+    {
+      "path": "animal-library/qa/07_dog_shiba-Wag-12.png",
+      "bytes": 119505,
+      "sha256": "af53c2b19177fd5a9dafeb00433e3b1114aa7521d8347f3c8d9aa3f1e7c8782f"
+    },
+    {
+      "path": "animal-library/qa/07_dog_shiba-Walk-10.png",
+      "bytes": 118277,
+      "sha256": "9fb17d8296bb55ec06a3abfba64a0a0a7706a2568126e02fbe44611b2fc9cbef"
+    },
+    {
+      "path": "animal-library/qa/12_bird_budgie_green-Eat-18.png",
+      "bytes": 112760,
+      "sha256": "c19ac59cc6707ddc31703513d3b27b389b22b23a0263a9c03940e19291458c7e"
+    },
+    {
+      "path": "animal-library/qa/12_bird_budgie_green-Fly-18.png",
+      "bytes": 123067,
+      "sha256": "70c016b47b1472c3a61cd4d8f69f0c8d8597f9137ebbbd227f1454647b3bcaef"
+    },
+    {
+      "path": "animal-library/qa/12_bird_budgie_green-Fly-6.png",
+      "bytes": 106765,
+      "sha256": "3541068af4f2cdc2754a7d523cfc56df09f22ecfbe63707c616c311b4f54027e"
+    },
+    {
+      "path": "animal-library/qa/16_rabbit_lop-Eat-18.png",
+      "bytes": 115021,
+      "sha256": "1eb4c2b4c22913efd091b9122fc4c8395844ce4b6fdee808ac424158e6b304bb"
+    },
+    {
+      "path": "animal-library/qa/16_rabbit_lop-Hop-12.png",
+      "bytes": 110264,
+      "sha256": "d2d67e8260960321745252f0652229e751fca65975ef1894280633f3ed6424d0"
+    },
+    {
+      "path": "animal-library/qa/16_rabbit_lop-Rest-16.png",
+      "bytes": 113022,
+      "sha256": "ee68d583d951d2d1672f5093bfd2c8faeb55b0e1381105945af71570599dbc39"
+    },
+    {
+      "path": "animal-library/qa/19_tortoise_hermann-Hide-12.png",
+      "bytes": 117998,
+      "sha256": "9a43cc1087eb3816ab1391c4b135bfc80866228feadee3038ec11734be5953c7"
+    },
+    {
+      "path": "animal-library/qa/19_tortoise_hermann-Walk-12.png",
+      "bytes": 118786,
+      "sha256": "ac096f765728318278fa05f4eb522f9dca481a27979bb642c75743566cd66653"
+    },
+    {
+      "path": "animal-library/qa/20_pony_shetland-Eat-48.png",
+      "bytes": 107561,
+      "sha256": "395a2a749ac86af1f3469b259a9324e5d1d3579f035284d14778ae1634d28e19"
+    },
+    {
+      "path": "animal-library/qa/20_pony_shetland-Rest-16.png",
+      "bytes": 108479,
+      "sha256": "148390db7c0b2b2cdf54939ad86bb1aca3c3a70ddb4310ce08906a9a366a0dd2"
+    },
+    {
+      "path": "animal-library/qa/Horse-source.png",
+      "bytes": 339555,
+      "sha256": "c5ea89dc0aa58df8d070ad37a966ca740adffff6ac9e4500d74d82ab79ebb0e1"
+    },
+    {
+      "path": "animal-library/qa/Husky-source.png",
+      "bytes": 349992,
+      "sha256": "87bb5876e3bba08e25014b3c53a44e91856f070383aaa88d49dcc0d98fc0d91e"
+    },
+    {
+      "path": "animal-library/qa/ShibaInu-source.png",
+      "bytes": 361206,
+      "sha256": "4b5d8bacedb98afca7cdf71f31b7008e17b5643466fd4025acb71d7113eba7e3"
+    },
+    {
+      "path": "animal-library/qa/asset-sha256.json",
+      "bytes": 4140,
+      "sha256": "162ad0903ee19c99d5f8fc1ad7b1ab044e545bbcee033fc7ee676b1f138ebe1f"
+    },
+    {
+      "path": "animal-library/qa/build-report.json",
+      "bytes": 7658,
+      "sha256": "b6469e18bf193a66489d335439379371d460f38d479d5ff1527682e0e1599fb0"
+    },
+    {
+      "path": "animal-library/qa/build.log",
+      "bytes": 13179,
+      "sha256": "77e86662643fd25b6920aa923b5185131b8a88bca90d60a40cd2758579e7e84b"
+    },
+    {
+      "path": "animal-library/qa/cat-source.png",
+      "bytes": 346487,
+      "sha256": "3a795e4bc3a07f38a43f5355dd6089c1cf5ef53139ebfec65b921df506835099"
+    },
+    {
+      "path": "animal-library/qa/finalize.log",
+      "bytes": 10120,
+      "sha256": "257189be6d0b84b4c4a06755c38871e074e0d6d8209439b66b362590c6eef7d1"
+    },
+    {
+      "path": "animal-library/qa/glb-structure.json",
+      "bytes": 3768,
+      "sha256": "568d89c0f8e5ff33b0e7b14f043c90de605c4b1afd47f02212d5224d30a1fec7"
+    },
+    {
+      "path": "animal-library/qa/render-motion.log",
+      "bytes": 4823,
+      "sha256": "9dad036eaa6812dc2964bc09a55ffa123b89c3ead4633092b50d3d8b3306396e"
+    },
+    {
+      "path": "animal-library/qa/render-sources.log",
+      "bytes": 1184,
+      "sha256": "7e645356f9a72f4c038f0a7029a1d2c364060b68d93053fed941379a2084083b"
+    },
+    {
+      "path": "animal-library/qa/source-inspect.json",
+      "bytes": 66439,
+      "sha256": "baee1e340a731d10b9731e658438c61fabccd329452a7e6faae4d585e54f2097"
+    },
+    {
+      "path": "animal-library/qa/source-inspect.log",
+      "bytes": 67338,
+      "sha256": "4ecd0d4b7dd23df15f218a5d2856fa7561dc2069432db453b84437d8d1bb96af"
+    },
+    {
+      "path": "animal-library/qa/validation.json",
+      "bytes": 50725,
+      "sha256": "8a2139a25e4dc2ad8bf8ab9d4028de9b2decbe688aa2d3b08e06ad822154e116"
+    },
+    {
+      "path": "animal-library/qa/validation.log",
+      "bytes": 6760,
+      "sha256": "8b3ccefd1d37d3ff6c531ffb0889a53945ac1f7172b07f3132c4ffe700ce1a42"
+    },
+    {
+      "path": "animal-library/renders/01_cat_tabby.png",
+      "bytes": 232891,
+      "sha256": "9018d877b910bfdf1611e1645e8258cb0796e9a3e5c68b85cf1b255f796d4000"
+    },
+    {
+      "path": "animal-library/renders/02_cat_calico.png",
+      "bytes": 230476,
+      "sha256": "0b039ab5b3a96af91a5d5a35f91e61181392b6ff56dd8e8e1b2d6ab92802a9b4"
+    },
+    {
+      "path": "animal-library/renders/03_cat_british_blue.png",
+      "bytes": 231678,
+      "sha256": "5bf0ea5d015c5b37529346007382e315f8d42f5d6b976c6429fdbbf38e0a3120"
+    },
+    {
+      "path": "animal-library/renders/04_cat_siamese.png",
+      "bytes": 224223,
+      "sha256": "92fa7c63faf80f7eed83c59938f1390817e66fe0ef0b368b250b523a77ec3144"
+    },
+    {
+      "path": "animal-library/renders/05_cat_maine.png",
+      "bytes": 224597,
+      "sha256": "6b369f000e26833cda163d49917ec4910556993e29316d91fe0c23a54acd0116"
+    },
+    {
+      "path": "animal-library/renders/06_dog_corgi.png",
+      "bytes": 169863,
+      "sha256": "3cef84dc6294cad953bc8721d4fda3fc8c2094e62b465b133fd5a95d67656457"
+    },
+    {
+      "path": "animal-library/renders/07_dog_shiba.png",
+      "bytes": 206895,
+      "sha256": "0ca644bb3f1c93846ce90d3c5b7e0315444e6f03eadd71babce87d2047ec64ab"
+    },
+    {
+      "path": "animal-library/renders/08_dog_border.png",
+      "bytes": 179171,
+      "sha256": "5c0ed3a4e554567f586eea2c6f59810d870714319a788be9dedfce49e535a2ac"
+    },
+    {
+      "path": "animal-library/renders/09_dog_golden.png",
+      "bytes": 185596,
+      "sha256": "e4e67e67f0f683b8886ecf55ff85e3bfaabf3f83e533189713c044c1f3565506"
+    },
+    {
+      "path": "animal-library/renders/10_dog_dachshund.png",
+      "bytes": 138645,
+      "sha256": "9b32f6bca96d61bb8daf23788ab15ad5ab880026438919645b3aea919526b6bd"
+    },
+    {
+      "path": "animal-library/renders/11_dog_poodle.png",
+      "bytes": 212236,
+      "sha256": "64abed2cd80a7c242ca32adc2802a341168e527f177f687903337665be4e19da"
+    },
+    {
+      "path": "animal-library/renders/12_bird_budgie_green.png",
+      "bytes": 193601,
+      "sha256": "6328d0ed3b0d182aba729297a9bfb06001c8118a5a6274aef2effc607d0259a3"
+    },
+    {
+      "path": "animal-library/renders/13_bird_budgie_blue.png",
+      "bytes": 193791,
+      "sha256": "1d9e71263c2d259c7fda61cc033e2b3985f3845a0f7b2ed8222aeebd550b925b"
+    },
+    {
+      "path": "animal-library/renders/14_bird_cockatiel.png",
+      "bytes": 188079,
+      "sha256": "0760d76916e0eb6d7d999ae212003b0cd9b233a1ded5d8fc3e3206163b947732"
+    },
+    {
+      "path": "animal-library/renders/15_bird_canary.png",
+      "bytes": 195908,
+      "sha256": "c2ec73fdec20bd5a86783ababc398da33c1fa729236e12e5c1e67a9abe14449c"
+    },
+    {
+      "path": "animal-library/renders/16_rabbit_lop.png",
+      "bytes": 193052,
+      "sha256": "5fe60d54d1ca805da34276eb34c96f20b929079202f157a553691c1000ba3d8b"
+    },
+    {
+      "path": "animal-library/renders/17_rabbit_dutch.png",
+      "bytes": 211964,
+      "sha256": "e9cf299eddda5e4c952e0b6a1292401ea8a63f6ea7bd8f5bb656beeced13268a"
+    },
+    {
+      "path": "animal-library/renders/18_guineapig_rosette.png",
+      "bytes": 205945,
+      "sha256": "f69e236a3384e87408ae320d2f8d91decd411ef48256ed6a25d3d0cbc991a4dc"
+    },
+    {
+      "path": "animal-library/renders/19_tortoise_hermann.png",
+      "bytes": 202786,
+      "sha256": "56d209b141d01c2a6f4df42c2e424d05ef0404a53d7560b06fb293df8eb0595d"
+    },
+    {
+      "path": "animal-library/renders/20_pony_shetland.png",
+      "bytes": 184624,
+      "sha256": "9f2efe5b3d0d62312be6a4cc5de71d6890a2ff93192706b88a6832f5dcd3a53c"
+    },
+    {
+      "path": "animal-library/renders/20只动物-总览.jpg",
+      "bytes": 293876,
+      "sha256": "4f58be3490938a492cb393b39d941a7f32f0315a00d8ef94eb9b08651ea64086"
+    },
+    {
+      "path": "animal-library/renders/关节动作-16姿态.jpg",
+      "bytes": 159459,
+      "sha256": "3ffbbba75404596270aab38926631f996eb606cbc718944668058350ddd0e4b6"
+    },
+    {
+      "path": "animal-library/source/Horse.blend",
+      "bytes": 3274184,
+      "sha256": "bae86df06f65ff72d02a57f584986eaf891632b96cc4e5ecde8939e1ebed0b4f"
+    },
+    {
+      "path": "animal-library/source/Husky.blend",
+      "bytes": 2658467,
+      "sha256": "4ecca2d892d2f6aba589854b5b7556354af58d2e5b59a504ebf742d9ab5ec951"
+    },
+    {
+      "path": "animal-library/source/ShibaInu.blend",
+      "bytes": 2475171,
+      "sha256": "74d9e749f7f3392cf677d715e5a7f3bb91c1d17cf28b94ffc941846e7c68b68d"
+    },
+    {
+      "path": "animal-library/source/build_animals.py",
+      "bytes": 33617,
+      "sha256": "29d238f7f2156fd7b1ec06ed8f3ec92cdf4acb4956a6acb50b561317aa0df05d"
+    },
+    {
+      "path": "animal-library/source/cat.blend",
+      "bytes": 307638,
+      "sha256": "9a6b2bfb511c9d5ab8482486e391cc901cc882f6f6a7015c1ad6db6fc9606ddb"
+    },
+    {
+      "path": "animal-library/source/cat_slice.py",
+      "bytes": 466,
+      "sha256": "17ae222f6f69f1f97c203260586b1269501ccfd04fb3d94ca3432bec816e3a0c"
+    },
+    {
+      "path": "animal-library/source/check_glb.py",
+      "bytes": 2225,
+      "sha256": "c1cc3c5353de3e5737fc265b5b9e7344d004ea1652343de800248ef588db32b6"
+    },
+    {
+      "path": "animal-library/source/ear_inspect.py",
+      "bytes": 856,
+      "sha256": "436758447a769ca301dec9d4246be99cab247546d8ed68c59b7417bccc35cd74"
+    },
+    {
+      "path": "animal-library/source/finalize_assets.py",
+      "bytes": 3103,
+      "sha256": "df43a73896a59a19ee092f117c786f2133f83f5907e8d678707a0612295a468f"
+    },
+    {
+      "path": "animal-library/source/inspect_sources.py",
+      "bytes": 1325,
+      "sha256": "b5fa020ab398d299e1688084a1d75a610919b5bd4fc75106fbdd141b50ed6a3b"
+    },
+    {
+      "path": "animal-library/source/render_motion.py",
+      "bytes": 1840,
+      "sha256": "fec5002eb1c683cbef53e73932e4f7e7673175169c88043909e52097c9946c30"
+    },
+    {
+      "path": "animal-library/source/render_sources.py",
+      "bytes": 1802,
+      "sha256": "bf3475b4a0b48f385766a609758d2364c7efee8582f14ab79b7c4f967494176e"
+    },
+    {
+      "path": "animal-library/source/validate_animals.py",
+      "bytes": 2673,
+      "sha256": "d14cc81e0d27afa60f3f3504b7a2278e98e4779cd40576897ebfaeb9a52775b5"
+    },
+    {
+      "path": "animal-library/vendor/Horse.gltf",
+      "bytes": 3610082,
+      "sha256": "3deb61550dff1d2786d04b6e8559d63ad3907d6ab606ba28ce0af074ed96341b"
+    },
+    {
+      "path": "animal-library/vendor/Husky.gltf",
+      "bytes": 3059335,
+      "sha256": "0cfd85ddfcc5c07caf1bdeb296b21017b0da4c8558a92086daf4a172e0bf8d97"
+    },
+    {
+      "path": "animal-library/vendor/Quaternius-License.txt",
+      "bytes": 364,
+      "sha256": "83d8959f9fc56353ed571fbe2dc52e4bcd64508e2399501cd45ac2ce3df0bf8c"
+    },
+    {
+      "path": "animal-library/vendor/ShibaInu.gltf",
+      "bytes": 2894445,
+      "sha256": "3236979b94a840eb72d9ce091b1361da327a96f5ce068e666680297480f30f6b"
+    },
+    {
+      "path": "animal-library/vendor/cat-ASSET-LICENSES.md",
+      "bytes": 2681,
+      "sha256": "cd394b8c674a4267e2c8f35e7aaeaf26de149fff6ee1402ee3e3ad97fa47e7a4"
+    },
+    {
+      "path": "animal-library/vendor/cat.glb",
+      "bytes": 280840,
+      "sha256": "2ed030946f552f2b46433294391628a37583ae74a496d3164c003e1f95b24e4e"
+    },
+    {
+      "path": "animal-library/vendor/cat_albedo.png",
+      "bytes": 23811,
+      "sha256": "3f2cdbeeac122c0222b1ff72bf52450af49cd4d6cc98f3441fb7e254290ad308"
+    },
+    {
+      "path": "animal-library/vendor/freemodels-tree.json",
+      "bytes": 684800,
+      "sha256": "84942baddb933d0075199fb7c0db4520ce8409d524760161c761afaedbe2c5df"
+    },
+    {
+      "path": "animal-library/vendor/sources.json",
+      "bytes": 1852,
+      "sha256": "3950afcea5dad59837746c6075c483e86e88d9e11f406f14f015f743665cc353"
+    },
+    {
+      "path": "animal-library/验收报告.md",
+      "bytes": 3393,
+      "sha256": "01bccd3b256b095ceb2555c6cb0e5c0e6b7d7b70015c52f86a07f689dc3514f8"
+    },
+    {
+      "path": "assets/people/Ache-caretaker.blend",
+      "bytes": 8492738,
+      "sha256": "737b2f5fb37a48d880887b28be0c718e0e27d8307c9d00bdcd374a244988cd0b"
+    },
+    {
+      "path": "assets/people/Ache-caretaker.glb",
+      "bytes": 3050620,
+      "sha256": "b39b2986ff099c55c1c8ae8d8e37dcc04f8715a7aa05afcfb5394a3f72067cd0"
+    },
+    {
+      "path": "assets/people/manifest.json",
+      "bytes": 520,
+      "sha256": "1f3e4da75ec537b453090acb3ae8e958b4f2ff372499f54f7c7f2c5896030eaf"
+    },
+    {
+      "path": "environment-data.json",
+      "bytes": 592470,
+      "sha256": "af545d67ec511003eb20bd34ece3646919af5ecceedcd04046a929f1e2e3d07b"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 136767,
+      "sha256": "3cfed13ac5e54594e530d2eeab65dd7544c68a8e1649065f72b14c230bc69a35"
+    },
+    {
+      "path": "package.json",
+      "bytes": 319,
+      "sha256": "aacb7bd0b913ede647afe91430e208ba6b245abaa7a92411440df6662e28c55c"
+    },
+    {
+      "path": "qa/animal-rule-tests.txt",
+      "bytes": 860,
+      "sha256": "ceeea01d69459487a9a3d01e9e4832d09932927352a8e7e378bd4a8b1badb682"
+    },
+    {
+      "path": "qa/browser-validation.json",
+      "bytes": 21680,
+      "sha256": "b34aa0c3980bf800070079eb5ccd3c048e82262421054a22bcb26822b64a91ad"
+    },
+    {
+      "path": "qa/caretaker-build.log",
+      "bytes": 3484,
+      "sha256": "150d22761fe40f30b9a71bee047bdd4da11e006d0305a2a63d9f948c5fb78d0c"
+    },
+    {
+      "path": "qa/environment-tests.txt",
+      "bytes": 2127,
+      "sha256": "6a542adb4ef87573b1bb5cfab7cb123d81b572cc9986aa97dd3b0f7f35c7ccc9"
+    },
+    {
+      "path": "qa/final-validation.json",
+      "bytes": 1254,
+      "sha256": "b0c45259611d5132ddacd2eda5c9a5b0c694c178948957e6b08035f3305748ca"
+    },
+    {
+      "path": "qa/history/runtime-nav-audit-initial.json",
+      "bytes": 238054,
+      "sha256": "301e58b2da27ab95c0593655ca3a5e2710202d309634838683efc1e879a34ca8"
+    },
+    {
+      "path": "qa/navigation-validation.json",
+      "bytes": 20292,
+      "sha256": "00d35b3dfae10cdfce2c193e6dce18dc62abc6f33b283f2b8a8ce6484bcaf6c7"
+    },
+    {
+      "path": "qa/protected-source-validation.json",
+      "bytes": 142,
+      "sha256": "f68edbe6e70853c4aa3d74f1c89b3d719691ce1aeecbfeb9d504a01705ffc92e"
+    },
+    {
+      "path": "qa/runtime-nav-retest.json",
+      "bytes": 578233,
+      "sha256": "dca07717b7d476a04875e1e59b698f58b98ce2a4620c7f3de267bbcfa78af88b"
+    },
+    {
+      "path": "qa/town-native-validation.json",
+      "bytes": 30283,
+      "sha256": "2e555205d2df4be2f103e3e9018df6e87e99e6f8a955390fa99ce7236c84b479"
+    },
+    {
+      "path": "qa/小镇-390px.png",
+      "bytes": 90313,
+      "sha256": "62ad7149950cc84c155deaab268077c7eccabfc6a23388fa4cf39e800847971e"
+    },
+    {
+      "path": "qa/小镇-人与柴犬互动.png",
+      "bytes": 393128,
+      "sha256": "2eccbbee2e3c3d3cfb378df9feba7b92c7b7f455f27c7aa15e3b7dc32d04aedb"
+    },
+    {
+      "path": "qa/小镇-动物全景.png",
+      "bytes": 508711,
+      "sha256": "c30a982674340f85070df4ddd6105bc198b9b7afd44c98935dda54fddc727e2f"
+    },
+    {
+      "path": "qa/小镇-鸟舍活动.png",
+      "bytes": 309571,
+      "sha256": "3ceaed635e1d9ea32650d9ec885fd42bf665d3f999acbc31856a75a832ca3367"
+    },
+    {
+      "path": "reference/Ache-source.blend",
+      "bytes": 7949887,
+      "sha256": "4779c0e7ca71f1ed87ba59ecc8617dc1f54b04d4c539e0304ba904d3221bb134"
+    },
+    {
+      "path": "reference/caretaker-licenses/License_Animations.txt",
+      "bytes": 320,
+      "sha256": "d77329b05c4c206e76c83285ecdd1e5f2b3df2350ec80657ebdb5a706a0fc0de"
+    },
+    {
+      "path": "reference/caretaker-licenses/License_Base_Characters.txt",
+      "bytes": 784,
+      "sha256": "e08f717c3cfd999f4b44f2be4522b11a3ac3c0e5b6364b3a8788d25d4c90ff94"
+    },
+    {
+      "path": "reference/caretaker-licenses/License_Modular_Men_CC0.txt",
+      "bytes": 7048,
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "path": "reference/caretaker-licenses/THIRD_PARTY_LICENSES.txt",
+      "bytes": 1790,
+      "sha256": "0e91b70663d7a3e63d0b67224c8a621b39fd559abf5cc661d29b35646d0d4d58"
+    },
+    {
+      "path": "reference/habitats.json",
+      "bytes": 77645,
+      "sha256": "b58cbce91a81e87649c370d4a12a535c59070f5b97f0ec3d5c45039ef5350d7f"
+    },
+    {
+      "path": "reference/navigation.json",
+      "bytes": 1380155,
+      "sha256": "a0f7fe86b4a36e28b40724867891e9f6b1c9dde0604351e5d29cf51465f87d30"
+    },
+    {
+      "path": "reference/runtime-spawn.json",
+      "bytes": 15401,
+      "sha256": "6bae83adfd33a05f4480e72d24106e4969a2889fc77704ef244f01088b2e3997"
+    },
+    {
+      "path": "reference/v5-source-hashes.json",
+      "bytes": 4949,
+      "sha256": "64a3f1a2e56364f5449b55aa929c9e63522d630cb14102bfe4af6ee420cc98cf"
+    },
+    {
+      "path": "src/animal-simulation.js",
+      "bytes": 30500,
+      "sha256": "6f52de8729940f052ed681371c537c9967c03c388ca7df1886487f6cc1bf0de6"
+    },
+    {
+      "path": "src/animal-simulation.test.js",
+      "bytes": 3498,
+      "sha256": "c8378ecc99b06ad550b98bf43d073529807b6ebfaa9bd00af7f9877a52707c12"
+    },
+    {
+      "path": "src/animal-world.js",
+      "bytes": 20120,
+      "sha256": "08234435a0a335717ad0b45c63e2f1590486bb235459b0ae044230fa1b9c7e25"
+    },
+    {
+      "path": "src/autumn-leaves.js",
+      "bytes": 4565,
+      "sha256": "c24292a953f904c33045fbb6f49a747deeeb6ed3c1c40ecc15ef9852b06c7f2d"
+    },
+    {
+      "path": "src/browser-validation.cjs",
+      "bytes": 8952,
+      "sha256": "70844d84c0d335fa89b174b4c5b5b7b58457032922e447a94e9518795c40d910"
+    },
+    {
+      "path": "src/build_animal_navigation.py",
+      "bytes": 31714,
+      "sha256": "b1110b61c0c0e1e7c8d4c2ec41ecd776b54e7be939b8e4b5423d852ff692cb3f"
+    },
+    {
+      "path": "src/build_caretaker.py",
+      "bytes": 3868,
+      "sha256": "7e77a181ce2ba9d444a5c7772994c564af09aae8fcaa4c0f0ba13a7f2ffc9016"
+    },
+    {
+      "path": "src/build_town_animals.py",
+      "bytes": 15330,
+      "sha256": "9e61b1e8a17df4170b89a4ad76be39b7c6fa011a00550eeb74f00b81b41174b9"
+    },
+    {
+      "path": "src/environment-renderer.js",
+      "bytes": 13799,
+      "sha256": "3e92496f781bf8b2abfa42bdc84a4a394a417cc407aa1b1ad19108afa93b77b1"
+    },
+    {
+      "path": "src/environment-state.js",
+      "bytes": 8002,
+      "sha256": "7fb37cdc34591f30d77ba6f4ced4bfcc2ed091fddb1b42bd1e3a47e65c573d7f"
+    },
+    {
+      "path": "src/environment-state.test.js",
+      "bytes": 10022,
+      "sha256": "46ffd2ca010e2d3c77bacd7e5dbe424f7eaad1f86e774b4e49a158eebc9f1ec2"
+    },
+    {
+      "path": "src/export_environment.py",
+      "bytes": 1632,
+      "sha256": "045953d56c0af211958a1bad3419479d3338b5f1ca0d2c7195c72ba8f89bf83e"
+    },
+    {
+      "path": "src/extended-weather.js",
+      "bytes": 16700,
+      "sha256": "4a4f870f823b8c6074813260045da378599604c2b49a82a24e2aa3cb96b363ae"
+    },
+    {
+      "path": "src/nav_runtime_audit.mjs",
+      "bytes": 23490,
+      "sha256": "b7a55f3318c18b29ad589a83f1bb8a2332139c0329fe29c0e8d9a80312d646a4"
+    },
+    {
+      "path": "src/package_preview.py",
+      "bytes": 1444,
+      "sha256": "6ce453554429b4c371a1956fd0b3c78c5b7e4f66b201f8ecc68d5f8470f66d35"
+    },
+    {
+      "path": "src/seasonal-vegetation.js",
+      "bytes": 7334,
+      "sha256": "70ba6d3e4b7dca2ba5afebbe56d8f4a8231a4e650d5c2e64611317bb2e4cbc0c"
+    },
+    {
+      "path": "src/viewer.js",
+      "bytes": 15452,
+      "sha256": "d8b8b755a1d5fff0a70a21ef3d5bebb42511c118c937df4031f8386c232defd5"
+    },
+    {
+      "path": "template.html",
+      "bytes": 18189,
+      "sha256": "debf4c5f2c834fba2e84dc9d2abf3a2a4316126f222fd9f39e2b325a17641f95"
+    },
+    {
+      "path": "viewer.bundle.js",
+      "bytes": 706484,
+      "sha256": "e9314d8e7c4840a704e7a76d539718bcaeb11ff14a24f839838c9af7aa156c3d"
+    },
+    {
+      "path": "小镇动物生活-离线预览.html",
+      "bytes": 140190719,
+      "sha256": "5848ebaeddefc81687173e578b82c16410a85b45cb6ceeaa3416afa34053c2be"
+    },
+    {
+      "path": "整镇分区总图.svg",
+      "bytes": 4066222,
+      "sha256": "afcea379c25b1b22f5a3b0040179a8496735451442df8c2b38c43d8d3b57f83b"
+    },
+    {
+      "path": "设计与实施.md",
+      "bytes": 2139,
+      "sha256": "1f91945a113db3e7524b10ed1c6672e2fd4508e709b33cee5ff65beac0272c80"
+    },
+    {
+      "path": "验收报告.md",
+      "bytes": 5246,
+      "sha256": "4e84645e1a8c6ee3c9b94a91c050dfb9a28becd8c7f32f7d9f110328306dffe0"
+    }
+  ]
+}

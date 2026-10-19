@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "batch": "20261003-daily-v1",
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "animations": {
+    "bask": {
+      "atlas": "animations/daily/bask.png",
+      "gif": "animations/daily/bask.gif",
+      "frames": 16,
+      "frameMs": 130,
+      "loop": true,
+      "gifFrames": 15,
+      "source": "frame_01.png",
+      "technique": "existing tortoise pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/bask",
+      "humanApproval": "pending review of this new clip"
+    },
+    "forage": {
+      "atlas": "animations/daily/forage.png",
+      "gif": "animations/daily/forage.gif",
+      "frames": 16,
+      "frameMs": 130,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing tortoise pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/forage",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "sourceSHA256": {
+    "frame_01.png": "bd1deea808d6d25c1b46189da0cc6a8abce81c8bfd56650c40117ad974923c7b"
+  }
+}

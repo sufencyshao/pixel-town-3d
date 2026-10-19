@@ -1,0 +1,313 @@
+{
+  "version": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": [
+    0.5,
+    0.9
+  ],
+  "animations": {
+    "idle": {
+      "atlas": "animations/idle.png",
+      "gif": "animations/idle.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_down": {
+      "atlas": "animations/walk_down.png",
+      "gif": "animations/walk_down.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_left": {
+      "atlas": "animations/walk_left.png",
+      "gif": "animations/walk_left.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_04.png"
+    },
+    "walk_right": {
+      "atlas": "animations/walk_right.png",
+      "gif": "animations/walk_right.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_07.png"
+    },
+    "walk_up": {
+      "atlas": "animations/walk_up.png",
+      "gif": "animations/walk_up.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_10.png",
+      "keyframes": [
+        "frame_10.png",
+        "frame_11.png",
+        "frame_12.png"
+      ],
+      "keyframeAtlas": "animations/back_walk_keys.png",
+      "keyframeGif": "animations/back_walk_keys.gif",
+      "keyframeSequence": [
+        10,
+        11,
+        10,
+        12
+      ],
+      "keyframeMs": 160
+    },
+    "wave": {
+      "atlas": "animations/wave.png",
+      "gif": "animations/wave.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_14.png"
+    },
+    "surprise": {
+      "atlas": "animations/surprise.png",
+      "gif": "animations/surprise.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_15.png"
+    },
+    "sit": {
+      "atlas": "animations/sit.png",
+      "gif": "animations/sit.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_16.png"
+    },
+    "jump": {
+      "atlas": "animations/jump.png",
+      "gif": "animations/jump.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "cheer": {
+      "atlas": "animations/cheer.png",
+      "gif": "animations/cheer.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "legacy_actions/frame_11.png"
+    },
+    "work": {
+      "atlas": "animations/work.png",
+      "gif": "animations/work.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "nod": {
+      "atlas": "animations/daily/nod.png",
+      "gif": "animations/daily/nod.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/nod",
+      "humanApproval": "pending review of this new clip"
+    },
+    "shake_head": {
+      "atlas": "animations/daily/shake_head.png",
+      "gif": "animations/daily/shake_head.gif",
+      "frames": 25,
+      "frameMs": 30,
+      "loop": false,
+      "gifFrames": 25,
+      "source": "frame_01.png",
+      "technique": "original frontal pixels; volume-preserving 30-degree curved face yaw; two quick refusal shakes; fixed body",
+      "individualFrames": "animations/daily/shake_head",
+      "humanApproval": "pending review of this new clip",
+      "durations": [
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        480
+      ],
+      "previewLoop": true,
+      "sources": [
+        "frame_01.png"
+      ],
+      "headTurn": {
+        "revision": "20261003-refusal-rounded-v4",
+        "cutY": 122,
+        "bodyFixedFromY": 122,
+        "maxYawDegrees": 30,
+        "yawDegreesSequence": [
+          0,
+          -15.0,
+          -25.980762,
+          -30.0,
+          -25.980762,
+          -15.0,
+          -0.0,
+          15.0,
+          25.980762,
+          30.0,
+          25.980762,
+          15.0,
+          0,
+          -15.0,
+          -25.980762,
+          -30.0,
+          -25.980762,
+          -15.0,
+          -0.0,
+          15.0,
+          25.980762,
+          30.0,
+          25.980762,
+          15.0,
+          0
+        ],
+        "shakeCount": 2,
+        "activeDurationMs": 720,
+        "neutralPauseMs": 480,
+        "durations": [
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          480
+        ],
+        "frameMs": 30,
+        "loop": false,
+        "previewLoop": true,
+        "neutralFrameIndices": [
+          0,
+          6,
+          12,
+          18,
+          24
+        ],
+        "sources": [
+          "frame_01.png"
+        ],
+        "projection": "volume-preserving curved texture yaw with original silhouette",
+        "outlinePreserved": true,
+        "headWidthRatio": 1.0,
+        "curveDepthRatio": 0.6,
+        "rollDegrees": 0,
+        "verticalMotion": 0
+      }
+    },
+    "chat": {
+      "atlas": "animations/daily/chat.png",
+      "gif": "animations/daily/chat.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/chat",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "renderer": "nearest-neighbour anatomical weighted rigid deformation",
+  "sourcePreserved": true,
+  "sourceSHA256": {
+    "frame_01.png": "15b72bedbf4688932fab3b745bb724d9013a0b89c4f9c12f41ec2c684dafe295",
+    "frame_04.png": "db0c745cabc9db5ce3b56f337b70ee7c94d79b7cf58e396fd97e0d73d7ea414b",
+    "frame_07.png": "7c1584ef9f691a45b9245bbb0e162ce7c70d1880147c4282dd4b34985f7cd4e3",
+    "frame_10.png": "f86e5763e768f14b2586ffc727efdc88196d88867fb135f412e45d8999eec267",
+    "frame_14.png": "80ce0f94eadb3634052a6a8d59faba86cc3029e0fc121b58f9c1e0c5a5b0a8cb",
+    "frame_15.png": "d0c345638896c9fcccfe69a81ae2e680bc0897dd8780a8c14aa5a9ec04741fce",
+    "frame_16.png": "46c34e2ac06677e1a1bf4141eae19270e9ea559a492d4a149d3c4bd2b9e7e508",
+    "legacy_actions/frame_11.png": "51702c62883804d2ad90096c6d6109c53f75a01d4236a298e87d25eac4d997d9",
+    "legacy_actions/frame_12.png": "5a594033385d38445ec5b2c8c02d9eccbd9b3b0cc12d3811f44d333c1e4f254a",
+    "frame_12.png": "fe8ac43c05b049a4c139e7ba4414bf405799f0089e1390026d6dd8f308fefed3",
+    "frame_11.png": "8d402312b6d50dd70eec7905d8651ab584d6821314d7d76d5655ed70dd6466cd"
+  },
+  "backWalkCompletion": {
+    "version": 1,
+    "scope": "original characters 01..20",
+    "method": "existing walk_up atlas extraction; fixed nearest-neighbour registration; original head strip retained",
+    "zeroBasedSourcePhases": [
+      2,
+      10
+    ],
+    "sourceAtlasSHA256": "61e65845e07186f2987240d433b0f2f4896252fa60d887a6121bf1d7273c16a3",
+    "legacyBackup": "legacy_actions",
+    "standingFramePreserved": true,
+    "continuousWalkUpPreserved": true,
+    "originalHeadStripPreserved": true,
+    "humanApproval": "approved by user on 2026-10-03"
+  },
+  "dailyActionExpansion": {
+    "version": "20261003-daily-v1",
+    "manifest": "animations/daily/manifest.json",
+    "actions": [
+      "nod",
+      "shake_head",
+      "chat"
+    ],
+    "humanApproval": "pending new-action review"
+  }
+}

@@ -1,0 +1,5135 @@
+{
+  "title": "溪畔日常 · 九区完整小镇",
+  "date": "2026-10-15",
+  "plot": [
+    300,
+    225
+  ],
+  "worldBounds": [
+    -135,
+    -110,
+    165,
+    115
+  ],
+  "zones": {
+    "A": {
+      "id": "A",
+      "name": "花园住宅",
+      "center": [
+        -87.5,
+        73.75
+      ],
+      "size": [
+        75.0,
+        62.5
+      ]
+    },
+    "B": {
+      "id": "B",
+      "name": "公共服务",
+      "center": [
+        0.0,
+        73.75
+      ],
+      "size": [
+        85.0,
+        62.5
+      ]
+    },
+    "C": {
+      "id": "C",
+      "name": "河畔住宅",
+      "center": [
+        78.125,
+        73.75
+      ],
+      "size": [
+        53.75,
+        62.5
+      ]
+    },
+    "D": {
+      "id": "D",
+      "name": "手作工作区",
+      "center": [
+        -87.5,
+        0.0
+      ],
+      "size": [
+        75.0,
+        55.0
+      ]
+    },
+    "E": {
+      "id": "E",
+      "name": "小镇客厅",
+      "center": [
+        0.0,
+        0.0
+      ],
+      "size": [
+        85.0,
+        55.0
+      ]
+    },
+    "F": {
+      "id": "F",
+      "name": "河岸公园",
+      "center": [
+        78.125,
+        0.0
+      ],
+      "size": [
+        53.75,
+        55.0
+      ]
+    },
+    "G": {
+      "id": "G",
+      "name": "田园与温室",
+      "center": [
+        -87.5,
+        -72.5
+      ],
+      "size": [
+        75.0,
+        55.0
+      ]
+    },
+    "H": {
+      "id": "H",
+      "name": "日常商业街",
+      "center": [
+        0.0,
+        -72.5
+      ],
+      "size": [
+        85.0,
+        55.0
+      ]
+    },
+    "I": {
+      "id": "I",
+      "name": "到达与守护",
+      "center": [
+        78.125,
+        -72.5
+      ],
+      "size": [
+        53.75,
+        55.0
+      ]
+    }
+  },
+  "sources": {
+    "AC": {
+      "folder": "residential-districts-3d-v1",
+      "blend": "AC-residential-districts.blend",
+      "blendSha256": "58e774a02f91d417de5594c7b6714b174b4c8ca8e4dab2571ed56f04b0ee7a95",
+      "glbSha256": "add6da46c01862e306d22fe423bbf6971e4194d7bf37d251b6f9f8a7881aac13",
+      "metaMeshObjects": 815,
+      "metaTriangles": 474836
+    },
+    "B": {
+      "folder": "public-services-district-3d-v1",
+      "blend": "B-public-services.blend",
+      "blendSha256": "195f0bbb199550c9cfb342b62bb0fa5d370869edefbd794d8d0e3e99407b471e",
+      "glbSha256": "a7144e93a4d5e03a53eb2c151d51400301014336073f9d9dc8849b71be7b1bf1",
+      "metaMeshObjects": 4834,
+      "metaTriangles": 216852
+    },
+    "D": {
+      "folder": "craft-workshops-3d-v1",
+      "blend": "D-craft-workshops.blend",
+      "blendSha256": "759e3695c2b3d0692e2e3497e95b2fbea303a41210d88d731317f84aace84375",
+      "glbSha256": "b11fe7848dd02bdf274ab3f6a95b54d5a1423f71aeda69c08ddfb45a73d5c706",
+      "metaMeshObjects": 2253,
+      "metaTriangles": 72260
+    },
+    "E": {
+      "folder": "town-square-3d-v1",
+      "blend": "E-town-square.blend",
+      "blendSha256": "45e0f5c3e351a54b395f8b811a29fedb67a3ecfa4515ff8634b4547cabb38016",
+      "glbSha256": "cf09b96d5cbf71c5b42e8b21533cf2c4b29ab9f9daa8871d4e7ca7d8fe5fc952",
+      "metaMeshObjects": 2658,
+      "metaTriangles": 119679
+    },
+    "F": {
+      "folder": "river-park-3d-v1",
+      "blend": "F-river-park.blend",
+      "blendSha256": "9b6fd1873dec7536a1a139fd3e5795e1d87ece1d7fdf0e51db53e8884ab310f7",
+      "glbSha256": "3627f9ac17623816cb9f589f2fee268249e512a512e45c17702e71d3191fa170",
+      "metaMeshObjects": 3599,
+      "metaTriangles": 111084
+    },
+    "G": {
+      "folder": "garden-greenhouse-3d-v1",
+      "blend": "G-garden-greenhouse.blend",
+      "blendSha256": "b50a9b64490a490d70786a3fbfb5ca549782b18180fd0969042d488c4cb80a18",
+      "glbSha256": "f4ada1fe8319b85a7767590555d0c50cdbd55887c6999dcaa7a7720e710801d8",
+      "metaMeshObjects": 2547,
+      "metaTriangles": 96812
+    },
+    "H": {
+      "folder": "daily-shops-3d-v1",
+      "blend": "H-daily-shops.blend",
+      "blendSha256": "cabb74f74f1f4cb913f5fe72b068580bf61742c4e859506479eaf983d1cfecc3",
+      "glbSha256": "d40afd53fda6db0db2fe912656451eef1b3be1cdd6641a5125fd2281eb5dbcba",
+      "metaMeshObjects": 4090,
+      "metaTriangles": 161574
+    },
+    "I": {
+      "folder": "arrival-guard-3d-v1",
+      "blend": "I-arrival-guard.blend",
+      "blendSha256": "70054d34b338cc2299647bc14fd113134aafb3213500e07627c2398561e5625d",
+      "glbSha256": "7266f627e889db285fbf0d7f24752de7524a6f39f8f969d624fa37a65d979cea",
+      "metaMeshObjects": 2491,
+      "metaTriangles": 106388
+    }
+  },
+  "sourceStats": {
+    "C": {
+      "sourceObjects": 359,
+      "triangles": 300920,
+      "parts": 129
+    },
+    "A": {
+      "sourceObjects": 444,
+      "triangles": 163676,
+      "parts": 95
+    },
+    "B": {
+      "sourceObjects": 4834,
+      "triangles": 216852,
+      "parts": 52
+    },
+    "D": {
+      "sourceObjects": 2253,
+      "triangles": 72260,
+      "parts": 26
+    },
+    "E": {
+      "sourceObjects": 2658,
+      "triangles": 119679,
+      "parts": 21
+    },
+    "F": {
+      "sourceObjects": 3591,
+      "triangles": 111000,
+      "parts": 26
+    },
+    "G": {
+      "sourceObjects": 2547,
+      "triangles": 96812,
+      "parts": 17
+    },
+    "H": {
+      "sourceObjects": 4090,
+      "triangles": 161574,
+      "parts": 48
+    },
+    "I": {
+      "sourceObjects": 2491,
+      "triangles": 106388,
+      "parts": 43
+    }
+  },
+  "parts": [
+    {
+      "name": "C__Signs",
+      "zone": "C",
+      "sourceObjects": 15,
+      "triangles": 2588,
+      "textured": true
+    },
+    {
+      "name": "C__Paths",
+      "zone": "C",
+      "sourceObjects": 17,
+      "triangles": 204,
+      "textured": false
+    },
+    {
+      "name": "C__Landscape",
+      "zone": "C",
+      "sourceObjects": 175,
+      "triangles": 4260,
+      "textured": true
+    },
+    {
+      "name": "C__Furniture",
+      "zone": "C",
+      "sourceObjects": 27,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C01__Roof",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 108,
+      "textured": false
+    },
+    {
+      "name": "C__C01__Landscape",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 680,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L03_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 11136,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L03_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1620,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L03_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L03_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L03_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L02_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L02_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10836,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L02_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1500,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L02_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L02_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L02_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L01_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L01_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10440,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L01_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 4600,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L01_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L01_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C01__L01_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C02__Roof",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 108,
+      "textured": false
+    },
+    {
+      "name": "C__C02__Landscape",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 680,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L04_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10672,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L04_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1388,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L04_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L04_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L04_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L03_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L03_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 11076,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L03_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1620,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L03_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L03_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L03_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L02_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L02_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10836,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L02_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1500,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L02_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L02_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L02_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L01_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L01_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10440,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L01_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 4600,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L01_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L01_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C02__L01_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C03__Roof",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 108,
+      "textured": false
+    },
+    {
+      "name": "C__C03__Landscape",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 680,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L04_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10672,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L04_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1388,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L04_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L04_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L04_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L03_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L03_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 11076,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L03_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1620,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L03_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L03_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L03_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L02_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L02_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10836,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L02_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1500,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L02_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L02_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L02_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L01_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L01_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10440,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L01_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 4600,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L01_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L01_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C03__L01_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C04__Roof",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 108,
+      "textured": false
+    },
+    {
+      "name": "C__C04__Landscape",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 680,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L04_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10672,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L04_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1388,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L04_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L04_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L04_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L03_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L03_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 11076,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L03_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1620,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L03_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L03_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L03_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L02_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L02_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10836,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L02_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1500,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L02_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L02_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L02_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L01_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L01_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10440,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L01_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 4600,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L01_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L01_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C04__L01_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C05__Roof",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 108,
+      "textured": false
+    },
+    {
+      "name": "C__C05__Landscape",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 680,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L05_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10944,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L05_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1524,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L05_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L05_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L05_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L04_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L04_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10612,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L04_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1388,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L04_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L04_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L04_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L03_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L03_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 11076,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L03_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1620,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L03_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L03_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L03_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L02_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L02_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10836,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L02_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 1500,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L02_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L02_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L02_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L01_Stairs",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L01_Interior",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 10440,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L01_Front",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 4600,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L01_Floor",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L01_East",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "C__C05__L01_Back",
+      "zone": "C",
+      "sourceObjects": 1,
+      "triangles": 804,
+      "textured": false
+    },
+    {
+      "name": "A__Signs",
+      "zone": "A",
+      "sourceObjects": 21,
+      "triangles": 2680,
+      "textured": true
+    },
+    {
+      "name": "A__Paths",
+      "zone": "A",
+      "sourceObjects": 23,
+      "triangles": 276,
+      "textured": false
+    },
+    {
+      "name": "A__Landscape",
+      "zone": "A",
+      "sourceObjects": 282,
+      "triangles": 6840,
+      "textured": true
+    },
+    {
+      "name": "A__Furniture",
+      "zone": "A",
+      "sourceObjects": 27,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "A__A01__Roof",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 632,
+      "textured": false
+    },
+    {
+      "name": "A__A01__Landscape",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2288,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L02_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2976,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L02_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 716,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L02_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 84,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L02_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L02_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L01_Stairs",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 384,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L01_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3928,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L01_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3416,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L01_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L01_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A01__L01_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A02__Roof",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 632,
+      "textured": false
+    },
+    {
+      "name": "A__A02__Landscape",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2288,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L02_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2976,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L02_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 716,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L02_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 84,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L02_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L02_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L01_Stairs",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 384,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L01_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3928,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L01_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3416,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L01_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L01_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A02__L01_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A03__Roof",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 632,
+      "textured": false
+    },
+    {
+      "name": "A__A03__Landscape",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2288,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L02_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2976,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L02_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 716,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L02_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 84,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L02_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L02_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L01_Stairs",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 384,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L01_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3928,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L01_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3416,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L01_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L01_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A03__L01_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A04__Roof",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 632,
+      "textured": false
+    },
+    {
+      "name": "A__A04__Landscape",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2288,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L02_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2976,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L02_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 716,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L02_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 84,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L02_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L02_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L01_Stairs",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 384,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L01_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3928,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L01_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3416,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L01_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L01_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A04__L01_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A05__Roof",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 632,
+      "textured": false
+    },
+    {
+      "name": "A__A05__Landscape",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2288,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L02_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2976,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L02_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 716,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L02_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 84,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L02_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L02_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L01_Stairs",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 384,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L01_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3928,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L01_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3416,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L01_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L01_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A05__L01_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A06__Roof",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 632,
+      "textured": false
+    },
+    {
+      "name": "A__A06__Landscape",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2288,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L02_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2976,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L02_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 716,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L02_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 84,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L02_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L02_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L01_Stairs",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 384,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L01_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3928,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L01_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3416,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L01_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L01_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A06__L01_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A07__Roof",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 632,
+      "textured": false
+    },
+    {
+      "name": "A__A07__Landscape",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 45332,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L02_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 2976,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L02_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 716,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L02_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 84,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L02_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L02_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L01_Stairs",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 384,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L01_Interior",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3928,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L01_Front",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 3120,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L01_Floor",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L01_East",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "A__A07__L01_Back",
+      "zone": "A",
+      "sourceObjects": 1,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "B__Wayfinding",
+      "zone": "B",
+      "sourceObjects": 9,
+      "triangles": 14336,
+      "textured": true
+    },
+    {
+      "name": "B__Schoolyard",
+      "zone": "B",
+      "sourceObjects": 26,
+      "triangles": 588,
+      "textured": true
+    },
+    {
+      "name": "B__Paths",
+      "zone": "B",
+      "sourceObjects": 112,
+      "triangles": 1344,
+      "textured": false
+    },
+    {
+      "name": "B__Logistics",
+      "zone": "B",
+      "sourceObjects": 11,
+      "triangles": 324,
+      "textured": false
+    },
+    {
+      "name": "B__Landscape",
+      "zone": "B",
+      "sourceObjects": 1403,
+      "triangles": 37220,
+      "textured": true
+    },
+    {
+      "name": "B__Ground",
+      "zone": "B",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "B__Courtyard_Pergola_Roof",
+      "zone": "B",
+      "sourceObjects": 9,
+      "triangles": 108,
+      "textured": false
+    },
+    {
+      "name": "B__Courtyard_Pergola",
+      "zone": "B",
+      "sourceObjects": 4,
+      "triangles": 48,
+      "textured": false
+    },
+    {
+      "name": "B__B06_Shell",
+      "zone": "B",
+      "sourceObjects": 48,
+      "triangles": 576,
+      "textured": false
+    },
+    {
+      "name": "B__B06_Roof",
+      "zone": "B",
+      "sourceObjects": 16,
+      "triangles": 192,
+      "textured": false
+    },
+    {
+      "name": "B__B06_Interior",
+      "zone": "B",
+      "sourceObjects": 132,
+      "triangles": 12172,
+      "textured": true
+    },
+    {
+      "name": "B__B06_Front",
+      "zone": "B",
+      "sourceObjects": 28,
+      "triangles": 6136,
+      "textured": true
+    },
+    {
+      "name": "B__B06_Floor",
+      "zone": "B",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "B__B06_Approach",
+      "zone": "B",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "B__B05_Shell",
+      "zone": "B",
+      "sourceObjects": 43,
+      "triangles": 516,
+      "textured": false
+    },
+    {
+      "name": "B__B05_Roof",
+      "zone": "B",
+      "sourceObjects": 16,
+      "triangles": 192,
+      "textured": false
+    },
+    {
+      "name": "B__B05_Interior",
+      "zone": "B",
+      "sourceObjects": 179,
+      "triangles": 7452,
+      "textured": true
+    },
+    {
+      "name": "B__B05_Front",
+      "zone": "B",
+      "sourceObjects": 28,
+      "triangles": 4392,
+      "textured": true
+    },
+    {
+      "name": "B__B05_Floor",
+      "zone": "B",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "B__B05_Approach",
+      "zone": "B",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "B__B04_Shell",
+      "zone": "B",
+      "sourceObjects": 48,
+      "triangles": 576,
+      "textured": false
+    },
+    {
+      "name": "B__B04_Roof",
+      "zone": "B",
+      "sourceObjects": 16,
+      "triangles": 192,
+      "textured": false
+    },
+    {
+      "name": "B__B04_Interior",
+      "zone": "B",
+      "sourceObjects": 126,
+      "triangles": 6832,
+      "textured": true
+    },
+    {
+      "name": "B__B04_Front",
+      "zone": "B",
+      "sourceObjects": 28,
+      "triangles": 5052,
+      "textured": true
+    },
+    {
+      "name": "B__B04_Floor",
+      "zone": "B",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "B__B04_Approach",
+      "zone": "B",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "B__B03_Structure",
+      "zone": "B",
+      "sourceObjects": 15,
+      "triangles": 276,
+      "textured": true
+    },
+    {
+      "name": "B__B03_Roof",
+      "zone": "B",
+      "sourceObjects": 12,
+      "triangles": 368,
+      "textured": true
+    },
+    {
+      "name": "B__B03_Landscape",
+      "zone": "B",
+      "sourceObjects": 15,
+      "triangles": 1220,
+      "textured": true
+    },
+    {
+      "name": "B__B03_Interior",
+      "zone": "B",
+      "sourceObjects": 397,
+      "triangles": 27944,
+      "textured": true
+    },
+    {
+      "name": "B__B03_FrontFacade",
+      "zone": "B",
+      "sourceObjects": 22,
+      "triangles": 11028,
+      "textured": true
+    },
+    {
+      "name": "B__B03_EastFacade",
+      "zone": "B",
+      "sourceObjects": 13,
+      "triangles": 156,
+      "textured": true
+    },
+    {
+      "name": "B__B03_Approach",
+      "zone": "B",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "B__B02_UpperStructure",
+      "zone": "B",
+      "sourceObjects": 17,
+      "triangles": 204,
+      "textured": true
+    },
+    {
+      "name": "B__B02_UpperInterior",
+      "zone": "B",
+      "sourceObjects": 649,
+      "triangles": 18876,
+      "textured": true
+    },
+    {
+      "name": "B__B02_UpperFront",
+      "zone": "B",
+      "sourceObjects": 11,
+      "triangles": 132,
+      "textured": true
+    },
+    {
+      "name": "B__B02_UpperFloor",
+      "zone": "B",
+      "sourceObjects": 7,
+      "triangles": 84,
+      "textured": true
+    },
+    {
+      "name": "B__B02_UpperEast",
+      "zone": "B",
+      "sourceObjects": 6,
+      "triangles": 72,
+      "textured": true
+    },
+    {
+      "name": "B__B02_Structure",
+      "zone": "B",
+      "sourceObjects": 15,
+      "triangles": 276,
+      "textured": true
+    },
+    {
+      "name": "B__B02_Roof",
+      "zone": "B",
+      "sourceObjects": 10,
+      "triangles": 216,
+      "textured": true
+    },
+    {
+      "name": "B__B02_Landscape",
+      "zone": "B",
+      "sourceObjects": 21,
+      "triangles": 1484,
+      "textured": true
+    },
+    {
+      "name": "B__B02_Interior",
+      "zone": "B",
+      "sourceObjects": 691,
+      "triangles": 32640,
+      "textured": true
+    },
+    {
+      "name": "B__B02_FrontFacade",
+      "zone": "B",
+      "sourceObjects": 22,
+      "triangles": 6864,
+      "textured": true
+    },
+    {
+      "name": "B__B02_EastFacade",
+      "zone": "B",
+      "sourceObjects": 6,
+      "triangles": 72,
+      "textured": true
+    },
+    {
+      "name": "B__B02_Approach",
+      "zone": "B",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "B__B01_Shell",
+      "zone": "B",
+      "sourceObjects": 39,
+      "triangles": 468,
+      "textured": false
+    },
+    {
+      "name": "B__B01_Roof",
+      "zone": "B",
+      "sourceObjects": 62,
+      "triangles": 752,
+      "textured": false
+    },
+    {
+      "name": "B__B01_Interior",
+      "zone": "B",
+      "sourceObjects": 435,
+      "triangles": 9884,
+      "textured": true
+    },
+    {
+      "name": "B__B01_Front",
+      "zone": "B",
+      "sourceObjects": 28,
+      "triangles": 4688,
+      "textured": true
+    },
+    {
+      "name": "B__B01_Floor",
+      "zone": "B",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "B__B01_Approach",
+      "zone": "B",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "B__Amenities",
+      "zone": "B",
+      "sourceObjects": 42,
+      "triangles": 696,
+      "textured": false
+    },
+    {
+      "name": "D__Wayfinding",
+      "zone": "D",
+      "sourceObjects": 9,
+      "triangles": 10188,
+      "textured": true
+    },
+    {
+      "name": "D__Street_Furniture",
+      "zone": "D",
+      "sourceObjects": 32,
+      "triangles": 592,
+      "textured": true
+    },
+    {
+      "name": "D__Paths",
+      "zone": "D",
+      "sourceObjects": 39,
+      "triangles": 468,
+      "textured": false
+    },
+    {
+      "name": "D__Logistics",
+      "zone": "D",
+      "sourceObjects": 19,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "D__Landscape",
+      "zone": "D",
+      "sourceObjects": 1128,
+      "triangles": 28840,
+      "textured": true
+    },
+    {
+      "name": "D__Ground",
+      "zone": "D",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "D__D04_Shell",
+      "zone": "D",
+      "sourceObjects": 12,
+      "triangles": 144,
+      "textured": false
+    },
+    {
+      "name": "D__D04_Roof",
+      "zone": "D",
+      "sourceObjects": 22,
+      "triangles": 264,
+      "textured": false
+    },
+    {
+      "name": "D__D04_Interior",
+      "zone": "D",
+      "sourceObjects": 181,
+      "triangles": 3516,
+      "textured": true
+    },
+    {
+      "name": "D__D04_Front",
+      "zone": "D",
+      "sourceObjects": 28,
+      "triangles": 4500,
+      "textured": true
+    },
+    {
+      "name": "D__D04_Floor",
+      "zone": "D",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "D__D03_Shell",
+      "zone": "D",
+      "sourceObjects": 30,
+      "triangles": 360,
+      "textured": false
+    },
+    {
+      "name": "D__D03_Roof",
+      "zone": "D",
+      "sourceObjects": 35,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "D__D03_Interior",
+      "zone": "D",
+      "sourceObjects": 133,
+      "triangles": 3020,
+      "textured": true
+    },
+    {
+      "name": "D__D03_Front",
+      "zone": "D",
+      "sourceObjects": 28,
+      "triangles": 4256,
+      "textured": true
+    },
+    {
+      "name": "D__D03_Floor",
+      "zone": "D",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "D__D02_Shell",
+      "zone": "D",
+      "sourceObjects": 37,
+      "triangles": 444,
+      "textured": false
+    },
+    {
+      "name": "D__D02_Roof",
+      "zone": "D",
+      "sourceObjects": 80,
+      "triangles": 968,
+      "textured": false
+    },
+    {
+      "name": "D__D02_Interior",
+      "zone": "D",
+      "sourceObjects": 161,
+      "triangles": 4236,
+      "textured": true
+    },
+    {
+      "name": "D__D02_Front",
+      "zone": "D",
+      "sourceObjects": 28,
+      "triangles": 4560,
+      "textured": true
+    },
+    {
+      "name": "D__D02_Floor",
+      "zone": "D",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "D__D01_Shell",
+      "zone": "D",
+      "sourceObjects": 34,
+      "triangles": 408,
+      "textured": false
+    },
+    {
+      "name": "D__D01_Roof",
+      "zone": "D",
+      "sourceObjects": 74,
+      "triangles": 896,
+      "textured": false
+    },
+    {
+      "name": "D__D01_Interior",
+      "zone": "D",
+      "sourceObjects": 106,
+      "triangles": 1368,
+      "textured": false
+    },
+    {
+      "name": "D__D01_Front",
+      "zone": "D",
+      "sourceObjects": 28,
+      "triangles": 2284,
+      "textured": true
+    },
+    {
+      "name": "D__D01_Floor",
+      "zone": "D",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "E__Wayfinding",
+      "zone": "E",
+      "sourceObjects": 12,
+      "triangles": 21004,
+      "textured": true
+    },
+    {
+      "name": "E__Water_Surface",
+      "zone": "E",
+      "sourceObjects": 37,
+      "triangles": 812,
+      "textured": false
+    },
+    {
+      "name": "E__Water_Basin",
+      "zone": "E",
+      "sourceObjects": 6,
+      "triangles": 2232,
+      "textured": false
+    },
+    {
+      "name": "E__Tree_Base",
+      "zone": "E",
+      "sourceObjects": 2,
+      "triangles": 1152,
+      "textured": false
+    },
+    {
+      "name": "E__Seating",
+      "zone": "E",
+      "sourceObjects": 21,
+      "triangles": 252,
+      "textured": false
+    },
+    {
+      "name": "E__Ring_Seats",
+      "zone": "E",
+      "sourceObjects": 28,
+      "triangles": 2512,
+      "textured": false
+    },
+    {
+      "name": "E__Pergola_Roof",
+      "zone": "E",
+      "sourceObjects": 32,
+      "triangles": 464,
+      "textured": true
+    },
+    {
+      "name": "E__Pergola_Furniture",
+      "zone": "E",
+      "sourceObjects": 20,
+      "triangles": 656,
+      "textured": false
+    },
+    {
+      "name": "E__Pergola_Frame",
+      "zone": "E",
+      "sourceObjects": 8,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "E__Pergola_Base",
+      "zone": "E",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "E__Paving_Detail",
+      "zone": "E",
+      "sourceObjects": 3,
+      "triangles": 2316,
+      "textured": false
+    },
+    {
+      "name": "E__Paving",
+      "zone": "E",
+      "sourceObjects": 1,
+      "triangles": 1911,
+      "textured": false
+    },
+    {
+      "name": "E__Market_Fixtures",
+      "zone": "E",
+      "sourceObjects": 152,
+      "triangles": 25800,
+      "textured": true
+    },
+    {
+      "name": "E__Market_Canopies",
+      "zone": "E",
+      "sourceObjects": 96,
+      "triangles": 1152,
+      "textured": false
+    },
+    {
+      "name": "E__Landscape",
+      "zone": "E",
+      "sourceObjects": 2097,
+      "triangles": 53700,
+      "textured": true
+    },
+    {
+      "name": "E__Landmark_Trunk",
+      "zone": "E",
+      "sourceObjects": 13,
+      "triangles": 196,
+      "textured": false
+    },
+    {
+      "name": "E__Landmark_Canopy",
+      "zone": "E",
+      "sourceObjects": 7,
+      "triangles": 140,
+      "textured": true
+    },
+    {
+      "name": "E__Ground",
+      "zone": "E",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "E__Event_Decor",
+      "zone": "E",
+      "sourceObjects": 46,
+      "triangles": 112,
+      "textured": false
+    },
+    {
+      "name": "E__Community",
+      "zone": "E",
+      "sourceObjects": 45,
+      "triangles": 3788,
+      "textured": true
+    },
+    {
+      "name": "E__Amenities",
+      "zone": "E",
+      "sourceObjects": 30,
+      "triangles": 1360,
+      "textured": false
+    },
+    {
+      "name": "F__Vet_Shell",
+      "zone": "F",
+      "sourceObjects": 38,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "F__Vet_Roof",
+      "zone": "F",
+      "sourceObjects": 5,
+      "triangles": 60,
+      "textured": false
+    },
+    {
+      "name": "F__Vet_Interior",
+      "zone": "F",
+      "sourceObjects": 71,
+      "triangles": 7744,
+      "textured": true
+    },
+    {
+      "name": "F__Vet_Front",
+      "zone": "F",
+      "sourceObjects": 31,
+      "triangles": 7696,
+      "textured": true
+    },
+    {
+      "name": "F__Vet_Floor",
+      "zone": "F",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "F__Vet_East",
+      "zone": "F",
+      "sourceObjects": 19,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "F__Trees",
+      "zone": "F",
+      "sourceObjects": 45,
+      "triangles": 1260,
+      "textured": true
+    },
+    {
+      "name": "F__Stage_Roof",
+      "zone": "F",
+      "sourceObjects": 10,
+      "triangles": 140,
+      "textured": false
+    },
+    {
+      "name": "F__Stage",
+      "zone": "F",
+      "sourceObjects": 27,
+      "triangles": 420,
+      "textured": false
+    },
+    {
+      "name": "F__Signs",
+      "zone": "F",
+      "sourceObjects": 20,
+      "triangles": 34088,
+      "textured": true
+    },
+    {
+      "name": "F__River_Rail",
+      "zone": "F",
+      "sourceObjects": 20,
+      "triangles": 1600,
+      "textured": false
+    },
+    {
+      "name": "F__River",
+      "zone": "F",
+      "sourceObjects": 183,
+      "triangles": 596,
+      "textured": false
+    },
+    {
+      "name": "F__Planting",
+      "zone": "F",
+      "sourceObjects": 1351,
+      "triangles": 35820,
+      "textured": true
+    },
+    {
+      "name": "F__Pet_Trees",
+      "zone": "F",
+      "sourceObjects": 10,
+      "triangles": 280,
+      "textured": true
+    },
+    {
+      "name": "F__Pet_Lawn",
+      "zone": "F",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "F__Pet_Fence",
+      "zone": "F",
+      "sourceObjects": 78,
+      "triangles": 936,
+      "textured": false
+    },
+    {
+      "name": "F__Pet_Equipment",
+      "zone": "F",
+      "sourceObjects": 21,
+      "triangles": 708,
+      "textured": false
+    },
+    {
+      "name": "F__Paths",
+      "zone": "F",
+      "sourceObjects": 264,
+      "triangles": 528,
+      "textured": false
+    },
+    {
+      "name": "F__Overlook",
+      "zone": "F",
+      "sourceObjects": 49,
+      "triangles": 780,
+      "textured": false
+    },
+    {
+      "name": "F__Habitat",
+      "zone": "F",
+      "sourceObjects": 299,
+      "triangles": 8012,
+      "textured": true
+    },
+    {
+      "name": "F__Ground",
+      "zone": "F",
+      "sourceObjects": 160,
+      "triangles": 320,
+      "textured": false
+    },
+    {
+      "name": "F__Furniture",
+      "zone": "F",
+      "sourceObjects": 20,
+      "triangles": 432,
+      "textured": false
+    },
+    {
+      "name": "F__Far_Bank",
+      "zone": "F",
+      "sourceObjects": 196,
+      "triangles": 2584,
+      "textured": true
+    },
+    {
+      "name": "F__Bridges",
+      "zone": "F",
+      "sourceObjects": 198,
+      "triangles": 2760,
+      "textured": false
+    },
+    {
+      "name": "F__Banks",
+      "zone": "F",
+      "sourceObjects": 450,
+      "triangles": 3240,
+      "textured": true
+    },
+    {
+      "name": "F__Audience",
+      "zone": "F",
+      "sourceObjects": 24,
+      "triangles": 288,
+      "textured": false
+    },
+    {
+      "name": "G__Wayfinding",
+      "zone": "G",
+      "sourceObjects": 36,
+      "triangles": 39984,
+      "textured": true
+    },
+    {
+      "name": "G__Utilities",
+      "zone": "G",
+      "sourceObjects": 35,
+      "triangles": 628,
+      "textured": false
+    },
+    {
+      "name": "G__Tool_Shell",
+      "zone": "G",
+      "sourceObjects": 25,
+      "triangles": 300,
+      "textured": false
+    },
+    {
+      "name": "G__Tool_Roof",
+      "zone": "G",
+      "sourceObjects": 7,
+      "triangles": 66,
+      "textured": false
+    },
+    {
+      "name": "G__Tool_Interior",
+      "zone": "G",
+      "sourceObjects": 45,
+      "triangles": 1212,
+      "textured": false
+    },
+    {
+      "name": "G__Tool_Front",
+      "zone": "G",
+      "sourceObjects": 25,
+      "triangles": 300,
+      "textured": false
+    },
+    {
+      "name": "G__Tool_Floor",
+      "zone": "G",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "G__Rest",
+      "zone": "G",
+      "sourceObjects": 23,
+      "triangles": 372,
+      "textured": false
+    },
+    {
+      "name": "G__Paths",
+      "zone": "G",
+      "sourceObjects": 37,
+      "triangles": 444,
+      "textured": false
+    },
+    {
+      "name": "G__Orchard",
+      "zone": "G",
+      "sourceObjects": 144,
+      "triangles": 3888,
+      "textured": true
+    },
+    {
+      "name": "G__Ground",
+      "zone": "G",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "G__Greenhouse_Shell",
+      "zone": "G",
+      "sourceObjects": 59,
+      "triangles": 708,
+      "textured": false
+    },
+    {
+      "name": "G__Greenhouse_Roof",
+      "zone": "G",
+      "sourceObjects": 41,
+      "triangles": 470,
+      "textured": false
+    },
+    {
+      "name": "G__Greenhouse_Interior",
+      "zone": "G",
+      "sourceObjects": 234,
+      "triangles": 7288,
+      "textured": true
+    },
+    {
+      "name": "G__Greenhouse_Floor",
+      "zone": "G",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "G__Fields",
+      "zone": "G",
+      "sourceObjects": 1120,
+      "triangles": 23880,
+      "textured": true
+    },
+    {
+      "name": "G__Borders",
+      "zone": "G",
+      "sourceObjects": 713,
+      "triangles": 17236,
+      "textured": true
+    },
+    {
+      "name": "H__Wayfinding",
+      "zone": "H",
+      "sourceObjects": 9,
+      "triangles": 11448,
+      "textured": true
+    },
+    {
+      "name": "H__Street_Furniture",
+      "zone": "H",
+      "sourceObjects": 32,
+      "triangles": 576,
+      "textured": false
+    },
+    {
+      "name": "H__Paths",
+      "zone": "H",
+      "sourceObjects": 80,
+      "triangles": 960,
+      "textured": false
+    },
+    {
+      "name": "H__Logistics",
+      "zone": "H",
+      "sourceObjects": 19,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "H__Landscape",
+      "zone": "H",
+      "sourceObjects": 878,
+      "triangles": 23240,
+      "textured": true
+    },
+    {
+      "name": "H__H06_Shell",
+      "zone": "H",
+      "sourceObjects": 43,
+      "triangles": 516,
+      "textured": false
+    },
+    {
+      "name": "H__H06_Roof",
+      "zone": "H",
+      "sourceObjects": 9,
+      "triangles": 108,
+      "textured": false
+    },
+    {
+      "name": "H__H06_Interior",
+      "zone": "H",
+      "sourceObjects": 83,
+      "triangles": 3744,
+      "textured": true
+    },
+    {
+      "name": "H__H06_Front",
+      "zone": "H",
+      "sourceObjects": 73,
+      "triangles": 7920,
+      "textured": true
+    },
+    {
+      "name": "H__H06_Floor",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H06_Approach",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H05_Shell",
+      "zone": "H",
+      "sourceObjects": 43,
+      "triangles": 516,
+      "textured": false
+    },
+    {
+      "name": "H__H05_Roof",
+      "zone": "H",
+      "sourceObjects": 39,
+      "triangles": 468,
+      "textured": false
+    },
+    {
+      "name": "H__H05_Interior",
+      "zone": "H",
+      "sourceObjects": 548,
+      "triangles": 12924,
+      "textured": true
+    },
+    {
+      "name": "H__H05_Front",
+      "zone": "H",
+      "sourceObjects": 59,
+      "triangles": 4752,
+      "textured": true
+    },
+    {
+      "name": "H__H05_Floor",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H05_Display",
+      "zone": "H",
+      "sourceObjects": 148,
+      "triangles": 7224,
+      "textured": true
+    },
+    {
+      "name": "H__H05_Approach",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H04_Shell",
+      "zone": "H",
+      "sourceObjects": 43,
+      "triangles": 516,
+      "textured": false
+    },
+    {
+      "name": "H__H04_Roof",
+      "zone": "H",
+      "sourceObjects": 58,
+      "triangles": 704,
+      "textured": false
+    },
+    {
+      "name": "H__H04_Interior",
+      "zone": "H",
+      "sourceObjects": 352,
+      "triangles": 8940,
+      "textured": true
+    },
+    {
+      "name": "H__H04_Front",
+      "zone": "H",
+      "sourceObjects": 59,
+      "triangles": 6496,
+      "textured": true
+    },
+    {
+      "name": "H__H04_Floor",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H04_Display",
+      "zone": "H",
+      "sourceObjects": 14,
+      "triangles": 264,
+      "textured": true
+    },
+    {
+      "name": "H__H04_Approach",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H03_Shell",
+      "zone": "H",
+      "sourceObjects": 43,
+      "triangles": 516,
+      "textured": false
+    },
+    {
+      "name": "H__H03_Roof",
+      "zone": "H",
+      "sourceObjects": 11,
+      "triangles": 132,
+      "textured": false
+    },
+    {
+      "name": "H__H03_Interior",
+      "zone": "H",
+      "sourceObjects": 183,
+      "triangles": 9480,
+      "textured": true
+    },
+    {
+      "name": "H__H03_Front",
+      "zone": "H",
+      "sourceObjects": 59,
+      "triangles": 6576,
+      "textured": true
+    },
+    {
+      "name": "H__H03_Floor",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H03_Display",
+      "zone": "H",
+      "sourceObjects": 12,
+      "triangles": 3104,
+      "textured": true
+    },
+    {
+      "name": "H__H03_Approach",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H02_Shell",
+      "zone": "H",
+      "sourceObjects": 43,
+      "triangles": 516,
+      "textured": false
+    },
+    {
+      "name": "H__H02_Roof",
+      "zone": "H",
+      "sourceObjects": 58,
+      "triangles": 704,
+      "textured": false
+    },
+    {
+      "name": "H__H02_Interior",
+      "zone": "H",
+      "sourceObjects": 217,
+      "triangles": 12584,
+      "textured": true
+    },
+    {
+      "name": "H__H02_Front",
+      "zone": "H",
+      "sourceObjects": 59,
+      "triangles": 5964,
+      "textured": true
+    },
+    {
+      "name": "H__H02_Floor",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H02_Display",
+      "zone": "H",
+      "sourceObjects": 4,
+      "triangles": 2520,
+      "textured": true
+    },
+    {
+      "name": "H__H02_Approach",
+      "zone": "H",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "H__H01_Terrace",
+      "zone": "H",
+      "sourceObjects": 131,
+      "triangles": 3590,
+      "textured": true
+    },
+    {
+      "name": "H__H01_Shell",
+      "zone": "H",
+      "sourceObjects": 17,
+      "triangles": 204,
+      "textured": true
+    },
+    {
+      "name": "H__H01_Roof",
+      "zone": "H",
+      "sourceObjects": 104,
+      "triangles": 1426,
+      "textured": true
+    },
+    {
+      "name": "H__H01_Planters",
+      "zone": "H",
+      "sourceObjects": 6,
+      "triangles": 344,
+      "textured": true
+    },
+    {
+      "name": "H__H01_Interior",
+      "zone": "H",
+      "sourceObjects": 497,
+      "triangles": 21706,
+      "textured": true
+    },
+    {
+      "name": "H__H01_Front",
+      "zone": "H",
+      "sourceObjects": 23,
+      "triangles": 256,
+      "textured": true
+    },
+    {
+      "name": "H__H01_East",
+      "zone": "H",
+      "sourceObjects": 12,
+      "triangles": 144,
+      "textured": true
+    },
+    {
+      "name": "H__H01_Approach",
+      "zone": "H",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "H__Ground",
+      "zone": "H",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "I__Wayfinding",
+      "zone": "I",
+      "sourceObjects": 12,
+      "triangles": 18576,
+      "textured": true
+    },
+    {
+      "name": "I__Vehicle_Routes",
+      "zone": "I",
+      "sourceObjects": 3,
+      "triangles": 36,
+      "textured": false
+    },
+    {
+      "name": "I__Street_Furniture",
+      "zone": "I",
+      "sourceObjects": 28,
+      "triangles": 624,
+      "textured": false
+    },
+    {
+      "name": "I__Shuttle_Bus",
+      "zone": "I",
+      "sourceObjects": 33,
+      "triangles": 780,
+      "textured": false
+    },
+    {
+      "name": "I__Road_Markings",
+      "zone": "I",
+      "sourceObjects": 20,
+      "triangles": 240,
+      "textured": false
+    },
+    {
+      "name": "I__Planting",
+      "zone": "I",
+      "sourceObjects": 1159,
+      "triangles": 30780,
+      "textured": true
+    },
+    {
+      "name": "I__Paths",
+      "zone": "I",
+      "sourceObjects": 27,
+      "triangles": 324,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_Terrace",
+      "zone": "I",
+      "sourceObjects": 34,
+      "triangles": 408,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_Stair",
+      "zone": "I",
+      "sourceObjects": 33,
+      "triangles": 396,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_Roof",
+      "zone": "I",
+      "sourceObjects": 92,
+      "triangles": 1096,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L02_West",
+      "zone": "I",
+      "sourceObjects": 28,
+      "triangles": 336,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L02_South",
+      "zone": "I",
+      "sourceObjects": 38,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L02_Rails",
+      "zone": "I",
+      "sourceObjects": 20,
+      "triangles": 240,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L02_North",
+      "zone": "I",
+      "sourceObjects": 38,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L02_Interior",
+      "zone": "I",
+      "sourceObjects": 80,
+      "triangles": 960,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L02_Furniture",
+      "zone": "I",
+      "sourceObjects": 210,
+      "triangles": 13788,
+      "textured": true
+    },
+    {
+      "name": "I__Inn_L02_Floor",
+      "zone": "I",
+      "sourceObjects": 4,
+      "triangles": 48,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L02_East",
+      "zone": "I",
+      "sourceObjects": 28,
+      "triangles": 336,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L01_West",
+      "zone": "I",
+      "sourceObjects": 23,
+      "triangles": 276,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L01_South",
+      "zone": "I",
+      "sourceObjects": 38,
+      "triangles": 456,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L01_North",
+      "zone": "I",
+      "sourceObjects": 33,
+      "triangles": 396,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L01_Interior",
+      "zone": "I",
+      "sourceObjects": 10,
+      "triangles": 120,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L01_Furniture",
+      "zone": "I",
+      "sourceObjects": 144,
+      "triangles": 7100,
+      "textured": true
+    },
+    {
+      "name": "I__Inn_L01_Floor",
+      "zone": "I",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_L01_East",
+      "zone": "I",
+      "sourceObjects": 28,
+      "triangles": 336,
+      "textured": false
+    },
+    {
+      "name": "I__Inn_Entrance",
+      "zone": "I",
+      "sourceObjects": 6,
+      "triangles": 4744,
+      "textured": true
+    },
+    {
+      "name": "I__Ground",
+      "zone": "I",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "I__Fire_West",
+      "zone": "I",
+      "sourceObjects": 19,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "I__Fire_Threshold",
+      "zone": "I",
+      "sourceObjects": 2,
+      "triangles": 24,
+      "textured": false
+    },
+    {
+      "name": "I__Fire_South",
+      "zone": "I",
+      "sourceObjects": 19,
+      "triangles": 228,
+      "textured": false
+    },
+    {
+      "name": "I__Fire_Roof",
+      "zone": "I",
+      "sourceObjects": 5,
+      "triangles": 60,
+      "textured": false
+    },
+    {
+      "name": "I__Fire_North",
+      "zone": "I",
+      "sourceObjects": 25,
+      "triangles": 4056,
+      "textured": true
+    },
+    {
+      "name": "I__Fire_Markings",
+      "zone": "I",
+      "sourceObjects": 4,
+      "triangles": 48,
+      "textured": false
+    },
+    {
+      "name": "I__Fire_Interior",
+      "zone": "I",
+      "sourceObjects": 14,
+      "triangles": 168,
+      "textured": false
+    },
+    {
+      "name": "I__Fire_Furniture",
+      "zone": "I",
+      "sourceObjects": 89,
+      "triangles": 3196,
+      "textured": true
+    },
+    {
+      "name": "I__Fire_Floor",
+      "zone": "I",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "I__Fire_Engine",
+      "zone": "I",
+      "sourceObjects": 72,
+      "triangles": 1248,
+      "textured": false
+    },
+    {
+      "name": "I__Fire_East",
+      "zone": "I",
+      "sourceObjects": 18,
+      "triangles": 4892,
+      "textured": true
+    },
+    {
+      "name": "I__Bus_Stop",
+      "zone": "I",
+      "sourceObjects": 6,
+      "triangles": 8344,
+      "textured": true
+    },
+    {
+      "name": "I__Bus_Shelter",
+      "zone": "I",
+      "sourceObjects": 14,
+      "triangles": 168,
+      "textured": false
+    },
+    {
+      "name": "I__Bus_Roof",
+      "zone": "I",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "I__Bus_Platform",
+      "zone": "I",
+      "sourceObjects": 30,
+      "triangles": 360,
+      "textured": false
+    },
+    {
+      "name": "I__Approach",
+      "zone": "I",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "T__Land",
+      "zone": "T",
+      "sourceObjects": 630,
+      "triangles": 1760,
+      "textured": false
+    },
+    {
+      "name": "T__River",
+      "zone": "T",
+      "sourceObjects": 290,
+      "triangles": 580,
+      "textured": false
+    },
+    {
+      "name": "T__Riverbank",
+      "zone": "T",
+      "sourceObjects": 580,
+      "triangles": 1160,
+      "textured": false
+    },
+    {
+      "name": "T__Riverside_Paths",
+      "zone": "T",
+      "sourceObjects": 4,
+      "triangles": 1160,
+      "textured": false
+    },
+    {
+      "name": "T__Base",
+      "zone": "T",
+      "sourceObjects": 1,
+      "triangles": 12,
+      "textured": false
+    },
+    {
+      "name": "T__Transitions",
+      "zone": "T",
+      "sourceObjects": 48,
+      "triangles": 96,
+      "textured": false
+    },
+    {
+      "name": "T__Paths",
+      "zone": "T",
+      "sourceObjects": 116,
+      "triangles": 1392,
+      "textured": false
+    },
+    {
+      "name": "T__Planting",
+      "zone": "T",
+      "sourceObjects": 236,
+      "triangles": 6600,
+      "textured": true
+    }
+  ],
+  "removed": [
+    {
+      "zone": "F",
+      "object": "West terrain edge",
+      "reason": "Standalone terrain cut cap removed at assembly seam"
+    },
+    {
+      "zone": "F",
+      "object": "Core terrain edge",
+      "reason": "Standalone terrain cut cap removed at assembly seam"
+    },
+    {
+      "zone": "F",
+      "object": "Core terrain edge.001",
+      "reason": "Standalone terrain cut cap removed at assembly seam"
+    },
+    {
+      "zone": "F",
+      "object": "Bridge approach terrain edge",
+      "reason": "Standalone terrain cut cap removed at assembly seam"
+    },
+    {
+      "zone": "F",
+      "object": "Bridge approach terrain edge.001",
+      "reason": "Standalone terrain cut cap removed at assembly seam"
+    },
+    {
+      "zone": "F",
+      "object": "Terrain cut edge",
+      "reason": "Standalone terrain cut cap removed at assembly seam"
+    },
+    {
+      "zone": "F",
+      "object": "Terrain cut edge.001",
+      "reason": "Standalone terrain cut cap removed at assembly seam"
+    },
+    {
+      "zone": "F",
+      "object": "Far terrain edge",
+      "reason": "Standalone terrain cut cap removed at assembly seam"
+    }
+  ],
+  "degenerateCleanup": {
+    "C__C01__L03_Interior": 48,
+    "C__C01__L02_Interior": 48,
+    "C__C01__L01_Interior": 48,
+    "C__C02__L04_Interior": 48,
+    "C__C02__L03_Interior": 48,
+    "C__C02__L02_Interior": 48,
+    "C__C02__L01_Interior": 48,
+    "C__C03__L04_Interior": 48,
+    "C__C03__L03_Interior": 48,
+    "C__C03__L02_Interior": 48,
+    "C__C03__L01_Interior": 48,
+    "C__C04__L04_Interior": 48,
+    "C__C04__L03_Interior": 48,
+    "C__C04__L02_Interior": 48,
+    "C__C04__L01_Interior": 48,
+    "C__C05__L05_Interior": 48,
+    "C__C05__L04_Interior": 48,
+    "C__C05__L03_Interior": 48,
+    "C__C05__L02_Interior": 48,
+    "C__C05__L01_Interior": 48,
+    "A__A01__L01_Interior": 24,
+    "A__A02__L01_Interior": 24,
+    "A__A03__L01_Interior": 24,
+    "A__A04__L01_Interior": 24,
+    "A__A05__L01_Interior": 24,
+    "A__A06__L01_Interior": 24,
+    "A__A07__L01_Interior": 24,
+    "B__B03_Interior": 24,
+    "I__Inn_L01_Furniture": 48,
+    "I__Fire_Furniture": 24
+  },
+  "portals": [
+    {
+      "zone": "A",
+      "name": "south",
+      "point": [
+        -87.5,
+        42.5,
+        0.07
+      ],
+      "width": 2.25,
+      "target": [
+        -87.5,
+        35,
+        0.09
+      ]
+    },
+    {
+      "zone": "A",
+      "name": "north",
+      "point": [
+        -87.5,
+        105.0,
+        0.07
+      ],
+      "width": 2,
+      "target": [
+        -87.5,
+        110,
+        0.09
+      ]
+    },
+    {
+      "zone": "A",
+      "name": "east",
+      "point": [
+        -50.0,
+        83.75,
+        0.07
+      ],
+      "width": 2,
+      "target": [
+        -46.25,
+        83.75,
+        0.09
+      ]
+    },
+    {
+      "zone": "A",
+      "name": "west",
+      "point": [
+        -125.0,
+        83.75,
+        0.07
+      ],
+      "width": 2,
+      "target": [
+        -130,
+        83.75,
+        0.09
+      ]
+    },
+    {
+      "zone": "C",
+      "name": "south",
+      "point": [
+        78.125,
+        42.5,
+        0.055
+      ],
+      "width": 2.25,
+      "target": [
+        78.125,
+        35,
+        0.09
+      ]
+    },
+    {
+      "zone": "C",
+      "name": "north",
+      "point": [
+        78.125,
+        105.0,
+        0.055
+      ],
+      "width": 2.25,
+      "target": [
+        78.125,
+        110,
+        0.09
+      ]
+    },
+    {
+      "zone": "C",
+      "name": "west",
+      "point": [
+        51.25,
+        83.75,
+        0.055
+      ],
+      "width": 2,
+      "target": [
+        46.875,
+        83.75,
+        0.09
+      ]
+    },
+    {
+      "zone": "C",
+      "name": "east",
+      "point": [
+        105.0,
+        73.75,
+        0.055
+      ],
+      "width": 2.2,
+      "target": [
+        123.47117752702482,
+        73.75,
+        0.09
+      ]
+    },
+    {
+      "zone": "B",
+      "name": "south",
+      "point": [
+        0.0,
+        42.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        0.0,
+        35,
+        0.09
+      ]
+    },
+    {
+      "zone": "B",
+      "name": "east",
+      "point": [
+        42.5,
+        68.75,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        46.875,
+        68.75,
+        0.09
+      ]
+    },
+    {
+      "zone": "B",
+      "name": "west",
+      "point": [
+        -42.5,
+        68.75,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        -46.25,
+        68.75,
+        0.09
+      ]
+    },
+    {
+      "zone": "B",
+      "name": "northWest",
+      "point": [
+        -11.75,
+        105.0,
+        0.09
+      ],
+      "width": 2,
+      "target": [
+        -11.75,
+        110,
+        0.09
+      ]
+    },
+    {
+      "zone": "B",
+      "name": "northEast",
+      "point": [
+        15.5,
+        105.0,
+        0.09
+      ],
+      "width": 2,
+      "target": [
+        15.5,
+        110,
+        0.09
+      ]
+    },
+    {
+      "zone": "D",
+      "name": "east",
+      "point": [
+        -50.0,
+        -2.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        -46.25,
+        -2.5,
+        0.09
+      ]
+    },
+    {
+      "zone": "D",
+      "name": "west",
+      "point": [
+        -125.0,
+        -2.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        -130,
+        -2.5,
+        0.09
+      ]
+    },
+    {
+      "zone": "D",
+      "name": "north",
+      "point": [
+        -89.0,
+        27.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        -89.0,
+        35,
+        0.09
+      ]
+    },
+    {
+      "zone": "D",
+      "name": "south",
+      "point": [
+        -89.0,
+        -27.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        -89.0,
+        -36.25,
+        0.09
+      ]
+    },
+    {
+      "zone": "D",
+      "name": "serviceNorth",
+      "point": [
+        -122.85,
+        27.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        -122.85,
+        35,
+        0.09
+      ]
+    },
+    {
+      "zone": "D",
+      "name": "serviceSouth",
+      "point": [
+        -122.85,
+        -27.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        -122.85,
+        -36.25,
+        0.09
+      ]
+    },
+    {
+      "zone": "E",
+      "name": "west",
+      "point": [
+        -42.5,
+        -2.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        -46.25,
+        -2.5,
+        0.09
+      ]
+    },
+    {
+      "zone": "E",
+      "name": "east",
+      "point": [
+        42.5,
+        -2.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        46.875,
+        -2.5,
+        0.09
+      ]
+    },
+    {
+      "zone": "E",
+      "name": "north",
+      "point": [
+        0.0,
+        27.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        0.0,
+        35,
+        0.09
+      ]
+    },
+    {
+      "zone": "E",
+      "name": "south",
+      "point": [
+        0.0,
+        -27.5,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        0.0,
+        -36.25,
+        0.09
+      ]
+    },
+    {
+      "zone": "F",
+      "name": "west",
+      "point": [
+        51.25,
+        0.0,
+        0.1
+      ],
+      "width": 2.4,
+      "target": [
+        46.875,
+        0.0,
+        0.09
+      ]
+    },
+    {
+      "zone": "F",
+      "name": "north",
+      "point": [
+        101.125,
+        27.5,
+        0.1
+      ],
+      "width": 2.4,
+      "target": [
+        101.125,
+        35,
+        0.09
+      ]
+    },
+    {
+      "zone": "F",
+      "name": "south",
+      "point": [
+        101.125,
+        -27.5,
+        0.1
+      ],
+      "width": 2.4,
+      "target": [
+        101.125,
+        -36.25,
+        0.09
+      ]
+    },
+    {
+      "zone": "G",
+      "name": "north",
+      "point": [
+        -90.5,
+        -45.0,
+        0.1
+      ],
+      "width": 2.4,
+      "target": [
+        -90.5,
+        -36.25,
+        0.09
+      ]
+    },
+    {
+      "zone": "G",
+      "name": "east",
+      "point": [
+        -50.0,
+        -72.5,
+        0.1
+      ],
+      "width": 2.4,
+      "target": [
+        -46.25,
+        -72.5,
+        0.09
+      ]
+    },
+    {
+      "zone": "G",
+      "name": "south",
+      "point": [
+        -90.5,
+        -100.0,
+        0.1
+      ],
+      "width": 2.4,
+      "target": [
+        -90.5,
+        -106,
+        0.09
+      ]
+    },
+    {
+      "zone": "G",
+      "name": "serviceWest",
+      "point": [
+        -125.0,
+        -97.5,
+        0.1
+      ],
+      "width": 2.4,
+      "target": [
+        -130,
+        -97.5,
+        0.09
+      ]
+    },
+    {
+      "zone": "G",
+      "name": "serviceEast",
+      "point": [
+        -50.0,
+        -97.5,
+        0.1
+      ],
+      "width": 2.4,
+      "target": [
+        -46.25,
+        -97.5,
+        0.09
+      ]
+    },
+    {
+      "zone": "H",
+      "name": "north",
+      "point": [
+        0.0,
+        -45.0,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        0.0,
+        -36.25,
+        0.09
+      ]
+    },
+    {
+      "zone": "H",
+      "name": "south",
+      "point": [
+        0.0,
+        -100.0,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        0.0,
+        -106,
+        0.09
+      ]
+    },
+    {
+      "zone": "H",
+      "name": "east",
+      "point": [
+        42.5,
+        -74.0,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        46.875,
+        -74.0,
+        0.09
+      ]
+    },
+    {
+      "zone": "H",
+      "name": "west",
+      "point": [
+        -42.5,
+        -74.0,
+        0.09
+      ],
+      "width": 2.4,
+      "target": [
+        -46.25,
+        -74.0,
+        0.09
+      ]
+    },
+    {
+      "zone": "I",
+      "name": "westCommercial",
+      "point": [
+        51.25,
+        -62.0,
+        0.13
+      ],
+      "width": 2.4,
+      "target": [
+        46.875,
+        -62.0,
+        0.09
+      ]
+    },
+    {
+      "zone": "I",
+      "name": "northPark",
+      "point": [
+        83.625,
+        -45.0,
+        0.13
+      ],
+      "width": 2.4,
+      "target": [
+        83.625,
+        -36.25,
+        0.09
+      ]
+    },
+    {
+      "zone": "I",
+      "name": "southWest",
+      "point": [
+        53.325,
+        -100.0,
+        0.13
+      ],
+      "width": 2.4,
+      "target": [
+        53.325,
+        -106,
+        0.09
+      ]
+    }
+  ],
+  "roadTiles": [
+    [
+      -130,
+      -108.5,
+      105,
+      -106
+    ],
+    [
+      -132.5,
+      -106,
+      105,
+      -103.5
+    ],
+    [
+      -132.5,
+      -103.5,
+      -127.5,
+      -101.0
+    ],
+    [
+      -91.7,
+      -103.5,
+      -89.3,
+      -101.0
+    ],
+    [
+      -48.25,
+      -103.5,
+      -44.25,
+      -101.0
+    ],
+    [
+      -1.2,
+      -103.5,
+      1.2,
+      -101.0
+    ],
+    [
+      44.875,
+      -103.5,
+      48.875,
+      -101.0
+    ],
+    [
+      52.125,
+      -103.5,
+      54.525,
+      -101.0
+    ],
+    [
+      96.625,
+      -103.5,
+      105,
+      -101.0
+    ],
+    [
+      -132.5,
+      -101.0,
+      -127.5,
+      -100
+    ],
+    [
+      -48.25,
+      -101.0,
+      -44.25,
+      -100
+    ],
+    [
+      44.875,
+      -101.0,
+      48.875,
+      -100
+    ],
+    [
+      96.625,
+      -101.0,
+      105,
+      -100
+    ],
+    [
+      -132.5,
+      -100,
+      -127.5,
+      -98.7
+    ],
+    [
+      -48.25,
+      -100,
+      -44.25,
+      -98.7
+    ],
+    [
+      44.875,
+      -100,
+      48.875,
+      -98.7
+    ],
+    [
+      -132.5,
+      -98.7,
+      -126.0,
+      -96.3
+    ],
+    [
+      -49.0,
+      -98.7,
+      -44.25,
+      -96.3
+    ],
+    [
+      44.875,
+      -98.7,
+      48.875,
+      -96.3
+    ],
+    [
+      -132.5,
+      -96.3,
+      -127.5,
+      -75.2
+    ],
+    [
+      -48.25,
+      -96.3,
+      -44.25,
+      -75.2
+    ],
+    [
+      44.875,
+      -96.3,
+      48.875,
+      -75.2
+    ],
+    [
+      -132.5,
+      -75.2,
+      -127.5,
+      -73.7
+    ],
+    [
+      -48.25,
+      -75.2,
+      -43.5,
+      -73.7
+    ],
+    [
+      43.5,
+      -75.2,
+      48.875,
+      -73.7
+    ],
+    [
+      -132.5,
+      -73.7,
+      -127.5,
+      -72.8
+    ],
+    [
+      -49.0,
+      -73.7,
+      -43.5,
+      -72.8
+    ],
+    [
+      43.5,
+      -73.7,
+      48.875,
+      -72.8
+    ],
+    [
+      -132.5,
+      -72.8,
+      -127.5,
+      -71.3
+    ],
+    [
+      -49.0,
+      -72.8,
+      -44.25,
+      -71.3
+    ],
+    [
+      44.875,
+      -72.8,
+      48.875,
+      -71.3
+    ],
+    [
+      -132.5,
+      -71.3,
+      -127.5,
+      -63.2
+    ],
+    [
+      -48.25,
+      -71.3,
+      -44.25,
+      -63.2
+    ],
+    [
+      44.875,
+      -71.3,
+      48.875,
+      -63.2
+    ],
+    [
+      -132.5,
+      -63.2,
+      -127.5,
+      -60.8
+    ],
+    [
+      -48.25,
+      -63.2,
+      -44.25,
+      -60.8
+    ],
+    [
+      44.875,
+      -63.2,
+      50.25,
+      -60.8
+    ],
+    [
+      -132.5,
+      -60.8,
+      -127.5,
+      -44.0
+    ],
+    [
+      -48.25,
+      -60.8,
+      -44.25,
+      -44.0
+    ],
+    [
+      44.875,
+      -60.8,
+      48.875,
+      -44.0
+    ],
+    [
+      -132.5,
+      -44.0,
+      -127.5,
+      -38.5
+    ],
+    [
+      -91.7,
+      -44.0,
+      -89.3,
+      -38.5
+    ],
+    [
+      -48.25,
+      -44.0,
+      -44.25,
+      -38.5
+    ],
+    [
+      -1.2,
+      -44.0,
+      1.2,
+      -38.5
+    ],
+    [
+      44.875,
+      -44.0,
+      48.875,
+      -38.5
+    ],
+    [
+      82.425,
+      -44.0,
+      84.825,
+      -38.5
+    ],
+    [
+      -132.5,
+      -38.5,
+      100.5,
+      -36.25
+    ],
+    [
+      -132.5,
+      -36.25,
+      102.325,
+      -34.0
+    ],
+    [
+      -132.5,
+      -34.0,
+      -127.5,
+      -28.5
+    ],
+    [
+      -124.05,
+      -34.0,
+      -121.65,
+      -28.5
+    ],
+    [
+      -90.2,
+      -34.0,
+      -87.8,
+      -28.5
+    ],
+    [
+      -48.25,
+      -34.0,
+      -44.25,
+      -28.5
+    ],
+    [
+      -1.2,
+      -34.0,
+      1.2,
+      -28.5
+    ],
+    [
+      44.875,
+      -34.0,
+      48.875,
+      -28.5
+    ],
+    [
+      99.925,
+      -34.0,
+      102.325,
+      -28.5
+    ],
+    [
+      -132.5,
+      -28.5,
+      -127.5,
+      -3.7
+    ],
+    [
+      -48.25,
+      -28.5,
+      -44.25,
+      -3.7
+    ],
+    [
+      44.875,
+      -28.5,
+      48.875,
+      -3.7
+    ],
+    [
+      -132.5,
+      -3.7,
+      -126.0,
+      -1.3
+    ],
+    [
+      -49.0,
+      -3.7,
+      -43.5,
+      -1.3
+    ],
+    [
+      43.5,
+      -3.7,
+      48.875,
+      -1.3
+    ],
+    [
+      -132.5,
+      -1.3,
+      -127.5,
+      -1.2
+    ],
+    [
+      -48.25,
+      -1.3,
+      -44.25,
+      -1.2
+    ],
+    [
+      44.875,
+      -1.3,
+      48.875,
+      -1.2
+    ],
+    [
+      -132.5,
+      -1.2,
+      -127.5,
+      1.2
+    ],
+    [
+      -48.25,
+      -1.2,
+      -44.25,
+      1.2
+    ],
+    [
+      44.875,
+      -1.2,
+      50.25,
+      1.2
+    ],
+    [
+      -132.5,
+      1.2,
+      -127.5,
+      28.5
+    ],
+    [
+      -48.25,
+      1.2,
+      -44.25,
+      28.5
+    ],
+    [
+      44.875,
+      1.2,
+      48.875,
+      28.5
+    ],
+    [
+      -132.5,
+      28.5,
+      -127.5,
+      32.75
+    ],
+    [
+      -124.05,
+      28.5,
+      -121.65,
+      32.75
+    ],
+    [
+      -90.2,
+      28.5,
+      -87.8,
+      32.75
+    ],
+    [
+      -48.25,
+      28.5,
+      -44.25,
+      32.75
+    ],
+    [
+      -1.2,
+      28.5,
+      1.2,
+      32.75
+    ],
+    [
+      44.875,
+      28.5,
+      48.875,
+      32.75
+    ],
+    [
+      99.925,
+      28.5,
+      102.325,
+      32.75
+    ],
+    [
+      -132.5,
+      32.75,
+      102.325,
+      35
+    ],
+    [
+      -132.5,
+      35,
+      100.5,
+      37.25
+    ],
+    [
+      -132.5,
+      37.25,
+      -127.5,
+      41.5
+    ],
+    [
+      -88.625,
+      37.25,
+      -86.375,
+      41.5
+    ],
+    [
+      -48.25,
+      37.25,
+      -44.25,
+      41.5
+    ],
+    [
+      -1.2,
+      37.25,
+      1.2,
+      41.5
+    ],
+    [
+      44.875,
+      37.25,
+      48.875,
+      41.5
+    ],
+    [
+      77.0,
+      37.25,
+      79.25,
+      41.5
+    ],
+    [
+      -132.5,
+      41.5,
+      -127.5,
+      67.55
+    ],
+    [
+      -48.25,
+      41.5,
+      -44.25,
+      67.55
+    ],
+    [
+      44.875,
+      41.5,
+      48.875,
+      67.55
+    ],
+    [
+      -132.5,
+      67.55,
+      -127.5,
+      69.95
+    ],
+    [
+      -48.25,
+      67.55,
+      -43.5,
+      69.95
+    ],
+    [
+      43.5,
+      67.55,
+      48.875,
+      69.95
+    ],
+    [
+      -132.5,
+      69.95,
+      -127.5,
+      72.65
+    ],
+    [
+      -48.25,
+      69.95,
+      -44.25,
+      72.65
+    ],
+    [
+      44.875,
+      69.95,
+      48.875,
+      72.65
+    ],
+    [
+      -132.5,
+      72.65,
+      -127.5,
+      74.85
+    ],
+    [
+      -48.25,
+      72.65,
+      -44.25,
+      74.85
+    ],
+    [
+      44.875,
+      72.65,
+      48.875,
+      74.85
+    ],
+    [
+      106.0,
+      72.65,
+      123.471178,
+      74.85
+    ],
+    [
+      -132.5,
+      74.85,
+      -127.5,
+      82.75
+    ],
+    [
+      -48.25,
+      74.85,
+      -44.25,
+      82.75
+    ],
+    [
+      44.875,
+      74.85,
+      48.875,
+      82.75
+    ],
+    [
+      -132.5,
+      82.75,
+      -126.0,
+      84.75
+    ],
+    [
+      -49.0,
+      82.75,
+      -44.25,
+      84.75
+    ],
+    [
+      44.875,
+      82.75,
+      50.25,
+      84.75
+    ],
+    [
+      -132.5,
+      84.75,
+      -127.5,
+      106.0
+    ],
+    [
+      -48.25,
+      84.75,
+      -44.25,
+      106.0
+    ],
+    [
+      44.875,
+      84.75,
+      48.875,
+      106.0
+    ],
+    [
+      -132.5,
+      106.0,
+      -127.5,
+      107.5
+    ],
+    [
+      -88.5,
+      106.0,
+      -86.5,
+      107.5
+    ],
+    [
+      -48.25,
+      106.0,
+      -44.25,
+      107.5
+    ],
+    [
+      -12.75,
+      106.0,
+      -10.75,
+      107.5
+    ],
+    [
+      14.5,
+      106.0,
+      16.5,
+      107.5
+    ],
+    [
+      44.875,
+      106.0,
+      48.875,
+      107.5
+    ],
+    [
+      77.0,
+      106.0,
+      79.25,
+      107.5
+    ],
+    [
+      -132.5,
+      107.5,
+      105,
+      110
+    ],
+    [
+      -130,
+      110,
+      105,
+      112.5
+    ]
+  ],
+  "roadRectangles": [
+    [
+      -48.25,
+      -106,
+      -44.25,
+      110
+    ],
+    [
+      44.875,
+      -106,
+      48.875,
+      110
+    ],
+    [
+      -130,
+      32.75,
+      100.5,
+      37.25
+    ],
+    [
+      -130,
+      -38.5,
+      100.5,
+      -34.0
+    ],
+    [
+      -132.5,
+      -106,
+      -127.5,
+      110
+    ],
+    [
+      -130,
+      107.5,
+      105,
+      112.5
+    ],
+    [
+      -130,
+      -108.5,
+      105,
+      -103.5
+    ],
+    [
+      96.625,
+      -106,
+      105,
+      -100
+    ],
+    [
+      -88.625,
+      35,
+      -86.375,
+      41.5
+    ],
+    [
+      -88.5,
+      106.0,
+      -86.5,
+      110
+    ],
+    [
+      -49.0,
+      82.75,
+      -46.25,
+      84.75
+    ],
+    [
+      -130,
+      82.75,
+      -126.0,
+      84.75
+    ],
+    [
+      77.0,
+      35,
+      79.25,
+      41.5
+    ],
+    [
+      77.0,
+      106.0,
+      79.25,
+      110
+    ],
+    [
+      46.875,
+      82.75,
+      50.25,
+      84.75
+    ],
+    [
+      106.0,
+      72.65,
+      123.47117752702482,
+      74.85
+    ],
+    [
+      -1.2,
+      35,
+      1.2,
+      41.5
+    ],
+    [
+      43.5,
+      67.55,
+      46.875,
+      69.95
+    ],
+    [
+      -46.25,
+      67.55,
+      -43.5,
+      69.95
+    ],
+    [
+      -12.75,
+      106.0,
+      -10.75,
+      110
+    ],
+    [
+      14.5,
+      106.0,
+      16.5,
+      110
+    ],
+    [
+      -49.0,
+      -3.7,
+      -46.25,
+      -1.3
+    ],
+    [
+      -130,
+      -3.7,
+      -126.0,
+      -1.3
+    ],
+    [
+      -90.2,
+      28.5,
+      -87.8,
+      35
+    ],
+    [
+      -90.2,
+      -36.25,
+      -87.8,
+      -28.5
+    ],
+    [
+      -124.05,
+      28.5,
+      -121.64999999999999,
+      35
+    ],
+    [
+      -124.05,
+      -36.25,
+      -121.64999999999999,
+      -28.5
+    ],
+    [
+      -46.25,
+      -3.7,
+      -43.5,
+      -1.3
+    ],
+    [
+      43.5,
+      -3.7,
+      46.875,
+      -1.3
+    ],
+    [
+      -1.2,
+      28.5,
+      1.2,
+      35
+    ],
+    [
+      -1.2,
+      -36.25,
+      1.2,
+      -28.5
+    ],
+    [
+      46.875,
+      -1.2,
+      50.25,
+      1.2
+    ],
+    [
+      99.925,
+      28.5,
+      102.325,
+      35
+    ],
+    [
+      99.925,
+      -36.25,
+      102.325,
+      -28.5
+    ],
+    [
+      -91.7,
+      -44.0,
+      -89.3,
+      -36.25
+    ],
+    [
+      -49.0,
+      -73.7,
+      -46.25,
+      -71.3
+    ],
+    [
+      -91.7,
+      -106,
+      -89.3,
+      -101.0
+    ],
+    [
+      -130,
+      -98.7,
+      -126.0,
+      -96.3
+    ],
+    [
+      -49.0,
+      -98.7,
+      -46.25,
+      -96.3
+    ],
+    [
+      -1.2,
+      -44.0,
+      1.2,
+      -36.25
+    ],
+    [
+      -1.2,
+      -106,
+      1.2,
+      -101.0
+    ],
+    [
+      43.5,
+      -75.2,
+      46.875,
+      -72.8
+    ],
+    [
+      -46.25,
+      -75.2,
+      -43.5,
+      -72.8
+    ],
+    [
+      46.875,
+      -63.2,
+      50.25,
+      -60.8
+    ],
+    [
+      82.425,
+      -44.0,
+      84.825,
+      -36.25
+    ],
+    [
+      52.125,
+      -106,
+      54.525000000000006,
+      -101.0
+    ]
+  ],
+  "meshObjects": 465,
+  "triangles": 1360697,
+  "sha256": "fb34fe215881a0c9991f394520f07394e9c85909ba566e2f0e6d5b4f09d0002a",
+  "units": "metres",
+  "sourceAxes": "Z up; north +Y",
+  "glbAxes": "Y up; north -Z",
+  "status": "design-review",
+  "residentialCapacity": {
+    "residentHomes": 46,
+    "heroHome": 1,
+    "hotelRooms": 6
+  },
+  "assemblyChanges": [
+    "Removed AC B reserved placeholder and duplicate road context",
+    "Removed standalone F terrain end caps",
+    "Extended F river and both bank paths without rescaling district geometry",
+    "Connected every declared district portal through town avenues and height transition strips",
+    "Vehicles use western/southern/northern access; east park stays pedestrian"
+  ]
+}

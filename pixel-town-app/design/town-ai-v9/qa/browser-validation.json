@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-19T04:34:42.088Z",
+  "checks": [
+    {
+      "name": "actual WebGL town loads 45 people and 16 animals",
+      "pass": true
+    },
+    {
+      "name": "default autonomy is off and load has no API requests",
+      "pass": true
+    },
+    {
+      "name": "live IPC context includes original background and all public identities",
+      "pass": true
+    },
+    {
+      "name": "provider keys never cross preload or context",
+      "pass": true
+    },
+    {
+      "name": "context preview is free",
+      "pass": true
+    },
+    {
+      "name": "real HTTP/SSE uses the selected provider and full 3D guide",
+      "pass": true
+    },
+    {
+      "name": "first native preset starts",
+      "pass": true
+    },
+    {
+      "name": "pose changes actual head quaternion within limit",
+      "pass": true
+    },
+    {
+      "name": "work stages finish and persist as practice rather than goods",
+      "pass": true
+    },
+    {
+      "name": "pose is removed and original Idle returns",
+      "pass": true
+    },
+    {
+      "name": "move follows actual public navigation and reaches destination",
+      "pass": true
+    },
+    {
+      "name": "speech is delivered to the other person without inventing a reply",
+      "pass": true
+    },
+    {
+      "name": "invalid bones are rejected before scene execution",
+      "pass": true
+    },
+    {
+      "name": "stop cancels an in-flight API response",
+      "pass": true
+    },
+    {
+      "name": "autonomy needs explicit opt-in and stops on request",
+      "pass": true
+    },
+    {
+      "name": "390px layout has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "no renderer or shader errors",
+      "pass": true
+    },
+    {
+      "name": "subsequent AI context contains engine execution feedback",
+      "pass": true
+    }
+  ],
+  "requests": 5,
+  "errors": [],
+  "contextChars": 50733,
+  "isolatedData": true,
+  "paidCalls": 0,
+  "protocol": "production llm.js + HTTP/SSE + sandbox preload + actual WebGL",
+  "initialActors": 61
+}

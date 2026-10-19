@@ -1,0 +1,141 @@
+{
+  "title": "D 区 · 手作工作区",
+  "plot": [
+    75,
+    55
+  ],
+  "buildings": [
+    {
+      "id": "D01",
+      "name": "木工坊",
+      "center": [
+        -18.75,
+        10
+      ],
+      "size": [
+        27.5,
+        15
+      ],
+      "door": "s",
+      "roof": "pitch",
+      "people": [
+        "大森",
+        "榆棠"
+      ]
+    },
+    {
+      "id": "D02",
+      "name": "修理铺",
+      "center": [
+        17,
+        10
+      ],
+      "size": [
+        30,
+        15
+      ],
+      "door": "s",
+      "roof": "pitch",
+      "people": [
+        "罗栓"
+      ]
+    },
+    {
+      "id": "D03",
+      "name": "共享画室",
+      "center": [
+        -18.75,
+        -14.125
+      ],
+      "size": [
+        27.5,
+        13.25
+      ],
+      "door": "n",
+      "roof": "flat",
+      "people": [
+        "鹿眠"
+      ]
+    },
+    {
+      "id": "D04",
+      "name": "排练室",
+      "center": [
+        17,
+        -14.125
+      ],
+      "size": [
+        30,
+        13.25
+      ],
+      "door": "n",
+      "roof": "flat",
+      "people": [
+        "迟野"
+      ]
+    }
+  ],
+  "units": "metres",
+  "sourceAxes": "Z up, north +Y",
+  "glbAxes": "Y up, north -Z",
+  "meshObjects": 2253,
+  "triangles": 72260,
+  "degenerateTriangles": 0,
+  "groups": [
+    "Ground",
+    "D01_Floor",
+    "D01_Front",
+    "D01_Shell",
+    "D01_Roof",
+    "D02_Floor",
+    "D02_Front",
+    "D02_Shell",
+    "D02_Roof",
+    "D03_Floor",
+    "D03_Shell",
+    "D03_Front",
+    "D03_Roof",
+    "D04_Floor",
+    "D04_Shell",
+    "D04_Front",
+    "D04_Roof",
+    "D01_Interior",
+    "D02_Interior",
+    "D03_Interior",
+    "D04_Interior",
+    "Street_Furniture",
+    "Landscape",
+    "Logistics",
+    "Wayfinding",
+    "Paths"
+  ],
+  "sha256": "b11fe7848dd02bdf274ab3f6a95b54d5a1423f71aeda69c08ddfb45a73d5c706",
+  "status": "design-review",
+  "blender": "5.2.2 LTS",
+  "portals": {
+    "east": [
+      37.5,
+      -2.5
+    ],
+    "west": [
+      -37.5,
+      -2.5
+    ],
+    "north": [
+      -1.5,
+      27.5
+    ],
+    "south": [
+      -1.5,
+      -27.5
+    ],
+    "serviceNorth": [
+      -35.35,
+      27.5
+    ],
+    "serviceSouth": [
+      -35.35,
+      -27.5
+    ]
+  }
+}

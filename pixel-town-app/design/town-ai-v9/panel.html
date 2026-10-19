@@ -1,0 +1,22 @@
+<section class="ai-card" aria-labelledby="ai-heading">
+  <div class="eyebrow">自主生活 / API</div><h2 id="ai-heading">让人物自己行动</h2>
+  <p id="ai-mode" class="ai-note">正在连接…</p>
+  <p id="ai-budget" class="ai-note"></p>
+  <strong id="ai-actor">阿澈</strong><p id="ai-capability" class="ai-note"></p>
+  <div class="ai-row"><button id="ai-settings">API 与人物设置</button><button id="ai-refresh">刷新配置</button></div>
+  <details><summary>当前人物的模型绑定</summary>
+    <label>服务商<select id="ai-provider" aria-label="服务商"></select></label>
+    <label>模型<input id="ai-model" placeholder="服务商提供的模型 ID"></label>
+    <div class="ai-row"><label>Temperature<input id="ai-temperature" type="number" min="0" max="2" step=".1" value=".8"></label><label>输出 Tokens<input id="ai-tokens" type="number" min="512" max="8192" value="1024"></label></div>
+    <button id="ai-bind" class="all">保存绑定</button><p class="ai-note">沿用原人物 API 配置。密钥在设置中管理，页面不会读取密钥。</p>
+  </details>
+  <label class="ai-label" for="ai-instruction">给当前人物的安排</label><textarea id="ai-instruction" rows="3" maxlength="2000" placeholder="例如：先挥手，再去工作点练习今天的职业流程。也可以留空，让人物自己决定。"></textarea>
+  <div class="ai-row"><button id="ai-context">查看发送给 AI 的资料</button><button id="ai-once">AI 决定下一步</button></div>
+  <label class="check">当前人物自主行动<input id="ai-auto" type="checkbox"></label>
+  <label class="check">调用间隔（秒）<input id="ai-interval" type="number" min="15" max="3600" value="60"></label>
+  <p class="ai-note">仅为当前人物调用；切换人物、切到后台或调用失败后关闭。沿用全镇每日上限和最短间隔。</p>
+  <button id="ai-stop" class="all">停止 AI 与当前行为</button>
+  <p id="ai-state" role="status" aria-live="polite"></p><button id="ai-retry-save" hidden>重试保存执行记录</button>
+  <details><summary>当前职业与执行记录</summary><p id="ai-job-note" class="ai-note"></p><ol id="ai-events"></ol></details>
+</section>
+<dialog id="ai-context-dialog"><div class="ai-dialog-head"><h2>AI 收到的真实资料</h2><button id="ai-context-close">关闭</button></div><p class="ai-note">包含项目背景、全部在场人物的公开人设、本人关系与记忆、实际动作/关节/工作能力及最近执行回执。预览不调用付费 API。</p><pre id="ai-context-text"></pre></dialog>

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "01_cat_tabby",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 96234,
+    "skinWeightVertices": 4826,
+    "unitQuaternions": true
+  },
+  {
+    "id": "02_cat_calico",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 96234,
+    "skinWeightVertices": 4826,
+    "unitQuaternions": true
+  },
+  {
+    "id": "03_cat_british_blue",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 96234,
+    "skinWeightVertices": 4826,
+    "unitQuaternions": true
+  },
+  {
+    "id": "04_cat_siamese",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 96234,
+    "skinWeightVertices": 4826,
+    "unitQuaternions": true
+  },
+  {
+    "id": "05_cat_maine",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 106230,
+    "skinWeightVertices": 5414,
+    "unitQuaternions": true
+  },
+  {
+    "id": "06_dog_corgi",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 68272,
+    "skinWeightVertices": 3668,
+    "unitQuaternions": true
+  },
+  {
+    "id": "07_dog_shiba",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 63916,
+    "skinWeightVertices": 3966,
+    "unitQuaternions": true
+  },
+  {
+    "id": "08_dog_border",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 71430,
+    "skinWeightVertices": 3656,
+    "unitQuaternions": true
+  },
+  {
+    "id": "09_dog_golden",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 83358,
+    "skinWeightVertices": 4650,
+    "unitQuaternions": true
+  },
+  {
+    "id": "10_dog_dachshund",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 81712,
+    "skinWeightVertices": 4788,
+    "unitQuaternions": true
+  },
+  {
+    "id": "11_dog_poodle",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 111352,
+    "skinWeightVertices": 7258,
+    "unitQuaternions": true
+  },
+  {
+    "id": "12_bird_budgie_green",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 83780,
+    "skinWeightVertices": 6462,
+    "unitQuaternions": true
+  },
+  {
+    "id": "13_bird_budgie_blue",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 83780,
+    "skinWeightVertices": 6462,
+    "unitQuaternions": true
+  },
+  {
+    "id": "14_bird_cockatiel",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 99320,
+    "skinWeightVertices": 7757,
+    "unitQuaternions": true
+  },
+  {
+    "id": "15_bird_canary",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 83780,
+    "skinWeightVertices": 6462,
+    "unitQuaternions": true
+  },
+  {
+    "id": "16_rabbit_lop",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 10,
+    "finiteFloatValues": 62254,
+    "skinWeightVertices": 4270,
+    "unitQuaternions": true
+  },
+  {
+    "id": "17_rabbit_dutch",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 10,
+    "finiteFloatValues": 64490,
+    "skinWeightVertices": 4455,
+    "unitQuaternions": true
+  },
+  {
+    "id": "18_guineapig_rosette",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 75979,
+    "skinWeightVertices": 5538,
+    "unitQuaternions": true
+  },
+  {
+    "id": "19_tortoise_hermann",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 6,
+    "finiteFloatValues": 60772,
+    "skinWeightVertices": 4649,
+    "unitQuaternions": true
+  },
+  {
+    "id": "20_pony_shetland",
+    "glbValid": true,
+    "skinCount": 1,
+    "clips": 9,
+    "finiteFloatValues": 92468,
+    "skinWeightVertices": 4585,
+    "unitQuaternions": true
+  }
+]

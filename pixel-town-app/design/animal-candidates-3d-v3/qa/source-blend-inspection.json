@@ -1,0 +1,345 @@
+{
+  "rabbit": {
+    "objects": [
+      {
+        "name": "Armature",
+        "type": "ARMATURE",
+        "vertices": null,
+        "bones": 37,
+        "modifiers": []
+      },
+      {
+        "name": "Camera",
+        "type": "CAMERA",
+        "vertices": null,
+        "bones": null,
+        "modifiers": []
+      },
+      {
+        "name": "Fur",
+        "type": "MESH",
+        "vertices": 1303,
+        "bones": null,
+        "modifiers": [
+          [
+            "Armature",
+            "ARMATURE"
+          ]
+        ]
+      },
+      {
+        "name": "Hemi",
+        "type": "LIGHT",
+        "vertices": null,
+        "bones": null,
+        "modifiers": []
+      },
+      {
+        "name": "Hemi.001",
+        "type": "LIGHT",
+        "vertices": null,
+        "bones": null,
+        "modifiers": []
+      },
+      {
+        "name": "Lamp",
+        "type": "LIGHT",
+        "vertices": null,
+        "bones": null,
+        "modifiers": []
+      },
+      {
+        "name": "Plane",
+        "type": "MESH",
+        "vertices": 4,
+        "bones": null,
+        "modifiers": []
+      },
+      {
+        "name": "Rabbit",
+        "type": "MESH",
+        "vertices": 893,
+        "bones": null,
+        "modifiers": [
+          [
+            "Armature",
+            "ARMATURE"
+          ]
+        ]
+      }
+    ],
+    "actions": [
+      {
+        "name": "Basic",
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "Dead",
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "Dying.000",
+        "range": [
+          0.0,
+          20.0
+        ]
+      },
+      {
+        "name": "Dying.001",
+        "range": [
+          0.0,
+          20.0
+        ]
+      },
+      {
+        "name": "Guard",
+        "range": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "Guarding",
+        "range": [
+          0.0,
+          400.0
+        ]
+      },
+      {
+        "name": "Jump",
+        "range": [
+          0.0,
+          24.0
+        ]
+      },
+      {
+        "name": "Running",
+        "range": [
+          0.0,
+          16.0
+        ]
+      },
+      {
+        "name": "Sitting.000",
+        "range": [
+          0.0,
+          550.0
+        ]
+      },
+      {
+        "name": "Sitting.001",
+        "range": [
+          0.0,
+          550.0
+        ]
+      }
+    ],
+    "materials": [
+      {
+        "name": "Fur",
+        "nodes": [
+          [
+            "帧",
+            "FRAME"
+          ],
+          [
+            "材质输出",
+            "OUTPUT_MATERIAL"
+          ],
+          [
+            "原理化 BSDF",
+            "BSDF_PRINCIPLED"
+          ],
+          [
+            "材质输出.001",
+            "OUTPUT_MATERIAL"
+          ],
+          [
+            "漫射 BSDF",
+            "BSDF_DIFFUSE"
+          ]
+        ],
+        "color": [
+          0.29569321870803833,
+          0.17553715407848358,
+          0.1407790184020996,
+          1.0
+        ]
+      },
+      {
+        "name": "Fur.001",
+        "nodes": [
+          [
+            "帧",
+            "FRAME"
+          ],
+          [
+            "材质输出",
+            "OUTPUT_MATERIAL"
+          ],
+          [
+            "原理化 BSDF",
+            "BSDF_PRINCIPLED"
+          ],
+          [
+            "材质输出.001",
+            "OUTPUT_MATERIAL"
+          ],
+          [
+            "漫射 BSDF",
+            "BSDF_DIFFUSE"
+          ]
+        ],
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ],
+    "images": [
+      {
+        "name": "Fur-skin",
+        "packed": true,
+        "path": "//texture/Fur-skin.png",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "rabbit-NORM",
+        "packed": true,
+        "path": "//texture/rabbit-NORM.png",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "rabbot-skinn",
+        "packed": true,
+        "path": "//texture/rabbit-skinn.png",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Render Result",
+        "packed": false,
+        "path": "",
+        "size": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "bird": {
+    "objects": [
+      {
+        "name": "Bird",
+        "type": "MESH",
+        "vertices": 716,
+        "bones": null,
+        "modifiers": [
+          [
+            "Armature",
+            "ARMATURE"
+          ]
+        ]
+      },
+      {
+        "name": "Bird Armature",
+        "type": "ARMATURE",
+        "vertices": null,
+        "bones": 19,
+        "modifiers": []
+      },
+      {
+        "name": "Camera",
+        "type": "CAMERA",
+        "vertices": null,
+        "bones": null,
+        "modifiers": []
+      },
+      {
+        "name": "Lamp",
+        "type": "LIGHT",
+        "vertices": null,
+        "bones": null,
+        "modifiers": []
+      }
+    ],
+    "actions": [
+      {
+        "name": "Bird ArmatureAction",
+        "range": [
+          0.0,
+          171.0
+        ]
+      }
+    ],
+    "materials": [
+      {
+        "name": "Material",
+        "nodes": [
+          [
+            "帧",
+            "FRAME"
+          ],
+          [
+            "材质输出",
+            "OUTPUT_MATERIAL"
+          ],
+          [
+            "原理化 BSDF",
+            "BSDF_PRINCIPLED"
+          ],
+          [
+            "材质输出.001",
+            "OUTPUT_MATERIAL"
+          ],
+          [
+            "漫射 BSDF",
+            "BSDF_DIFFUSE"
+          ]
+        ],
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ]
+      }
+    ],
+    "images": [
+      {
+        "name": "bird.jpg",
+        "packed": true,
+        "path": "//bird.jpg",
+        "size": [
+          640,
+          400
+        ]
+      },
+      {
+        "name": "Render Result",
+        "packed": false,
+        "path": "",
+        "size": [
+          0,
+          0
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "batch": "20261003-daily-v1",
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "animations": {
+    "wag": {
+      "atlas": "animations/daily/wag.png",
+      "gif": "animations/daily/wag.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing dog pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/wag",
+      "humanApproval": "pending review of this new clip"
+    },
+    "stretch": {
+      "atlas": "animations/daily/stretch.png",
+      "gif": "animations/daily/stretch.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 15,
+      "source": "frame_01.png",
+      "technique": "existing dog pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/stretch",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "sourceSHA256": {
+    "frame_01.png": "1a587e7de79299ddeec7bb0b0d091e3cbeba7e7b0424b223d94db19aed43b4b2"
+  }
+}

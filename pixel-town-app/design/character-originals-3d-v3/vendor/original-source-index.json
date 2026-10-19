@@ -1,0 +1,636 @@
+{
+  "repository": "microsoft/Microsoft-Rocketbox",
+  "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+  "files": [
+    {
+      "id": "01_hero_male",
+      "sourceModel": "male-adult-01",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_01/Export/Male_Adult_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_01/Export/Male_Adult_01.fbx"
+      ]
+    },
+    {
+      "id": "02_hero_female",
+      "sourceModel": "female-adult-01",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_01/Export/Female_Adult_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_01/Export/Female_Adult_01.fbx"
+      ]
+    },
+    {
+      "id": "03_barista_male",
+      "sourceModel": "male-adult-02",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_02/Export/Male_Adult_02.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_02/Export/Male_Adult_02.fbx"
+      ]
+    },
+    {
+      "id": "04_baker_male",
+      "sourceModel": "male-adult-03",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_03/Export/Male_Adult_03.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_03/Export/Male_Adult_03.fbx"
+      ]
+    },
+    {
+      "id": "05_carpenter_male",
+      "sourceModel": "construction-male-02",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Construction_Male_02/Export/Construction_Male_02.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Construction_Male_02/Export/Construction_Male_02.fbx"
+      ]
+    },
+    {
+      "id": "06_postman_male",
+      "sourceModel": "delivery-male-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Delivery_Male_01/Export/Delivery_Male_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Delivery_Male_01/Export/Delivery_Male_01.fbx"
+      ]
+    },
+    {
+      "id": "07_police_male",
+      "sourceModel": "police-male-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Police_Male_01/Export/Police_Male_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Police_Male_01/Export/Police_Male_01.fbx"
+      ]
+    },
+    {
+      "id": "08_doctor_male",
+      "sourceModel": "medical-male-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Medical_Male_01/Export/Medical_Male_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Medical_Male_01/Export/Medical_Male_01.fbx"
+      ]
+    },
+    {
+      "id": "09_gardener_male",
+      "sourceModel": "gardener-male-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Gardener_Male_01/Export/Gardener_Male_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Gardener_Male_01/Export/Gardener_Male_01.fbx"
+      ]
+    },
+    {
+      "id": "10_musician_male",
+      "sourceModel": "male-adult-04",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_04/Export/Male_Adult_04.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_04/Export/Male_Adult_04.fbx"
+      ]
+    },
+    {
+      "id": "11_chef_male",
+      "sourceModel": "male-adult-05",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_05/Export/Male_Adult_05.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_05/Export/Male_Adult_05.fbx"
+      ]
+    },
+    {
+      "id": "12_florist_female",
+      "sourceModel": "female-adult-02",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_02/Export/Female_Adult_02.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_02/Export/Female_Adult_02.fbx"
+      ]
+    },
+    {
+      "id": "13_pastrychef_female",
+      "sourceModel": "chef-female-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Chef_Female_01/Export/Chef_Female_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Chef_Female_01/Export/Chef_Female_01.fbx"
+      ]
+    },
+    {
+      "id": "14_teacher_female",
+      "sourceModel": "business-female-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Business_Female_01/Export/Business_Female_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Business_Female_01/Export/Business_Female_01.fbx"
+      ]
+    },
+    {
+      "id": "15_nurse_female",
+      "sourceModel": "medical-female-02",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Medical_Female_02/Export/Medical_Female_02.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Medical_Female_02/Export/Medical_Female_02.fbx"
+      ]
+    },
+    {
+      "id": "16_librarian_female",
+      "sourceModel": "business-female-02",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Business_Female_02/Export/Business_Female_02.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Business_Female_02/Export/Business_Female_02.fbx"
+      ]
+    },
+    {
+      "id": "17_cafeowner_female",
+      "sourceModel": "female-adult-03",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_03/Export/Female_Adult_03.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_03/Export/Female_Adult_03.fbx"
+      ]
+    },
+    {
+      "id": "18_artist_female",
+      "sourceModel": "female-adult-04",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_04/Export/Female_Adult_04.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_04/Export/Female_Adult_04.fbx"
+      ]
+    },
+    {
+      "id": "19_vet_female",
+      "sourceModel": "medical-female-03",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Medical_Female_03/Export/Medical_Female_03.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Medical_Female_03/Export/Medical_Female_03.fbx"
+      ]
+    },
+    {
+      "id": "20_student_female",
+      "sourceModel": "female-adult-05",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_05/Export/Female_Adult_05.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_05/Export/Female_Adult_05.fbx"
+      ]
+    },
+    {
+      "id": "21_firefighter_male",
+      "sourceModel": "fire-male-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Fire_Male_01/Export/Fire_Male_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Fire_Male_01/Export/Fire_Male_01.fbx"
+      ]
+    },
+    {
+      "id": "22_grocer_male",
+      "sourceModel": "male-adult-06",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_06/Export/Male_Adult_06.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_06/Export/Male_Adult_06.fbx"
+      ]
+    },
+    {
+      "id": "23_farmer_male",
+      "sourceModel": "wood-male-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Wood_Male_01/Export/Wood_Male_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Wood_Male_01/Export/Wood_Male_01.fbx"
+      ]
+    },
+    {
+      "id": "24_driver_male",
+      "sourceModel": "male-adult-07",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_07/Export/Male_Adult_07.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_07/Export/Male_Adult_07.fbx"
+      ]
+    },
+    {
+      "id": "25_hairdresser_male",
+      "sourceModel": "male-adult-08",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_08/Export/Male_Adult_08.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_08/Export/Male_Adult_08.fbx"
+      ]
+    },
+    {
+      "id": "26_baker_male",
+      "sourceModel": "male-adult-09",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_09/Export/Male_Adult_09.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_09/Export/Male_Adult_09.fbx"
+      ]
+    },
+    {
+      "id": "27_librarian_male",
+      "sourceModel": "business-male-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Business_Male_01/Export/Business_Male_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Business_Male_01/Export/Business_Male_01.fbx"
+      ]
+    },
+    {
+      "id": "28_mechanic_male",
+      "sourceModel": "construction-male-03",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Construction_Male_03/Export/Construction_Male_03.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Construction_Male_03/Export/Construction_Male_03.fbx"
+      ]
+    },
+    {
+      "id": "29_innkeeper_male",
+      "sourceModel": "business-male-02",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Business_Male_02/Export/Business_Male_02.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Business_Male_02/Export/Business_Male_02.fbx"
+      ]
+    },
+    {
+      "id": "30_florist_male",
+      "sourceModel": "male-adult-10",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Male_Adult_10/Export/Male_Adult_10.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_10/Export/Male_Adult_10.fbx"
+      ]
+    },
+    {
+      "id": "31_firefighter_female",
+      "sourceModel": "fire-female-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Fire_Female_01/Export/Fire_Female_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Fire_Female_01/Export/Fire_Female_01.fbx"
+      ]
+    },
+    {
+      "id": "32_grocer_female",
+      "sourceModel": "female-adult-17",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_17/Export/Female_Adult_17.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_17/Export/Female_Adult_17.fbx"
+      ]
+    },
+    {
+      "id": "33_farmer_female",
+      "sourceModel": "female-adult-07",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_07/Export/Female_Adult_07.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_07/Export/Female_Adult_07.fbx"
+      ]
+    },
+    {
+      "id": "34_driver_female",
+      "sourceModel": "female-adult-08",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_08/Export/Female_Adult_08.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_08/Export/Female_Adult_08.fbx"
+      ]
+    },
+    {
+      "id": "35_hairdresser_female",
+      "sourceModel": "female-adult-09",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_09/Export/Female_Adult_09.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_09/Export/Female_Adult_09.fbx"
+      ]
+    },
+    {
+      "id": "36_barista_female",
+      "sourceModel": "business-female-03",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Business_Female_03/Export/Business_Female_03.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Business_Female_03/Export/Business_Female_03.fbx"
+      ]
+    },
+    {
+      "id": "37_carpenter_female",
+      "sourceModel": "construction-female-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Construction_Female_01/Export/Construction_Female_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Construction_Female_01/Export/Construction_Female_01.fbx"
+      ]
+    },
+    {
+      "id": "38_postal_female",
+      "sourceModel": "female-adult-11",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_11/Export/Female_Adult_11.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_11/Export/Female_Adult_11.fbx"
+      ]
+    },
+    {
+      "id": "39_police_female",
+      "sourceModel": "security-female-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Security_Female_01/Export/Security_Female_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Security_Female_01/Export/Security_Female_01.fbx"
+      ]
+    },
+    {
+      "id": "40_doctor_female",
+      "sourceModel": "medical-female-01",
+      "originalPaths": [
+        "Assets/Avatars/Professions/Medical_Female_01/Export/Medical_Female_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Professions/Medical_Female_01/Export/Medical_Female_01.fbx"
+      ]
+    },
+    {
+      "id": "hai-qin-yan",
+      "sourceModel": "female-adult-12",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_12/Export/Female_Adult_12.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_12/Export/Female_Adult_12.fbx"
+      ]
+    },
+    {
+      "id": "kanna",
+      "sourceModel": "female-child-01",
+      "originalPaths": [
+        "Assets/Avatars/Children/Female_Child_01/Export/Female_Child_01.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Children/Female_Child_01/Export/Female_Child_01.fbx"
+      ]
+    },
+    {
+      "id": "rui",
+      "sourceModel": "female-adult-13",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_13/Export/Female_Adult_13.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_13/Export/Female_Adult_13.fbx"
+      ]
+    },
+    {
+      "id": "xin",
+      "sourceModel": "female-adult-14",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_14/Export/Female_Adult_14.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_14/Export/Female_Adult_14.fbx"
+      ]
+    },
+    {
+      "id": "xin-fragrance",
+      "sourceModel": "female-adult-15",
+      "originalPaths": [
+        "Assets/Avatars/Adults/Female_Adult_15/Export/Female_Adult_15.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_15/Export/Female_Adult_15.fbx"
+      ]
+    },
+    {
+      "motion": "f_idle_neutral_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_idle_neutral_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "f_idle_look_around_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/f_idle_look_around_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/f_idle_look_around_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_idle_look_around_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/m_idle_look_around_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/m_idle_look_around_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "f_gestic_talk_neutral_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_neutral_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_neutral_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_gestic_talk_neutral_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_neutral_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_neutral_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "f_gestic_thoughtful_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/f_gestic_thoughtful_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/f_gestic_thoughtful_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_gestic_thoughtful_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/m_gestic_thoughtful_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/m_gestic_thoughtful_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "f_wave_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/f_wave_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/f_wave_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_wave_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/m_wave_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/m_wave_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "f_cheer_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/f_cheer_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/f_cheer_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_cheer_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/m_cheer_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/m_cheer_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "f_claphands_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/f_claphands_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/f_claphands_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_claphands_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/m_claphands_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/m_claphands_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "f_dancing_neutral",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/f_dancing_neutral.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/f_dancing_neutral.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_dancing_neutral",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_static/m_dancing_neutral.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/m_dancing_neutral.max.fbx"
+      ]
+    },
+    {
+      "motion": "f_walk_neutral_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_walk_neutral_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "f_run_neutral_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_xy/f_run_neutral_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/f_run_neutral_01.max.fbx"
+      ]
+    },
+    {
+      "motion": "m_run_neutral_01",
+      "originalPaths": [
+        "Assets/Animations/all_animations_max_motextr_xy/m_run_neutral_01.max.fbx"
+      ],
+      "urls": [
+        "https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/m_run_neutral_01.max.fbx"
+      ]
+    }
+  ]
+}

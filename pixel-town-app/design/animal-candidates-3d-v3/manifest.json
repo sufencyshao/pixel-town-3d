@@ -1,0 +1,45 @@
+[
+  {
+    "id": "rabbit",
+    "label": "Kelgar兔子",
+    "author": "CDmir / TinyWorlds",
+    "kind": "动物候选",
+    "glb": "assets/rabbit.glb",
+    "official": "https://opengameart.org/content/rabbit-0",
+    "license": "CC0-1.0",
+    "note": "为Kelgar制作的完整兔子，原骨架和原动作。仅转换旧Blender格式、用原贴图连接PBR材质，没有重新制作外形或动画。",
+    "animations": [
+      {
+        "name": "Basic"
+      },
+      {
+        "name": "Dead"
+      },
+      {
+        "name": "Dying.000"
+      },
+      {
+        "name": "Dying.001"
+      },
+      {
+        "name": "Guarding"
+      },
+      {
+        "name": "Jump"
+      },
+      {
+        "name": "Running"
+      },
+      {
+        "name": "Sitting.000"
+      },
+      {
+        "name": "Sitting.001"
+      }
+    ],
+    "skinCount": 1,
+    "sha256": "7361b5580403d28551dd9f0cd67790b384d6f586c1d406ee90aadfd86d0b561b",
+    "front": "+Z",
+    "defaultAction": "Guarding"
+  }
+]

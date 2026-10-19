@@ -1,0 +1,593 @@
+{
+  "id": "02_hero_female",
+  "source": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/assets/02_hero_female/character.blend",
+  "sourceSha256": "9f4eca1fefb964b362046bf985200969f5b04aafe441b3216bdba2efc7e545cb",
+  "meshes": [
+    {
+      "name": "Eyebrows",
+      "meshDataName": "Eyebrows",
+      "vertices": 912,
+      "polygons": 1480,
+      "boundaryEdges": 328,
+      "nonManifoldEdges": 328,
+      "materials": [
+        "Brows"
+      ],
+      "worldBounds": [
+        [
+          -0.062331028282642365,
+          -0.09152062982320786,
+          1.5081171989440918
+        ],
+        [
+          0.062331028282642365,
+          -0.05125037580728531,
+          1.5357393026351929
+        ]
+      ]
+    },
+    {
+      "name": "Eyes",
+      "meshDataName": "Eyes",
+      "vertices": 556,
+      "polygons": 768,
+      "boundaryEdges": 316,
+      "nonManifoldEdges": 316,
+      "materials": [
+        "Eyes"
+      ],
+      "worldBounds": [
+        [
+          -0.05051286518573761,
+          -0.07528910040855408,
+          1.490351676940918
+        ],
+        [
+          0.05051286518573761,
+          -0.04288347065448761,
+          1.5240275859832764
+        ]
+      ]
+    },
+    {
+      "name": "Skin",
+      "meshDataName": "Superhero_Female",
+      "vertices": 4668,
+      "polygons": 7868,
+      "boundaryEdges": 1468,
+      "nonManifoldEdges": 1468,
+      "materials": [
+        "Skin"
+      ],
+      "worldBounds": [
+        [
+          -0.7558332085609436,
+          -0.11186466366052628,
+          0.09143132716417313
+        ],
+        [
+          0.755833089351654,
+          0.14434659481048584,
+          1.6200000047683716
+        ]
+      ]
+    },
+    {
+      "name": "Top_dress",
+      "meshDataName": "Superhero_Female.001",
+      "vertices": 2974,
+      "polygons": 5512,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 4,
+      "materials": [
+        "Garment dress"
+      ],
+      "worldBounds": [
+        [
+          -0.3507785499095917,
+          -0.1260846108198166,
+          0.8333102464675903
+        ],
+        [
+          0.35078373551368713,
+          0.15221668779850006,
+          1.3482325077056885
+        ]
+      ]
+    },
+    {
+      "name": "Dress_Skirt",
+      "meshDataName": "Dress_Skirt",
+      "vertices": 384,
+      "polygons": 384,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Dress skirt"
+      ],
+      "worldBounds": [
+        [
+          -0.32774922251701355,
+          -0.1633433997631073,
+          0.46261361241340637
+        ],
+        [
+          0.32774922251701355,
+          0.23334339261054993,
+          0.8875603079795837
+        ]
+      ]
+    },
+    {
+      "name": "Dress_Hem",
+      "meshDataName": "Dress_Hem",
+      "vertices": 192,
+      "polygons": 192,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Hem"
+      ],
+      "worldBounds": [
+        [
+          -0.3066484332084656,
+          -0.1506388634443283,
+          0.4756976366043091
+        ],
+        [
+          0.3066484332084656,
+          0.22063885629177094,
+          0.48752403259277344
+        ]
+      ]
+    },
+    {
+      "name": "Dress_Hem.001",
+      "meshDataName": "Dress_Hem.001",
+      "vertices": 192,
+      "polygons": 192,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Hem.001"
+      ],
+      "worldBounds": [
+        [
+          -0.25116172432899475,
+          -0.11858198791742325,
+          0.6600369215011597
+        ],
+        [
+          0.25116172432899475,
+          0.18858198821544647,
+          0.671863317489624
+        ]
+      ]
+    },
+    {
+      "name": "Socks",
+      "meshDataName": "Superhero_Female.002",
+      "vertices": 476,
+      "polygons": 746,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Socks"
+      ],
+      "worldBounds": [
+        [
+          -0.1554504632949829,
+          0.02085549756884575,
+          0.07530981302261353
+        ],
+        [
+          0.15545056760311127,
+          0.12077663093805313,
+          0.18014995753765106
+        ]
+      ]
+    },
+    {
+      "name": "Shoe_l_Sole",
+      "meshDataName": "Shoe_l_Sole",
+      "vertices": 552,
+      "polygons": 116,
+      "boundaryEdges": 232,
+      "nonManifoldEdges": 232,
+      "materials": [
+        "Shoe Sole"
+      ],
+      "worldBounds": [
+        [
+          0.0458199717104435,
+          -0.13440625369548798,
+          0.007957386784255505
+        ],
+        [
+          0.16955330967903137,
+          0.08712499588727951,
+          0.08860079944133759
+        ]
+      ]
+    },
+    {
+      "name": "Shoe_l_Upper",
+      "meshDataName": "Shoe_l_Upper",
+      "vertices": 552,
+      "polygons": 160,
+      "boundaryEdges": 320,
+      "nonManifoldEdges": 320,
+      "materials": [
+        "Shoe Upper"
+      ],
+      "worldBounds": [
+        [
+          0.0458199717104435,
+          -0.13440625369548798,
+          0.007957386784255505
+        ],
+        [
+          0.16955330967903137,
+          0.08712499588727951,
+          0.08860079944133759
+        ]
+      ]
+    },
+    {
+      "name": "MaryJane strap",
+      "meshDataName": "立方体",
+      "vertices": 56,
+      "polygons": 54,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Shoe strap"
+      ],
+      "worldBounds": [
+        [
+          0.047269970178604126,
+          -0.019731251522898674,
+          0.07360582798719406
+        ],
+        [
+          0.16810330748558044,
+          0.0028562506195157766,
+          0.08943448960781097
+        ]
+      ]
+    },
+    {
+      "name": "Shoe_r_Sole",
+      "meshDataName": "Shoe_r_Sole",
+      "vertices": 552,
+      "polygons": 116,
+      "boundaryEdges": 232,
+      "nonManifoldEdges": 232,
+      "materials": [
+        "Shoe Sole.001"
+      ],
+      "worldBounds": [
+        [
+          -0.16955330967903137,
+          -0.13440625369548798,
+          0.007957386784255505
+        ],
+        [
+          -0.0458199717104435,
+          0.08712499588727951,
+          0.08860079944133759
+        ]
+      ]
+    },
+    {
+      "name": "Shoe_r_Upper",
+      "meshDataName": "Shoe_r_Upper",
+      "vertices": 552,
+      "polygons": 160,
+      "boundaryEdges": 320,
+      "nonManifoldEdges": 320,
+      "materials": [
+        "Shoe Upper.001"
+      ],
+      "worldBounds": [
+        [
+          -0.16955330967903137,
+          -0.13440625369548798,
+          0.007957386784255505
+        ],
+        [
+          -0.0458199717104435,
+          0.08712499588727951,
+          0.08860079944133759
+        ]
+      ]
+    },
+    {
+      "name": "MaryJane strap.001",
+      "meshDataName": "立方体.001",
+      "vertices": 56,
+      "polygons": 54,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Shoe strap.001"
+      ],
+      "worldBounds": [
+        [
+          -0.16810330748558044,
+          -0.019731251522898674,
+          0.07360582798719406
+        ],
+        [
+          -0.047269970178604126,
+          0.0028562506195157766,
+          0.08943448960781097
+        ]
+      ]
+    },
+    {
+      "name": "Eyelids",
+      "meshDataName": "Eyes.001",
+      "vertices": 556,
+      "polygons": 768,
+      "boundaryEdges": 316,
+      "nonManifoldEdges": 316,
+      "materials": [
+        "Skin"
+      ],
+      "worldBounds": [
+        [
+          -0.05051286518573761,
+          -0.07628870010375977,
+          1.5248736143112183
+        ],
+        [
+          0.05051286518573761,
+          -0.07628870010375977,
+          1.525223970413208
+        ]
+      ]
+    },
+    {
+      "name": "Continuous scalp cap",
+      "meshDataName": "Continuous scalp cap mesh",
+      "vertices": 558,
+      "polygons": 1048,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Hair bob"
+      ],
+      "worldBounds": [
+        [
+          -0.07916197180747986,
+          -0.08981948345899582,
+          1.46832275390625
+        ],
+        [
+          0.07916197180747986,
+          0.11718487739562988,
+          1.6243960857391357
+        ]
+      ]
+    },
+    {
+      "name": "Quaternius Long",
+      "meshDataName": "Quaternius Long mesh",
+      "vertices": 3080,
+      "polygons": 2906,
+      "boundaryEdges": 3060,
+      "nonManifoldEdges": 3060,
+      "materials": [
+        "Hair bob"
+      ],
+      "worldBounds": [
+        [
+          -0.08607577532529831,
+          -0.09800277650356293,
+          1.4279170036315918
+        ],
+        [
+          0.08607577532529831,
+          0.15007057785987854,
+          1.6277742385864258
+        ]
+      ]
+    },
+    {
+      "name": "Soft fringe lock",
+      "meshDataName": "Soft fringe lock mesh",
+      "vertices": 48,
+      "polygons": 38,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Hair bob"
+      ],
+      "worldBounds": [
+        [
+          -0.0663234069943428,
+          -0.0747370570898056,
+          1.5649199485778809
+        ],
+        [
+          -0.03497922047972679,
+          -0.02188940905034542,
+          1.6122615337371826
+        ]
+      ]
+    },
+    {
+      "name": "Soft fringe lock.001",
+      "meshDataName": "Soft fringe lock mesh.001",
+      "vertices": 48,
+      "polygons": 38,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Hair bob"
+      ],
+      "worldBounds": [
+        [
+          -0.04240494221448898,
+          -0.0833137258887291,
+          1.5574522018432617
+        ],
+        [
+          -0.01116122305393219,
+          -0.021338604390621185,
+          1.6218541860580444
+        ]
+      ]
+    },
+    {
+      "name": "Soft fringe lock.002",
+      "meshDataName": "Soft fringe lock mesh.002",
+      "vertices": 48,
+      "polygons": 38,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Hair bob"
+      ],
+      "worldBounds": [
+        [
+          -0.014149336144328117,
+          -0.0747370570898056,
+          1.572139024734497
+        ],
+        [
+          0.01709243468940258,
+          -0.02122338116168976,
+          1.6250487565994263
+        ]
+      ]
+    },
+    {
+      "name": "Soft fringe lock.003",
+      "meshDataName": "Soft fringe lock mesh.003",
+      "vertices": 48,
+      "polygons": 38,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Hair bob"
+      ],
+      "worldBounds": [
+        [
+          0.00962519459426403,
+          -0.08294669538736343,
+          1.5649175643920898
+        ],
+        [
+          0.04096934199333191,
+          -0.021442502737045288,
+          1.6218516826629639
+        ]
+      ]
+    },
+    {
+      "name": "Soft fringe lock.004",
+      "meshDataName": "Soft fringe lock mesh.004",
+      "vertices": 48,
+      "polygons": 38,
+      "boundaryEdges": 0,
+      "nonManifoldEdges": 0,
+      "materials": [
+        "Hair bob"
+      ],
+      "worldBounds": [
+        [
+          0.033585578203201294,
+          -0.08311709016561508,
+          1.5574533939361572
+        ],
+        [
+          0.06483128666877747,
+          -0.021728727966547012,
+          1.6122633218765259
+        ]
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "action": "Idle",
+      "phase": 0,
+      "frame": 0.0,
+      "view": "front",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Idle-00-front.png"
+    },
+    {
+      "action": "Idle",
+      "phase": 0,
+      "frame": 0.0,
+      "view": "quarter",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Idle-00-quarter.png"
+    },
+    {
+      "action": "Idle",
+      "phase": 0,
+      "frame": 0.0,
+      "view": "side",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Idle-00-side.png"
+    },
+    {
+      "action": "Idle",
+      "phase": 0,
+      "frame": 0.0,
+      "view": "face",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Idle-00-face.png"
+    },
+    {
+      "action": "Walk",
+      "phase": 0.28,
+      "frame": 7.280000000000001,
+      "view": "front",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Walk-28-front.png"
+    },
+    {
+      "action": "Walk",
+      "phase": 0.28,
+      "frame": 7.280000000000001,
+      "view": "side",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Walk-28-side.png"
+    },
+    {
+      "action": "Sit",
+      "phase": 0.5,
+      "frame": 20.0,
+      "view": "front",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Sit-50-front.png"
+    },
+    {
+      "action": "Sit",
+      "phase": 0.5,
+      "frame": 20.0,
+      "view": "side",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Sit-50-side.png"
+    },
+    {
+      "action": "Wave",
+      "phase": 0.57,
+      "frame": 33.059999999999995,
+      "view": "quarter",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Wave-57-quarter.png"
+    },
+    {
+      "action": "Wave",
+      "phase": 0.57,
+      "frame": 33.059999999999995,
+      "view": "side",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Wave-57-side.png"
+    },
+    {
+      "action": "Wave",
+      "phase": 0.85,
+      "frame": 49.3,
+      "view": "front",
+      "path": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/qa-identity/02_hero_female/Wave-85-front.png"
+    }
+  ],
+  "sourceHashUnchanged": true
+}

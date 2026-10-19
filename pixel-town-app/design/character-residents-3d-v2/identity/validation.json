@@ -1,0 +1,79 @@
+{
+  "checks": [
+    {
+      "name": "45人完整ID顺序",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "40常规+5伙伴",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "45组不同身高",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "45组不同体型参数",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "各角色外观字段完整",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "HEX颜色格式",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "观察与推断分别记录",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "全部原帧只读摘要一致",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "roster摘要一致",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "45个主参考+8个背面参考",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "阿澈批准外观覆盖可追溯",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "伙伴幻想要素",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "伙伴未强制成年体型",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "逐人主图已人工视觉审阅",
+      "passed": true,
+      "details": "3张联系表共45人均经view_image；8位发型补充背面经view_image。"
+    }
+  ],
+  "passed": 14,
+  "total": 14,
+  "limitations": [
+    "该检查只证明身份参数输入完整与源图摘要一致，不代表3D模型、动作、接入或用户视觉签收完成。"
+  ]
+}

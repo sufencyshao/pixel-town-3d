@@ -1,0 +1,26 @@
+{
+  "role": "36_barista_female",
+  "revision": "20261003-wendou-joint-v1",
+  "framesChecked": 25,
+  "uniquePoses": 7,
+  "neckAndCollarExactPhases": 25,
+  "independentGarmentSamples": 4,
+  "independentGarmentPixels": 53,
+  "neckTipXY": [
+    140,
+    137
+  ],
+  "originalNeckTipRGBA": [
+    126,
+    81,
+    51,
+    255
+  ],
+  "neutralExactPhases": 5,
+  "preservedFileHashes": 6383,
+  "separatelyProtectedDailyManifest": true,
+  "frozenBackupFiles": 41,
+  "changedAssetAndMetadataFiles": 36,
+  "errors": [],
+  "userApproval": "pending for this corrective revision"
+}

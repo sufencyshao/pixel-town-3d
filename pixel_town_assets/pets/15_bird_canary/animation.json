@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": [
+    0.5,
+    0.90625
+  ],
+  "animations": {
+    "idle": {
+      "atlas": "animations/idle.png",
+      "gif": "animations/idle.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk": {
+      "atlas": "animations/walk.png",
+      "gif": "animations/walk.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_right": {
+      "atlas": "animations/walk_right.png",
+      "gif": "animations/walk_right.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_left": {
+      "atlas": "animations/walk_left.png",
+      "gif": "animations/walk_left.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_down": {
+      "atlas": "animations/walk_down.png",
+      "gif": "animations/walk_down.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_up": {
+      "atlas": "animations/walk_up.png",
+      "gif": "animations/walk_up.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "fly": {
+      "atlas": "animations/fly.png",
+      "gif": "animations/fly.gif",
+      "frames": 16,
+      "frameMs": 60,
+      "loop": true
+    },
+    "eat": {
+      "atlas": "animations/eat.png",
+      "gif": "animations/eat.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "groom": {
+      "atlas": "animations/groom.png",
+      "gif": "animations/groom.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "rest": {
+      "atlas": "animations/rest.png",
+      "gif": "animations/rest.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "observe": {
+      "atlas": "animations/observe.png",
+      "gif": "animations/observe.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "flee": {
+      "atlas": "animations/flee.png",
+      "gif": "animations/flee.gif",
+      "frames": 16,
+      "frameMs": 60,
+      "loop": true
+    },
+    "peck": {
+      "atlas": "animations/daily/peck.png",
+      "gif": "animations/daily/peck.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 15,
+      "source": "frame_01.png",
+      "technique": "existing bird pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/peck",
+      "humanApproval": "pending review of this new clip"
+    },
+    "hop": {
+      "atlas": "animations/daily/hop.png",
+      "gif": "animations/daily/hop.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing bird pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/hop",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "technique": "anatomical pixel rig; local phase cycles; original source atlas preserved",
+  "qualityNotes": [
+    "2D side-view animation; up/down movement shares side-view locomotion",
+    "Rest uses crouch approximation, not a separately painted sleeping pose"
+  ],
+  "sourceSHA256": {
+    "frame_01.png": "88e2ad948091cdde8868a00604ae29837f9be652bb3d1da62d9945c832ce95aa"
+  },
+  "dailyActionExpansion": {
+    "version": "20261003-daily-v1",
+    "manifest": "animations/daily/manifest.json",
+    "actions": [
+      "peck",
+      "hop"
+    ],
+    "humanApproval": "pending new-action review"
+  }
+}

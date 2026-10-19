@@ -1,0 +1,13 @@
+{
+  "role": "36_barista_female",
+  "revision": "20261003-wendou-joint-v1",
+  "changedFiles": 36,
+  "protectedFileHashes": 6383,
+  "backupFiles": 41,
+  "headErrors": 0,
+  "dailyErrors": 0,
+  "fullErrors": 0,
+  "fullWarnings": 137,
+  "userApproval": "pending",
+  "report": "validation/wendou-joint/completion.md"
+}

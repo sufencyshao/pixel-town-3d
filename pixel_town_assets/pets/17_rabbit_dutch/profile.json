@@ -1,0 +1,61 @@
+{
+  "id": "17_rabbit_dutch",
+  "sprite": "17_rabbit_dutch",
+  "assetFolder": "pets/17_rabbit_dutch",
+  "kind": "animal",
+  "name": "黑豆",
+  "sex": "未指定",
+  "role": "兔",
+  "animal": {
+    "species": "兔",
+    "breed": "荷兰兔",
+    "coat": "黑白鞍形花色",
+    "bodySize": "小",
+    "scale": 0.39,
+    "rig": "rabbit",
+    "senses": "贴近地面视点，对遮蔽处、突发声响和可食草叶作反应，优先保留逃离路线。",
+    "behavior": "竖耳观察、短跳、嗅闻、理毛、躲藏",
+    "allowedActions": [
+      "idle",
+      "walk",
+      "run",
+      "eat",
+      "drink",
+      "groom",
+      "rest",
+      "observe",
+      "sniff",
+      "flee",
+      "hop",
+      "chew"
+    ],
+    "habitat": "农场围栏",
+    "locomotion": "四足运动；禁止双足直立",
+    "speedFactor": 0.8,
+    "nonAnthropomorphic": true
+  },
+  "persona": {
+    "personality": "谨慎，对声响警觉",
+    "background": "在农场围栏生活的荷兰兔个体",
+    "interests": "竖耳观察、短跳、嗅闻、理毛、躲藏",
+    "speech": "仅自然叫声与姿态；不使用人类语言"
+  },
+  "presets": [
+    {
+      "id": "familiar",
+      "label": "熟悉环境",
+      "personality": "谨慎，对声响警觉",
+      "background": "已熟悉农场围栏的气味与安全位置",
+      "interests": "可接近食物、同类线索与安全藏身处",
+      "speech": "仅物种自然声音与身体姿态"
+    },
+    {
+      "id": "cautious",
+      "label": "刚到新环境",
+      "personality": "警觉，接近刺激前先观察，允许躲藏与退让",
+      "background": "刚进入农场围栏，逐渐建立安全感",
+      "interests": "熟悉照护者气味与退路",
+      "speech": "仅物种自然声音与身体姿态"
+    }
+  ]
+}

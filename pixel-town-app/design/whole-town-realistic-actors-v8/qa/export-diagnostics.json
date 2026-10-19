@@ -1,0 +1,9 @@
+{
+  "bytes": 417148036,
+  "errors": [],
+  "warnings": [
+    "THREE.GLTFExporter: Creating normalized normal attribute from the non-normalized one.",
+    "THREE.GLTFExporter: Merged metalnessMap and roughnessMap textures."
+  ],
+  "warningCount": 145
+}

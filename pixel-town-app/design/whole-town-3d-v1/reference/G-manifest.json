@@ -1,0 +1,68 @@
+{
+  "title": "G 区 · 田园与温室",
+  "plot": [
+    75,
+    55
+  ],
+  "greenhouse": [
+    25.5,
+    13
+  ],
+  "toolHousePlot": [
+    18.25,
+    12
+  ],
+  "rotationPlots": 4,
+  "fruitTrees": 9,
+  "greenhouseBenches": 6,
+  "meshObjects": 2547,
+  "triangles": 96812,
+  "degenerateTriangles": 0,
+  "sha256": "f4ada1fe8319b85a7767590555d0c50cdbd55887c6999dcaa7a7720e710801d8",
+  "blender": "5.2.2 LTS",
+  "status": "design-review",
+  "units": "metres",
+  "sourceAxes": "Z up, north +Y",
+  "glbAxes": "Y up, north -Z",
+  "groups": [
+    "Ground",
+    "Paths",
+    "Borders",
+    "Greenhouse_Floor",
+    "Greenhouse_Shell",
+    "Greenhouse_Roof",
+    "Greenhouse_Interior",
+    "Wayfinding",
+    "Fields",
+    "Orchard",
+    "Tool_Floor",
+    "Tool_Shell",
+    "Tool_Front",
+    "Tool_Roof",
+    "Tool_Interior",
+    "Utilities",
+    "Rest"
+  ],
+  "portals": {
+    "north": [
+      -3,
+      27.5
+    ],
+    "east": [
+      37.5,
+      0
+    ],
+    "south": [
+      -3,
+      -27.5
+    ],
+    "serviceWest": [
+      -37.5,
+      -25
+    ],
+    "serviceEast": [
+      37.5,
+      -25
+    ]
+  }
+}

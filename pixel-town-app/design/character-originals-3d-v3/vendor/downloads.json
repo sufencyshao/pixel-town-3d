@@ -1,0 +1,1351 @@
+[
+  {
+    "file": "assets/chef-female-01.glb",
+    "url": "https://models.codelove.in/models/chef-female-01.glb",
+    "bytes": 527644,
+    "sha256": "3cab3777e96523fbf3c87fc500653db465bb75ce2458bc29784db09273d3c91c",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-01.glb",
+    "url": "https://models.codelove.in/models/female-adult-01.glb",
+    "bytes": 1028404,
+    "sha256": "da28ed2fa031b5952c54712cb6dcef8ff42340d63bf4a3dfeb0638547b5fa822",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/fire-female-01.glb",
+    "url": "https://models.codelove.in/models/fire-female-01.glb",
+    "bytes": 1366224,
+    "sha256": "d101555b1f24cfc9417279be8fe07c3cec03eb46bcf5fa80a0d1f42a6651327d",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/gardener-male-01.glb",
+    "url": "https://models.codelove.in/models/gardener-male-01.glb",
+    "bytes": 981420,
+    "sha256": "cfbee9a57c88f7c8f9a4e1ba5cdca47d52c451ba6a623f1ff17905e5d6c43c96",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/male-adult-01.glb",
+    "url": "https://models.codelove.in/models/male-adult-01.glb",
+    "bytes": 930664,
+    "sha256": "95f84f6a655b341fee28975daf55563d2c5c47699330ecfad5c719bbbd1eb712",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/medical-female-01.glb",
+    "url": "https://models.codelove.in/models/medical-female-01.glb",
+    "bytes": 810156,
+    "sha256": "64b9d4d219155632895e0a4f574577ed8c55c9d0fd81ca9b63f4eea89c3dab0f",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/medical-male-01.glb",
+    "url": "https://models.codelove.in/models/medical-male-01.glb",
+    "bytes": 896848,
+    "sha256": "75aab54d20ef72769a220dae27741b62b961be0de091196eb2e93a6b157cab19",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/police-male-01.glb",
+    "url": "https://models.codelove.in/models/police-male-01.glb",
+    "bytes": 983888,
+    "sha256": "906d223374c3d05cab38a05366f338403af3dc7a4146aef2d2ff841b6595407e",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "animations/f_idle_neutral_01.glb",
+    "url": "https://models.codelove.in/animations/f_idle_neutral_01.glb",
+    "bytes": 110432,
+    "sha256": "29968b6b8090c3d74a88369c93a200489213efdb2891c7e139c92d9c021c7f1c",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_idle_neutral_01.glb",
+    "url": "https://models.codelove.in/animations/m_idle_neutral_01.glb",
+    "bytes": 113152,
+    "sha256": "3ecbdace7b6c1b904a793f09b422286c70c357a49991ad0b09d76d0b92156a36",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/f_idle_look_around_01.glb",
+    "url": "https://models.codelove.in/animations/f_idle_look_around_01.glb",
+    "bytes": 89792,
+    "sha256": "25be2283ace6f97e179b2928071006a31bc4ce296dde4e61b0720da62d740b38",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_idle_look_around_01.glb",
+    "url": "https://models.codelove.in/animations/m_idle_look_around_01.glb",
+    "bytes": 98180,
+    "sha256": "d8e672502f0ba05ea2ae69416b1da5148b943b089ed20e92dc3595d2ea6c922f",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/f_gestic_talk_neutral_01.glb",
+    "url": "https://models.codelove.in/animations/f_gestic_talk_neutral_01.glb",
+    "bytes": 454908,
+    "sha256": "19ba67291fa1bd88d4e883ad118f5b5ea5b70b36238289dd15a4f9fedcfc8580",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_gestic_talk_neutral_01.glb",
+    "url": "https://models.codelove.in/animations/m_gestic_talk_neutral_01.glb",
+    "bytes": 549084,
+    "sha256": "5313519611c37bef812d9f035a483363a19824cfb576ed3a097a40d29eae942d",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/f_gestic_thoughtful_01.glb",
+    "url": "https://models.codelove.in/animations/f_gestic_thoughtful_01.glb",
+    "bytes": 165912,
+    "sha256": "599011d998d348faee38093589e3b846ce06bb768341a4751644191df55a93ba",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_gestic_thoughtful_01.glb",
+    "url": "https://models.codelove.in/animations/m_gestic_thoughtful_01.glb",
+    "bytes": 173144,
+    "sha256": "7feb7e29cc5b3cfc29216dbf84dc89602f8f7391a7e01e04c3adb6504b7eff53",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/f_wave_01.glb",
+    "url": "https://models.codelove.in/animations/f_wave_01.glb",
+    "bytes": 108096,
+    "sha256": "cf33b231f4c4a245e2f1ad45efef745d8538aac7c5b4c8cf16af81ed2df89475",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_wave_01.glb",
+    "url": "https://models.codelove.in/animations/m_wave_01.glb",
+    "bytes": 98788,
+    "sha256": "8c4c0eff5178a2872b7fe7fbc2b25dfe243de0a5bac90c62c19064a871ff9dd6",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/f_cheer_01.glb",
+    "url": "https://models.codelove.in/animations/f_cheer_01.glb",
+    "bytes": 346924,
+    "sha256": "36f4cd777e76df385d54e32d8746adaca146024e1ac47e70e2830809aaff86a5",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_cheer_01.glb",
+    "url": "https://models.codelove.in/animations/m_cheer_01.glb",
+    "bytes": 496912,
+    "sha256": "3e6b7482218d2b5411770d8e3158e2085a3969143fd6ff36794eac15ea65d5f1",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/f_claphands_01.glb",
+    "url": "https://models.codelove.in/animations/f_claphands_01.glb",
+    "bytes": 298420,
+    "sha256": "dde8e2cea18128340fa84724a78a6ed9aa4f42501e33912777cbd90c7cb126a7",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_claphands_01.glb",
+    "url": "https://models.codelove.in/animations/m_claphands_01.glb",
+    "bytes": 187924,
+    "sha256": "b725e5a8c5602e1f9c91bbc6bf75201e02f20101c5619b33da80b7c3b33accff",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/f_dancing_neutral.glb",
+    "url": "https://models.codelove.in/animations/f_dancing_neutral.glb",
+    "bytes": 401732,
+    "sha256": "4b05b8d31f7dd30ca525bc4d0d54c6a037cd6b7f608980b7d771880450167c2d",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_dancing_neutral.glb",
+    "url": "https://models.codelove.in/animations/m_dancing_neutral.glb",
+    "bytes": 384456,
+    "sha256": "82a4f36b54987a095418f203b642735de4d40d9ef8431023a1859480038319b7",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/f_walk_neutral_01.glb",
+    "url": "https://models.codelove.in/animations/f_walk_neutral_01.glb",
+    "bytes": 46748,
+    "sha256": "a0a7f473d218c67e357994364891d63a0f7dcf4aaacc865be89b7343ca72f03e",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_walk_neutral_01.glb",
+    "url": "https://models.codelove.in/animations/m_walk_neutral_01.glb",
+    "bytes": 44344,
+    "sha256": "5e000da6df7e9c6dfa9300b1224b93ef4d7b03800fedccd4d83e5efab2597344",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/f_run_neutral_01.glb",
+    "url": "https://models.codelove.in/animations/f_run_neutral_01.glb",
+    "bytes": 56444,
+    "sha256": "ac2e21b83d0158142deb89af59c67cc55b1f5882ca16e820f7d303efc2c7d3b1",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "animations/m_run_neutral_01.glb",
+    "url": "https://models.codelove.in/animations/m_run_neutral_01.glb",
+    "bytes": 54548,
+    "sha256": "35759e3225f62bcf879cb115eafcbbd815ccdf4e776196a651abf5b097d1637f",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [
+      "Take 001"
+    ],
+    "skins": []
+  },
+  {
+    "file": "assets/male-adult-02.glb",
+    "url": "https://models.codelove.in/models/male-adult-02.glb",
+    "bytes": 866176,
+    "sha256": "a9a16e1c143faf2c97e41fb8ad300a47ac3f566c79e2bdf635350195a7c56d1a",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/male-adult-03.glb",
+    "url": "https://models.codelove.in/models/male-adult-03.glb",
+    "bytes": 1187648,
+    "sha256": "84c7ebde1c310505016be0fea2063ecf7a9e20f74bf499d4089f774ba0638190",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/construction-male-02.glb",
+    "url": "https://models.codelove.in/models/construction-male-02.glb",
+    "bytes": 625736,
+    "sha256": "4c8fad3837a51ff05e17949d32366e9db493911bf978f6d5e7e9aac55ba4f291",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/delivery-male-01.glb",
+    "url": "https://models.codelove.in/models/delivery-male-01.glb",
+    "bytes": 800404,
+    "sha256": "636babbfc8ef50a2dc00f009c389ed0f5bc337502362672f9f7c5edc98d9d2a2",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      81
+    ]
+  },
+  {
+    "file": "assets/male-adult-04.glb",
+    "url": "https://models.codelove.in/models/male-adult-04.glb",
+    "bytes": 1071828,
+    "sha256": "94c6a6476babd3b2a7906cec0898a0ee7b9f846640efe032ee91df092db296fe",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/male-adult-05.glb",
+    "url": "https://models.codelove.in/models/male-adult-05.glb",
+    "bytes": 1111892,
+    "sha256": "f36ac8987cec9a64262215f1e7f62cc6f863bde4ece39771058e2e9fd36c3f56",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-02.glb",
+    "url": "https://models.codelove.in/models/female-adult-02.glb",
+    "bytes": 1034908,
+    "sha256": "e8c032b087a40e1cb528169d2b17a77c46a63b999a677279d9eb69c8910a3e0b",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/business-female-01.glb",
+    "url": "https://models.codelove.in/models/business-female-01.glb",
+    "bytes": 924340,
+    "sha256": "6703558b32fb365d75445ac1ac47e3899de0a0c05ec6446650d27d12b5b1a206",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/medical-female-02.glb",
+    "url": "https://models.codelove.in/models/medical-female-02.glb",
+    "bytes": 654172,
+    "sha256": "6da1110966ca0f355831bb39a5bfe47473d311a019558f8bd8ecfa15b21cab43",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/business-female-02.glb",
+    "url": "https://models.codelove.in/models/business-female-02.glb",
+    "bytes": 1426860,
+    "sha256": "e5a2baeb5955b8fb51104a1781184aa933751a70d476f58ca1970d5978e7d201",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-03.glb",
+    "url": "https://models.codelove.in/models/female-adult-03.glb",
+    "bytes": 1094840,
+    "sha256": "73b3f2995714f4b3ac83b86b4c6d5f85f3541984c14755ab19dd8ee5e8a57601",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-04.glb",
+    "url": "https://models.codelove.in/models/female-adult-04.glb",
+    "bytes": 1028584,
+    "sha256": "1feb02d25859604bbab98b86043c9614eb6bfbcae7c99800628f5fc3cf659387",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/medical-female-03.glb",
+    "url": "https://models.codelove.in/models/medical-female-03.glb",
+    "bytes": 988248,
+    "sha256": "c846bd6537ca8931501102d508e517f05c332e056512ee78008550b1e7fa045d",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-05.glb",
+    "url": "https://models.codelove.in/models/female-adult-05.glb",
+    "bytes": 984948,
+    "sha256": "0c468d25782e159501aa547eeccda9ea1b87aabd96b44da3375208e0c532be82",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/fire-male-01.glb",
+    "url": "https://models.codelove.in/models/fire-male-01.glb",
+    "bytes": 799152,
+    "sha256": "9509a41b35367bae10065f967655bddfaac89dcb6d4c4e595f5d872cc68a4382",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/male-adult-06.glb",
+    "url": "https://models.codelove.in/models/male-adult-06.glb",
+    "bytes": 1221824,
+    "sha256": "3fbd7a7e6da502efd9037be8bac6f92bef58b0a0e590ee54c90f09319e6c9ea3",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/wood-male-01.glb",
+    "url": "https://models.codelove.in/models/wood-male-01.glb",
+    "bytes": 732680,
+    "sha256": "575a105603874593e797766edea115d2b6732afddab958b7d4b7d36cd26c2606",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/male-adult-07.glb",
+    "url": "https://models.codelove.in/models/male-adult-07.glb",
+    "bytes": 883880,
+    "sha256": "f28e439decd23087149286bdea29677d650962f704e287db534ee70ed20e0864",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/male-adult-08.glb",
+    "url": "https://models.codelove.in/models/male-adult-08.glb",
+    "bytes": 949276,
+    "sha256": "37bc980ad44bb3550fda46023622b061ab5210cdc7f0f37b684693be745c6767",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/male-adult-09.glb",
+    "url": "https://models.codelove.in/models/male-adult-09.glb",
+    "bytes": 800008,
+    "sha256": "c5620778597891b8569979c06e8918ecaecf16848973140b23e7a57c1e3f19bf",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/business-male-01.glb",
+    "url": "https://models.codelove.in/models/business-male-01.glb",
+    "bytes": 811124,
+    "sha256": "d90af3eb53b1c948b1daf66a5f45a0e8d330508a6d240dd1883aa280e843be9a",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/construction-male-03.glb",
+    "url": "https://models.codelove.in/models/construction-male-03.glb",
+    "bytes": 911528,
+    "sha256": "a0b108bb28dd761db64b029a851da6dd6bf990d2160f3eee4daa5e082e64d2cf",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/business-male-02.glb",
+    "url": "https://models.codelove.in/models/business-male-02.glb",
+    "bytes": 774296,
+    "sha256": "16e8fa368681842855dc31becc084c36cfb08e4c303f303d0dc0b44eb1ad8aa8",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/male-adult-10.glb",
+    "url": "https://models.codelove.in/models/male-adult-10.glb",
+    "bytes": 920432,
+    "sha256": "14cf5e070fb04c6918999470de189ea2926c5efad13e4db6278829a1356ee8ea",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "vendor/unselected/female-adult-06.glb",
+    "url": "https://models.codelove.in/models/female-adult-06.glb",
+    "bytes": 631320,
+    "sha256": "acff2f08653110aaadbc2f3cb6d191d00ef73d406fbb8aedc9aced69c2efd5af",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-07.glb",
+    "url": "https://models.codelove.in/models/female-adult-07.glb",
+    "bytes": 1083648,
+    "sha256": "cc0ce5b1a02b2d31b8ba435fd58541304b09593b284c9df1febe6cb1bed949bd",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      81
+    ]
+  },
+  {
+    "file": "assets/female-adult-08.glb",
+    "url": "https://models.codelove.in/models/female-adult-08.glb",
+    "bytes": 1035284,
+    "sha256": "860401120b40996288b113d9560f7c763232685ed4adb0eaa87be58fcfb294eb",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-09.glb",
+    "url": "https://models.codelove.in/models/female-adult-09.glb",
+    "bytes": 1057168,
+    "sha256": "39cac5607d3f838fefe456a160b053433fc9de81d8b1607c40b12bca7201b624",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "vendor/unselected/female-adult-10.glb",
+    "url": "https://models.codelove.in/models/female-adult-10.glb",
+    "bytes": 369004,
+    "sha256": "edcb386fac5a9a1a6c69156defb777c83dc16e7a29a22e6e2737291a88f982e0",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/construction-female-01.glb",
+    "url": "https://models.codelove.in/models/construction-female-01.glb",
+    "bytes": 624360,
+    "sha256": "ea5d1b188c14f043d03a7866b1a6e0a6aa788a250d19dddbb43b06b3395e3254",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-11.glb",
+    "url": "https://models.codelove.in/models/female-adult-11.glb",
+    "bytes": 991720,
+    "sha256": "6285ebad45c9547646f992d06e0318705aa6b339f06e7cb27df020332fe61dcd",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "vendor/unselected/police-female-01.glb",
+    "url": "https://models.codelove.in/models/police-female-01.glb",
+    "bytes": 2016908,
+    "sha256": "c162e892353587cdd60954dbcd82b4682fa43dac6fcab989820accacae4b44d1",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      64
+    ]
+  },
+  {
+    "file": "assets/female-adult-12.glb",
+    "url": "https://models.codelove.in/models/female-adult-12.glb",
+    "bytes": 975948,
+    "sha256": "d8a5b9b86bab77e61b4223f5e8910208c21eb3381a244eec136af48f09dd6cb6",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-child-01.glb",
+    "url": "https://models.codelove.in/models/female-child-01.glb",
+    "bytes": 539348,
+    "sha256": "4ce7f58318a7b92b1b1752c531381b114059635117b783aaeec558bcdb487e7c",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      81
+    ]
+  },
+  {
+    "file": "assets/female-adult-13.glb",
+    "url": "https://models.codelove.in/models/female-adult-13.glb",
+    "bytes": 1052744,
+    "sha256": "a54c9c47293640508822ca4ec39fe64f7a7c502c56f304d70f9e7766177a8ed8",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-14.glb",
+    "url": "https://models.codelove.in/models/female-adult-14.glb",
+    "bytes": 1411852,
+    "sha256": "85f596730c9d78f6b53fe0cb1c5a197b0ef89bf15d65f9a5edeaf77f5890ee86",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/female-adult-15.glb",
+    "url": "https://models.codelove.in/models/female-adult-15.glb",
+    "bytes": 988596,
+    "sha256": "56e474cfeabcd52bed1f5afda77c85cbb321e99df832eb4efd9a3d59a4d8afa3",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "vendor/unselected/female-adult-16.glb",
+    "url": "https://models.codelove.in/models/female-adult-16.glb",
+    "bytes": 332792,
+    "sha256": "937c79febfda950ef385848626b1f96a159a347a2fd05a90725e3dd599672fe0",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      53
+    ]
+  },
+  {
+    "file": "assets/female-adult-17.glb",
+    "url": "https://models.codelove.in/models/female-adult-17.glb",
+    "bytes": 1020020,
+    "sha256": "4212a788b16b57fb9134cd9b81ba110b507621af8ba80f89cb073cff5c940302",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "vendor/unselected/fire-female-02.glb",
+    "url": "https://models.codelove.in/models/fire-female-02.glb",
+    "bytes": 1406320,
+    "sha256": "3a07ac92491d48090923a4792669d24571adae517187ef503530d21c30c3a904",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      81
+    ]
+  },
+  {
+    "file": "vendor/unselected/fire-female-03.glb",
+    "url": "https://models.codelove.in/models/fire-female-03.glb",
+    "bytes": 1350296,
+    "sha256": "7964ed0ce1a69cc24b818c0f0a41294c7ee633144a8388614b493eb5528d8869",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/security-female-01.glb",
+    "url": "https://models.codelove.in/models/security-female-01.glb",
+    "bytes": 898112,
+    "sha256": "df35684a42d1911231415fa1b6dc38de588edcd7d666ae8d48092ea15649389e",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  },
+  {
+    "file": "assets/business-female-03.glb",
+    "url": "https://models.codelove.in/models/business-female-03.glb",
+    "bytes": 845076,
+    "sha256": "2d1acd4cfaf6c16ba3cf3bc9ad29e0fea55036226bd9af07abbeb3e37f24827a",
+    "asset": {
+      "generator": "glTF-Transform v4.5.1",
+      "version": "2.0",
+      "copyright": "Copyright (c) 2020 Microsoft. MIT License.",
+      "extras": {
+        "license": "MIT",
+        "licenseText": "MIT License\n\nCopyright (c) 2020 Microsoft\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+      }
+    },
+    "animations": [],
+    "skins": [
+      80
+    ]
+  }
+]

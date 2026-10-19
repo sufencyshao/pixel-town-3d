@@ -1,0 +1,20 @@
+[
+  {
+    "file": "Casual.gltf",
+    "url": "https://drive.google.com/uc?export=download&id=18b3WwlrwrFYWAM7BcnjWeIxKJyxAQiGh",
+    "bytes": 3131788,
+    "sha256": "b0fe6e92219cd71808844a20a1a8b960fd1cf640a6546dc6362b5add6604e87c"
+  },
+  {
+    "file": "Worker.gltf",
+    "url": "https://drive.google.com/uc?export=download&id=1iwF_fqDErPH9uyol6NmS-MnzGgsZ5ejV",
+    "bytes": 3095030,
+    "sha256": "e2bfc1039f429e870a0119e274c2dd45f6304f00c39f4570dfeb9ed4d97a063d"
+  },
+  {
+    "file": "License.txt",
+    "url": "https://drive.google.com/uc?export=download&id=1lIFL16xEpoPbr0j_HUATgmcEnAmYoIK2",
+    "bytes": 372,
+    "sha256": "e8dbf915a2b82229913e301a0787696611241bdefec4832bc084f54161db1efe"
+  }
+]

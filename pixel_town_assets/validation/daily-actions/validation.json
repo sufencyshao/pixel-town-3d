@@ -1,0 +1,2117 @@
+{
+  "entities": 60,
+  "newClips": 162,
+  "newFrames": 2936,
+  "preservedOriginalFiles": 2464,
+  "errors": [],
+  "warnings": [],
+  "checks": [
+    {
+      "entity": "01_hero_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 6363,
+      "maxAdjacentChangedPixels": 6556
+    },
+    {
+      "entity": "01_hero_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 6828
+    },
+    {
+      "entity": "01_hero_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2924,
+      "maxAdjacentChangedPixels": 4234
+    },
+    {
+      "entity": "02_hero_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8535,
+      "maxAdjacentChangedPixels": 8804
+    },
+    {
+      "entity": "02_hero_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9116
+    },
+    {
+      "entity": "02_hero_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 3707,
+      "maxAdjacentChangedPixels": 6056
+    },
+    {
+      "entity": "03_barista_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7269,
+      "maxAdjacentChangedPixels": 7460
+    },
+    {
+      "entity": "03_barista_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 7731
+    },
+    {
+      "entity": "03_barista_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 3411,
+      "maxAdjacentChangedPixels": 4654
+    },
+    {
+      "entity": "04_baker_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7353,
+      "maxAdjacentChangedPixels": 7681
+    },
+    {
+      "entity": "04_baker_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 10866
+    },
+    {
+      "entity": "04_baker_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2664,
+      "maxAdjacentChangedPixels": 4683
+    },
+    {
+      "entity": "05_carpenter_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7207,
+      "maxAdjacentChangedPixels": 7509
+    },
+    {
+      "entity": "05_carpenter_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 6271
+    },
+    {
+      "entity": "05_carpenter_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4471,
+      "maxAdjacentChangedPixels": 5300
+    },
+    {
+      "entity": "06_postman_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9077,
+      "maxAdjacentChangedPixels": 9350
+    },
+    {
+      "entity": "06_postman_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9519
+    },
+    {
+      "entity": "06_postman_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5706,
+      "maxAdjacentChangedPixels": 6177
+    },
+    {
+      "entity": "07_police_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7449,
+      "maxAdjacentChangedPixels": 7800
+    },
+    {
+      "entity": "07_police_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 7452
+    },
+    {
+      "entity": "07_police_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4739,
+      "maxAdjacentChangedPixels": 5648
+    },
+    {
+      "entity": "08_doctor_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8001,
+      "maxAdjacentChangedPixels": 8238
+    },
+    {
+      "entity": "08_doctor_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 8542
+    },
+    {
+      "entity": "08_doctor_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 3994,
+      "maxAdjacentChangedPixels": 4915
+    },
+    {
+      "entity": "09_gardener_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9890,
+      "maxAdjacentChangedPixels": 10226
+    },
+    {
+      "entity": "09_gardener_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9459
+    },
+    {
+      "entity": "09_gardener_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 6035,
+      "maxAdjacentChangedPixels": 6437
+    },
+    {
+      "entity": "10_musician_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8554,
+      "maxAdjacentChangedPixels": 8995
+    },
+    {
+      "entity": "10_musician_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9909
+    },
+    {
+      "entity": "10_musician_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4429,
+      "maxAdjacentChangedPixels": 6376
+    },
+    {
+      "entity": "11_chef_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5798,
+      "maxAdjacentChangedPixels": 6038
+    },
+    {
+      "entity": "11_chef_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 8615
+    },
+    {
+      "entity": "11_chef_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 1557,
+      "maxAdjacentChangedPixels": 3758
+    },
+    {
+      "entity": "12_florist_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8376,
+      "maxAdjacentChangedPixels": 8697
+    },
+    {
+      "entity": "12_florist_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 8410
+    },
+    {
+      "entity": "12_florist_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4241,
+      "maxAdjacentChangedPixels": 5975
+    },
+    {
+      "entity": "13_pastrychef_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 10733,
+      "maxAdjacentChangedPixels": 11203
+    },
+    {
+      "entity": "13_pastrychef_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 12230
+    },
+    {
+      "entity": "13_pastrychef_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5228,
+      "maxAdjacentChangedPixels": 7090
+    },
+    {
+      "entity": "14_teacher_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9647,
+      "maxAdjacentChangedPixels": 9897
+    },
+    {
+      "entity": "14_teacher_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 10105
+    },
+    {
+      "entity": "14_teacher_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4324,
+      "maxAdjacentChangedPixels": 6413
+    },
+    {
+      "entity": "15_nurse_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9855,
+      "maxAdjacentChangedPixels": 10361
+    },
+    {
+      "entity": "15_nurse_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 13092
+    },
+    {
+      "entity": "15_nurse_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4388,
+      "maxAdjacentChangedPixels": 5979
+    },
+    {
+      "entity": "16_librarian_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7360,
+      "maxAdjacentChangedPixels": 7546
+    },
+    {
+      "entity": "16_librarian_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 6940
+    },
+    {
+      "entity": "16_librarian_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 3581,
+      "maxAdjacentChangedPixels": 4235
+    },
+    {
+      "entity": "17_cafeowner_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 6366,
+      "maxAdjacentChangedPixels": 6621
+    },
+    {
+      "entity": "17_cafeowner_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 6688
+    },
+    {
+      "entity": "17_cafeowner_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 3522,
+      "maxAdjacentChangedPixels": 4276
+    },
+    {
+      "entity": "18_artist_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8956,
+      "maxAdjacentChangedPixels": 9148
+    },
+    {
+      "entity": "18_artist_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9949
+    },
+    {
+      "entity": "18_artist_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4159,
+      "maxAdjacentChangedPixels": 5922
+    },
+    {
+      "entity": "19_vet_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9753,
+      "maxAdjacentChangedPixels": 10388
+    },
+    {
+      "entity": "19_vet_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 12705
+    },
+    {
+      "entity": "19_vet_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4498,
+      "maxAdjacentChangedPixels": 6422
+    },
+    {
+      "entity": "20_student_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7629,
+      "maxAdjacentChangedPixels": 7942
+    },
+    {
+      "entity": "20_student_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 8105
+    },
+    {
+      "entity": "20_student_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 3855,
+      "maxAdjacentChangedPixels": 5407
+    },
+    {
+      "entity": "21_firefighter_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7671,
+      "maxAdjacentChangedPixels": 8017
+    },
+    {
+      "entity": "21_firefighter_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 8304
+    },
+    {
+      "entity": "21_firefighter_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4824,
+      "maxAdjacentChangedPixels": 6612
+    },
+    {
+      "entity": "22_grocer_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7985,
+      "maxAdjacentChangedPixels": 8347
+    },
+    {
+      "entity": "22_grocer_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9086
+    },
+    {
+      "entity": "22_grocer_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4569,
+      "maxAdjacentChangedPixels": 6704
+    },
+    {
+      "entity": "23_farmer_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 11473,
+      "maxAdjacentChangedPixels": 12010
+    },
+    {
+      "entity": "23_farmer_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 10812
+    },
+    {
+      "entity": "23_farmer_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7401,
+      "maxAdjacentChangedPixels": 8872
+    },
+    {
+      "entity": "24_driver_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8159,
+      "maxAdjacentChangedPixels": 8637
+    },
+    {
+      "entity": "24_driver_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9376
+    },
+    {
+      "entity": "24_driver_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5102,
+      "maxAdjacentChangedPixels": 6437
+    },
+    {
+      "entity": "25_hairdresser_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7560,
+      "maxAdjacentChangedPixels": 7835
+    },
+    {
+      "entity": "25_hairdresser_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9207
+    },
+    {
+      "entity": "25_hairdresser_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4223,
+      "maxAdjacentChangedPixels": 5876
+    },
+    {
+      "entity": "26_baker_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8421,
+      "maxAdjacentChangedPixels": 8908
+    },
+    {
+      "entity": "26_baker_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 8922
+    },
+    {
+      "entity": "26_baker_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5303,
+      "maxAdjacentChangedPixels": 7304
+    },
+    {
+      "entity": "27_librarian_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8440,
+      "maxAdjacentChangedPixels": 8749
+    },
+    {
+      "entity": "27_librarian_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9150
+    },
+    {
+      "entity": "27_librarian_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5186,
+      "maxAdjacentChangedPixels": 7076
+    },
+    {
+      "entity": "28_mechanic_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8245,
+      "maxAdjacentChangedPixels": 8804
+    },
+    {
+      "entity": "28_mechanic_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9005
+    },
+    {
+      "entity": "28_mechanic_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5227,
+      "maxAdjacentChangedPixels": 7536
+    },
+    {
+      "entity": "29_innkeeper_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9713,
+      "maxAdjacentChangedPixels": 10241
+    },
+    {
+      "entity": "29_innkeeper_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 10236
+    },
+    {
+      "entity": "29_innkeeper_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 6489,
+      "maxAdjacentChangedPixels": 9418
+    },
+    {
+      "entity": "30_florist_male",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9337,
+      "maxAdjacentChangedPixels": 9848
+    },
+    {
+      "entity": "30_florist_male",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 11703
+    },
+    {
+      "entity": "30_florist_male",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4866,
+      "maxAdjacentChangedPixels": 7472
+    },
+    {
+      "entity": "31_firefighter_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8098,
+      "maxAdjacentChangedPixels": 8617
+    },
+    {
+      "entity": "31_firefighter_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 9134
+    },
+    {
+      "entity": "31_firefighter_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5107,
+      "maxAdjacentChangedPixels": 7267
+    },
+    {
+      "entity": "32_grocer_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 10509,
+      "maxAdjacentChangedPixels": 11056
+    },
+    {
+      "entity": "32_grocer_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 11908
+    },
+    {
+      "entity": "32_grocer_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5774,
+      "maxAdjacentChangedPixels": 7672
+    },
+    {
+      "entity": "33_farmer_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 12170,
+      "maxAdjacentChangedPixels": 12631
+    },
+    {
+      "entity": "33_farmer_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 14777
+    },
+    {
+      "entity": "33_farmer_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 7744,
+      "maxAdjacentChangedPixels": 8879
+    },
+    {
+      "entity": "34_driver_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9049,
+      "maxAdjacentChangedPixels": 9397
+    },
+    {
+      "entity": "34_driver_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 10319
+    },
+    {
+      "entity": "34_driver_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5133,
+      "maxAdjacentChangedPixels": 7057
+    },
+    {
+      "entity": "35_hairdresser_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 10652,
+      "maxAdjacentChangedPixels": 10986
+    },
+    {
+      "entity": "35_hairdresser_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 11942
+    },
+    {
+      "entity": "35_hairdresser_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5538,
+      "maxAdjacentChangedPixels": 7488
+    },
+    {
+      "entity": "36_barista_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 10947,
+      "maxAdjacentChangedPixels": 11500
+    },
+    {
+      "entity": "36_barista_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 17054
+    },
+    {
+      "entity": "36_barista_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 6071,
+      "maxAdjacentChangedPixels": 8105
+    },
+    {
+      "entity": "37_carpenter_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9507,
+      "maxAdjacentChangedPixels": 9940
+    },
+    {
+      "entity": "37_carpenter_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 10429
+    },
+    {
+      "entity": "37_carpenter_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5805,
+      "maxAdjacentChangedPixels": 8150
+    },
+    {
+      "entity": "38_postal_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 10626,
+      "maxAdjacentChangedPixels": 11177
+    },
+    {
+      "entity": "38_postal_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 11929
+    },
+    {
+      "entity": "38_postal_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 6404,
+      "maxAdjacentChangedPixels": 8336
+    },
+    {
+      "entity": "39_police_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 8220,
+      "maxAdjacentChangedPixels": 8815
+    },
+    {
+      "entity": "39_police_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 10422
+    },
+    {
+      "entity": "39_police_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 4744,
+      "maxAdjacentChangedPixels": 7273
+    },
+    {
+      "entity": "40_doctor_female",
+      "action": "nod",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 10416,
+      "maxAdjacentChangedPixels": 10790
+    },
+    {
+      "entity": "40_doctor_female",
+      "action": "shake_head",
+      "frames": 25,
+      "uniquePoses": 7,
+      "durationMs": 1200,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 12347
+    },
+    {
+      "entity": "40_doctor_female",
+      "action": "chat",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1440,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5624,
+      "maxAdjacentChangedPixels": 7981
+    },
+    {
+      "entity": "01_cat_tabby",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 3476,
+      "maxAdjacentChangedPixels": 3476
+    },
+    {
+      "entity": "01_cat_tabby",
+      "action": "pounce",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 10332,
+      "maxAdjacentChangedPixels": 19152
+    },
+    {
+      "entity": "01_cat_tabby",
+      "action": "stretch",
+      "frames": 8,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 18704,
+      "maxAdjacentChangedPixels": 21760
+    },
+    {
+      "entity": "01_cat_tabby",
+      "action": "sleep",
+      "frames": 8,
+      "uniquePoses": 8,
+      "durationMs": 1600,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 14784,
+      "maxAdjacentChangedPixels": 15552
+    },
+    {
+      "entity": "02_cat_calico",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2920,
+      "maxAdjacentChangedPixels": 2920
+    },
+    {
+      "entity": "02_cat_calico",
+      "action": "pounce",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 10048,
+      "maxAdjacentChangedPixels": 18516
+    },
+    {
+      "entity": "03_cat_british_blue",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 3612,
+      "maxAdjacentChangedPixels": 3612
+    },
+    {
+      "entity": "03_cat_british_blue",
+      "action": "pounce",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 11048,
+      "maxAdjacentChangedPixels": 20560
+    },
+    {
+      "entity": "04_cat_siamese",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2844,
+      "maxAdjacentChangedPixels": 2844
+    },
+    {
+      "entity": "04_cat_siamese",
+      "action": "pounce",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 9796,
+      "maxAdjacentChangedPixels": 17484
+    },
+    {
+      "entity": "05_cat_maine",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 1360,
+      "maxAdjacentChangedPixels": 1404
+    },
+    {
+      "entity": "05_cat_maine",
+      "action": "pounce",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 5884,
+      "maxAdjacentChangedPixels": 10728
+    },
+    {
+      "entity": "06_dog_corgi",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 1252,
+      "maxAdjacentChangedPixels": 1652
+    },
+    {
+      "entity": "06_dog_corgi",
+      "action": "stretch",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 6140
+    },
+    {
+      "entity": "07_dog_shiba",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2040,
+      "maxAdjacentChangedPixels": 2040
+    },
+    {
+      "entity": "07_dog_shiba",
+      "action": "stretch",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 5396
+    },
+    {
+      "entity": "08_dog_border",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 448,
+      "maxAdjacentChangedPixels": 844
+    },
+    {
+      "entity": "08_dog_border",
+      "action": "stretch",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 5660
+    },
+    {
+      "entity": "09_dog_golden",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 248,
+      "maxAdjacentChangedPixels": 736
+    },
+    {
+      "entity": "09_dog_golden",
+      "action": "stretch",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 5380
+    },
+    {
+      "entity": "10_dog_dachshund",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 152,
+      "maxAdjacentChangedPixels": 448
+    },
+    {
+      "entity": "10_dog_dachshund",
+      "action": "stretch",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 3816
+    },
+    {
+      "entity": "11_dog_poodle",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 1904,
+      "maxAdjacentChangedPixels": 1904
+    },
+    {
+      "entity": "11_dog_poodle",
+      "action": "stretch",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 6392
+    },
+    {
+      "entity": "12_bird_budgie_green",
+      "action": "peck",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 3916
+    },
+    {
+      "entity": "12_bird_budgie_green",
+      "action": "hop",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2592,
+      "maxAdjacentChangedPixels": 6628
+    },
+    {
+      "entity": "13_bird_budgie_blue",
+      "action": "peck",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 3908
+    },
+    {
+      "entity": "13_bird_budgie_blue",
+      "action": "hop",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2568,
+      "maxAdjacentChangedPixels": 6648
+    },
+    {
+      "entity": "14_bird_cockatiel",
+      "action": "peck",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 3492
+    },
+    {
+      "entity": "14_bird_cockatiel",
+      "action": "hop",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2472,
+      "maxAdjacentChangedPixels": 6624
+    },
+    {
+      "entity": "15_bird_canary",
+      "action": "peck",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 4376
+    },
+    {
+      "entity": "15_bird_canary",
+      "action": "hop",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2624,
+      "maxAdjacentChangedPixels": 8040
+    },
+    {
+      "entity": "16_rabbit_lop",
+      "action": "hop",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2664,
+      "maxAdjacentChangedPixels": 11736
+    },
+    {
+      "entity": "16_rabbit_lop",
+      "action": "chew",
+      "frames": 16,
+      "uniquePoses": 9,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 1740,
+      "maxAdjacentChangedPixels": 1740
+    },
+    {
+      "entity": "17_rabbit_dutch",
+      "action": "hop",
+      "frames": 16,
+      "uniquePoses": 16,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2276,
+      "maxAdjacentChangedPixels": 10916
+    },
+    {
+      "entity": "17_rabbit_dutch",
+      "action": "chew",
+      "frames": 16,
+      "uniquePoses": 9,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 1332,
+      "maxAdjacentChangedPixels": 1332
+    },
+    {
+      "entity": "18_guineapig_rosette",
+      "action": "forage",
+      "frames": 16,
+      "uniquePoses": 15,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 988,
+      "maxAdjacentChangedPixels": 2976
+    },
+    {
+      "entity": "18_guineapig_rosette",
+      "action": "chew",
+      "frames": 16,
+      "uniquePoses": 9,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 1528,
+      "maxAdjacentChangedPixels": 1528
+    },
+    {
+      "entity": "19_tortoise_hermann",
+      "action": "bask",
+      "frames": 16,
+      "uniquePoses": 8,
+      "durationMs": 2080,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 0,
+      "maxAdjacentChangedPixels": 640
+    },
+    {
+      "entity": "19_tortoise_hermann",
+      "action": "forage",
+      "frames": 16,
+      "uniquePoses": 15,
+      "durationMs": 2080,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 476,
+      "maxAdjacentChangedPixels": 1580
+    },
+    {
+      "entity": "20_pony_shetland",
+      "action": "wag",
+      "frames": 16,
+      "uniquePoses": 5,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 2268,
+      "maxAdjacentChangedPixels": 2464
+    },
+    {
+      "entity": "20_pony_shetland",
+      "action": "graze",
+      "frames": 16,
+      "uniquePoses": 15,
+      "durationMs": 1280,
+      "alpha": [
+        0,
+        255
+      ],
+      "wrapChangedPixels": 1644,
+      "maxAdjacentChangedPixels": 4216
+    }
+  ],
+  "humanApproval": "pending for new daily actions only; previous back-walk approval retained"
+}

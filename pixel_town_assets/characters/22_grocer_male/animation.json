@@ -1,0 +1,666 @@
+{
+  "version": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": [
+    0.5,
+    0.9
+  ],
+  "animations": {
+    "idle": {
+      "atlas": "animations/idle.png",
+      "gif": "animations/idle.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_down": {
+      "atlas": "animations/walk_down.png",
+      "gif": "animations/walk_down.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_left": {
+      "atlas": "animations/walk_left.png",
+      "gif": "animations/walk_left.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_04.png"
+    },
+    "walk_right": {
+      "atlas": "animations/walk_right.png",
+      "gif": "animations/walk_right.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_07.png"
+    },
+    "walk_up": {
+      "atlas": "animations/walk_up.png",
+      "gif": "animations/walk_up.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_10.png"
+    },
+    "wave": {
+      "atlas": "animations/wave.png",
+      "gif": "animations/wave.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_14.png"
+    },
+    "surprise": {
+      "atlas": "animations/surprise.png",
+      "gif": "animations/surprise.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_15.png"
+    },
+    "sit": {
+      "atlas": "animations/sit.png",
+      "gif": "animations/sit.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_16.png"
+    },
+    "jump": {
+      "atlas": "animations/jump.png",
+      "gif": "animations/jump.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "cheer": {
+      "atlas": "animations/cheer.png",
+      "gif": "animations/cheer.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_11.png"
+    },
+    "work": {
+      "atlas": "animations/work.png",
+      "gif": "animations/work.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "nod": {
+      "atlas": "animations/daily/nod.png",
+      "gif": "animations/daily/nod.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/nod",
+      "humanApproval": "pending review of this new clip"
+    },
+    "shake_head": {
+      "atlas": "animations/daily/shake_head.png",
+      "gif": "animations/daily/shake_head.gif",
+      "frames": 25,
+      "frameMs": 30,
+      "loop": false,
+      "gifFrames": 25,
+      "source": "frame_01.png",
+      "technique": "whole-head poses reused; independent jaw and neck registration over stable body; original hair detail; +/-30-degree targets; two quick refusal shakes",
+      "individualFrames": "animations/daily/shake_head",
+      "humanApproval": "pending review of this new clip",
+      "durations": [
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        480
+      ],
+      "previewLoop": true,
+      "sources": [
+        "frame_01.png",
+        "frame_04.png",
+        "frame_07.png",
+        "source/shake-head-solid-poses.png"
+      ],
+      "headTurn": {
+        "revision": "20261003-refusal-anatomy-v7",
+        "role": "22_grocer_male",
+        "originalJawY": 123,
+        "originalSkinEnd": 134,
+        "source": [
+          {
+            "cell": 1,
+            "cropBox": [
+              71,
+              63,
+              401,
+              395
+            ],
+            "neck": [
+              219,
+              395
+            ],
+            "jawY": 364,
+            "scale": [
+              0.3081570996978852,
+              0.34219269102990035
+            ],
+            "paste": [
+              82,
+              20
+            ],
+            "closedJointPixels": 0
+          },
+          {
+            "cell": 2,
+            "cropBox": [
+              74,
+              63,
+              402,
+              395
+            ],
+            "neck": [
+              224,
+              395
+            ],
+            "jawY": 370,
+            "scale": [
+              0.3081570996978852,
+              0.3355048859934853
+            ],
+            "paste": [
+              82,
+              20
+            ],
+            "closedJointPixels": 0
+          },
+          {
+            "cell": 3,
+            "cropBox": [
+              79,
+              64,
+              405,
+              395
+            ],
+            "neck": [
+              220,
+              395
+            ],
+            "jawY": 370,
+            "scale": [
+              0.3081570996978852,
+              0.3366013071895425
+            ],
+            "paste": [
+              85,
+              20
+            ],
+            "closedJointPixels": 0
+          },
+          {
+            "cell": 5,
+            "cropBox": [
+              43,
+              44,
+              372,
+              373
+            ],
+            "neck": [
+              221,
+              373
+            ],
+            "jawY": 342,
+            "scale": [
+              0.3081570996978852,
+              0.34563758389261745
+            ],
+            "paste": [
+              73,
+              20
+            ],
+            "closedJointPixels": 0
+          },
+          {
+            "cell": 6,
+            "cropBox": [
+              41,
+              44,
+              370,
+              372
+            ],
+            "neck": [
+              222,
+              372
+            ],
+            "jawY": 347,
+            "scale": [
+              0.3081570996978852,
+              0.33993399339933994
+            ],
+            "paste": [
+              72,
+              20
+            ],
+            "closedJointPixels": 0
+          },
+          {
+            "cell": 7,
+            "cropBox": [
+              42,
+              44,
+              368,
+              372
+            ],
+            "neck": [
+              225,
+              372
+            ],
+            "jawY": 347,
+            "scale": [
+              0.3081570996978852,
+              0.33993399339933994
+            ],
+            "paste": [
+              72,
+              20
+            ],
+            "closedJointPixels": 0
+          }
+        ],
+        "anatomyCalibration": {
+          "role": "22_grocer_male",
+          "targetJawY": 123,
+          "targetNeckEndY": 134,
+          "sourceLandmarks": [
+            {
+              "neckX": 242,
+              "neckEndY": 395,
+              "jawY": 370
+            },
+            {
+              "neckX": 219,
+              "neckEndY": 395,
+              "jawY": 364
+            },
+            {
+              "neckX": 224,
+              "neckEndY": 395,
+              "jawY": 370
+            },
+            {
+              "neckX": 220,
+              "neckEndY": 395,
+              "jawY": 370
+            },
+            {
+              "neckX": 241,
+              "neckEndY": 373,
+              "jawY": 347
+            },
+            {
+              "neckX": 221,
+              "neckEndY": 373,
+              "jawY": 342
+            },
+            {
+              "neckX": 222,
+              "neckEndY": 372,
+              "jawY": 347
+            },
+            {
+              "neckX": 225,
+              "neckEndY": 372,
+              "jawY": 347
+            }
+          ],
+          "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+        },
+        "originalHeadBox": [
+          75,
+          20,
+          177,
+          125
+        ],
+        "neutralUsesOriginal": true,
+        "neutralBodyRepaired": false,
+        "rawSheetSize": [
+          1774,
+          887
+        ],
+        "cutY": 134,
+        "bodyFixedFromY": 134,
+        "maxYawDegrees": 30,
+        "yawDegreesSequence": [
+          0,
+          -15,
+          -25.980762,
+          -30,
+          -25.980762,
+          -15,
+          0,
+          15,
+          25.980762,
+          30,
+          25.980762,
+          15,
+          0,
+          -15,
+          -25.980762,
+          -30,
+          -25.980762,
+          -15,
+          0,
+          15,
+          25.980762,
+          30,
+          25.980762,
+          15,
+          0
+        ],
+        "angleInterpretation": "illustrated pose targets; not a measured 3D model",
+        "shakeCount": 2,
+        "activeDurationMs": 720,
+        "neutralPauseMs": 480,
+        "durations": [
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          480
+        ],
+        "frameMs": 30,
+        "loop": false,
+        "previewLoop": true,
+        "neutralFrameIndices": [
+          0,
+          6,
+          12,
+          18,
+          24
+        ],
+        "sources": [
+          "frame_01.png",
+          "frame_04.png",
+          "frame_07.png",
+          "source/shake-head-solid-poses.png"
+        ],
+        "method": "reuse whole-head source poses; independent jaw registration and fitted neck over stable original body",
+        "registeredHeadPaths": {
+          "0": "source/shake-head-solid/key_+0.png",
+          "15": "source/shake-head-solid/key_+15.png",
+          "30": "source/shake-head-solid/key_+30.png",
+          "-15": "source/shake-head-solid/key_-15.png",
+          "-25.980762": "source/shake-head-solid/key_-25.9808.png",
+          "-30": "source/shake-head-solid/key_-30.png",
+          "25.980762": "source/shake-head-solid/key_+25.9808.png"
+        },
+        "registeredHeadSHA256": {
+          "source/shake-head-solid/key_+0.png": "87745a470cfcd42691031209fc4a42f9b20491622b702f5d47e4832739c279d2",
+          "source/shake-head-solid/key_-15.png": "1e547f53c331b27f1ec1d016a8eb379320e91a560f775143e09af5ef907c1f19",
+          "source/shake-head-solid/key_-25.9808.png": "5fe7258b549d285adf93894f6374a29cc37cecc3d008b8bce83a9df9b4ca87d1",
+          "source/shake-head-solid/key_-30.png": "0d1972321981c455cba84e580423966bc5f297fa4e5490ea4cdd2cb517c60787",
+          "source/shake-head-solid/key_+15.png": "c4bb18b61dd1a7e0753ca1dc940c85af327e7bd830ac323469b045e87d0bdb72",
+          "source/shake-head-solid/key_+25.9808.png": "c69e0d21fd1649386252892031a6842cf078dd920f68a69fc8e3defeb4f8825b",
+          "source/shake-head-solid/key_+30.png": "ab731d977d43ef8a02e9e9e7cffad198920bdfdce8de3172ba419b99334e0640"
+        },
+        "jointCalibration": {
+          "role": "22_grocer_male",
+          "bodyBoundary": [
+            [
+              0,
+              120
+            ],
+            [
+              113,
+              120
+            ],
+            [
+              121,
+              127
+            ],
+            [
+              137,
+              127
+            ],
+            [
+              145,
+              120
+            ],
+            [
+              255,
+              120
+            ]
+          ],
+          "neckRoot": [
+            118,
+            139,
+            127
+          ],
+          "targetNeckEnd": [
+            128,
+            123
+          ],
+          "skinMinR": 100,
+          "review": "original collar and shoulders manually located; inspect final seam crops",
+          "originalHairPolygons": [],
+          "skinMinG": 60,
+          "sourceNeckAnchors": [
+            [
+              242,
+              395
+            ],
+            [
+              219,
+              395
+            ],
+            [
+              224,
+              395
+            ],
+            [
+              220,
+              395
+            ],
+            [
+              241,
+              373
+            ],
+            [
+              221,
+              373
+            ],
+            [
+              223,
+              372
+            ],
+            [
+              226,
+              372
+            ]
+          ],
+          "originalScaleBox": [
+            75,
+            20,
+            177,
+            123
+          ],
+          "fixedGarmentRects": [
+            [
+              113,
+              121,
+              116,
+              124
+            ],
+            [
+              145,
+              121,
+              148,
+              124
+            ]
+          ]
+        },
+        "fixedBodyPath": "source/shake-head-joint-body.png",
+        "fixedBodySHA256": "b23b3e14a9f7af90e2bc8de1f1b2b4ce1fa2766b68ad8fa0f7771639e11ca1ea",
+        "originalHeadPath": "source/shake-head-joint-original-head.png",
+        "originalHeadSHA256": "87745a470cfcd42691031209fc4a42f9b20491622b702f5d47e4832739c279d2",
+        "bodyRepairMaskPath": "source/shake-head-body-repair-mask.png",
+        "bodyRepairMaskSHA256": "aebc86755d7beb8b01bcd992ab44e1133afcb473511b7832eb82228be275473f",
+        "reconstructedBodyPixels": 0,
+        "calibrationSHA256": "b2d4f9a9b367abf8fffdbe53fa156b3b47f934ce54919ff75b89dcb242ac85d9",
+        "lowerHairPolicy": "role 12 reuses full source braid with cleaned tip; roles 33 and 39 reuse original detailed lower braids with a small tapering horizontal bend",
+        "neckAnchorMethod": "frozen per-pose skin neck anchors and jaw heights, reviewed against source crops",
+        "originalBodyForeground": false,
+        "compositeOrder": [
+          "stableBody",
+          "originalLowerBraids",
+          "fittedNeck",
+          "wholeSkullAndHair"
+        ],
+        "wholeHeadTurns": true,
+        "headSilhouetteFixed": false,
+        "palette": "original frame_01 opaque colours",
+        "rollDegrees": 0,
+        "verticalMotion": 0
+      }
+    },
+    "chat": {
+      "atlas": "animations/daily/chat.png",
+      "gif": "animations/daily/chat.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/chat",
+      "humanApproval": "pending review of this new clip"
+    },
+    "lie_down": {
+      "atlas": "animations/daily/lie_down.png",
+      "frames": 4,
+      "frameMs": 900,
+      "loop": true,
+      "durations": [
+        1200,
+        800,
+        800,
+        1000
+      ],
+      "individualFrames": "animations/daily/lie_down",
+      "source": "source/side-lying-v1.png",
+      "revision": "20261004-side-lying-v1",
+      "technique": "imagegen redesigned side-lying pose, folded forearms and bent knees; native 2px grid, 48-color palette; stationary anatomy, animated sleep indicator",
+      "sideLying": {
+        "nativeGrid": 2,
+        "groundY": 224,
+        "face": {
+          "x": 32,
+          "y": 146,
+          "width": 66,
+          "height": 58,
+          "cx": 65,
+          "cy": 175,
+          "bottom": 204
+        },
+        "headBounds": [
+          12,
+          96,
+          122,
+          218
+        ],
+        "headAngle": -27
+      },
+      "humanApproval": "not yet reviewed by user"
+    }
+  },
+  "renderer": "nearest-neighbour anatomical weighted rigid deformation",
+  "sourcePreserved": true,
+  "sourceSHA256": {
+    "frame_01.png": "7974cf02aee024d24962799c260f983319196fd1ad9fe0f28274993f37435f04",
+    "frame_04.png": "80b0f136d13251fb44fe9b6b4efc982b161b28f0c80f72c473db39a6dc151f1b",
+    "frame_07.png": "6930da0be4e7c0a0459d3078779036be4041d66fa0bc71c1c7942945f563dd43",
+    "frame_10.png": "efeb094fb8b08a9cb2425495b93f888109c25fbba342071c143cfab9dd56d555",
+    "frame_14.png": "1634ef4dca178f86d5bcf2388aaf9cbfef3031d4f16d7553f44cc952e6f93b0c",
+    "frame_15.png": "bc50aad32a94714de133d866c3a1346b7aea491ab4e03d1100d676849f459074",
+    "frame_16.png": "21c12676c84e77c5d85283e3cf7951e2a8e5e48c0942956ce80e56589da7f185",
+    "frame_11.png": "5c07f4226d69fe9fc9d2d7f5fa910ef65ae0b3c3f1ca7b06867a67290bfb8d5b",
+    "source/shake-head-solid-poses.png": "3e85567073597b839c4cb00d386af000bcc4855531279808b9d9d8a2dc80a30c"
+  },
+  "qualityNotes": [
+    "Continuous anatomical rig derived from genuine front/left/back/wave/sit/cheer key poses",
+    "Work tools are occupational visual indications; tool interaction and vehicle physics are not simulated",
+    "Right view is a mirror of the left-view source"
+  ],
+  "previewBoard": "basic_actions.png",
+  "dailyActionExpansion": {
+    "version": "20261003-daily-v1",
+    "manifest": "animations/daily/manifest.json",
+    "actions": [
+      "nod",
+      "shake_head",
+      "chat"
+    ],
+    "humanApproval": "pending new-action review"
+  }
+}

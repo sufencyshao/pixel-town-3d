@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "batch": "20261003-daily-v1",
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "animations": {
+    "wag": {
+      "atlas": "animations/daily/wag.png",
+      "gif": "animations/daily/wag.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing cat pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/wag",
+      "humanApproval": "pending review of this new clip"
+    },
+    "pounce": {
+      "atlas": "animations/daily/pounce.png",
+      "gif": "animations/daily/pounce.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing cat pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/pounce",
+      "humanApproval": "pending review of this new clip"
+    },
+    "stretch": {
+      "atlas": "animations/daily/stretch.png",
+      "gif": "animations/daily/stretch.gif",
+      "frames": 8,
+      "frameMs": 160,
+      "loop": true,
+      "gifFrames": 8,
+      "source": "source/daily-tabby-poses.png",
+      "technique": "imagegen pose sheet; nearest-neighbour 64px logical grid; binary alpha; 32-color export",
+      "individualFrames": "animations/daily/stretch",
+      "humanApproval": "pending review of this new clip"
+    },
+    "sleep": {
+      "atlas": "animations/daily/sleep.png",
+      "gif": "animations/daily/sleep.gif",
+      "frames": 8,
+      "frameMs": 200,
+      "loop": true,
+      "gifFrames": 8,
+      "source": "source/daily-tabby-poses.png",
+      "technique": "imagegen pose sheet; nearest-neighbour 64px logical grid; binary alpha; 32-color export",
+      "individualFrames": "animations/daily/sleep",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "sourceSHA256": {
+    "frame_01.png": "88ba141dd7c59129f9c6dba1ec3de1960542098f7c0de46fba782634e5f8efec",
+    "source/daily-tabby-poses.png": "a508b4ae2da5ca93dafc52e5bd1b89fa0612f10aa181df0ee803f42118c940f6"
+  }
+}

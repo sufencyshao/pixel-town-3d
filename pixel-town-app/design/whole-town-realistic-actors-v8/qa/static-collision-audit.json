@@ -1,0 +1,673 @@
+[
+  {
+    "id": "01_hero_male",
+    "position": [
+      59,
+      0.044,
+      13.5
+    ],
+    "height": 1.8194144533525114,
+    "groundDelta": 2.3841857654804954e-10,
+    "collisions": []
+  },
+  {
+    "id": "03_barista_male",
+    "position": [
+      -4.5,
+      0.09,
+      81.5
+    ],
+    "height": 1.8199070618142426,
+    "groundDelta": -3.5762786898541066e-9,
+    "collisions": []
+  },
+  {
+    "id": "02_hero_female",
+    "position": [
+      -4.5,
+      0.09,
+      14
+    ],
+    "height": 1.7421995918694677,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "05_carpenter_male",
+    "position": [
+      -90,
+      0.09,
+      14
+    ],
+    "height": 1.8377176733221245,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "04_baker_male",
+    "position": [
+      -1.5,
+      0.09,
+      81.5
+    ],
+    "height": 1.8031744131234553,
+    "groundDelta": -3.5762786898541066e-9,
+    "collisions": []
+  },
+  {
+    "id": "06_postman_male",
+    "position": [
+      -11,
+      0.09,
+      -60
+    ],
+    "height": 1.8121866089463907,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "07_police_male",
+    "position": [
+      -0.5,
+      0.09,
+      -65.5
+    ],
+    "height": 1.8064224475751796,
+    "groundDelta": -3.5762786898541066e-9,
+    "collisions": []
+  },
+  {
+    "id": "08_doctor_male",
+    "position": [
+      1.5,
+      0.09,
+      -65.5
+    ],
+    "height": 1.8023942425627337,
+    "groundDelta": -3.5762786898541066e-9,
+    "collisions": []
+  },
+  {
+    "id": "09_gardener_male",
+    "position": [
+      4,
+      0.09,
+      81.5
+    ],
+    "height": 1.8071422314537615,
+    "groundDelta": -0.002999987304210666,
+    "collisions": []
+  },
+  {
+    "id": "10_musician_male",
+    "position": [
+      -88,
+      0.09,
+      14
+    ],
+    "height": 1.8647799620520404,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "12_florist_female",
+    "position": [
+      -11,
+      0.09,
+      88.5
+    ],
+    "height": 1.7336963449174032,
+    "groundDelta": -3.5762786898541066e-9,
+    "collisions": []
+  },
+  {
+    "id": "11_chef_male",
+    "position": [
+      6,
+      0.09,
+      81.5
+    ],
+    "height": 1.8071435221903964,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "13_pastrychef_female",
+    "position": [
+      -1.5,
+      0.09,
+      95
+    ],
+    "height": 1.72821530091994,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "15_nurse_female",
+    "position": [
+      -11,
+      0.09,
+      -58
+    ],
+    "height": 1.7318731985272497,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "14_teacher_female",
+    "position": [
+      4.5,
+      0.09,
+      -67.5
+    ],
+    "height": 1.7394214340518999,
+    "groundDelta": -3.5762786898541066e-9,
+    "collisions": []
+  },
+  {
+    "id": "17_cafeowner_female",
+    "position": [
+      1.5,
+      0.09,
+      95
+    ],
+    "height": 1.739307546510852,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "16_librarian_female",
+    "position": [
+      0.5,
+      0.09,
+      -67
+    ],
+    "height": 1.7285150314731212,
+    "groundDelta": -0.002999987304210666,
+    "collisions": []
+  },
+  {
+    "id": "18_artist_female",
+    "position": [
+      -88,
+      0.09,
+      12
+    ],
+    "height": 1.7730331441228782,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "20_student_female",
+    "position": [
+      2.5,
+      0.09,
+      -67.5
+    ],
+    "height": 1.7339666090311174,
+    "groundDelta": -3.5762786898541066e-9,
+    "collisions": []
+  },
+  {
+    "id": "21_firefighter_male",
+    "position": [
+      70.5,
+      0.13,
+      80.5
+    ],
+    "height": 1.8533374484749061,
+    "groundDelta": 4.768371586472142e-9,
+    "collisions": []
+  },
+  {
+    "id": "19_vet_female",
+    "position": [
+      49,
+      0.09,
+      -15
+    ],
+    "height": 1.7343697452661337,
+    "groundDelta": -3.5762786898541066e-9,
+    "collisions": []
+  },
+  {
+    "id": "23_farmer_male",
+    "position": [
+      -91.5,
+      0.1,
+      86.5
+    ],
+    "height": 1.8096947166801645,
+    "groundDelta": -1.4901161138336505e-9,
+    "collisions": []
+  },
+  {
+    "id": "22_grocer_male",
+    "position": [
+      4.5,
+      0.09,
+      95
+    ],
+    "height": 1.8272120014819089,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "24_driver_male",
+    "position": [
+      70.5,
+      0.13,
+      78.5
+    ],
+    "height": 1.8154356886359715,
+    "groundDelta": 4.768371586472142e-9,
+    "collisions": []
+  },
+  {
+    "id": "25_hairdresser_male",
+    "position": [
+      -4.5,
+      0.09,
+      95
+    ],
+    "height": 1.8218934011620609,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "26_baker_male",
+    "position": [
+      -3,
+      0.09,
+      96
+    ],
+    "height": 1.8183910977230127,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "27_librarian_male",
+    "position": [
+      -11,
+      0.09,
+      -56
+    ],
+    "height": 1.8023922112354551,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "28_mechanic_male",
+    "position": [
+      -88,
+      0.09,
+      16
+    ],
+    "height": 1.8435871886391066,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "29_innkeeper_male",
+    "position": [
+      83,
+      0.13,
+      76
+    ],
+    "height": 1.8192362343605486,
+    "groundDelta": -0.0030000013113021806,
+    "collisions": []
+  },
+  {
+    "id": "30_florist_male",
+    "position": [
+      6.5,
+      0.09,
+      95
+    ],
+    "height": 1.8260234484567999,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "31_firefighter_female",
+    "position": [
+      81.5,
+      0.13,
+      75
+    ],
+    "height": 1.864961679920161,
+    "groundDelta": -0.0030000013113021806,
+    "collisions": []
+  },
+  {
+    "id": "32_grocer_female",
+    "position": [
+      -6.5,
+      0.09,
+      95
+    ],
+    "height": 1.7559911818212002,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "33_farmer_female",
+    "position": [
+      -89.5,
+      0.1,
+      86.5
+    ],
+    "height": 1.7208321532927704,
+    "groundDelta": -1.4901161138336505e-9,
+    "collisions": []
+  },
+  {
+    "id": "34_driver_female",
+    "position": [
+      69,
+      0.13,
+      79.5
+    ],
+    "height": 1.7351528147127413,
+    "groundDelta": 4.768371586472142e-9,
+    "collisions": []
+  },
+  {
+    "id": "35_hairdresser_female",
+    "position": [
+      -1.5,
+      0.09,
+      97
+    ],
+    "height": 1.7352751554022336,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "36_barista_female",
+    "position": [
+      3,
+      0.09,
+      96
+    ],
+    "height": 1.7410078942277,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "37_carpenter_female",
+    "position": [
+      -89,
+      0.09,
+      15
+    ],
+    "height": 1.77078992895822,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "38_postal_female",
+    "position": [
+      -0.5,
+      0.09,
+      -48
+    ],
+    "height": 1.7367978264282296,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "39_police_female",
+    "position": [
+      3,
+      0.09,
+      -47
+    ],
+    "height": 1.7380486513677826,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "40_doctor_female",
+    "position": [
+      5,
+      0.09,
+      -47
+    ],
+    "height": 1.7387510731430116,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "kanna",
+    "position": [
+      1.5,
+      0.09,
+      14
+    ],
+    "height": 1.4330282463966941,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "hai-qin-yan",
+    "position": [
+      -1.5,
+      0.09,
+      14
+    ],
+    "height": 1.725531991181557,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "xin-fragrance",
+    "position": [
+      -1.5,
+      0.09,
+      16
+    ],
+    "height": 1.7392499800624737,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "rui",
+    "position": [
+      4.5,
+      0.09,
+      14
+    ],
+    "height": 1.7520511485295365,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "xin",
+    "position": [
+      -4.5,
+      0.09,
+      16
+    ],
+    "height": 1.7430686982063932,
+    "groundDelta": -0.003000017106533054,
+    "collisions": []
+  },
+  {
+    "id": "01_cat_tabby",
+    "position": [
+      -88,
+      0.07,
+      -91
+    ],
+    "height": 0.51,
+    "groundDelta": -0.0029999914765357905,
+    "collisions": []
+  },
+  {
+    "id": "02_cat_calico",
+    "position": [
+      1,
+      0.09,
+      78
+    ],
+    "height": 0.51,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "03_cat_british_blue",
+    "position": [
+      68,
+      0.13,
+      49.5
+    ],
+    "height": 0.51,
+    "groundDelta": 4.768371586472142e-9,
+    "collisions": []
+  },
+  {
+    "id": "04_cat_siamese",
+    "position": [
+      1,
+      0.09,
+      -78
+    ],
+    "height": 0.51,
+    "groundDelta": -0.00300000220537186,
+    "collisions": []
+  },
+  {
+    "id": "05_cat_maine",
+    "position": [
+      -88,
+      0.07,
+      -92
+    ],
+    "height": 0.51,
+    "groundDelta": -0.0029999914765357905,
+    "collisions": []
+  },
+  {
+    "id": "06_dog_corgi",
+    "position": [
+      64,
+      0.044,
+      13
+    ],
+    "height": 0.61,
+    "groundDelta": 2.3841857654804954e-10,
+    "collisions": []
+  },
+  {
+    "id": "07_dog_shiba",
+    "position": [
+      63,
+      0.044,
+      11.5
+    ],
+    "height": 0.61,
+    "groundDelta": 2.3841857654804954e-10,
+    "collisions": []
+  },
+  {
+    "id": "08_dog_border",
+    "position": [
+      -63,
+      0,
+      61
+    ],
+    "height": 0.86,
+    "groundDelta": 0,
+    "collisions": []
+  },
+  {
+    "id": "09_dog_golden",
+    "position": [
+      65,
+      0.044,
+      11.5
+    ],
+    "height": 0.86,
+    "groundDelta": 2.3841857654804954e-10,
+    "collisions": []
+  },
+  {
+    "id": "10_dog_dachshund",
+    "position": [
+      -0.5,
+      0,
+      77
+    ],
+    "height": 0.61,
+    "groundDelta": 0,
+    "collisions": []
+  },
+  {
+    "id": "11_dog_poodle",
+    "position": [
+      67,
+      0.13,
+      48
+    ],
+    "height": 0.86,
+    "groundDelta": -0.0030000162124633745,
+    "collisions": []
+  },
+  {
+    "id": "16_rabbit_lop",
+    "position": [
+      -84,
+      0,
+      54
+    ],
+    "height": 0.32,
+    "groundDelta": 0,
+    "collisions": []
+  },
+  {
+    "id": "17_rabbit_dutch",
+    "position": [
+      -84,
+      0,
+      53
+    ],
+    "height": 0.32,
+    "groundDelta": 0,
+    "collisions": []
+  },
+  {
+    "id": "20_pony_shetland",
+    "position": [
+      -74,
+      0,
+      61
+    ],
+    "height": 1.5,
+    "groundDelta": 0,
+    "collisions": []
+  },
+  {
+    "id": "scenery-sparrow",
+    "position": [
+      87,
+      0,
+      -21
+    ],
+    "height": 0.13999999999999999,
+    "groundDelta": 0,
+    "collisions": []
+  },
+  {
+    "id": "scenery-duck",
+    "position": [
+      87,
+      0,
+      -22
+    ],
+    "height": 0.36,
+    "groundDelta": 0,
+    "collisions": []
+  }
+]

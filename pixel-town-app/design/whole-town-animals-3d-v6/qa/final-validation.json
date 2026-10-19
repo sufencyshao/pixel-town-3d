@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-18",
+  "status": "PASS",
+  "animals": 20,
+  "animalClips": 179,
+  "caretakerClips": 22,
+  "habitats": 11,
+  "nativeReopen": "PASS",
+  "animalRuleTests": 10,
+  "actualLocalInteractions": 54,
+  "browserChecks": 50,
+  "environmentStateTests": 23,
+  "protectedSources": {
+    "date": "2026-10-18",
+    "v5Files": 51,
+    "v5Changed": [],
+    "acheOriginalMatchesFrozenCopy": true,
+    "animalGlbsMatchFinalLibrary": true
+  },
+  "testedSourceHashes": {
+    "src/animal-simulation.js": "6f52de8729940f052ed681371c537c9967c03c388ca7df1886487f6cc1bf0de6",
+    "src/animal-world.js": "08234435a0a335717ad0b45c63e2f1590486bb235459b0ae044230fa1b9c7e25",
+    "template.html": "debf4c5f2c834fba2e84dc9d2abf3a2a4316126f222fd9f39e2b325a17641f95",
+    "viewer.bundle.js": "e9314d8e7c4840a704e7a76d539718bcaeb11ff14a24f839838c9af7aa156c3d",
+    "小镇动物生活-离线预览.html": "5848ebaeddefc81687173e578b82c16410a85b45cb6ceeaa3416afa34053c2be"
+  },
+  "nativeSha256": "84673e0878f8eccf581aac6a98f0d09ad320ad0e40c2b223e1156f33759ea91c",
+  "snapshotSha256": "6bae83adfd33a05f4480e72d24106e4969a2889fc77704ef244f01088b2e3997",
+  "previewBytes": 140190719,
+  "scope": "Independent 3D design preview; formal application, API and saves untouched."
+}

@@ -1,0 +1,165 @@
+{
+  "checks": [
+    {
+      "name": "bicolor-cat embedded bytes match original",
+      "pass": true
+    },
+    {
+      "name": "bicolor-cat geometry with textures",
+      "pass": true
+    },
+    {
+      "name": "bicolor-cat back",
+      "pass": true
+    },
+    {
+      "name": "bicolor-cat side",
+      "pass": true
+    },
+    {
+      "name": "bicolor-cat front",
+      "pass": true
+    },
+    {
+      "name": "dog-beagle-01 embedded bytes match original",
+      "pass": true
+    },
+    {
+      "name": "dog-beagle-01 geometry with textures",
+      "pass": true
+    },
+    {
+      "name": "dog-beagle-01 back",
+      "pass": true
+    },
+    {
+      "name": "dog-beagle-01 side",
+      "pass": true
+    },
+    {
+      "name": "dog-beagle-01 front",
+      "pass": true
+    },
+    {
+      "name": "dog-germanshepard-01 embedded bytes match original",
+      "pass": true
+    },
+    {
+      "name": "dog-germanshepard-01 geometry with textures",
+      "pass": true
+    },
+    {
+      "name": "dog-germanshepard-01 back",
+      "pass": true
+    },
+    {
+      "name": "dog-germanshepard-01 side",
+      "pass": true
+    },
+    {
+      "name": "dog-germanshepard-01 front",
+      "pass": true
+    },
+    {
+      "name": "bird-sparrow-01 embedded bytes match original",
+      "pass": true
+    },
+    {
+      "name": "bird-sparrow-01 geometry with textures",
+      "pass": true
+    },
+    {
+      "name": "bird-sparrow-01 back",
+      "pass": true
+    },
+    {
+      "name": "bird-sparrow-01 side",
+      "pass": true
+    },
+    {
+      "name": "bird-sparrow-01 front",
+      "pass": true
+    },
+    {
+      "name": "horse-brown-01 embedded bytes match original",
+      "pass": true
+    },
+    {
+      "name": "horse-brown-01 geometry with textures",
+      "pass": true
+    },
+    {
+      "name": "horse-brown-01 back",
+      "pass": true
+    },
+    {
+      "name": "horse-brown-01 side",
+      "pass": true
+    },
+    {
+      "name": "horse-brown-01 front",
+      "pass": true
+    },
+    {
+      "name": "bird-duck-male-01 embedded bytes match original",
+      "pass": true
+    },
+    {
+      "name": "bird-duck-male-01 geometry with textures",
+      "pass": true
+    },
+    {
+      "name": "bird-duck-male-01 back",
+      "pass": true
+    },
+    {
+      "name": "bird-duck-male-01 side",
+      "pass": true
+    },
+    {
+      "name": "bird-duck-male-01 front",
+      "pass": true
+    },
+    {
+      "name": "rabbit embedded bytes match original",
+      "pass": true
+    },
+    {
+      "name": "rabbit geometry with textures",
+      "pass": true
+    },
+    {
+      "name": "rabbit back",
+      "pass": true
+    },
+    {
+      "name": "rabbit side",
+      "pass": true
+    },
+    {
+      "name": "rabbit front",
+      "pass": true
+    },
+    {
+      "name": "cat native motion changes bone pose",
+      "pass": true
+    },
+    {
+      "name": "download exact cat original",
+      "pass": true
+    },
+    {
+      "name": "mobile no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "all seven work file offline",
+      "pass": true
+    },
+    {
+      "name": "no browser errors",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

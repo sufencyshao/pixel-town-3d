@@ -1,0 +1,2392 @@
+{
+  "residents": 45,
+  "passed": 360,
+  "total": 360,
+  "reports": [
+    {
+      "id": "01_hero_male",
+      "name": "阿澈",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.720848798751831,
+            "design": 1.76
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "02_hero_female",
+      "name": "小满",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5833497047424316,
+            "design": 1.62
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "03_barista_male",
+      "name": "林屿",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7474048137664795,
+            "design": 1.79
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "04_baker_male",
+      "name": "麦麦",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6536400318145752,
+            "design": 1.67
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "05_carpenter_male",
+      "name": "大森",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.8487577438354492,
+            "design": 1.88
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "06_postman_male",
+      "name": "小路",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.691087007522583,
+            "design": 1.73
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "07_police_male",
+      "name": "程正",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.8033188581466675,
+            "design": 1.84
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "08_doctor_male",
+      "name": "许衡",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7771453857421875,
+            "design": 1.82
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "09_gardener_male",
+      "name": "阿禾",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6915864944458008,
+            "design": 1.71
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "10_musician_male",
+      "name": "迟野",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7660505771636963,
+            "design": 1.81
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "11_chef_male",
+      "name": "陈锅",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6689785718917847,
+            "design": 1.7
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "12_florist_female",
+      "name": "花音",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5437735319137573,
+            "design": 1.58
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "13_pastrychef_female",
+      "name": "糖糖",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5168992280960083,
+            "design": 1.55
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "14_teacher_female",
+      "name": "温书",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6122430562973022,
+            "design": 1.65
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "15_nurse_female",
+      "name": "苏晴",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5639852285385132,
+            "design": 1.6
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "16_librarian_female",
+      "name": "知秋",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6027803421020508,
+            "design": 1.64
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "17_cafeowner_female",
+      "name": "沈知",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6513971090316772,
+            "design": 1.69
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "18_artist_female",
+      "name": "鹿眠",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.620538592338562,
+            "design": 1.66
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "19_vet_female",
+      "name": "安安",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5341112613677979,
+            "design": 1.57
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "20_student_female",
+      "name": "夏芽",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5915334224700928,
+            "design": 1.63
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "21_firefighter_male",
+      "name": "陆焰",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.8264291286468506,
+            "design": 1.86
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "22_grocer_male",
+      "name": "周籽",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7233669757843018,
+            "design": 1.74
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "23_farmer_male",
+      "name": "田伯",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6560606956481934,
+            "design": 1.68
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "24_driver_male",
+      "name": "韩途",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7457621097564697,
+            "design": 1.78
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "25_hairdresser_male",
+      "name": "银梳",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7885481119155884,
+            "design": 1.83
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "26_baker_male",
+      "name": "陶麦",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7038055658340454,
+            "design": 1.72
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "27_librarian_male",
+      "name": "书衡",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7137974500656128,
+            "design": 1.75
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "28_mechanic_male",
+      "name": "罗栓",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.8582103252410889,
+            "design": 1.89
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "29_innkeeper_male",
+      "name": "顾栈",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6966053247451782,
+            "design": 1.705
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "30_florist_male",
+      "name": "林苔",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7282410860061646,
+            "design": 1.77
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "31_firefighter_female",
+      "name": "岑灯",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7593926191329956,
+            "design": 1.8
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "32_grocer_female",
+      "name": "陆杏",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5610042810440063,
+            "design": 1.595
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "33_farmer_female",
+      "name": "禾青",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6440232992172241,
+            "design": 1.675
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "34_driver_female",
+      "name": "叶驰",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5802971124649048,
+            "design": 1.615
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "35_hairdresser_female",
+      "name": "卷云",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6153901815414429,
+            "design": 1.645
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "36_barista_female",
+      "name": "闻豆",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6846857070922852,
+            "design": 1.725
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "37_carpenter_female",
+      "name": "榆棠",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6585654020309448,
+            "design": 1.695
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "38_postal_female",
+      "name": "章铃",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.549478530883789,
+            "design": 1.585
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "39_police_female",
+      "name": "许巡",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.7140003442764282,
+            "design": 1.755
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "40_doctor_female",
+      "name": "余笙",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6269673109054565,
+            "design": 1.665
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "hai-qin-yan",
+      "name": "海琴烟",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.4308884143829346,
+            "design": 1.465
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "kanna",
+      "name": "康娜",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.1721100807189941,
+            "design": 1.2
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "rui",
+      "name": "锐",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.6943347454071045,
+            "design": 1.735
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "xin",
+      "name": "歆",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5292103290557861,
+            "design": 1.565
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    },
+    {
+      "id": "xin-fragrance",
+      "name": "馨",
+      "checks": [
+        {
+          "name": "65 bones on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "30 actions on native reopen",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Packed textures available",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "Finite native mesh with normalized weights",
+          "pass": true,
+          "info": []
+        },
+        {
+          "name": "Basis geometry matches native vertex geometry",
+          "pass": true,
+          "info": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Native skull height within 5cm of design",
+          "pass": true,
+          "info": {
+            "skullZ": 1.5679428577423096,
+            "design": 1.605
+          }
+        },
+        {
+          "name": "GLB imports as one65-bone rig",
+          "pass": true,
+          "info": null
+        },
+        {
+          "name": "GLB retains30 actions",
+          "pass": true,
+          "info": 30
+        }
+      ],
+      "failed": []
+    }
+  ]
+}

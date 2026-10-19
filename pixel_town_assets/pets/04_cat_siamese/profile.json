@@ -1,0 +1,61 @@
+{
+  "id": "04_cat_siamese",
+  "sprite": "04_cat_siamese",
+  "assetFolder": "pets/04_cat_siamese",
+  "kind": "animal",
+  "name": "浅墨",
+  "sex": "未指定",
+  "role": "猫",
+  "animal": {
+    "species": "猫",
+    "breed": "暹罗猫",
+    "coat": "奶油底深色重点色",
+    "bodySize": "小",
+    "scale": 0.46,
+    "rig": "cat",
+    "senses": "近地面视点，先根据气味、耳朵方向和移动物体定位，保留逃离路线；不读取人类文字或猜测人类动机。",
+    "behavior": "观察、短距离追逐、嗅闻、舔毛",
+    "allowedActions": [
+      "idle",
+      "walk",
+      "run",
+      "eat",
+      "drink",
+      "groom",
+      "rest",
+      "observe",
+      "sniff",
+      "flee",
+      "wag",
+      "pounce"
+    ],
+    "habitat": "图书馆院落",
+    "locomotion": "四足运动；禁止双足直立",
+    "speedFactor": 0.8,
+    "nonAnthropomorphic": true
+  },
+  "persona": {
+    "personality": "警觉，愿意探索",
+    "background": "在图书馆院落生活的暹罗猫个体",
+    "interests": "观察、短距离追逐、嗅闻、舔毛",
+    "speech": "仅自然叫声与姿态；不使用人类语言"
+  },
+  "presets": [
+    {
+      "id": "familiar",
+      "label": "熟悉环境",
+      "personality": "警觉，愿意探索",
+      "background": "已熟悉图书馆院落的气味与安全位置",
+      "interests": "可接近食物、同类线索与安全藏身处",
+      "speech": "仅物种自然声音与身体姿态"
+    },
+    {
+      "id": "cautious",
+      "label": "刚到新环境",
+      "personality": "警觉，接近刺激前先观察，允许躲藏与退让",
+      "background": "刚进入图书馆院落，逐渐建立安全感",
+      "interests": "熟悉照护者气味与退路",
+      "speech": "仅物种自然声音与身体姿态"
+    }
+  ]
+}

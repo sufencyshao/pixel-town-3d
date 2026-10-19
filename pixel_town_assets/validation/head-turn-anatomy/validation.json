@@ -1,0 +1,1052 @@
+{
+  "revision": "20261003-refusal-anatomy-v7",
+  "roles": 40,
+  "replacedClips": 40,
+  "frames": 1000,
+  "preservedFiles": 4784,
+  "backupFiles": 1600,
+  "errors": [],
+  "checks": [
+    {
+      "role": "01_hero_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2423,
+        2340
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 4161,
+      "bodyFixedFromY": 117,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "02_hero_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2317,
+        2313
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 7033,
+      "bodyFixedFromY": 121,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "03_barista_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2711,
+        2708
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 5722,
+      "bodyFixedFromY": 125,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "04_baker_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        4070,
+        4126
+      ],
+      "neutralFramesExact": false,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 2875,
+      "bodyFixedFromY": 146,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "05_carpenter_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2262,
+        2193
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 10536,
+      "bodyFixedFromY": 114,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "06_postman_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3370,
+        3397
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 7270,
+      "bodyFixedFromY": 132,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "07_police_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2794,
+        2809
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 8256,
+      "bodyFixedFromY": 122,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "08_doctor_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2949,
+        3017
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 3822,
+      "bodyFixedFromY": 130,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "09_gardener_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3071,
+        3138
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 7930,
+      "bodyFixedFromY": 128,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "10_musician_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2946,
+        3060
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 8126,
+      "bodyFixedFromY": 134,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "11_chef_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2075,
+        2146
+      ],
+      "neutralFramesExact": false,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 3099,
+      "bodyFixedFromY": 147,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "12_florist_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2151,
+        2374
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 8225,
+      "bodyFixedFromY": 173,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "13_pastrychef_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3163,
+        3415
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 4811,
+      "bodyFixedFromY": 146,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "14_teacher_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2737,
+        2728
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 4730,
+      "bodyFixedFromY": 127,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "15_nurse_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3224,
+        3237
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 4852,
+      "bodyFixedFromY": 147,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "16_librarian_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2198,
+        2250
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 6158,
+      "bodyFixedFromY": 111,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "17_cafeowner_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2096,
+        2141
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 6837,
+      "bodyFixedFromY": 126,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "18_artist_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3071,
+        3037
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 5656,
+      "bodyFixedFromY": 128,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "19_vet_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        4065,
+        4213
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 6070,
+      "bodyFixedFromY": 139,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "20_student_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2353,
+        2437
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 7068,
+      "bodyFixedFromY": 117,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "21_firefighter_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2661,
+        2534
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 11137,
+      "bodyFixedFromY": 127,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "22_grocer_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3157,
+        3047
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 9899,
+      "bodyFixedFromY": 134,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "23_farmer_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3593,
+        3617
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 12854,
+      "bodyFixedFromY": 137,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "24_driver_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3511,
+        3516
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 9401,
+      "bodyFixedFromY": 141,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "25_hairdresser_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3196,
+        3174
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 8928,
+      "bodyFixedFromY": 137,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "26_baker_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2928,
+        3031
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 11809,
+      "bodyFixedFromY": 130,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "27_librarian_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2995,
+        3037
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 10374,
+      "bodyFixedFromY": 133,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "28_mechanic_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2989,
+        2931
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 13001,
+      "bodyFixedFromY": 129,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "29_innkeeper_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2952,
+        3042
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 15054,
+      "bodyFixedFromY": 133,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "30_florist_male",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2830,
+        2892
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 27,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 9529,
+      "bodyFixedFromY": 145,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "31_firefighter_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        2884,
+        2827
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 12208,
+      "bodyFixedFromY": 126,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "32_grocer_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3288,
+        3305
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 9981,
+      "bodyFixedFromY": 131,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "33_farmer_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3881,
+        3898
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 1430,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 10731,
+      "bodyFixedFromY": 184,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "34_driver_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3647,
+        3685
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 8986,
+      "bodyFixedFromY": 137,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "35_hairdresser_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3608,
+        3684
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 8841,
+      "bodyFixedFromY": 139,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "36_barista_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3562,
+        4951
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 9631,
+      "bodyFixedFromY": 148,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "37_carpenter_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3366,
+        3360
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 11355,
+      "bodyFixedFromY": 131,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "38_postal_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3098,
+        3043
+      ],
+      "neutralFramesExact": false,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 83,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 11430,
+      "bodyFixedFromY": 128,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "39_police_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3157,
+        3250
+      ],
+      "neutralFramesExact": false,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 812,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 11058,
+      "bodyFixedFromY": 169,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    },
+    {
+      "role": "40_doctor_female",
+      "uniquePoses": 7,
+      "headSilhouettes": 7,
+      "crownChangedPixelsAtExtremes": [
+        3701,
+        3766
+      ],
+      "neutralFramesExact": true,
+      "visibleBodyMatchesUnderlay": true,
+      "originalUnderlayOutsideRepairsExact": true,
+      "neckOpeningOpaque": true,
+      "reconstructedBodyPixels": 0,
+      "garmentLandmarksExact": true,
+      "connectedNeckPhases": 25,
+      "fixedBodyOpaquePixels": 9218,
+      "bodyFixedFromY": 144,
+      "angleTargets": [
+        -30,
+        30
+      ],
+      "shakeCount": 2,
+      "activeDurationMs": 720,
+      "gifDurationMs": 1200,
+      "overviewDurationMs": 4080
+    }
+  ],
+  "humanApproval": "user signoff pending; production-side seven-pose review recorded separately"
+}

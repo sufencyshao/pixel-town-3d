@@ -1,0 +1,14 @@
+{
+  "zip": "完整小镇-现成人物与写实动物-V8.zip",
+  "bytes": 839160026,
+  "sha256": "8267ef8f9dc34c29b4cb9c27a06cc061fbf258325d011ca06307e6159ad1ea14",
+  "files": 140,
+  "zipFilesMatch": true,
+  "sourceHashesUnchanged": true,
+  "embeddedBytesMatch": true,
+  "people": 45,
+  "animals": 16,
+  "pendingIdentities": 6,
+  "browserChecks": 19,
+  "blenderReopened": true
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-18",
+  "status": "PASS",
+  "zip": "完整小镇-动物生活-V6.zip",
+  "bytes": 153561717,
+  "sha256": "b913cdba7e415e03b4886286ec34251c2dea2ca7488b5c2f87f0678b4523d003",
+  "entries": 178,
+  "crcAllPassed": true,
+  "fileSha256AllMatched": true,
+  "manifestSha256": "884e5685547ce8e8ada9fc5cdb50e9fad29b8ec0267df8cc4f19888470861500",
+  "elapsedSeconds": 5.31
+}

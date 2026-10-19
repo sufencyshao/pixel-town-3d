@@ -1,0 +1,382 @@
+{
+  "url": "http://127.0.0.1:8769/validation/wendou-joint/preview.html",
+  "checkedPhases": 25,
+  "quarterSpeedSelected": true,
+  "steps": [
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 0,
+      "readout": "第 1/25 帧 · 0.0° 回正"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_02.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_02.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 1,
+      "readout": "第 2/25 帧 · 15.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_03.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_03.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 2,
+      "readout": "第 3/25 帧 · 26.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_04.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_04.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 3,
+      "readout": "第 4/25 帧 · 30.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_03.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_03.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 4,
+      "readout": "第 5/25 帧 · 26.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_02.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_02.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 5,
+      "readout": "第 6/25 帧 · 15.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 6,
+      "readout": "第 7/25 帧 · 0.0° 回正"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_08.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_08.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 7,
+      "readout": "第 8/25 帧 · 15.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_09.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_09.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 8,
+      "readout": "第 9/25 帧 · 26.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_10.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_10.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 9,
+      "readout": "第 10/25 帧 · 30.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_09.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_09.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 10,
+      "readout": "第 11/25 帧 · 26.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_08.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_08.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 11,
+      "readout": "第 12/25 帧 · 15.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 12,
+      "readout": "第 13/25 帧 · 0.0° 回正"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_02.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_02.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 13,
+      "readout": "第 14/25 帧 · 15.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_03.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_03.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 14,
+      "readout": "第 15/25 帧 · 26.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_04.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_04.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 15,
+      "readout": "第 16/25 帧 · 30.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_03.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_03.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 16,
+      "readout": "第 17/25 帧 · 26.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_02.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_02.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 17,
+      "readout": "第 18/25 帧 · 15.0° 左转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 18,
+      "readout": "第 19/25 帧 · 0.0° 回正"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_08.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_08.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 19,
+      "readout": "第 20/25 帧 · 15.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_09.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_09.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 20,
+      "readout": "第 21/25 帧 · 26.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_10.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_10.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 21,
+      "readout": "第 22/25 帧 · 30.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_09.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_09.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 22,
+      "readout": "第 23/25 帧 · 26.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_08.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_08.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 23,
+      "readout": "第 24/25 帧 · 15.0° 右转"
+    },
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/production/wendou-joint-20261003/before/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:8769/characters/36_barista_female/animations/daily/shake_head/frame_01.png?v=20261003-wendou-joint-v1-4d7c306d4a96"
+        }
+      ],
+      "overflow": false,
+      "phase": 24,
+      "readout": "第 25/25 帧 · 0.0° 回正"
+    }
+  ]
+}

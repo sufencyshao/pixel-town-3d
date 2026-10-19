@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "count": 3,
+  "identities": [
+    {
+      "id": "23_farmer_male",
+      "name": "田伯",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 4,
+      "vertices": 1521,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "24_driver_male",
+      "name": "韩途",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 4,
+      "vertices": 1521,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "29_innkeeper_male",
+      "name": "顾栈",
+      "hairStyle": "swept",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 4,
+      "vertices": 1521,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    }
+  ],
+  "source": "Quaternius CC0 mature mesh topology + bespoke closed scalp, solid fringe/tails/braids/curls. Long hair currently rigid Head-bound."
+}

@@ -1,0 +1,71 @@
+{
+  "id": "26_baker_male",
+  "sprite": "26_baker_male",
+  "assetFolder": "characters/26_baker_male",
+  "kind": "human",
+  "name": "陶麦",
+  "sex": "男",
+  "role": "面包师",
+  "appearance": "棕肤、黑卷发、奶油围裙、蓝卷袖衫",
+  "persona": {
+    "personality": "安静、严谨",
+    "background": "擅长清晨备料和发酵记录，是麦麦的同行",
+    "interests": "酸面包、配方记录",
+    "speech": "慢热，谈配方时很认真"
+  },
+  "presets": [
+    {
+      "id": "settled",
+      "label": "扎根小镇",
+      "role": "面包师",
+      "personality": "安静、严谨",
+      "background": "擅长清晨备料和发酵记录，是麦麦的同行",
+      "interests": "酸面包、配方记录",
+      "speech": "慢热，谈配方时很认真"
+    },
+    {
+      "id": "newcomer",
+      "label": "新来的同行",
+      "role": "面包师",
+      "personality": "慢热、好奇、有边界",
+      "background": "刚搬来小镇的面包师，正在熟悉工作和邻里，希望结交能相互尊重的朋友。",
+      "interests": "酸面包、配方记录、探索街区",
+      "speech": "先倾听，熟悉后主动提问"
+    },
+    {
+      "id": "mentor",
+      "label": "经验伙伴",
+      "role": "面包师",
+      "personality": "耐心、务实、愿意分享",
+      "background": "有多年面包师经验，选择在小镇稳定生活，愿意指导新人但不替别人决定。",
+      "interests": "酸面包、配方记录、整理经验",
+      "speech": "以具体例子解释，给对方选择空间"
+    }
+  ],
+  "schedule": [
+    {
+      "time": "07:00",
+      "activity": "早餐与准备"
+    },
+    {
+      "time": "09:00",
+      "activity": "面包师日常工作"
+    },
+    {
+      "time": "12:00",
+      "activity": "午间休息"
+    },
+    {
+      "time": "14:00",
+      "activity": "工作与邻里事务"
+    },
+    {
+      "time": "18:00",
+      "activity": "酸面包、配方记录"
+    },
+    {
+      "time": "22:00",
+      "activity": "回家休息"
+    }
+  ]
+}

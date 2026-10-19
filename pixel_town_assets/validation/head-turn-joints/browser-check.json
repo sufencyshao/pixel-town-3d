@@ -1,0 +1,16 @@
+{
+  "url": "http://127.0.0.1:8769/validation/head-turn-joints/preview.html",
+  "cards": 40,
+  "images": 80,
+  "loaded": 80,
+  "broken": 0,
+  "sizes": [
+    "256×256"
+  ],
+  "overflow": false,
+  "viewport": [
+    1280,
+    720
+  ],
+  "proof": "browser-proof.jpg"
+}

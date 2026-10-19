@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": [
+    0.5,
+    0.90625
+  ],
+  "animations": {
+    "idle": {
+      "atlas": "animations/idle.png",
+      "gif": "animations/idle.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk": {
+      "atlas": "animations/walk.png",
+      "gif": "animations/walk.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_right": {
+      "atlas": "animations/walk_right.png",
+      "gif": "animations/walk_right.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_left": {
+      "atlas": "animations/walk_left.png",
+      "gif": "animations/walk_left.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_down": {
+      "atlas": "animations/walk_down.png",
+      "gif": "animations/walk_down.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_up": {
+      "atlas": "animations/walk_up.png",
+      "gif": "animations/walk_up.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "run": {
+      "atlas": "animations/run.png",
+      "gif": "animations/run.gif",
+      "frames": 16,
+      "frameMs": 60,
+      "loop": true
+    },
+    "eat": {
+      "atlas": "animations/eat.png",
+      "gif": "animations/eat.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "drink": {
+      "atlas": "animations/drink.png",
+      "gif": "animations/drink.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "groom": {
+      "atlas": "animations/groom.png",
+      "gif": "animations/groom.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "rest": {
+      "atlas": "animations/rest.png",
+      "gif": "animations/rest.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "observe": {
+      "atlas": "animations/observe.png",
+      "gif": "animations/observe.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "sniff": {
+      "atlas": "animations/sniff.png",
+      "gif": "animations/sniff.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "flee": {
+      "atlas": "animations/flee.png",
+      "gif": "animations/flee.gif",
+      "frames": 16,
+      "frameMs": 60,
+      "loop": true
+    },
+    "wag": {
+      "atlas": "animations/daily/wag.png",
+      "gif": "animations/daily/wag.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing cat pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/wag",
+      "humanApproval": "pending review of this new clip"
+    },
+    "pounce": {
+      "atlas": "animations/daily/pounce.png",
+      "gif": "animations/daily/pounce.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing cat pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/pounce",
+      "humanApproval": "pending review of this new clip"
+    },
+    "stretch": {
+      "atlas": "animations/daily/stretch.png",
+      "gif": "animations/daily/stretch.gif",
+      "frames": 8,
+      "frameMs": 160,
+      "loop": true,
+      "gifFrames": 8,
+      "source": "source/daily-tabby-poses.png",
+      "technique": "imagegen pose sheet; nearest-neighbour 64px logical grid; binary alpha; 32-color export",
+      "individualFrames": "animations/daily/stretch",
+      "humanApproval": "pending review of this new clip"
+    },
+    "sleep": {
+      "atlas": "animations/daily/sleep.png",
+      "gif": "animations/daily/sleep.gif",
+      "frames": 8,
+      "frameMs": 200,
+      "loop": true,
+      "gifFrames": 8,
+      "source": "source/daily-tabby-poses.png",
+      "technique": "imagegen pose sheet; nearest-neighbour 64px logical grid; binary alpha; 32-color export",
+      "individualFrames": "animations/daily/sleep",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "technique": "anatomical pixel rig; local phase cycles; original source atlas preserved",
+  "qualityNotes": [
+    "2D side-view animation; up/down movement shares side-view locomotion",
+    "Rest uses crouch approximation, not a separately painted sleeping pose"
+  ],
+  "sourceSHA256": {
+    "frame_01.png": "88ba141dd7c59129f9c6dba1ec3de1960542098f7c0de46fba782634e5f8efec",
+    "source/daily-tabby-poses.png": "a508b4ae2da5ca93dafc52e5bd1b89fa0612f10aa181df0ee803f42118c940f6"
+  },
+  "dailyActionExpansion": {
+    "version": "20261003-daily-v1",
+    "manifest": "animations/daily/manifest.json",
+    "actions": [
+      "wag",
+      "pounce",
+      "stretch",
+      "sleep"
+    ],
+    "humanApproval": "pending new-action review"
+  }
+}

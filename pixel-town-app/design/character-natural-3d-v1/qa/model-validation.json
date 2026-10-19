@@ -1,0 +1,335 @@
+{
+  "date": "2026-10-17",
+  "checks": [
+    {
+      "name": "native skeleton has 65 bones",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "native 19 actions",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "separate weighted clothes",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Idle finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Idle finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Idle finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Walk finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Walk finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Walk finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Wave finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Wave finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Wave finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Talk finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Talk finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Talk finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Run finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Run finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Run finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Crouch finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Crouch finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Crouch finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "CrouchWalk finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "CrouchWalk finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "CrouchWalk finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "SitDown finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "SitDown finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "SitDown finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Sit finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Sit finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Sit finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "StandUp finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "StandUp finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "StandUp finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "PickUp finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "PickUp finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "PickUp finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Work finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Work finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Work finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Dance finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Dance finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Dance finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Swim finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Swim finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Swim finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpStart finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpStart finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpStart finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpLoop finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpLoop finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpLoop finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpLand finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpLand finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpLand finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Nod finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Nod finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Nod finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "ShakeHead finite skeleton 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "ShakeHead finite skeleton 0.5",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "ShakeHead finite skeleton 1",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Blink Smile Talk shape targets",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "native textures packed",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "GLB roundtrip skeleton",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "GLB roundtrip 19 actions",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "all GLB mesh nodes skinned",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "GLB facial morph names",
+      "pass": true,
+      "info": null
+    }
+  ]
+}

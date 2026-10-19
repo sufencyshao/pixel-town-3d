@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": [
+    0.5,
+    0.90625
+  ],
+  "animations": {
+    "idle": {
+      "atlas": "animations/idle.png",
+      "gif": "animations/idle.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk": {
+      "atlas": "animations/walk.png",
+      "gif": "animations/walk.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_right": {
+      "atlas": "animations/walk_right.png",
+      "gif": "animations/walk_right.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_left": {
+      "atlas": "animations/walk_left.png",
+      "gif": "animations/walk_left.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_down": {
+      "atlas": "animations/walk_down.png",
+      "gif": "animations/walk_down.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "walk_up": {
+      "atlas": "animations/walk_up.png",
+      "gif": "animations/walk_up.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "eat": {
+      "atlas": "animations/eat.png",
+      "gif": "animations/eat.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "rest": {
+      "atlas": "animations/rest.png",
+      "gif": "animations/rest.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "observe": {
+      "atlas": "animations/observe.png",
+      "gif": "animations/observe.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "hide": {
+      "atlas": "animations/hide.png",
+      "gif": "animations/hide.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true
+    },
+    "bask": {
+      "atlas": "animations/daily/bask.png",
+      "gif": "animations/daily/bask.gif",
+      "frames": 16,
+      "frameMs": 130,
+      "loop": true,
+      "gifFrames": 15,
+      "source": "frame_01.png",
+      "technique": "existing tortoise pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/bask",
+      "humanApproval": "pending review of this new clip"
+    },
+    "forage": {
+      "atlas": "animations/daily/forage.png",
+      "gif": "animations/daily/forage.gif",
+      "frames": 16,
+      "frameMs": 130,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing tortoise pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/forage",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "technique": "anatomical pixel rig; local phase cycles; original source atlas preserved",
+  "qualityNotes": [
+    "2D side-view animation; up/down movement shares side-view locomotion",
+    "Rest uses crouch approximation, not a separately painted sleeping pose"
+  ],
+  "sourceSHA256": {
+    "frame_01.png": "bd1deea808d6d25c1b46189da0cc6a8abce81c8bfd56650c40117ad974923c7b"
+  },
+  "dailyActionExpansion": {
+    "version": "20261003-daily-v1",
+    "manifest": "animations/daily/manifest.json",
+    "actions": [
+      "bask",
+      "forage"
+    ],
+    "humanApproval": "pending new-action review"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "key": "hero",
+  "title": "主角泳池别墅",
+  "floors": 2,
+  "floorHeight": 3.25,
+  "slabThickness": 0.25,
+  "units": 1,
+  "building": [
+    12,
+    9
+  ],
+  "plot": [
+    24,
+    24
+  ],
+  "pool": [
+    3,
+    6
+  ],
+  "poolWaterDepth": 1.33,
+  "poolGardenPathWidth": 1.25,
+  "southeastGarden": "tree, mixed shrubs, flower drifts and ornamental grasses",
+  "vegetableBeds": 3,
+  "frontGardenAreas": 2,
+  "frontGardenStyle": "informal lawn, shrubs and mixed flowers; no rectangular beds",
+  "program": [
+    "一层：客厅、餐厨、书桌、卫生间",
+    "二层：主卧、客卧兼书房、卫生间、阳台",
+    "花园、露台、廊架、小泳池、后院菜园、入户道路两侧花园"
+  ],
+  "stairsPerFlight": 18,
+  "sceneTarget": [
+    0,
+    0,
+    2.8
+  ],
+  "scale": 30,
+  "meshObjects": 2054,
+  "triangles": 58564,
+  "degenerateTriangles": 0,
+  "bounds": [
+    24.051315307617188,
+    24.0,
+    9.545000195503235
+  ],
+  "unit": "metres",
+  "sha256": "409e857aaa18a3acfd305167216970e1844a616a94c484773b4eac5527992f75",
+  "blender": "5.2.2 LTS",
+  "status": "design-review",
+  "sourceAxes": {
+    "up": "+Z",
+    "front": "-Y"
+  },
+  "glbAxes": {
+    "up": "+Y",
+    "front": "+Z"
+  }
+}

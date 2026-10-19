@@ -1,0 +1,8 @@
+{
+  "role": "36_barista_female",
+  "source": "original normalized frame_01.png, viewed against original-neck-grid.png",
+  "fixedGarmentRects": [[119,125,124,129],[154,125,157,129],[127,128,130,132],[148,130,151,133]],
+  "fixedCentralJointRect": [126,128,153,140],
+  "previousSamplesRejected": [[110,126,113,129],[147,126,150,129]],
+  "reason": "Previous shoulder samples selected ponytail pixels and neck edges. Actual blue straps and cream collar are checked here independently of the compositor's moving mask. The original V neck and collar below row128 must be identical in every phase."
+}

@@ -1,0 +1,34 @@
+{
+  "role": "36_barista_female",
+  "name": "闻豆",
+  "revision": "20261003-wendou-joint-v1",
+  "supersedes": "v7 review missed the displaced neck and incorrect garment samples",
+  "uniquePosesReviewed": 7,
+  "phaseIndicesZeroBased": [
+    0,
+    1,
+    2,
+    3,
+    7,
+    8,
+    9
+  ],
+  "technicalPhasesChecked": 25,
+  "reviewMethod": "Viewed final-keyposes.png full sprites and neck crops for all seven unique poses; browser max-turn comparison at phases 3 and 9, quarter-speed playback and 25-step image-loading check. Repeated phases are verified by pixels, not claimed as 25 separate visual reviews.",
+  "frameSHA256": {
+    "characters/36_barista_female/animations/daily/shake_head/frame_01.png": "1e3e55599d6b7aec10c7942c83a49ad19592f5edf2aadf371be75526a2862921",
+    "characters/36_barista_female/animations/daily/shake_head/frame_02.png": "52d3ed46dda3d842ba43899b2dac2b10e8e87e5fbb27c3d490593d1be4fc5006",
+    "characters/36_barista_female/animations/daily/shake_head/frame_03.png": "c7514b9169c88601b18f1ae8f41bcd5e96efb85d64941c5e148b8fe4713c5ecc",
+    "characters/36_barista_female/animations/daily/shake_head/frame_04.png": "fd408345bed7535ec30f22ff11aedd93ba59137493f320dc7a1a5c867d2d2a13",
+    "characters/36_barista_female/animations/daily/shake_head/frame_08.png": "8806b7ab80316243e3384d5f1041c7e0bf07289cae7fca5bbfba45356fa7e9f9",
+    "characters/36_barista_female/animations/daily/shake_head/frame_09.png": "d22e413e2ddcec9d8dcb0806167ac4a1bf3e135c2eaf843fcd8623916b5f73c1",
+    "characters/36_barista_female/animations/daily/shake_head/frame_10.png": "2df869e4b2650cf86be621f8fefbbb1c21bb68b32d6df5348997f5bef44ac2e7"
+  },
+  "visualArtifactSHA256": {
+    "final-keyposes.png": "9a6c0e20df4c9cec737fe9903544017738bd0ef6d9896f62637971bef981e81a",
+    "browser-proof-negative.png": "de39e24d17dcef8566964065a7cb6a3ba5eb72713fa43773d9c11410146b6bf6",
+    "browser-proof-positive.png": "d2a6271644eead5fe7905b2ee8c1f851f302bbcc3b7dd4e2b868fd94b2813287"
+  },
+  "findings": "Neck root now follows the original V collar; original neck/collar rectangle is exact in all25 phases; real apron straps are fixed body pixels. Whole skull/hair source poses are reused.",
+  "userApproval": "pending for this corrective revision"
+}

@@ -1,0 +1,126 @@
+{
+  "status": "PASS",
+  "date": "2026-10-15",
+  "controls": {
+    "districts": [
+      {
+        "zone": "A",
+        "visible": 39,
+        "other": 0,
+        "roof": 0
+      },
+      {
+        "zone": "B",
+        "visible": 33,
+        "other": 0,
+        "roof": 0
+      },
+      {
+        "zone": "C",
+        "visible": 29,
+        "other": 0,
+        "roof": 0
+      },
+      {
+        "zone": "D",
+        "visible": 18,
+        "other": 0,
+        "roof": 0
+      },
+      {
+        "zone": "E",
+        "visible": 20,
+        "other": 0,
+        "roof": 0
+      },
+      {
+        "zone": "F",
+        "visible": 22,
+        "other": 0,
+        "roof": 0
+      },
+      {
+        "zone": "G",
+        "visible": 14,
+        "other": 0,
+        "roof": 0
+      },
+      {
+        "zone": "H",
+        "visible": 36,
+        "other": 0,
+        "roof": 0
+      },
+      {
+        "zone": "I",
+        "visible": 28,
+        "other": 0,
+        "roof": 0
+      }
+    ],
+    "floors": [
+      {
+        "zone": "A",
+        "floor": 2,
+        "mode": "interior"
+      },
+      {
+        "zone": "B",
+        "floor": 2,
+        "mode": "interior"
+      },
+      {
+        "zone": "C",
+        "floor": 5,
+        "mode": "interior"
+      },
+      {
+        "zone": "I",
+        "floor": 2,
+        "mode": "interior"
+      }
+    ],
+    "hiddenMarketAndCanopy": true
+  },
+  "offlineAndDownload": {
+    "download": {
+      "bytes": 85050380,
+      "sha256": "fb34fe215881a0c9991f394520f07394e9c85909ba566e2f0e6d5b4f09d0002a",
+      "expected": "fb34fe215881a0c9991f394520f07394e9c85909ba566e2f0e6d5b4f09d0002a"
+    },
+    "mobile": {
+      "overflow": false,
+      "canvas": {
+        "x": 0,
+        "y": -533.5,
+        "width": 390,
+        "height": 523.2734375,
+        "top": -533.5,
+        "right": 390,
+        "bottom": -10.2265625,
+        "left": 0
+      }
+    },
+    "offline": {
+      "parts": 465,
+      "title": "溪畔日常 · 完整小镇"
+    },
+    "errors": [],
+    "networkRequests": []
+  },
+  "notes": "Download Blob verified; OS download save not tested. Screenshots are static review evidence.",
+  "finalFraming": {
+    "viewportMobile": [
+      390,
+      844
+    ],
+    "viewportDesktop": [
+      1440,
+      1000
+    ],
+    "method": "Fit all eight bounding box corners to camera frustum",
+    "mobileOverflow": false,
+    "mobileAllTownInFrame": true,
+    "nineDistrictCutViewsRechecked": true
+  }
+}

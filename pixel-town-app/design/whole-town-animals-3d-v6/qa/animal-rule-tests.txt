@@ -1,0 +1,18 @@
+✔ navigation routes around blocked cells and forbids diagonal corner cutting (1.708875ms)
+✔ feeding has approach and completion, not an immediate status change (7.530583ms)
+✔ social interaction reserves two compatible animals and completes (3.240375ms)
+✔ fetch is limited to dogs and ball returns (3.703209ms)
+✔ bad weather interrupts play and starts shelter travel (1.549792ms)
+✔ pause freezes movement, needs, and interaction clocks (0.830709ms)
+✔ long activity remains finite and on legal habitat ground (6.040542ms)
+✔ cancel releases reservations and resets human task (0.753375ms)
+✔ friendly cat and dog can greet without chase play (2.462084ms)
+✔ a flight request in midair does not reset to an old perch (0.835833ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 71.026958

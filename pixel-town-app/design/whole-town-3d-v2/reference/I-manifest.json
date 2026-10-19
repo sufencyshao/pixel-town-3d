@@ -1,0 +1,419 @@
+{
+  "title": "I 到达与守护",
+  "date": "2026-10-14",
+  "corePlot": [
+    53.75,
+    55
+  ],
+  "inn": {
+    "id": "I01",
+    "center": [
+      -10.875,
+      10.5
+    ],
+    "size": [
+      23,
+      15
+    ],
+    "floors": 2,
+    "rooms": [
+      {
+        "id": "201",
+        "floor": 2,
+        "bounds": [
+          -18.0,
+          3.1,
+          -11.9,
+          9.24
+        ],
+        "door": [
+          -15.5,
+          9.3
+        ],
+        "ensuite": true
+      },
+      {
+        "id": "202",
+        "floor": 2,
+        "bounds": [
+          -11.9,
+          3.1,
+          -5.800000000000001,
+          9.24
+        ],
+        "door": [
+          -9.4,
+          9.3
+        ],
+        "ensuite": true
+      },
+      {
+        "id": "203",
+        "floor": 2,
+        "bounds": [
+          -5.800000000000001,
+          3.1,
+          0.29999999999999893,
+          9.24
+        ],
+        "door": [
+          -3.3000000000000007,
+          9.3
+        ],
+        "ensuite": true
+      },
+      {
+        "id": "204",
+        "floor": 2,
+        "bounds": [
+          -18.0,
+          11.76,
+          -11.9,
+          17.9
+        ],
+        "door": [
+          -15.5,
+          11.7
+        ],
+        "ensuite": true
+      },
+      {
+        "id": "205",
+        "floor": 2,
+        "bounds": [
+          -11.9,
+          11.76,
+          -5.800000000000001,
+          17.9
+        ],
+        "door": [
+          -9.4,
+          11.7
+        ],
+        "ensuite": true
+      },
+      {
+        "id": "206",
+        "floor": 2,
+        "bounds": [
+          -5.800000000000001,
+          11.76,
+          0.29999999999999893,
+          17.9
+        ],
+        "door": [
+          -3.3000000000000007,
+          11.7
+        ],
+        "ensuite": true
+      }
+    ],
+    "westEntrance": [
+      -22.375,
+      10.5
+    ],
+    "stairOpening": [
+      -22.15,
+      11.7,
+      -18.05,
+      17.75
+    ],
+    "risers": 20,
+    "riserHeight": 0.17,
+    "corridorWidth": 2.4
+  },
+  "fireStation": {
+    "id": "I02",
+    "center": [
+      -10.125,
+      -15.125
+    ],
+    "size": [
+      25,
+      12.75
+    ],
+    "bayDoors": [
+      [
+        2.265,
+        -18.2
+      ],
+      [
+        2.265,
+        -12.05
+      ]
+    ],
+    "bayClearWidth": 4.65,
+    "engines": 1,
+    "apron": [
+      2.375,
+      -21.5,
+      18.5,
+      -8.75
+    ],
+    "personnelDoor": [
+      -8.5,
+      -8.75
+    ]
+  },
+  "bus": {
+    "center": [
+      20.3,
+      14
+    ],
+    "length": 8.55,
+    "width": 2.52,
+    "boardingSide": "west",
+    "platform": [
+      15.5,
+      6,
+      18.5,
+      23
+    ]
+  },
+  "pathRects": [
+    [
+      -26.3,
+      -27.5,
+      -23.3,
+      -8.8
+    ],
+    [
+      -26.3,
+      -8.8,
+      -23.3,
+      -6
+    ],
+    [
+      -9.8,
+      -8.8,
+      -7.2,
+      -6
+    ],
+    [
+      -26.3,
+      -6,
+      -7.2,
+      -4
+    ],
+    [
+      -26.3,
+      -4,
+      -20.9,
+      -3
+    ],
+    [
+      4,
+      -4,
+      7,
+      -3
+    ],
+    [
+      -26.3,
+      -3,
+      17.5,
+      1
+    ],
+    [
+      -26.3,
+      1,
+      -23.3,
+      6
+    ],
+    [
+      4,
+      1,
+      7,
+      6
+    ],
+    [
+      -26.3,
+      6,
+      -23.3,
+      8.7
+    ],
+    [
+      4,
+      6,
+      18.5,
+      8.7
+    ],
+    [
+      -26.3,
+      8.7,
+      -23.3,
+      9.25
+    ],
+    [
+      4,
+      8.7,
+      7,
+      9.25
+    ],
+    [
+      15.5,
+      8.7,
+      18.5,
+      9.25
+    ],
+    [
+      -26.875,
+      9.25,
+      -22.3,
+      11.75
+    ],
+    [
+      4,
+      9.25,
+      7,
+      11.75
+    ],
+    [
+      15.5,
+      9.25,
+      18.5,
+      11.75
+    ],
+    [
+      -26.3,
+      11.75,
+      -23.3,
+      18
+    ],
+    [
+      4,
+      11.75,
+      7,
+      18
+    ],
+    [
+      15.5,
+      11.75,
+      18.5,
+      18
+    ],
+    [
+      -26.3,
+      18,
+      -23.3,
+      23
+    ],
+    [
+      -3,
+      18,
+      0,
+      23
+    ],
+    [
+      4,
+      18,
+      7,
+      23
+    ],
+    [
+      15.5,
+      18,
+      18.5,
+      23
+    ],
+    [
+      -26.3,
+      23,
+      17.5,
+      26
+    ],
+    [
+      -26.3,
+      26,
+      -23.3,
+      27.5
+    ],
+    [
+      4,
+      26,
+      7,
+      27.5
+    ]
+  ],
+  "vehicleRects": [
+    [
+      18.5,
+      -27.5,
+      26.875,
+      27.5
+    ],
+    [
+      2.375,
+      -21.5,
+      18.5,
+      -8.75
+    ]
+  ],
+  "pedestrianPortals": {
+    "westCommercial": [
+      -26.875,
+      10.5
+    ],
+    "northPark": [
+      5.5,
+      27.5
+    ],
+    "southWest": [
+      -24.8,
+      -27.5
+    ]
+  },
+  "groups": [
+    "Ground",
+    "Vehicle_Routes",
+    "Approach",
+    "Road_Markings",
+    "Paths",
+    "Inn_Entrance",
+    "Inn_Terrace",
+    "Inn_L01_Floor",
+    "Inn_L02_Floor",
+    "Inn_L01_South",
+    "Inn_L01_North",
+    "Inn_L01_West",
+    "Inn_L01_East",
+    "Inn_L02_South",
+    "Inn_L02_North",
+    "Inn_L02_West",
+    "Inn_L02_East",
+    "Inn_Roof",
+    "Inn_L01_Furniture",
+    "Inn_L01_Interior",
+    "Inn_Stair",
+    "Inn_L02_Rails",
+    "Inn_L02_Interior",
+    "Inn_L02_Furniture",
+    "Fire_Floor",
+    "Fire_South",
+    "Fire_North",
+    "Fire_West",
+    "Fire_East",
+    "Fire_Interior",
+    "Fire_Furniture",
+    "Fire_Markings",
+    "Fire_Roof",
+    "Fire_Engine",
+    "Fire_Threshold",
+    "Bus_Platform",
+    "Bus_Shelter",
+    "Bus_Roof",
+    "Bus_Stop",
+    "Shuttle_Bus",
+    "Planting",
+    "Street_Furniture",
+    "Wayfinding"
+  ],
+  "meshObjects": 2491,
+  "triangles": 106388,
+  "degenerateTriangles": 0,
+  "sha256": "7266f627e889db285fbf0d7f24752de7524a6f39f8f969d624fa37a65d979cea",
+  "blender": "5.2.2 LTS",
+  "units": "metres",
+  "sourceAxes": "Z up; north +Y",
+  "glbAxes": "Y up; north -Z",
+  "status": "design-review"
+}

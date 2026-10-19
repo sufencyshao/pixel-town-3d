@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "batch": "20261003-daily-v1",
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "animations": {
+    "wag": {
+      "atlas": "animations/daily/wag.png",
+      "gif": "animations/daily/wag.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing cat pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/wag",
+      "humanApproval": "pending review of this new clip"
+    },
+    "pounce": {
+      "atlas": "animations/daily/pounce.png",
+      "gif": "animations/daily/pounce.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing cat pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/pounce",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "sourceSHA256": {
+    "frame_01.png": "6b37858fc0a52013ac0e8ce5ff1c7578f5f4f8c9ebc1bc658e6abe2073de34d3"
+  }
+}

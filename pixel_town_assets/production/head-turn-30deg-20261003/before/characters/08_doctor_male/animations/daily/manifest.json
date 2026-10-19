@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "batch": "20261003-daily-v1",
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "animations": {
+    "nod": {
+      "atlas": "animations/daily/nod.png",
+      "gif": "animations/daily/nod.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/nod",
+      "humanApproval": "pending review of this new clip"
+    },
+    "shake_head": {
+      "atlas": "animations/daily/shake_head.png",
+      "gif": "animations/daily/shake_head.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 12,
+      "source": "frame_01.png",
+      "technique": "original directional head keyposes; horizontal yaw perspective; fixed frontal body; no head roll",
+      "individualFrames": "animations/daily/shake_head",
+      "humanApproval": "pending review of this new clip",
+      "sources": [
+        "frame_01.png",
+        "frame_04.png",
+        "frame_07.png"
+      ],
+      "headTurn": {
+        "revision": "20261003-shake-yaw-v2",
+        "cutY": 122,
+        "bodyFixedFromY": 122,
+        "hairRegions": {},
+        "yawKeySequence": [
+          0,
+          -1,
+          -2,
+          -3,
+          -3,
+          -3,
+          -2,
+          -1,
+          0,
+          1,
+          2,
+          3,
+          3,
+          3,
+          2,
+          1
+        ],
+        "leftProfilePhase": 3,
+        "rightProfilePhase": 11,
+        "registrations": {
+          "-1": {
+            "source": "frame_04.png",
+            "mirrored": false,
+            "trimBox": [
+              65,
+              13,
+              189,
+              243
+            ],
+            "sourceHeadCut": 112,
+            "scale": 0.9107142857142857,
+            "paste": [
+              69,
+              20
+            ]
+          },
+          "1": {
+            "source": "frame_07.png",
+            "mirrored": false,
+            "trimBox": [
+              74,
+              26,
+              181,
+              241
+            ],
+            "sourceHeadCut": 104,
+            "scale": 0.9807692307692307,
+            "paste": [
+              77,
+              20
+            ]
+          }
+        },
+        "rollDegrees": 0,
+        "verticalMotion": 0
+      }
+    },
+    "chat": {
+      "atlas": "animations/daily/chat.png",
+      "gif": "animations/daily/chat.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/chat",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "sourceSHA256": {
+    "frame_01.png": "15b72bedbf4688932fab3b745bb724d9013a0b89c4f9c12f41ec2c684dafe295",
+    "frame_04.png": "db0c745cabc9db5ce3b56f337b70ee7c94d79b7cf58e396fd97e0d73d7ea414b",
+    "frame_07.png": "7c1584ef9f691a45b9245bbb0e162ce7c70d1880147c4282dd4b34985f7cd4e3"
+  }
+}

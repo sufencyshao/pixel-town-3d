@@ -1,0 +1,61 @@
+{
+  "id": "10_dog_dachshund",
+  "sprite": "10_dog_dachshund",
+  "assetFolder": "pets/10_dog_dachshund",
+  "kind": "animal",
+  "name": "可栗",
+  "sex": "未指定",
+  "role": "狗",
+  "animal": {
+    "species": "狗",
+    "breed": "腊肠犬",
+    "coat": "巧克力棕短毛",
+    "bodySize": "小",
+    "scale": 0.5,
+    "rig": "dog",
+    "senses": "近地面视点，以可接近的气味线索和声响触发观察、嗅闻；熟悉与陌生气味分开。",
+    "behavior": "低头嗅地、短腿走动、摇尾、趴卧",
+    "allowedActions": [
+      "idle",
+      "walk",
+      "run",
+      "eat",
+      "drink",
+      "groom",
+      "rest",
+      "observe",
+      "sniff",
+      "flee",
+      "wag",
+      "stretch"
+    ],
+    "habitat": "商业街庭院",
+    "locomotion": "四足运动；禁止双足直立",
+    "speedFactor": 0.8,
+    "nonAnthropomorphic": true
+  },
+  "persona": {
+    "personality": "好奇，喜欢低处气味",
+    "background": "在商业街庭院生活的腊肠犬个体",
+    "interests": "低头嗅地、短腿走动、摇尾、趴卧",
+    "speech": "仅自然叫声与姿态；不使用人类语言"
+  },
+  "presets": [
+    {
+      "id": "familiar",
+      "label": "熟悉环境",
+      "personality": "好奇，喜欢低处气味",
+      "background": "已熟悉商业街庭院的气味与安全位置",
+      "interests": "可接近食物、同类线索与安全藏身处",
+      "speech": "仅物种自然声音与身体姿态"
+    },
+    {
+      "id": "cautious",
+      "label": "刚到新环境",
+      "personality": "警觉，接近刺激前先观察，允许躲藏与退让",
+      "background": "刚进入商业街庭院，逐渐建立安全感",
+      "interests": "熟悉照护者气味与退路",
+      "speech": "仅物种自然声音与身体姿态"
+    }
+  ]
+}

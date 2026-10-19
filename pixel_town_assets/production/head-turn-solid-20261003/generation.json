@@ -1,0 +1,1006 @@
+{
+  "provider": "built-in imagegen",
+  "revision": "20261003-refusal-whole-head-v5",
+  "characters": [
+    {
+      "id": "01_hero_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/01_hero_male/front-reference.png",
+        "production/head-turn-solid-20261003/01_hero_male/left-reference.png",
+        "production/head-turn-solid-20261003/01_hero_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/01_hero_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-58277179-bf28-42e9-8cf9-200606d1e530.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/01_hero_male/generated-head-poses.png",
+      "productionSource": "characters/01_hero_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/01_hero_male/front-reference.png": "40e2a7353379a5a62ea4a5b6b3b2a4da19275f33b996adaabc3b1e741543efe4",
+        "production/head-turn-solid-20261003/01_hero_male/left-reference.png": "202ba3d71bb18c622b3c0e4609c732e012e60cf1ad43ce169f4b19ba49e7d57d",
+        "production/head-turn-solid-20261003/01_hero_male/right-reference.png": "7c3729d2e906b96f559f4446c47479aaa7ef8ca55dcea37d80e85c7deced6a08"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "89dadf65b412c2672cd93e6cd706b8483f3cc406df3a669fc5cb3cb6781da146",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "02_hero_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/02_hero_female/front-reference.png",
+        "production/head-turn-solid-20261003/02_hero_female/left-reference.png",
+        "production/head-turn-solid-20261003/02_hero_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/02_hero_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-55ea1afd-348f-4d60-80e9-00ddb62c30e8.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/02_hero_female/generated-head-poses.png",
+      "productionSource": "characters/02_hero_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/02_hero_female/front-reference.png": "494442b259dc6c1f8af4880ff13067fd48904b8721c6d1a7bf8d8eb979dd3b79",
+        "production/head-turn-solid-20261003/02_hero_female/left-reference.png": "8476a6ff46f500d2cf927a6005120520de6de0547967aeca652fe9778944486e",
+        "production/head-turn-solid-20261003/02_hero_female/right-reference.png": "f829ea52c8d75c5efef4f9c5b149e00b1e4587607298b4a316107311cde01ad9"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "62c42ce735f02edda913643327480ccc7df5658b0b079079c78a5f1affacaa26",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "03_barista_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/03_barista_male/front-reference.png",
+        "production/head-turn-solid-20261003/03_barista_male/left-reference.png",
+        "production/head-turn-solid-20261003/03_barista_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/03_barista_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-26ed54a4-88d2-46e6-80f1-988fe0e933bb.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/03_barista_male/generated-head-poses.png",
+      "productionSource": "characters/03_barista_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/03_barista_male/front-reference.png": "6b24f19200d6aa6e7c9f50e008c53130bfa682051a526cc1522de45a155671cf",
+        "production/head-turn-solid-20261003/03_barista_male/left-reference.png": "1a47404ba0371525756ecf7d9b898f2f7aa65b30cf0fc45b79a3f99c5ba99341",
+        "production/head-turn-solid-20261003/03_barista_male/right-reference.png": "c52a595b486d9a18081a433e4f298d06f6d984a182ca7876e47e03ce4247963c"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "efcddd46af5bf7a7ff490b71e36fdd2e35a1a4fc04d6c1a6fb29606a0d47b207",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "04_baker_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/04_baker_male/front-reference.png",
+        "production/head-turn-solid-20261003/04_baker_male/left-reference.png",
+        "production/head-turn-solid-20261003/04_baker_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/04_baker_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-e88017a6-3ce4-4518-b49e-29afed9e1b47.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/04_baker_male/generated-head-poses.png",
+      "productionSource": "characters/04_baker_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/04_baker_male/front-reference.png": "c0519123a32f0957018c6e4f54d581482ea3ad611a9d4f8572273be166e955e6",
+        "production/head-turn-solid-20261003/04_baker_male/left-reference.png": "dc68468368ac60190b017e9d1c796d9110c6a9824047fc71bd2e6b32d9305dfc",
+        "production/head-turn-solid-20261003/04_baker_male/right-reference.png": "72e79ac9adc9b59cfea43a08c9acda95a6cd57189829e410624a3a37b8cea166"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "446ee4a7a643b51f542c214e6db74e14ec7ddf644008fc7c8d5f86f0c1630087",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "05_carpenter_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/05_carpenter_male/front-reference.png",
+        "production/head-turn-solid-20261003/05_carpenter_male/left-reference.png",
+        "production/head-turn-solid-20261003/05_carpenter_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/05_carpenter_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-a6ea317e-ee0c-40bf-9423-9d69787a1abd.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/05_carpenter_male/generated-head-poses.png",
+      "productionSource": "characters/05_carpenter_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/05_carpenter_male/front-reference.png": "9a13e9b38c5985a978ee9179481a5e499ebcfcb81d8d9eb495aaf7cf6aae0f28",
+        "production/head-turn-solid-20261003/05_carpenter_male/left-reference.png": "eec2ac81593af1f30726fb0acd1134bb2a1ee21af18b8b485c32753cfa1e4fb2",
+        "production/head-turn-solid-20261003/05_carpenter_male/right-reference.png": "1c985150df4e2640051f78f3343e634c5402d752cb5878ac0d0f396be9ed3d76"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "5d61d3eaf03e5c66b2edc8c69c31cd105e5fb1be83ef7b86fc1701dbf956d53a",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "06_postman_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/06_postman_male/front-reference.png",
+        "production/head-turn-solid-20261003/06_postman_male/left-reference.png",
+        "production/head-turn-solid-20261003/06_postman_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/06_postman_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-2a2134af-00a7-49f7-8111-c62e91d81361.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/06_postman_male/generated-head-poses.png",
+      "productionSource": "characters/06_postman_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/06_postman_male/front-reference.png": "ed16b7f7954cf6fc9ed6159e347039b8fbad51b23f29ebef34bf7408850f7745",
+        "production/head-turn-solid-20261003/06_postman_male/left-reference.png": "0d7992a051746ab759a912cafb85024456ebab4aa156e68f7ed5589ca37d14f0",
+        "production/head-turn-solid-20261003/06_postman_male/right-reference.png": "72fb3a059adf1b182de4e5a93f4b9f39cc68b78056535c6394843cd9cc09f837"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "e067a38f193fa742d43c6ac7813ead19c79f9c3d99c2d269b0fbad22d885a420",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "07_police_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/07_police_male/front-reference.png",
+        "production/head-turn-solid-20261003/07_police_male/left-reference.png",
+        "production/head-turn-solid-20261003/07_police_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/07_police_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-5f09ce27-d76f-4afc-8f2c-9103d8948473.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/07_police_male/generated-head-poses.png",
+      "productionSource": "characters/07_police_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/07_police_male/front-reference.png": "52ee60271c82519edbee63f1eeb1d8c460a6da20c15658c8b53189e716914341",
+        "production/head-turn-solid-20261003/07_police_male/left-reference.png": "7e5c770cfafc1435986d82d48dd274f23a76e7c67d0683d52644db64df99c38f",
+        "production/head-turn-solid-20261003/07_police_male/right-reference.png": "8287021bb418b23c61eb5d68cf91016657372fff368d21935aced5d1ef909107"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "d05584de9574b7da5ec5d5f3042a12f0ecfc15ee9eadc5e5d577509d66f727d4",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "08_doctor_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/08_doctor_male/front-reference.png",
+        "production/head-turn-solid-20261003/08_doctor_male/left-reference.png",
+        "production/head-turn-solid-20261003/08_doctor_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/08_doctor_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-0980abab-dff7-46e3-968a-bfcd7fdfeb8e.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/08_doctor_male/generated-head-poses.png",
+      "productionSource": "characters/08_doctor_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/08_doctor_male/front-reference.png": "51afd0f1a9250cfa1d30b3a129c1617657d718676ab71ce2faaa0e87a54f8693",
+        "production/head-turn-solid-20261003/08_doctor_male/left-reference.png": "77ace10c5b1eae53e9ebc4d2105c56d4ad3e7e6298b46517566211ad3d179de8",
+        "production/head-turn-solid-20261003/08_doctor_male/right-reference.png": "c79d158bd952cd6cefb43d29952d83957b3121beec6e6d73b07e15d216ec1545"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "340814a0b4321034787d468f6e3984fdf92ab7631879d9f2a1f9aaaa902d9723",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "09_gardener_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/09_gardener_male/front-reference.png",
+        "production/head-turn-solid-20261003/09_gardener_male/left-reference.png",
+        "production/head-turn-solid-20261003/09_gardener_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/09_gardener_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-d69c5bde-c7a7-4b23-b36c-588fd14b9cd5.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/09_gardener_male/generated-head-poses.png",
+      "productionSource": "characters/09_gardener_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/09_gardener_male/front-reference.png": "871923feaf7d1eaaa0ee97cbd625717e811429a2e328e7ee354a57d93be9eba3",
+        "production/head-turn-solid-20261003/09_gardener_male/left-reference.png": "72d5814df65fe20e8a65d027b9d6d1360674b582b924476de3edaf03cd272748",
+        "production/head-turn-solid-20261003/09_gardener_male/right-reference.png": "3c72e2d3dbf4210b607a6450cd1f924931d682192c9b8007499065ece230f548"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "945e19b6447b08db67e5c45dbe4f171178617ba7e6eef3d5deb312f2ed2b857b",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "10_musician_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/10_musician_male/front-reference.png",
+        "production/head-turn-solid-20261003/10_musician_male/left-reference.png",
+        "production/head-turn-solid-20261003/10_musician_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/10_musician_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-9922e189-098d-4752-a08f-9e94b4f2ede4.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/10_musician_male/generated-head-poses.png",
+      "productionSource": "characters/10_musician_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/10_musician_male/front-reference.png": "7085ce00ece9bfaaa4ef1130b43a7168bce886fd9fab7cc72e70d63b580e0aff",
+        "production/head-turn-solid-20261003/10_musician_male/left-reference.png": "be9ab88948c5d47f025df9d31c1941ce7abcb74c335ec1c1f37c08d01ac79b0f",
+        "production/head-turn-solid-20261003/10_musician_male/right-reference.png": "71ee523425bdaad6808e1ec2fa179f6267068fe22daaeb004841678be0266835"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "dbfc2d4be6c650236f4ec478e1fda9d1b86824aff78d747b22023909304dfbe4",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "11_chef_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/11_chef_male/front-reference.png",
+        "production/head-turn-solid-20261003/11_chef_male/left-reference.png",
+        "production/head-turn-solid-20261003/11_chef_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/11_chef_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-35ed1502-5cd1-4dd4-a756-4e3ab92d163d.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/11_chef_male/generated-head-poses.png",
+      "productionSource": "characters/11_chef_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/11_chef_male/front-reference.png": "74ce872fcbf5d79b27c0a341c0267ac436b4316c611ebcfc88579f8058e4f8bc",
+        "production/head-turn-solid-20261003/11_chef_male/left-reference.png": "a611013db2ee32036f702f342e04edad350a56e11e84eac6be126ef85a1bd816",
+        "production/head-turn-solid-20261003/11_chef_male/right-reference.png": "24161f67dd0f7babb45f6f18833bf282f4ea1b469f8fa93533cabf4e5eac7921"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "df9fd2ce4f6a9ee10cd984437c632deb51feb4f83cecdb4b8b2eabf570a2b55e",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "12_florist_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/12_florist_female/front-reference.png",
+        "production/head-turn-solid-20261003/12_florist_female/left-reference.png",
+        "production/head-turn-solid-20261003/12_florist_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/12_florist_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-24315ca5-d544-432b-84a8-05a38c239bd6.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/12_florist_female/generated-head-poses.png",
+      "productionSource": "characters/12_florist_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/12_florist_female/front-reference.png": "b2c8a4f219f101b6bf96c790ceb25cc8ef119e2a999524ef7a635c6636c6a478",
+        "production/head-turn-solid-20261003/12_florist_female/left-reference.png": "a5798a136cff484886c04d566f0cd34b9a873666f3f4e09d692ad500ed50403d",
+        "production/head-turn-solid-20261003/12_florist_female/right-reference.png": "b38bcfc0138634243190c9c1bf0de531d652f4b93e0eff031942ab623f76572a"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "391f9c2d0fb845996c6c348d7570763dfe1a3c1288b625ad603e123093bc54c9",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "13_pastrychef_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/13_pastrychef_female/front-reference.png",
+        "production/head-turn-solid-20261003/13_pastrychef_female/left-reference.png",
+        "production/head-turn-solid-20261003/13_pastrychef_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/13_pastrychef_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-18680372-45a9-490a-bd43-4606fcca2a2c.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/13_pastrychef_female/generated-head-poses.png",
+      "productionSource": "characters/13_pastrychef_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/13_pastrychef_female/front-reference.png": "6fa4f39c727041a776ef008691eb3efba250be2a42fce4c6a749241a027fbe9d",
+        "production/head-turn-solid-20261003/13_pastrychef_female/left-reference.png": "7079d05d8f1bcc8ffc4a738fac95dd67a25ab7e5820440d7c353ae39041ac296",
+        "production/head-turn-solid-20261003/13_pastrychef_female/right-reference.png": "0a6f90495400e58daa3ba30369c93ed3c2ccaab523b37b9471e8c68778d6dbe0"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "f644e05c4ff61d54c3589a0f44624c1d1b980580592da1f08a9fc33a782f88ae",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "14_teacher_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/14_teacher_female/front-reference.png",
+        "production/head-turn-solid-20261003/14_teacher_female/left-reference.png",
+        "production/head-turn-solid-20261003/14_teacher_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/14_teacher_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-567bfb8c-6685-4895-abca-3918d80d9645.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/14_teacher_female/generated-head-poses.png",
+      "productionSource": "characters/14_teacher_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/14_teacher_female/front-reference.png": "d01c33bb8360d8f890525eb30913d7d6ae531d33c2179d124424462137c9c88f",
+        "production/head-turn-solid-20261003/14_teacher_female/left-reference.png": "4709987f3d5cd725b9ab4227e5fe88efd3d3d1018081f0ecc6d69dff4a87cd03",
+        "production/head-turn-solid-20261003/14_teacher_female/right-reference.png": "13f41fdda3574bfd30febbddc56f18285852066cce9e5981250258e7e8913783"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "41a1aa0c74ed35a3fa9d5ef1e14b31d751ef84049a32fcecc89cd49ceb023953",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "15_nurse_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/15_nurse_female/front-reference.png",
+        "production/head-turn-solid-20261003/15_nurse_female/left-reference.png",
+        "production/head-turn-solid-20261003/15_nurse_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/15_nurse_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-a4f00122-6937-49e3-9d56-62ddfba7b47f.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/15_nurse_female/generated-head-poses.png",
+      "productionSource": "characters/15_nurse_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/15_nurse_female/front-reference.png": "d8acb7ded0c6a66fae42181408ac0a552890e36eea262f00951e99cb91c15b3d",
+        "production/head-turn-solid-20261003/15_nurse_female/left-reference.png": "5e1db7993df2f947e595df504fe886efa02fcfe203fc42097772806ce6918a72",
+        "production/head-turn-solid-20261003/15_nurse_female/right-reference.png": "aee58a067ada084ad404acac0c56df18fc717885c619ccfbd50eb5c6639d2596"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "c2fa7a993693a83dad0c59d9ba7a22dbb7319b204db269b6075572a62587e18f",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "16_librarian_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/16_librarian_female/front-reference.png",
+        "production/head-turn-solid-20261003/16_librarian_female/left-reference.png",
+        "production/head-turn-solid-20261003/16_librarian_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/16_librarian_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-63242a21-9439-4eb0-8e28-45d72b073f86.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/16_librarian_female/generated-head-poses.png",
+      "productionSource": "characters/16_librarian_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/16_librarian_female/front-reference.png": "19496f564c6ecf54cda7d94ce9d30be801c9fc761a3f90797f7655df26ae5658",
+        "production/head-turn-solid-20261003/16_librarian_female/left-reference.png": "a53fd8bfb0f525028986b9cc1b7c1dc90d7482e0378b5e127bca1f6bfd076cdb",
+        "production/head-turn-solid-20261003/16_librarian_female/right-reference.png": "adb36ac6a4d5789e7230fb441254b14b929c2e30860a6f3ae50d937bd614a633"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "c4322c0615a87b5999b453617eac64f3ecf82febcfaa05bc9ff0ce3540705bf0",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "17_cafeowner_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/17_cafeowner_female/front-reference.png",
+        "production/head-turn-solid-20261003/17_cafeowner_female/left-reference.png",
+        "production/head-turn-solid-20261003/17_cafeowner_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/17_cafeowner_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-2452f0fe-3414-4556-b428-9faf17ffc687.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/17_cafeowner_female/generated-head-poses.png",
+      "productionSource": "characters/17_cafeowner_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/17_cafeowner_female/front-reference.png": "99083726d52d76003596b7888df20f638af2c9cd1cf63e320360670a5fd41abc",
+        "production/head-turn-solid-20261003/17_cafeowner_female/left-reference.png": "a8697b9241f0605abaca094ff3804f16b18d782fdf0e671f450e1fff0a2f652f",
+        "production/head-turn-solid-20261003/17_cafeowner_female/right-reference.png": "97894b763c6f8aa19ca2500fdfbe408be3186dfac8ba1ecad5ec17ed8320e5bd"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "b2d2be74c9c5fb978d72a930e157c88cdd6b8b306f14c03c9f81eb8738c9e00c",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "18_artist_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/18_artist_female/front-reference.png",
+        "production/head-turn-solid-20261003/18_artist_female/left-reference.png",
+        "production/head-turn-solid-20261003/18_artist_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/18_artist_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-04aca641-3569-47da-a7a8-f00bc4b38cfc.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/18_artist_female/generated-head-poses.png",
+      "productionSource": "characters/18_artist_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/18_artist_female/front-reference.png": "c630c1afb9b5653f5d9e4c8abc3ccbc4961201056097ae91e6c74b8c03f1228f",
+        "production/head-turn-solid-20261003/18_artist_female/left-reference.png": "a969f5e0c6aa829c333e0fe074fee333c757cbba94f7853725b5a88479a24f20",
+        "production/head-turn-solid-20261003/18_artist_female/right-reference.png": "72d20707b020745b0d32326e98583e9cae36a534b6f034854cda9541c97da47d"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "45bc7d8297b90a6b14499777abe5c0f86244f9ac4be22c5ae8fd1fdd9db83eb0",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "19_vet_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/19_vet_female/front-reference.png",
+        "production/head-turn-solid-20261003/19_vet_female/left-reference.png",
+        "production/head-turn-solid-20261003/19_vet_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/19_vet_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-2cac8366-86ba-4b4f-9406-db3ae6209063.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/19_vet_female/generated-head-poses.png",
+      "productionSource": "characters/19_vet_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/19_vet_female/front-reference.png": "8fa7814cb745ddf3835407879b31b24e0752136d6eab8e2837c9e51199202a5f",
+        "production/head-turn-solid-20261003/19_vet_female/left-reference.png": "90a04701d4ec6bed58ec83c3769c8e02192e35c16663c45d2a25cf317b4ed009",
+        "production/head-turn-solid-20261003/19_vet_female/right-reference.png": "1e1767ff70b98b4ac133447b1cd2f150f30ed4d0253f0a91af237a01fb1822d2"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "50a8532b385ba88f88d4a5d83260d972e79bb8785e92b24217e3ebf7da119ef8",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "20_student_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/20_student_female/front-reference.png",
+        "production/head-turn-solid-20261003/20_student_female/left-reference.png",
+        "production/head-turn-solid-20261003/20_student_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/20_student_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-8c8e63db-6de6-4b97-8b2a-c1bfc48a5bb4.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/20_student_female/generated-head-poses.png",
+      "productionSource": "characters/20_student_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/20_student_female/front-reference.png": "8a6e89b11f8e00300328afca96a41e1af5c5ad105d9e12e0c6a857399f53dc27",
+        "production/head-turn-solid-20261003/20_student_female/left-reference.png": "2f8f45b238426f51059dc163d75fa14539beada8bd1b7f89597be62e47490bd8",
+        "production/head-turn-solid-20261003/20_student_female/right-reference.png": "089a1ae3103bf9a1d0c6f38624ecf014be15ed33bd8c1202e3944c7e0164acbe"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "b777882287a3342fe2f734efc01312984cf4323dd6a791437dc29cb89b0ee384",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "21_firefighter_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/21_firefighter_male/front-reference.png",
+        "production/head-turn-solid-20261003/21_firefighter_male/left-reference.png",
+        "production/head-turn-solid-20261003/21_firefighter_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/21_firefighter_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-3393996d-72cb-48ec-9704-40604671a19f.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/21_firefighter_male/generated-head-poses.png",
+      "productionSource": "characters/21_firefighter_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/21_firefighter_male/front-reference.png": "a04fd1e1e27f5152daff087d96a0623abdbacaeb0b4a5f52dcad7ff5894162d5",
+        "production/head-turn-solid-20261003/21_firefighter_male/left-reference.png": "21feb9d5428be046d2680a7d8989c0b4d606a41ac2537fde906569cdc162d1f1",
+        "production/head-turn-solid-20261003/21_firefighter_male/right-reference.png": "cbedd978ef8943cc1f72ea04cf148c6ba47fba45532f803d295fefd3e7a2a6f8"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "646e293be17301901dd34f9f52e178b0384b95276c3178ff1a10049e714afe15",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "22_grocer_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/22_grocer_male/front-reference.png",
+        "production/head-turn-solid-20261003/22_grocer_male/left-reference.png",
+        "production/head-turn-solid-20261003/22_grocer_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/22_grocer_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-71eeee49-16b2-44fb-ab5f-5556e1749bca.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/22_grocer_male/generated-head-poses.png",
+      "productionSource": "characters/22_grocer_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/22_grocer_male/front-reference.png": "18d2f0c59658a30c0d9d4c0f01a7ea48096435a5a9b5cf41a7840da1270e566f",
+        "production/head-turn-solid-20261003/22_grocer_male/left-reference.png": "cedd0b81b0e9798a63361225dae5f27daae3afb8c4892e87a1ce08a8c8ee10b1",
+        "production/head-turn-solid-20261003/22_grocer_male/right-reference.png": "1b1767a083dc2dcec4ccec2142f9e67754a74c38993fde243f89ef5d72a57a49"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "3e85567073597b839c4cb00d386af000bcc4855531279808b9d9d8a2dc80a30c",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "23_farmer_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/23_farmer_male/front-reference.png",
+        "production/head-turn-solid-20261003/23_farmer_male/left-reference.png",
+        "production/head-turn-solid-20261003/23_farmer_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/23_farmer_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-2f6c125f-02d1-4802-8220-dbd9b2ceaa92.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/23_farmer_male/generated-head-poses.png",
+      "productionSource": "characters/23_farmer_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/23_farmer_male/front-reference.png": "bdfab7eed6b63dfe62540319fe1e881151d2b9447e2f7ef90ae6de4a7c7fab55",
+        "production/head-turn-solid-20261003/23_farmer_male/left-reference.png": "4d63facd7707791c19146e40b00f86fc841723fdfae90ca6b72f9566afcc642e",
+        "production/head-turn-solid-20261003/23_farmer_male/right-reference.png": "30daba91ce17c37ce13fefd94d92d13c4263599b605d0e050ba561641ebaaa39"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "a1de07d4b4a9451173c97d8781c6a77ff7f9ae748f5fe76ec1aac625c7211d49",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "24_driver_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/24_driver_male/front-reference.png",
+        "production/head-turn-solid-20261003/24_driver_male/left-reference.png",
+        "production/head-turn-solid-20261003/24_driver_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/24_driver_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-0a2c8500-f33f-44b7-90e3-8f62284951ab.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/24_driver_male/generated-head-poses.png",
+      "productionSource": "characters/24_driver_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/24_driver_male/front-reference.png": "7dbe2beb69cec1fe320cd450d36013c6054c6c9f2d3416f379061a21dc851713",
+        "production/head-turn-solid-20261003/24_driver_male/left-reference.png": "6fed437ad9c182027a8e7b44652a622178644623e278fd68c4bd064ebb24ec18",
+        "production/head-turn-solid-20261003/24_driver_male/right-reference.png": "b5614685cee201cc6f09045f9f3d2b20df7c16651a4953240363cc677cf8a65c"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "25979033e359ce94bfd2dbd8c775e81a96b70307c4d8644ded0782dcc0b28a04",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "25_hairdresser_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/25_hairdresser_male/front-reference.png",
+        "production/head-turn-solid-20261003/25_hairdresser_male/left-reference.png",
+        "production/head-turn-solid-20261003/25_hairdresser_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/25_hairdresser_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-389276a9-7a3f-49b6-b54f-06aba1e82451.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/25_hairdresser_male/generated-head-poses.png",
+      "productionSource": "characters/25_hairdresser_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/25_hairdresser_male/front-reference.png": "fe1884586d485e2909c5d92d279f5db8273459252b880ab11661bcacf5197792",
+        "production/head-turn-solid-20261003/25_hairdresser_male/left-reference.png": "3b24f659aab9838e6529bdfa374f41a0efad69095b356f505e0de0bccbaa8f75",
+        "production/head-turn-solid-20261003/25_hairdresser_male/right-reference.png": "d437741df39d9f6bc598414aeea87cef30ee75a09aadc1d3c3d5b08442fad8e3"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "9d24af8fd77777c403f82ded798c3d313305d9c62c53574f7ef9186cc689c04e",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "26_baker_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/26_baker_male/front-reference.png",
+        "production/head-turn-solid-20261003/26_baker_male/left-reference.png",
+        "production/head-turn-solid-20261003/26_baker_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/26_baker_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-855422fd-64dd-4e65-a73a-555c5d3f8901.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/26_baker_male/generated-head-poses.png",
+      "productionSource": "characters/26_baker_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/26_baker_male/front-reference.png": "7ad1b5e41dd197d4cf81da635b4026af130dca21f4e5fe7a7e261adecc8d28a2",
+        "production/head-turn-solid-20261003/26_baker_male/left-reference.png": "919af2c3551b36c1d9dcba78c06931b6cad5bca92aa49dd4e458e9f01495cdaa",
+        "production/head-turn-solid-20261003/26_baker_male/right-reference.png": "257226209bc7dbf8cdedeec2f6909f4ee1c209fd882791ace644e111e75811db"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "208b3b14f3301d79fa17e72bcb5e141bdf88ebb24f1ec26bf2c753edd26a67fd",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "27_librarian_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/27_librarian_male/front-reference.png",
+        "production/head-turn-solid-20261003/27_librarian_male/left-reference.png",
+        "production/head-turn-solid-20261003/27_librarian_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/27_librarian_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-2b782207-49f3-4c60-971e-9e037124c932.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/27_librarian_male/generated-head-poses.png",
+      "productionSource": "characters/27_librarian_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/27_librarian_male/front-reference.png": "7225af5ac2537fc757a348c075c9fda645cc78a9263efc5de477759840c69fcd",
+        "production/head-turn-solid-20261003/27_librarian_male/left-reference.png": "8eee614c28a4f220332602cd11e9c1544c8224dd8b6c794d704ba3d2a8f6173b",
+        "production/head-turn-solid-20261003/27_librarian_male/right-reference.png": "084f60ef0095fbb0a00c56ce580bd19a0b7580000ff927d7d348a357f0839889"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "26d3c9b407ef6670e7569ad638fdda1224fa17f09072a58b6d37e20ff44d018f",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "28_mechanic_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/28_mechanic_male/front-reference.png",
+        "production/head-turn-solid-20261003/28_mechanic_male/left-reference.png",
+        "production/head-turn-solid-20261003/28_mechanic_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/28_mechanic_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-c6cd9633-c716-4ae7-8605-2c784056b241.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/28_mechanic_male/generated-head-poses.png",
+      "productionSource": "characters/28_mechanic_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/28_mechanic_male/front-reference.png": "804bbfdbbc8febc191a265b938732590672259945395755e4e60035ac727368b",
+        "production/head-turn-solid-20261003/28_mechanic_male/left-reference.png": "e6a42fe26f981a81f0e005c6fe79c37743b3b90df68e8f4a9f76135b8901cce1",
+        "production/head-turn-solid-20261003/28_mechanic_male/right-reference.png": "436ef52e4bc2b8991a9580d3e14d1d92235a1f61edde78e650608e0065787634"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "58cc357b253bf684dc2fe7c6c74e66f4bd96e9c042c872d7e6f3702279d1b7fe",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "29_innkeeper_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/29_innkeeper_male/front-reference.png",
+        "production/head-turn-solid-20261003/29_innkeeper_male/left-reference.png",
+        "production/head-turn-solid-20261003/29_innkeeper_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/29_innkeeper_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-4707eef8-7a5d-4712-b775-10b18c6b39c4.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/29_innkeeper_male/generated-head-poses.png",
+      "productionSource": "characters/29_innkeeper_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/29_innkeeper_male/front-reference.png": "b58172f31ce8d233e1639786e7cdc3ccd6d55dcd61cc2139fcd98a963a1485ae",
+        "production/head-turn-solid-20261003/29_innkeeper_male/left-reference.png": "c66384aeb1f93d1ae09558c81095aa3f83a0ebe3fad7763a5a5c7bd120cf4f57",
+        "production/head-turn-solid-20261003/29_innkeeper_male/right-reference.png": "3d8b9a87b102765e6f3b9faf0a91c336fe8c5e7c14ee36ff06a07ec11add1c87"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "7eac643287d1cf4af6a5866e8ea3fcc81d28f5e28bfeab2199d5b1a2a5e69e1b",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "30_florist_male",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/30_florist_male/front-reference.png",
+        "production/head-turn-solid-20261003/30_florist_male/left-reference.png",
+        "production/head-turn-solid-20261003/30_florist_male/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/30_florist_male/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-e6ec8526-3a3d-4b18-9a49-52e0515d5941.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/30_florist_male/generated-head-poses.png",
+      "productionSource": "characters/30_florist_male/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/30_florist_male/front-reference.png": "2bdc232b19d51ce64b8c3c9ae178574cd9a7caceb482b06f6d1e5d5c1f7faac0",
+        "production/head-turn-solid-20261003/30_florist_male/left-reference.png": "df11f2d3a67929336cd58ccfd152a2a68dac08932bd3ddbd0d1ee1dd8efdabcf",
+        "production/head-turn-solid-20261003/30_florist_male/right-reference.png": "d44c531f5ce7629ed765a1258b5a76488cbb5c76c19231e785aa980b503c1544"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "4e547e489c19750d458bcd67820d5a9b5b9dd00d6a3a34ff404ea8d67c4b6b5c",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "31_firefighter_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/31_firefighter_female/front-reference.png",
+        "production/head-turn-solid-20261003/31_firefighter_female/left-reference.png",
+        "production/head-turn-solid-20261003/31_firefighter_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/31_firefighter_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-a679edfd-8693-4710-91f9-e296f2b2108f.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/31_firefighter_female/generated-head-poses.png",
+      "productionSource": "characters/31_firefighter_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/31_firefighter_female/front-reference.png": "fd4954c2017ea6025b4a1c3826452b8e6e80e7432677e71f2abc598117958aed",
+        "production/head-turn-solid-20261003/31_firefighter_female/left-reference.png": "c9bd24cdd9774316264a4e98a1c63780920d1f7dcd9dea5fbb7056efc916909a",
+        "production/head-turn-solid-20261003/31_firefighter_female/right-reference.png": "301e4b109376d5968fdfa57ff7100d8c0236f9b5e3c70ad0c8b261be97104fe2"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "18a24d19f59a4fe37211b06c82f20b051746d05389e895ce7ecfee5803c7279b",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "32_grocer_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/32_grocer_female/front-reference.png",
+        "production/head-turn-solid-20261003/32_grocer_female/left-reference.png",
+        "production/head-turn-solid-20261003/32_grocer_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/32_grocer_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-d5004b3b-a36d-4305-b414-8353dbd562db.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/32_grocer_female/generated-head-poses.png",
+      "productionSource": "characters/32_grocer_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/32_grocer_female/front-reference.png": "6863acf3803f38a98ce2a8820474da1e4bed7a3fb5d40c2f8abfc4fcde6b6dcc",
+        "production/head-turn-solid-20261003/32_grocer_female/left-reference.png": "488a0ca3b647a85cb4729be6615588d59be68b2055789f28b8f53bccac8f5c50",
+        "production/head-turn-solid-20261003/32_grocer_female/right-reference.png": "d7f4793c5dc194cb9215a552e251638fe7a1c5ddaf987ff943b008f219719e4a"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "8b2a895dd738a086f65f99932405d8771d236322e055a8f59f2c793af597b87c",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "33_farmer_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/33_farmer_female/front-reference.png",
+        "production/head-turn-solid-20261003/33_farmer_female/left-reference.png",
+        "production/head-turn-solid-20261003/33_farmer_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/33_farmer_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-1da34b94-ccc2-4d74-9895-7f39a9c86e19.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/33_farmer_female/generated-head-poses.png",
+      "productionSource": "characters/33_farmer_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/33_farmer_female/front-reference.png": "4645b4aee59a1c9d43e7c2132631ee832b49cc55b00c48fe4255ff31e17e8738",
+        "production/head-turn-solid-20261003/33_farmer_female/left-reference.png": "7c84d0b3a982ec1b05cf1a9634f4aa4df3b86cb5689b4a25554ceb5ff7568f9c",
+        "production/head-turn-solid-20261003/33_farmer_female/right-reference.png": "3ba569c5d1120d2a3e284a7e98ad44f7667e4ab5dbf2afe87e7e43c741bd6083"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "5705f078e8f31ae54dbf0f10cd1b69f1428494eac8c8a1f76587f277fc707ba3",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "34_driver_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/34_driver_female/front-reference.png",
+        "production/head-turn-solid-20261003/34_driver_female/left-reference.png",
+        "production/head-turn-solid-20261003/34_driver_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/34_driver_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-55cef8a4-5341-43ee-b923-28af98bace9c.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/34_driver_female/generated-head-poses.png",
+      "productionSource": "characters/34_driver_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/34_driver_female/front-reference.png": "ba9ef9bbd51eaf9fba9414ddada49191d692a00b78b170975b486ca98057e1b4",
+        "production/head-turn-solid-20261003/34_driver_female/left-reference.png": "ff2177e8639f7fe74b7a1b6086bd7fdd6c18302797bab50e820df9a84ba16631",
+        "production/head-turn-solid-20261003/34_driver_female/right-reference.png": "42d080717881baf7c437ada8a2ef24fbf44665bb1058f9578022496d2d80c433"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "8a3a375ef79556c7c9d073dd110de11d2cf2d7963afa7ee68a9d31b55c8de5de",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "35_hairdresser_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/35_hairdresser_female/front-reference.png",
+        "production/head-turn-solid-20261003/35_hairdresser_female/left-reference.png",
+        "production/head-turn-solid-20261003/35_hairdresser_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/35_hairdresser_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-4a2a2927-3bc3-42b5-a347-f0b8b2089da0.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/35_hairdresser_female/generated-head-poses.png",
+      "productionSource": "characters/35_hairdresser_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/35_hairdresser_female/front-reference.png": "177ef8017739081564eb1e6abb6706a7687c900de584cd28f79d7e901f52b0bf",
+        "production/head-turn-solid-20261003/35_hairdresser_female/left-reference.png": "b9ee5a85500536444cb9127bb98f2dcc258d071576fe3592b128397c97729d1b",
+        "production/head-turn-solid-20261003/35_hairdresser_female/right-reference.png": "839f3cd27b40bfedffd4aa0c5d13b2d7d21bd8aa7633b4c89963735888b43119"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "5423fe67824b62e6da80c7fae5a3ec880901b85c8e2bd5c0721946bc100158a2",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "36_barista_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/36_barista_female/front-reference.png",
+        "production/head-turn-solid-20261003/36_barista_female/left-reference.png",
+        "production/head-turn-solid-20261003/36_barista_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/36_barista_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-77aa1c65-dd03-42dc-aa25-68855d4347d4.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/36_barista_female/generated-head-poses.png",
+      "productionSource": "characters/36_barista_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/36_barista_female/front-reference.png": "6d6519134eb0fc2f4b9a6834fda5c2acaa8685d75b338572569c32bc9a4b511b",
+        "production/head-turn-solid-20261003/36_barista_female/left-reference.png": "a0c86e6a5572bc285ab7ef90bc192ddf10303bd423994b8f5b20d1f1f32f8963",
+        "production/head-turn-solid-20261003/36_barista_female/right-reference.png": "f488b0466b5918699c02846027babf6c01a9a07ca2cb9b43b92bc4a0f819a453"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "68464b5b9ca621e6cce8a02117e013e57c9f0d5a5ad06fabf62688394aa63db9",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "37_carpenter_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/37_carpenter_female/front-reference.png",
+        "production/head-turn-solid-20261003/37_carpenter_female/left-reference.png",
+        "production/head-turn-solid-20261003/37_carpenter_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/37_carpenter_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-a0a4e6e1-1203-4eef-af20-99f121ccc32f.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/37_carpenter_female/generated-head-poses.png",
+      "productionSource": "characters/37_carpenter_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/37_carpenter_female/front-reference.png": "67e480ce949fe7777301e2daf9eb9150c2f9ea49e47411834575d95bed9dba75",
+        "production/head-turn-solid-20261003/37_carpenter_female/left-reference.png": "b596819c4b61f60f3b99257626d245772da52ef55574e684722e659b08e607ba",
+        "production/head-turn-solid-20261003/37_carpenter_female/right-reference.png": "99d9fd8dc841df1f91b5ea82bd933a69f7d3bad814a792bd2150c493a9d98369"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "9ee07cec2c523f55c4dff9f4957795d75b3c7551629ceb638c4c07e44bb13cda",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "38_postal_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/38_postal_female/front-reference.png",
+        "production/head-turn-solid-20261003/38_postal_female/left-reference.png",
+        "production/head-turn-solid-20261003/38_postal_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/38_postal_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-67aaaa4d-fc76-406e-8d50-082854d25086.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/38_postal_female/generated-head-poses.png",
+      "productionSource": "characters/38_postal_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/38_postal_female/front-reference.png": "766512f8c061912601bdc993fe0153c15d9c6cddf45bd6a58beee7598d6169d0",
+        "production/head-turn-solid-20261003/38_postal_female/left-reference.png": "603689696ff972ac8d26d1ec9ce4cc3af54222e0a28e829e26de24bcc34ab11e",
+        "production/head-turn-solid-20261003/38_postal_female/right-reference.png": "4655ebd7c7b1c78cd1088cf0294de0273e2864054d1ab40e5313249caf375011"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "8428f8b90291aa2a401847072eecdb0f7578c5f7f38fe5e3518cc0b86d4b992d",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "39_police_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/39_police_female/front-reference.png",
+        "production/head-turn-solid-20261003/39_police_female/left-reference.png",
+        "production/head-turn-solid-20261003/39_police_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/39_police_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-f71b811c-eaca-48a6-a05f-e49094425537.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/39_police_female/generated-head-poses.png",
+      "productionSource": "characters/39_police_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/39_police_female/front-reference.png": "723fd8fbaf330d06bdebdc88061ad157fe1bf2f90cccd6164acb4ff739beb894",
+        "production/head-turn-solid-20261003/39_police_female/left-reference.png": "e431fa7f0afabac511df23f3eb995e7e517d140e62a277feaa67116bf795ddbd",
+        "production/head-turn-solid-20261003/39_police_female/right-reference.png": "786ee82411cca2ad9409d01501ea67849a408994482fe2849761b9ea534211ab"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "da779d47dfe62477251313f3ce98e9aba40faa859730b51a489b242ce6ad6681",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "40_doctor_female",
+      "provider": "built-in imagegen",
+      "originalReferences": [
+        "production/head-turn-solid-20261003/40_doctor_female/front-reference.png",
+        "production/head-turn-solid-20261003/40_doctor_female/left-reference.png",
+        "production/head-turn-solid-20261003/40_doctor_female/right-reference.png"
+      ],
+      "promptFile": "production/head-turn-solid-20261003/40_doctor_female/prompt.md",
+      "generatedFile": "/Users/summerwindy/.codex/generated_images/01a0ff36-6f75-7fd3-b168-e5993ff9fac3/exec-0aa15181-f475-4616-b31d-e09ddd52bdc6.png",
+      "workspaceCopy": "production/head-turn-solid-20261003/40_doctor_female/generated-head-poses.png",
+      "productionSource": "characters/40_doctor_female/source/shake-head-solid-poses.png",
+      "referenceSHA256": {
+        "production/head-turn-solid-20261003/40_doctor_female/front-reference.png": "087e94946d2f49687f825e9c154d9d08db59c2dabf050f535c8f931bc91f89f4",
+        "production/head-turn-solid-20261003/40_doctor_female/left-reference.png": "f6544a416fc0d4e8bfeed55375b1baf0630016cc4921bd46f3684f91881a579d",
+        "production/head-turn-solid-20261003/40_doctor_female/right-reference.png": "c96e87e2485db33125922e3c0fa03118b4e58d5318189610e3fe90a9b106a13d"
+      },
+      "actualSize": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sourceSHA256": "c9c72faf2779075d40ac6bc75d441d9351db1d93386e0e4434e4f56404c8e94a",
+      "humanApproval": "pending"
+    }
+  ]
+}

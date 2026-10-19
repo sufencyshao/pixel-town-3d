@@ -1,0 +1,25 @@
+{
+  "author": "Quaternius",
+  "license": "CC0 1.0",
+  "upstreamRepository": "https://github.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender",
+  "frozenCommit": "5821923af517ac5fdc82505faa92a0d575fc1b1a",
+  "animationAssetSHA256": "69591853d817488edaa8fd9bf8fc1d821eaeaf789f8627b3cd23b41c4ed67997",
+  "originalActionCount": 43,
+  "includedBaseActions": 19,
+  "caretakerAdditions": [
+    "Pet",
+    "Feed",
+    "ThrowBall"
+  ],
+  "originalDailyAdditions": [
+    "Eat",
+    "Drink",
+    "Read",
+    "Phone",
+    "Stretch",
+    "LieDown",
+    "LieRest",
+    "GetUp"
+  ],
+  "sourceNote": "Daily unsupported gestures were authored here; none are disguised combat/status source clips. Frozen full upstream manifest remains in ../character-natural-3d-v1/reference/upstream-source-manifest.json."
+}

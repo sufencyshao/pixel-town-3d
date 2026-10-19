@@ -1,0 +1,16 @@
+{
+  "name": "pixel-town-original-models-preview",
+  "version": "7.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node src/shelter-regression.mjs",
+    "build": "esbuild src/viewer.js --bundle --format=iife --minify --outfile=viewer.bundle.js"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.9"
+  }
+}

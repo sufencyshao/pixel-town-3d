@@ -1,0 +1,385 @@
+{
+  "date": "2026-10-13",
+  "status": "design-review",
+  "source": "pixel_town_assets/roster.json; runtime assets/characters and assets/codexmini profile counts checked",
+  "regularResidents": 40,
+  "optionalCompanions": 5,
+  "capacityAssumption": "One independent dwelling per character; capacity planning, not current save occupancy. No resident assignments changed.",
+  "courtyardVillas": [
+    {
+      "id": "A01",
+      "units": 1,
+      "floors": 2,
+      "model": "courtyard",
+      "center": [
+        -24.5,
+        20
+      ]
+    },
+    {
+      "id": "A02",
+      "units": 1,
+      "floors": 2,
+      "model": "courtyard",
+      "center": [
+        24.5,
+        20
+      ]
+    },
+    {
+      "id": "A03",
+      "units": 1,
+      "floors": 2,
+      "model": "courtyard",
+      "center": [
+        -24.5,
+        0
+      ]
+    },
+    {
+      "id": "A04",
+      "units": 1,
+      "floors": 2,
+      "model": "courtyard",
+      "center": [
+        24.5,
+        0
+      ]
+    },
+    {
+      "id": "A05",
+      "units": 1,
+      "floors": 2,
+      "model": "courtyard",
+      "center": [
+        -24.5,
+        -20
+      ]
+    },
+    {
+      "id": "A06",
+      "units": 1,
+      "floors": 2,
+      "model": "courtyard",
+      "center": [
+        24.5,
+        -20
+      ]
+    }
+  ],
+  "apartmentBlocks": [
+    {
+      "id": "C01",
+      "floors": 3,
+      "units": 6,
+      "model": "apartment-3",
+      "center": [
+        13,
+        -20
+      ]
+    },
+    {
+      "id": "C02",
+      "floors": 4,
+      "units": 8,
+      "model": "apartment-4",
+      "center": [
+        13,
+        20
+      ]
+    },
+    {
+      "id": "C03",
+      "floors": 4,
+      "units": 8,
+      "model": "apartment-4",
+      "center": [
+        -13,
+        -20
+      ]
+    },
+    {
+      "id": "C04",
+      "floors": 4,
+      "units": 8,
+      "model": "apartment-4",
+      "center": [
+        -13,
+        0
+      ]
+    },
+    {
+      "id": "C05",
+      "floors": 5,
+      "units": 10,
+      "model": "apartment-5",
+      "center": [
+        -13,
+        20
+      ]
+    }
+  ],
+  "residentUnits": 46,
+  "heroUnits": 1,
+  "spareIfAll45Stay": 1,
+  "unitRegistry": [
+    {
+      "unitId": "A01",
+      "type": "courtyard",
+      "residentId": null
+    },
+    {
+      "unitId": "A02",
+      "type": "courtyard",
+      "residentId": null
+    },
+    {
+      "unitId": "A03",
+      "type": "courtyard",
+      "residentId": null
+    },
+    {
+      "unitId": "A04",
+      "type": "courtyard",
+      "residentId": null
+    },
+    {
+      "unitId": "A05",
+      "type": "courtyard",
+      "residentId": null
+    },
+    {
+      "unitId": "A06",
+      "type": "courtyard",
+      "residentId": null
+    },
+    {
+      "unitId": "C01-101",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C01-102",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C01-201",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C01-202",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C01-301",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C01-302",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C02-101",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C02-102",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C02-201",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C02-202",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C02-301",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C02-302",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C02-401",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C02-402",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C03-101",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C03-102",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C03-201",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C03-202",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C03-301",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C03-302",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C03-401",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C03-402",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C04-101",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C04-102",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C04-201",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C04-202",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C04-301",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C04-302",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C04-401",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C04-402",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-101",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-102",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-201",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-202",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-301",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-302",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-401",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-402",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-501",
+      "type": "apartment",
+      "residentId": null
+    },
+    {
+      "unitId": "C05-502",
+      "type": "apartment",
+      "residentId": null
+    }
+  ],
+  "heroUnit": {
+    "unitId": "A07",
+    "model": "hero",
+    "floors": 2,
+    "center": [
+      0,
+      -16
+    ],
+    "vegetableBeds": 3,
+    "frontGardenAreas": 2,
+    "frontGardenStyle": "informal mixed planting",
+    "poolMetres": [
+      3,
+      6
+    ]
+  },
+  "siteZones": {
+    "A": [
+      75,
+      62.5
+    ],
+    "C": [
+      53.75,
+      62.5
+    ]
+  },
+  "coordinates": "Local metres, origin at zone centre, positive Y north. This is a placement proposal, not an approved full-town placement.",
+  "plotCheck": "PASS: each plot within its zone; no plot overlaps"
+}

@@ -1,0 +1,250 @@
+{
+  "status": "approved",
+  "date": "2026-10-03",
+  "approvedBy": "user",
+  "userStatement": "全部确认",
+  "scope": "Original handoff characters 01..20; current back-walk delivery and documented visual review items",
+  "pendingRoles": [],
+  "roles": {
+    "01_hero_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "943d670de8b14fecb995d99159792cc863a022481112e15e8216833adc085149",
+        "frame_11.png": "2578485507e0028122dee6b596fd49c8189f5cba7184f85454dc5d323f0b529c",
+        "frame_12.png": "b5b650740bd5cd57e186133c75c24cbb9cbcd5262c13b66e9946778bc577e3d4",
+        "animations/back_walk_keys.png": "ab5c7153dee2128021874264cfbc87a4af01bf975df37a87d5ace9d5210fb3f9",
+        "animations/back_walk_keys.gif": "8876ad7cc5387402ebd9e98ff46652b027cc38bfa009a179f50927e4f7c25631",
+        "animations/walk_up.png": "2d9bdfcb7b0e8ab7ed87c4f027d8324ee7540aada16cce4a53a28657b453f55f",
+        "animations/walk_up.gif": "3e47515ce0e360953fc6bd6bb89a0be85c74845aaea75ef109fbe8f42d71e146"
+      }
+    },
+    "02_hero_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "3ae05d1953c96b4db5491295cc3500feb0eabf2d44ebb64f5a5adabe2c8f75d5",
+        "frame_11.png": "4e8008b11ef322ca9500cab366d38e51062b0fce5876a8dccf162666606127fd",
+        "frame_12.png": "a7091b967b8b967a84a85869b8ceb049313f9212e85a7e0c2802c51e1fbf2bc1",
+        "animations/back_walk_keys.png": "ff66678fd1bc5355f77b4e1e15856a7c16365e423619a86e94b6059e53189bfa",
+        "animations/back_walk_keys.gif": "2cc3a75424f1dc446fb69dfd33deb25796efc93241ced1ba8d2650d1f947bcf8",
+        "animations/walk_up.png": "fb225d28087e6283e14a2243fd7b2d1de5d5951360271c8e47f4bdcf98eba62f",
+        "animations/walk_up.gif": "24d82f2577eb3f6d0a40eee900cb0a4f6becd465be38e4a722b7b1fff1e09a40"
+      }
+    },
+    "03_barista_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "f61752a830d32a43981cedfe15a88d1ffc611ab8ff8ce1a49cbf24102e986f5a",
+        "frame_11.png": "32da46fd3f8957bbdda93e07861071b1900b967d6f3e54316465f75eff41fc46",
+        "frame_12.png": "6d67237c077842ff7cbaf7d1a1ad107ac9b1bfb32384cd48791d7e8c16440d49",
+        "animations/back_walk_keys.png": "d65c42d1942eac31bac629992e32e86101e8b468ea76dbd9fcf9f778d77fe288",
+        "animations/back_walk_keys.gif": "3becffa9e08073f14c7f8e4ca610e1126ded228e9e1dc334f5a692d401338c7b",
+        "animations/walk_up.png": "eec16848dc8246d7a39d19c60a01e48028a94dc077540c2792826f1af945ed92",
+        "animations/walk_up.gif": "cd5e17c12a03d829dd272707b7f937b6e68a48e7616a39432d1bca73797dccf1"
+      }
+    },
+    "04_baker_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "99f9e4e39bbb34eeac286b5a773542fa13c0e8f17b5e780318aa27135c3f3f16",
+        "frame_11.png": "89a9ba353f61fa572d84822040955b910c4d1cf501b7028ab3176d054186556c",
+        "frame_12.png": "a87d773bd5ccba53ecfa01e7aa20cd7ce83cc56ae997d289c4ffcc660747ec39",
+        "animations/back_walk_keys.png": "3209ff131f53db5442447997620acff9dba001baa01aca40d8cf254541491df3",
+        "animations/back_walk_keys.gif": "06f5052a41138761f9440db92d34db54d0680e4755b95fa8f42b217be9a8ed51",
+        "animations/walk_up.png": "6f59de84e59bb1f037fa0220ff5a7e2fe98324feae316aaa4ccf4b49dbec7448",
+        "animations/walk_up.gif": "29b625b66b0ded3fb28d96014a07ac9b24d673d1efec423523c5dd118964a869"
+      }
+    },
+    "05_carpenter_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "ecabdf5bedee8c540c0e50feea5648a0b376d776db99a8b904b72cfe3f905d7b",
+        "frame_11.png": "155ebac1d841213b0c6043659995b7156fce9bffac65823ac4271d3cf5a01432",
+        "frame_12.png": "ef65f59b5e8c33c4d18b8d7102848a7e6c64e8261e4c405e26a282eef445c817",
+        "animations/back_walk_keys.png": "fbc4076b40d283c2b0f96d99b1254cbe52ab9df702f8240f68e11ac363898a07",
+        "animations/back_walk_keys.gif": "ffc83ba1764c045ffccb79bc745d1b9a511d2bb41f8144abb8ae66589e0faa3d",
+        "animations/walk_up.png": "19212fbda9dc72c16fb6abf987f72c4d3c87fb4f5fe00be954051db53ebca7f6",
+        "animations/walk_up.gif": "d6c71ce5cfb79ebf80da896016b69e1e7aa9620b8cc4b33baa0f3560dca6d6b0"
+      }
+    },
+    "06_postman_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "c08a845cc4c61f93c33a869544b32c9bea21adc23e1c328e4322f8c92428a121",
+        "frame_11.png": "2f3240650b146c875cc44dd42c3301991c91c86e6c055184eaafcc44df30ca7a",
+        "frame_12.png": "442e12b53c9f23e216fdcc60b6765d5910fd7b91b3e024931e3e2e60e70c265a",
+        "animations/back_walk_keys.png": "6df7296e02fcd714ce56656cfd6eb3bf5ad8e957cbe9a85ef8822d161ca02bec",
+        "animations/back_walk_keys.gif": "675742473bf2ee6537786d2a558d9a5fcf8cfb03c897ba2b5538f8c4a850b062",
+        "animations/walk_up.png": "cd6a2dffca6fadc4a1dbe65902e0517fbd5e794805c0f6324aa15ec8f5b3dc62",
+        "animations/walk_up.gif": "cdf2c8ab2607bcde1ff511541967aba6e0a3365b2b45710f9e2b44460ad6cf69"
+      }
+    },
+    "07_police_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "15fa1ff285b901d6b53fd8bc59970f18827c765ef70db202b0ac675aa4d61c4c",
+        "frame_11.png": "f7dcf4ea7f254f3ba4cdee9ac23c2236aff4ac22a465e369792eb607f6b1cae5",
+        "frame_12.png": "043ced751be7d6fa9bf03f9ab4b43411da05580a919e93fc23e15aa567a38c2e",
+        "animations/back_walk_keys.png": "163a089f569533ac661c6236fa350f71f3be173a4e16393db43f036dcb752caf",
+        "animations/back_walk_keys.gif": "b3709a3cb9d95e9db55493c6b008d1e9a85e0182550af9159c834dc1d1540a3d",
+        "animations/walk_up.png": "22bbd3c0d40ae15442bba6b0fed11c2daf90b960406b882b35457b51081889c3",
+        "animations/walk_up.gif": "45618b355b4e8c67dbdf1b592a4736e7d482e4f703ed1ba99a535eb8c1e11e92"
+      }
+    },
+    "08_doctor_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "f86e5763e768f14b2586ffc727efdc88196d88867fb135f412e45d8999eec267",
+        "frame_11.png": "8d402312b6d50dd70eec7905d8651ab584d6821314d7d76d5655ed70dd6466cd",
+        "frame_12.png": "fe8ac43c05b049a4c139e7ba4414bf405799f0089e1390026d6dd8f308fefed3",
+        "animations/back_walk_keys.png": "b93eb9de921ac6e0ad722eb06f81207578a98da25d49b82dd52a0df86aedff91",
+        "animations/back_walk_keys.gif": "378bced6884c954843c3061a73b1c76093b180c85d6af2da5516de08d097ea1f",
+        "animations/walk_up.png": "61e65845e07186f2987240d433b0f2f4896252fa60d887a6121bf1d7273c16a3",
+        "animations/walk_up.gif": "00964f80e594cf514275586be2f076747409238c1c4ce6a53176ca361f751b9f"
+      }
+    },
+    "09_gardener_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "6380726a2d9286a2c79acf831e4a15140263bc5bd2964e4c8f95e2d3c415e69c",
+        "frame_11.png": "cadd049f4b7fc9300f8243699067291d7c10b81a6508549831ef8670e1b1e9d0",
+        "frame_12.png": "58798266e38f016b5dd6727791cdce7b2653728ac3dc058de5bc14669196a344",
+        "animations/back_walk_keys.png": "df0ec63a99da3e25192702a4edd608b7976717a65b29d5ba8e786e61c5d3e3f3",
+        "animations/back_walk_keys.gif": "8e38fbea91c20d6b0b7f642d163f22ce61216526d2e83c0b743c83138624ac7e",
+        "animations/walk_up.png": "44b2b7ca3330b5397b4977274052235893f9d65dda83bac0d5250a631f9369e2",
+        "animations/walk_up.gif": "b322f464b21e476c36e2734e0720a2124e1b7df1048e8548fade9287a1fa464e"
+      }
+    },
+    "10_musician_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "20e90f83bf86bcfafdda971b8337335c72a016d32337e944bb727840fa992e41",
+        "frame_11.png": "1f570201d8313f521fbd3670a27df9fc54f0940343289dedda1d107c74f58e01",
+        "frame_12.png": "df81cbfc166438afffe4e974b194ec0dac3610deac3290195eb4c297f9234070",
+        "animations/back_walk_keys.png": "28741e0b0656a113725ee2d3e55a85143ef842179caa2559c0407ffb09942b05",
+        "animations/back_walk_keys.gif": "c52fa12112bf234c744aefbcc1590ae96442c9be0f0b2d18c12fb0f7ab046d27",
+        "animations/walk_up.png": "af1ad809481fe92d02fad9fee495fe8d1b687dd77fa4c5bada8b5a2c789b6abc",
+        "animations/walk_up.gif": "952b44dea8894dee032b14c8867a4f8886647d1a0e387503c736966ff5c4a61b"
+      }
+    },
+    "11_chef_male": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "13570ed2346116d06f5470c8468a36ad79b038da74f3da17fc4e20351479d9c5",
+        "frame_11.png": "dabc2cc11a29e642a1f38ecccb4a17674e6bb9446524fa151da631b5a200bbc5",
+        "frame_12.png": "7524bcd6075562b65f8efeb2818af1152f03e34233d373f9580bec1825d6880a",
+        "animations/back_walk_keys.png": "49b40a3eb30556fd18730249831406e1e5e346494b13bcd62c370efedbbc0f86",
+        "animations/back_walk_keys.gif": "2de4caff1261acb5a26c1177ab4315a556df1d0541ac46e58ad47eccbecd1b95",
+        "animations/walk_up.png": "e33ff46aad83d04de425d9557bd2307d53707c14f47c668c14e9f0574b124879",
+        "animations/walk_up.gif": "c075fa52749233baf185fbef5f2508377aa330f00b3438b5137e8521df2efa1e"
+      }
+    },
+    "12_florist_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "71cd48e638190f4c529b3b7c19d9b50b3480b72ea578a2d4f7a2666e156d67aa",
+        "frame_11.png": "7640326f3224c502958da2bfca0a95d2808c39af88cd9a86fc67a2c40e7c2f44",
+        "frame_12.png": "5e899e6b2cba784d0b1dce1bb63b03b62cad59be707165d784e1360b86eccaab",
+        "animations/back_walk_keys.png": "7efca2e8ca5c451056e715e96185202e47e0c75a832c9a6addfc34ecdfd5ff63",
+        "animations/back_walk_keys.gif": "ffcd820619a0050b646c435ef902fd5d1a0d998c2f8efad1da684963396c7a32",
+        "animations/walk_up.png": "b15d4b76c16303162003412351f6f3d88b343316270aeb7dd5324bc15dc7d2ea",
+        "animations/walk_up.gif": "e26d50b6b20ba0ff2d6dc1d2261fec354db382af145b34b5bb46e44973ef411f"
+      }
+    },
+    "13_pastrychef_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "9a8046004d59184bb39272410701c50f275622021d29f5fdb9d7133c79f3a17a",
+        "frame_11.png": "8117b91db499335aec8bb5047cfc59b9d04ac73a909092241e9c2868375a06ea",
+        "frame_12.png": "b30369c1c71e90638bf79dea4cc50418c90a41511570c6e0b5bddd8d7e213fa1",
+        "animations/back_walk_keys.png": "ce6c6fcccc219b15abb2c9634322675b5f0a8892a964ee6c387431afc20cf545",
+        "animations/back_walk_keys.gif": "8dffa51d20249c4fa463abd5223dc8389ec0b945d5cbaaf3ca062ef159d9128e",
+        "animations/walk_up.png": "4b891708b3325e56de1c84861f45ae22d5214f4bfa65d6f89762ae72e226e3c4",
+        "animations/walk_up.gif": "23457c6c4559b6f9110cc4b970d35328b0023838c8d81e25daf8afb66e5eb519"
+      }
+    },
+    "14_teacher_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "261c8eb96bf7f8ef84639152fd61bc99cb8efea4ea3e499889134eee2f8fefe5",
+        "frame_11.png": "b9f110dccb302f0711a37f02650ee5ef37b5b022171952f24874fb3c52a564f0",
+        "frame_12.png": "627aa71fead0f60b29a8bf5692ca418c28a5862571fa497ec974faadac15cbfd",
+        "animations/back_walk_keys.png": "6399987d6ef5616b7cf7132709d296daf446e4ff0752fdbf1f55795a02474721",
+        "animations/back_walk_keys.gif": "8487acbf804c5343c1d94b78849918e55ea16cf5b488569e44f9722d5324ab70",
+        "animations/walk_up.png": "8dd63c33735caab830e2d8be8dd3b01611f1aae6ae32c265ae5832ee7d5b81a6",
+        "animations/walk_up.gif": "c55aa94e0b17256e1260280173103e7725be4c8ae59375948d1e7bf1a8c7e17d"
+      }
+    },
+    "15_nurse_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "b709859b0e991046dbcf3e62fddac2bce78db2903764e25fb329ac11cbb66984",
+        "frame_11.png": "353f2c216c61e7b2e0aa8705c0cb9ce649c9bac2d58bdafbf737d2cdf675f2a6",
+        "frame_12.png": "63d545601fecfbe39d41d5202a24233975306e497926d949dac564778bb8405a",
+        "animations/back_walk_keys.png": "d2e9eba7222d5177fa3259c1c4c9fe48c2085ecea3767c3631325290080deaf5",
+        "animations/back_walk_keys.gif": "3bf238f21f3d6152e2109eced790f138aebd1c4d8d3c7860d9643eb824313d42",
+        "animations/walk_up.png": "2e437285057d9ee75f12f8ea8d8b8a9c05271157c5a3bfb9b2690affa17a8fc3",
+        "animations/walk_up.gif": "f52c54f7ceb992bae5452fd6f7977f6fcbd50905c55528e62bcee56718ab8285"
+      }
+    },
+    "16_librarian_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "1e4af9f7172a5eaa2b9a6d01b6bcd1ac470cdcaa22db44080110fbbe0ec69907",
+        "frame_11.png": "0090d8a2227784ba00b4b0aab6fc74c8bfaebd25878b738df7749043d776a8f0",
+        "frame_12.png": "03479f5244973b811e9f7e490ec43f5fd711257560bdebdf9469e308985f10c5",
+        "animations/back_walk_keys.png": "2fb468c186a54fd06dfe559841f137be1ce7b7951de1e4bb24fffe36ccde095e",
+        "animations/back_walk_keys.gif": "c9ab7c83ecb558e0de71273cdf923b0d983661421a78a176cc4f13022aed5acc",
+        "animations/walk_up.png": "a2e90889184b18375d6b5ce9f4c0041e47549a5325a3887454346681e57dc63c",
+        "animations/walk_up.gif": "dfbfc484986f7744c7914a6265dc386aa947a23c580cc60534835dfafacf3760"
+      }
+    },
+    "17_cafeowner_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "c6b1b039002b6b9598051805ea2a9d855bed94902e80eafee5e102a9eb1540d7",
+        "frame_11.png": "b48bef167e1b606e675d9c74dcf01cd17f4c654bce18029712d76d42296ce4e5",
+        "frame_12.png": "945d133affed34e26fe2023a053bc91eeede90a0955f818b9589c843e52158a2",
+        "animations/back_walk_keys.png": "87aba9d72166f5dac3f366221199cb411d2bd0662913210a8af502d537f877f7",
+        "animations/back_walk_keys.gif": "731146cbfb07fb49c5e6dd700651515e4051fcba782948fdfb23efefc3b52e55",
+        "animations/walk_up.png": "8072eb391bcd2913c5fb7528fc54b634c70c318a45bee8fb073e77195067f570",
+        "animations/walk_up.gif": "9a3681c0640fe8a40f21a951935717ebe85828e3f4074243d30a645430a912a9"
+      }
+    },
+    "18_artist_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "3fdf2e386633ce0a16b44ea4955f41250ee589ac913f474a67399d9151e328e9",
+        "frame_11.png": "2df8d31f653d71b06b310014a2f5d645feb2ad8b8d98339c7330288fc0d8cc84",
+        "frame_12.png": "5c142667fd948821a446251706d90f4b9f6b6cb1e297f8a3df5cbd1eed2eac50",
+        "animations/back_walk_keys.png": "ef861c4e7ecfb1a4549c601bc3f2e55453c44deebccecc6601dbb8be116d3275",
+        "animations/back_walk_keys.gif": "d0f272f00a416dc0b24a9b905b2af20b673f7a66dfcfe484410f53ad0d071442",
+        "animations/walk_up.png": "2d4223078c82db2a8c7b51ecf5fd0fffa6783782baf1dd0c55703d704e969ed7",
+        "animations/walk_up.gif": "93f211d1a03d93757b27a254f3209f7296204a8521648c41cd45f1b2c0afd334"
+      }
+    },
+    "19_vet_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "859a0686f32a550aa442313a4cd5e4626888df1e71cf3a08fc54c7197c1ca088",
+        "frame_11.png": "3fbfa22e9e2af192bcca5b1e4c7594bcd86fcd472e85ef559b84a7c50a18a871",
+        "frame_12.png": "a1fb712b2176cbc9c9f2f017afb8090031707d1dcec4a14a594091ee9f6b25f6",
+        "animations/back_walk_keys.png": "2aefc66cb429814a86eb0dd6d0d017d516a75feac03f4977e1f52badf335bb77",
+        "animations/back_walk_keys.gif": "4fea946144e1a8413a3045abce2ed7dab751553254c6c8e7aa3e81e781993348",
+        "animations/walk_up.png": "89e7fd49962a58422217562c43cd16dad812ed9020ef0d517ff84b2781cb4fbf",
+        "animations/walk_up.gif": "05996e712a746522ae7e7ea697ef691b00ca3e913fe521fa87ea080f9a44c02c"
+      }
+    },
+    "20_student_female": {
+      "status": "approved",
+      "assetSHA256": {
+        "frame_10.png": "489c03dd9467881ffeb7c26b0fd2163fcbfa4375b374a5fa28c523505d46bed3",
+        "frame_11.png": "0c6672a611b42eec309ba003f614b7ca322b07b40dddabd2ed157a6aa8e5ea33",
+        "frame_12.png": "4d5fead5752d308fc4e3acce5ba0856f04fcd809d13955db97bc2be27235095c",
+        "animations/back_walk_keys.png": "0aa191e42710245d5c981d92881e12260250404f4587ba40dbd45d0bb1fb9f5c",
+        "animations/back_walk_keys.gif": "a170e42a44b65ba666d7fb15af6db93901adaeda416971bbdaee12b112fc09c6",
+        "animations/walk_up.png": "803243e8578fa445a07d7b5cb484b8c4d684169edcde66f0621b2f589b716e11",
+        "animations/walk_up.gif": "0fc0c74a082bfed376bb6251adcd1c8141a7eeb3b0926a0850a5c71671a218d1"
+      }
+    }
+  }
+}

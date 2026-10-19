@@ -1,0 +1,68 @@
+{
+  "views": [
+    {
+      "mode": "overview",
+      "meshes": 2658,
+      "market": true,
+      "canopy": true,
+      "roof": true
+    },
+    {
+      "mode": "daily",
+      "meshes": 2658,
+      "market": false,
+      "canopy": true,
+      "roof": true
+    },
+    {
+      "mode": "plan",
+      "meshes": 2658,
+      "market": true,
+      "canopy": false,
+      "roof": false
+    },
+    {
+      "mode": "tree",
+      "meshes": 2658,
+      "market": true,
+      "canopy": false,
+      "roof": true
+    },
+    {
+      "mode": "market",
+      "meshes": 2658,
+      "market": true,
+      "canopy": true,
+      "roof": true
+    },
+    {
+      "mode": "water",
+      "meshes": 2658,
+      "market": true,
+      "canopy": true,
+      "roof": true
+    },
+    {
+      "mode": "community",
+      "meshes": 2658,
+      "market": true,
+      "canopy": true,
+      "roof": true
+    }
+  ],
+  "marketOff": true,
+  "canopyOff": true,
+  "roofOff": true,
+  "auto": true,
+  "downloads": [
+    "E-town-square.glb",
+    "E-overview.png"
+  ],
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "canvasWidth": 390
+  },
+  "offline": true,
+  "errors": []
+}

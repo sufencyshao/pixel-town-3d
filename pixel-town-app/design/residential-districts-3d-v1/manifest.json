@@ -1,0 +1,773 @@
+{
+  "title": "A + C 住宅区实景落位",
+  "date": "2026-10-13",
+  "sources": {
+    "courtyard": {
+      "blendSha256": "da49d18f43ecbead2795778ea37095676d4cbce5f22c3a107d59306b0ef7c089",
+      "glbSha256": "1f28797726173e83a5977966627911ddf64127b51003523de282549efa55ccdb",
+      "sourceTriangles": 15816,
+      "mergedTriangles": 15816,
+      "bounds": [
+        20.051315307617188,
+        18.0,
+        8.60500031709671
+      ],
+      "groups": 13
+    },
+    "hero": {
+      "blendSha256": "c0f75e64261d9c3ed53ac9057292a83eaec094c9fa273a14b85b5834a537af75",
+      "glbSha256": "409e857aaa18a3acfd305167216970e1844a616a94c484773b4eac5527992f75",
+      "sourceTriangles": 58564,
+      "mergedTriangles": 58564,
+      "bounds": [
+        24.051315307617188,
+        24.0,
+        9.545000195503235
+      ],
+      "groups": 13
+    },
+    "apartment-3": {
+      "blendSha256": "c52ad288efabca964aac7962f83eedfa27ef4bbafb0291334c7f2ad2c2adefa0",
+      "glbSha256": "fed28a9b7da4670469418c959853455f8898511df3a5b1d151aa450a16fcf8fc",
+      "sourceTriangles": 45060,
+      "mergedTriangles": 45060,
+      "bounds": [
+        25.642444610595703,
+        17.0,
+        10.659999430179596
+      ],
+      "groups": 19
+    },
+    "apartment-4": {
+      "blendSha256": "16f67a482577748ebe4219a8541aa3e7387fc0821c71b1d272eaad96f553f790",
+      "glbSha256": "733d9eb8d7c998b8d05478f25f8093e8778bab557eeedafc984754b491e7df5e",
+      "sourceTriangles": 58608,
+      "mergedTriangles": 58608,
+      "bounds": [
+        25.642444610595703,
+        17.0,
+        13.860000193119049
+      ],
+      "groups": 25
+    },
+    "apartment-5": {
+      "blendSha256": "9788b46790fae94b2d0c47ec304b13adb3e297b3279ce34e3ef16e590230e169",
+      "glbSha256": "d95a4c8e9bb692be02e9cc4b7f6046a01d2c6928f247502675e1cca629e3c04c",
+      "sourceTriangles": 72564,
+      "mergedTriangles": 72564,
+      "bounds": [
+        25.642444610595703,
+        17.0,
+        17.060000002384186
+      ],
+      "groups": 31
+    }
+  },
+  "buildings": [
+    {
+      "id": "A01",
+      "zone": "A",
+      "model": "courtyard",
+      "center": [
+        -24.5,
+        20
+      ],
+      "worldCenter": [
+        -24.5,
+        20
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 2,
+      "units": 1,
+      "plot": [
+        -34.5,
+        11.0,
+        -14.5,
+        29.0
+      ],
+      "entry": [
+        -24.5,
+        11
+      ],
+      "group": "A01",
+      "sourceHash": "da49d18f43ecbead2795778ea37095676d4cbce5f22c3a107d59306b0ef7c089"
+    },
+    {
+      "id": "A02",
+      "zone": "A",
+      "model": "courtyard",
+      "center": [
+        24.5,
+        20
+      ],
+      "worldCenter": [
+        24.5,
+        20
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 2,
+      "units": 1,
+      "plot": [
+        14.5,
+        11.0,
+        34.5,
+        29.0
+      ],
+      "entry": [
+        24.5,
+        11
+      ],
+      "group": "A02",
+      "sourceHash": "da49d18f43ecbead2795778ea37095676d4cbce5f22c3a107d59306b0ef7c089"
+    },
+    {
+      "id": "A03",
+      "zone": "A",
+      "model": "courtyard",
+      "center": [
+        -24.5,
+        0
+      ],
+      "worldCenter": [
+        -24.5,
+        0
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 2,
+      "units": 1,
+      "plot": [
+        -34.5,
+        -9.0,
+        -14.5,
+        9.0
+      ],
+      "entry": [
+        -24.5,
+        -9
+      ],
+      "group": "A03",
+      "sourceHash": "da49d18f43ecbead2795778ea37095676d4cbce5f22c3a107d59306b0ef7c089"
+    },
+    {
+      "id": "A04",
+      "zone": "A",
+      "model": "courtyard",
+      "center": [
+        24.5,
+        0
+      ],
+      "worldCenter": [
+        24.5,
+        0
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 2,
+      "units": 1,
+      "plot": [
+        14.5,
+        -9.0,
+        34.5,
+        9.0
+      ],
+      "entry": [
+        24.5,
+        -9
+      ],
+      "group": "A04",
+      "sourceHash": "da49d18f43ecbead2795778ea37095676d4cbce5f22c3a107d59306b0ef7c089"
+    },
+    {
+      "id": "A05",
+      "zone": "A",
+      "model": "courtyard",
+      "center": [
+        -24.5,
+        -20
+      ],
+      "worldCenter": [
+        -24.5,
+        -20
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 2,
+      "units": 1,
+      "plot": [
+        -34.5,
+        -29.0,
+        -14.5,
+        -11.0
+      ],
+      "entry": [
+        -24.5,
+        -29
+      ],
+      "group": "A05",
+      "sourceHash": "da49d18f43ecbead2795778ea37095676d4cbce5f22c3a107d59306b0ef7c089"
+    },
+    {
+      "id": "A06",
+      "zone": "A",
+      "model": "courtyard",
+      "center": [
+        24.5,
+        -20
+      ],
+      "worldCenter": [
+        24.5,
+        -20
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 2,
+      "units": 1,
+      "plot": [
+        14.5,
+        -29.0,
+        34.5,
+        -11.0
+      ],
+      "entry": [
+        24.5,
+        -29
+      ],
+      "group": "A06",
+      "sourceHash": "da49d18f43ecbead2795778ea37095676d4cbce5f22c3a107d59306b0ef7c089"
+    },
+    {
+      "id": "A07",
+      "zone": "A",
+      "model": "hero",
+      "center": [
+        0,
+        -16
+      ],
+      "worldCenter": [
+        0,
+        -16
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 2,
+      "units": 1,
+      "plot": [
+        -12.0,
+        -28.0,
+        12.0,
+        -4.0
+      ],
+      "entry": [
+        -2,
+        -28
+      ],
+      "group": "A07",
+      "sourceHash": "c0f75e64261d9c3ed53ac9057292a83eaec094c9fa273a14b85b5834a537af75"
+    },
+    {
+      "id": "C01",
+      "zone": "C",
+      "model": "apartment-3",
+      "center": [
+        13.625,
+        -20
+      ],
+      "worldCenter": [
+        179.25,
+        -20
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 3,
+      "units": 6,
+      "plot": [
+        1.125,
+        -28.7,
+        26.125,
+        -11.7
+      ],
+      "entry": [
+        13.625,
+        -28.1
+      ],
+      "group": "C01",
+      "sourceHash": "c52ad288efabca964aac7962f83eedfa27ef4bbafb0291334c7f2ad2c2adefa0"
+    },
+    {
+      "id": "C02",
+      "zone": "C",
+      "model": "apartment-4",
+      "center": [
+        13.625,
+        20
+      ],
+      "worldCenter": [
+        179.25,
+        20
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 4,
+      "units": 8,
+      "plot": [
+        1.125,
+        11.3,
+        26.125,
+        28.3
+      ],
+      "entry": [
+        13.625,
+        11.9
+      ],
+      "group": "C02",
+      "sourceHash": "16f67a482577748ebe4219a8541aa3e7387fc0821c71b1d272eaad96f553f790"
+    },
+    {
+      "id": "C03",
+      "zone": "C",
+      "model": "apartment-4",
+      "center": [
+        -13.625,
+        -20
+      ],
+      "worldCenter": [
+        152.0,
+        -20
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 4,
+      "units": 8,
+      "plot": [
+        -26.125,
+        -28.7,
+        -1.125,
+        -11.7
+      ],
+      "entry": [
+        -13.625,
+        -28.1
+      ],
+      "group": "C03",
+      "sourceHash": "16f67a482577748ebe4219a8541aa3e7387fc0821c71b1d272eaad96f553f790"
+    },
+    {
+      "id": "C04",
+      "zone": "C",
+      "model": "apartment-4",
+      "center": [
+        -13.625,
+        0
+      ],
+      "worldCenter": [
+        152.0,
+        0
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 4,
+      "units": 8,
+      "plot": [
+        -26.125,
+        -8.7,
+        -1.125,
+        8.3
+      ],
+      "entry": [
+        -13.625,
+        -8.1
+      ],
+      "group": "C04",
+      "sourceHash": "16f67a482577748ebe4219a8541aa3e7387fc0821c71b1d272eaad96f553f790"
+    },
+    {
+      "id": "C05",
+      "zone": "C",
+      "model": "apartment-5",
+      "center": [
+        -13.625,
+        20
+      ],
+      "worldCenter": [
+        152.0,
+        20
+      ],
+      "rotation": 0,
+      "scale": 1,
+      "floors": 5,
+      "units": 10,
+      "plot": [
+        -26.125,
+        11.3,
+        -1.125,
+        28.3
+      ],
+      "entry": [
+        -13.625,
+        11.9
+      ],
+      "group": "C05",
+      "sourceHash": "9788b46790fae94b2d0c47ec304b13adb3e297b3279ce34e3ef16e590230e169"
+    }
+  ],
+  "districts": {
+    "A": {
+      "size": [
+        75,
+        62.5
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "plots": [
+        [
+          -34.5,
+          11.0,
+          -14.5,
+          29.0
+        ],
+        [
+          14.5,
+          11.0,
+          34.5,
+          29.0
+        ],
+        [
+          -34.5,
+          -9.0,
+          -14.5,
+          9.0
+        ],
+        [
+          14.5,
+          -9.0,
+          34.5,
+          9.0
+        ],
+        [
+          -34.5,
+          -29.0,
+          -14.5,
+          -11.0
+        ],
+        [
+          14.5,
+          -29.0,
+          34.5,
+          -11.0
+        ],
+        [
+          -12.0,
+          -28.0,
+          12.0,
+          -4.0
+        ]
+      ]
+    },
+    "C": {
+      "size": [
+        53.75,
+        62.5
+      ],
+      "offset": [
+        165.625,
+        0
+      ],
+      "plots": [
+        [
+          1.125,
+          -28.7,
+          26.125,
+          -11.7
+        ],
+        [
+          1.125,
+          11.3,
+          26.125,
+          28.3
+        ],
+        [
+          -26.125,
+          -28.7,
+          -1.125,
+          -11.7
+        ],
+        [
+          -26.125,
+          -8.7,
+          -1.125,
+          8.3
+        ],
+        [
+          -26.125,
+          11.3,
+          -1.125,
+          28.3
+        ]
+      ]
+    }
+  },
+  "paths": {
+    "A": [
+      [
+        -37.5,
+        -31.25,
+        37.5,
+        -29
+      ],
+      [
+        -14.25,
+        -29,
+        -12.25,
+        -28
+      ],
+      [
+        -2.85,
+        -29,
+        -1.15,
+        -28
+      ],
+      [
+        12.25,
+        -29,
+        14.25,
+        -28
+      ],
+      [
+        -14.25,
+        -28,
+        -12.25,
+        -11
+      ],
+      [
+        12.25,
+        -28,
+        14.25,
+        -11
+      ],
+      [
+        -37.5,
+        -11,
+        -12.25,
+        -9
+      ],
+      [
+        12.25,
+        -11,
+        37.5,
+        -9
+      ],
+      [
+        -14.25,
+        -9,
+        -12.25,
+        -3
+      ],
+      [
+        12.25,
+        -9,
+        14.25,
+        -3
+      ],
+      [
+        -14.25,
+        -3,
+        14.25,
+        -1
+      ],
+      [
+        -14.25,
+        -1,
+        -12.25,
+        9
+      ],
+      [
+        -1,
+        -1,
+        1,
+        9
+      ],
+      [
+        12.25,
+        -1,
+        14.25,
+        9
+      ],
+      [
+        -37.5,
+        9,
+        37.5,
+        11
+      ],
+      [
+        -14.25,
+        11,
+        -12.25,
+        25
+      ],
+      [
+        -1,
+        11,
+        1,
+        25
+      ],
+      [
+        12.25,
+        11,
+        14.25,
+        25
+      ],
+      [
+        -14.25,
+        25,
+        14.25,
+        27
+      ],
+      [
+        -14.25,
+        27,
+        -12.25,
+        29
+      ],
+      [
+        -1,
+        27,
+        1,
+        29
+      ],
+      [
+        12.25,
+        27,
+        14.25,
+        29
+      ],
+      [
+        -37.5,
+        29,
+        37.5,
+        31.25
+      ]
+    ],
+    "C": [
+      [
+        -26.875,
+        -31.25,
+        26.875,
+        -29
+      ],
+      [
+        -14.725,
+        -29,
+        -12.525,
+        -28.1
+      ],
+      [
+        -1.125,
+        -29,
+        1.125,
+        -28.1
+      ],
+      [
+        12.525,
+        -29,
+        14.725,
+        -28.1
+      ],
+      [
+        -1.125,
+        -28.1,
+        1.125,
+        -11
+      ],
+      [
+        -26.875,
+        -11,
+        1.125,
+        -9
+      ],
+      [
+        -14.725,
+        -9,
+        -12.525,
+        -8.1
+      ],
+      [
+        -1.125,
+        -9,
+        1.125,
+        -8.1
+      ],
+      [
+        -1.125,
+        -8.1,
+        1.125,
+        -1.1
+      ],
+      [
+        -1.125,
+        -1.1,
+        26.875,
+        1.1
+      ],
+      [
+        -1.125,
+        1.1,
+        1.125,
+        9
+      ],
+      [
+        -26.875,
+        9,
+        26.875,
+        11
+      ],
+      [
+        -14.725,
+        11,
+        -12.525,
+        11.9
+      ],
+      [
+        -1.125,
+        11,
+        1.125,
+        11.9
+      ],
+      [
+        12.525,
+        11,
+        14.725,
+        11.9
+      ],
+      [
+        -1.125,
+        11.9,
+        1.125,
+        29
+      ],
+      [
+        -26.875,
+        29,
+        26.875,
+        31.25
+      ]
+    ]
+  },
+  "residentUnits": 46,
+  "heroUnits": 1,
+  "totalBuildings": 12,
+  "meshObjects": 815,
+  "triangles": 474836,
+  "sha256": "add6da46c01862e306d22fe423bbf6971e4194d7bf37d251b6f9f8a7881aac13",
+  "blender": "5.2.2 LTS",
+  "units": "metres",
+  "sourceAxes": "Z up, north +Y",
+  "glbAxes": "Y up, north -Z",
+  "status": "design-review",
+  "AtoCOffset": 165.625,
+  "changesToPriorPlacement": "C columns moved from +/-13 to +/-13.625 metres; source models unscaled and unrotated"
+}

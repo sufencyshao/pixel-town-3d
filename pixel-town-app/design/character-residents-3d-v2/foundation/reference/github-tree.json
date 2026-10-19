@@ -1,0 +1,1361 @@
+{
+  "sha": "5821923af517ac5fdc82505faa92a0d575fc1b1a",
+  "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/5821923af517ac5fdc82505faa92a0d575fc1b1a",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "260c2bee017b60272d7c9f5a4a7e928c81bc1009",
+      "size": 1232,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/260c2bee017b60272d7c9f5a4a7e928c81bc1009"
+    },
+    {
+      "path": "Readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a0159ce2064063a6b63c3e14506d9a1dd96a436",
+      "size": 24566,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/5a0159ce2064063a6b63c3e14506d9a1dd96a436"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "101931196d55513f33ad5ed7bb343873ce5039df",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/101931196d55513f33ad5ed7bb343873ce5039df"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "18fdd3cdfdc610d5c0695a3b67c1f246df900049",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/18fdd3cdfdc610d5c0695a3b67c1f246df900049"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Female Mannequin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "25f23623fb8c4deb7dc4a082ece8661c0948f595",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/25f23623fb8c4deb7dc4a082ece8661c0948f595"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Female Mannequin/Mannequin_F.blend",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2d7677ccdd3a9d9961e312e11d87697e91ca2dc",
+      "size": 4130952,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/f2d7677ccdd3a9d9961e312e11d87697e91ca2dc"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Female Mannequin/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc9bec5c9c57dc280cebaa7cccf140cac5f30293",
+      "size": 274,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/dc9bec5c9c57dc280cebaa7cccf140cac5f30293"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Female Mannequin/Unity",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7cd7effb0aa71289a12daa0f6fa92f16b68e77ca",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/7cd7effb0aa71289a12daa0f6fa92f16b68e77ca"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Female Mannequin/Unity/Mannequin_F.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b84498209de9766fd682bbe275f29376f612ee3f",
+      "size": 575100,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/b84498209de9766fd682bbe275f29376f612ee3f"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Female Mannequin/Unreal-Godot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "22dabe113f3da259f9ff2950acdeb204f26513e1",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/22dabe113f3da259f9ff2950acdeb204f26513e1"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Female Mannequin/Unreal-Godot/Mannequin_F.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28ce0f6d3343739ac679b4a243179322cb751791",
+      "size": 1442824,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/28ce0f6d3343739ac679b4a243179322cb751791"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Godot_Setup.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b95228e4612cbb4249cbc5e0fcf92231ade33375",
+      "size": 499312,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/b95228e4612cbb4249cbc5e0fcf92231ade33375"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/License.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e29809e680411990a999d5a73ee134c97116d98f",
+      "size": 320,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/e29809e680411990a999d5a73ee134c97116d98f"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06b0ae602dbe900709fbbfb7cb5dab7f62a9e5d3",
+      "size": 683,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/06b0ae602dbe900709fbbfb7cb5dab7f62a9e5d3"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Unity",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8820276577e6980997830d4c61cae00ec1918ec6",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/8820276577e6980997830d4c61cae00ec1918ec6"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4848c23dc7183a21ad9c05912f9385c50a07486e",
+      "size": 24778332,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/4848c23dc7183a21ad9c05912f9385c50a07486e"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db7b010f4917c9a49103df35e04de2e5d7c2fef3",
+      "size": 24805740,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/db7b010f4917c9a49103df35e04de2e5d7c2fef3"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Unity_Setup.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bf91515577b0126f2f9bbb75e024161fa292061",
+      "size": 237945,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/0bf91515577b0126f2f9bbb75e024161fa292061"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Unreal-Godot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "057787de9ea45e8ca5d38fd90cf8fdb5129605ea",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/057787de9ea45e8ca5d38fd90cf8fdb5129605ea"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Unreal-Godot/UAL2_Standard.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a30163d96d890e8849a7956e2d6a61df0276049",
+      "size": 8091444,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/9a30163d96d890e8849a7956e2d6a61df0276049"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Unreal-Godot/UAL2_Standard_RM.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "391bd82960457b3d48216be6e15557c986958df9",
+      "size": 8095936,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/391bd82960457b3d48216be6e15557c986958df9"
+    },
+    {
+      "path": "Universal Animation Library 2[Standard]/Universal Animation Library 2[Standard]/Unreal_Setup.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d1af4d6c39d940d2fa56ad717157a26e2cffd27",
+      "size": 148412,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/0d1af4d6c39d940d2fa56ad717157a26e2cffd27"
+    },
+    {
+      "path": "Universal Animation Library[Standard]",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e8bea115a0d1b327960a8e06d918cc0a2b096f9f",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/e8bea115a0d1b327960a8e06d918cc0a2b096f9f"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7d46742870dcd17d0ac5a3b6fa2e8b8d493c72e9",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/7d46742870dcd17d0ac5a3b6fa2e8b8d493c72e9"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/Godot_Setup.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b95228e4612cbb4249cbc5e0fcf92231ade33375",
+      "size": 499312,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/b95228e4612cbb4249cbc5e0fcf92231ade33375"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/License.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e29809e680411990a999d5a73ee134c97116d98f",
+      "size": 320,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/e29809e680411990a999d5a73ee134c97116d98f"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06b0ae602dbe900709fbbfb7cb5dab7f62a9e5d3",
+      "size": 683,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/06b0ae602dbe900709fbbfb7cb5dab7f62a9e5d3"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/Unity",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d32e2370adfcd12310fff34759e8b65e3ac3311b",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/d32e2370adfcd12310fff34759e8b65e3ac3311b"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b78dad85fbd84361e2e9980d54b628cb7e7648ff",
+      "size": 23754684,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/b78dad85fbd84361e2e9980d54b628cb7e7648ff"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37feb1b854c16231fccd938116c4c5652cc617da",
+      "size": 23767852,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/37feb1b854c16231fccd938116c4c5652cc617da"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/Unity_Setup.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bf91515577b0126f2f9bbb75e024161fa292061",
+      "size": 237945,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/0bf91515577b0126f2f9bbb75e024161fa292061"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/Unreal-Godot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0fe52bb843375609c014adb1ea3f3b2630fb1019",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/0fe52bb843375609c014adb1ea3f3b2630fb1019"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/Unreal-Godot/UAL1_Standard.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "473e59080288428d0b6da826ba19324d07b191f0",
+      "size": 7618436,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/473e59080288428d0b6da826ba19324d07b191f0"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/Unreal-Godot/UAL1_Standard_RM.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49ab49b9abac1c1195c6b2560102b525f82634ec",
+      "size": 7620504,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/49ab49b9abac1c1195c6b2560102b525f82634ec"
+    },
+    {
+      "path": "Universal Animation Library[Standard]/Universal Animation Library[Standard]/Unreal_Setup.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d1af4d6c39d940d2fa56ad717157a26e2cffd27",
+      "size": 148412,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/0d1af4d6c39d940d2fa56ad717157a26e2cffd27"
+    },
+    {
+      "path": "Universal Base Characters[Standard]",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "38a0ba4ddfc6e1d2248e776e5ec0996190870c35",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/38a0ba4ddfc6e1d2248e776e5ec0996190870c35"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8f2232a98094fe41cedfec57677514109d72e6cb",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/8f2232a98094fe41cedfec57677514109d72e6cb"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "786eeb5b720e9fa380674325240963778d8f8961",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/786eeb5b720e9fa380674325240963778d8f8961"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "59f36540df9627e475f3da95bd05b1fa0165a55f",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/59f36540df9627e475f3da95bd05b1fa0165a55f"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Female_FullBody.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e6507c85a4993e97d31f187b4d0715af300400d",
+      "size": 990808,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/6e6507c85a4993e97d31f187b4d0715af300400d"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Female_FullBody.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "804aa3d3bbbd1977d31ec25c7dbf9a00705be49d",
+      "size": 31656,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/804aa3d3bbbd1977d31ec25c7dbf9a00705be49d"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Male_FullBody.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54309de6c6ccad823a8ced11056f4013b197b1c6",
+      "size": 720076,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/54309de6c6ccad823a8ced11056f4013b197b1c6"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Male_FullBody.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e4b5b57dca66cced9127b25a6f111a0919da00a",
+      "size": 30989,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/7e4b5b57dca66cced9127b25a6f111a0919da00a"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Eye_Brown.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d037febc2789c86fdb40d7ccd4c0a1d0591cfbe",
+      "size": 35958,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/0d037febc2789c86fdb40d7ccd4c0a1d0591cfbe"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Eye_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2da59128bac4b6d4a87fc0ee1d1835cd52e21028",
+      "size": 15099,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/2da59128bac4b6d4a87fc0ee1d1835cd52e21028"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_1_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c398ca7d10a12d0a1c3fb19d459280bde868594b",
+      "size": 1570376,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/c398ca7d10a12d0a1c3fb19d459280bde868594b"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_1_BaseColor_png.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c398ca7d10a12d0a1c3fb19d459280bde868594b",
+      "size": 1570376,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/c398ca7d10a12d0a1c3fb19d459280bde868594b"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_1_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5aa652eded3befcd3cab03950309c715de42c297",
+      "size": 4326126,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/5aa652eded3befcd3cab03950309c715de42c297"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_2_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bda8d959b61fc57184bfc287ce2e62143c6faff6",
+      "size": 1729467,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/bda8d959b61fc57184bfc287ce2e62143c6faff6"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_2_BaseColor_png.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bda8d959b61fc57184bfc287ce2e62143c6faff6",
+      "size": 1729467,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/bda8d959b61fc57184bfc287ce2e62143c6faff6"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_2_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d77b1dd52d5e2954b953364e2cf3555305971ed",
+      "size": 4710013,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/2d77b1dd52d5e2954b953364e2cf3555305971ed"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Female_Dark_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06d49a50a69873d30f687f59e74e94d34e69ad9a",
+      "size": 1319410,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/06d49a50a69873d30f687f59e74e94d34e69ad9a"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Female_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20af328bc43a49a54b2b0fab62e5267b9a5993fa",
+      "size": 3940537,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/20af328bc43a49a54b2b0fab62e5267b9a5993fa"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Female_Roughness.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d496b5331598258460a00aaedda2b9bc96ab9c8f",
+      "size": 3277022,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/d496b5331598258460a00aaedda2b9bc96ab9c8f"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Male_Dark.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6391f45275f6c904edbde5daa500bab26b103366",
+      "size": 1384380,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/6391f45275f6c904edbde5daa500bab26b103366"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Male_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88303e2ad3f435853cd10d509adbbae960af4279",
+      "size": 4252937,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/88303e2ad3f435853cd10d509adbbae960af4279"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Male_Roughness.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2bbc618d20047d14fd51faf5be5bc272f5a8bf6d",
+      "size": 3152049,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/2bbc618d20047d14fd51faf5be5bc272f5a8bf6d"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6031e6ea20ab2ab81b853a45a63309df33c14b19",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/6031e6ea20ab2ab81b853a45a63309df33c14b19"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f01132d3b8d67e92c5336fff9e8729a3e0e115b9",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/f01132d3b8d67e92c5336fff9e8729a3e0e115b9"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Eye_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2da59128bac4b6d4a87fc0ee1d1835cd52e21028",
+      "size": 15099,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/2da59128bac4b6d4a87fc0ee1d1835cd52e21028"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Hair_1_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5aa652eded3befcd3cab03950309c715de42c297",
+      "size": 4326126,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/5aa652eded3befcd3cab03950309c715de42c297"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Hair_2_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d77b1dd52d5e2954b953364e2cf3555305971ed",
+      "size": 4710013,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/2d77b1dd52d5e2954b953364e2cf3555305971ed"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Superhero_Female_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20af328bc43a49a54b2b0fab62e5267b9a5993fa",
+      "size": 3940537,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/20af328bc43a49a54b2b0fab62e5267b9a5993fa"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/Normals Unity - Godot/T_Superhero_Male_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88303e2ad3f435853cd10d509adbbae960af4279",
+      "size": 4252937,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/88303e2ad3f435853cd10d509adbbae960af4279"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Eye_Brown.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d037febc2789c86fdb40d7ccd4c0a1d0591cfbe",
+      "size": 35958,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/0d037febc2789c86fdb40d7ccd4c0a1d0591cfbe"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Eye_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd3a5e0f8fcf9f935b634700649cc8aeb70fa61c",
+      "size": 15097,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/cd3a5e0f8fcf9f935b634700649cc8aeb70fa61c"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Hair_1_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c398ca7d10a12d0a1c3fb19d459280bde868594b",
+      "size": 1570376,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/c398ca7d10a12d0a1c3fb19d459280bde868594b"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Hair_1_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3b8148538d668ff7c7280a7a5fe0be261f41dec",
+      "size": 3770683,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/d3b8148538d668ff7c7280a7a5fe0be261f41dec"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Hair_2_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bda8d959b61fc57184bfc287ce2e62143c6faff6",
+      "size": 1729467,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/bda8d959b61fc57184bfc287ce2e62143c6faff6"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Hair_2_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a571c9e9d4d75a7af517c4753d32607106f9111",
+      "size": 4109628,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/3a571c9e9d4d75a7af517c4753d32607106f9111"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Female_Dark_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06d49a50a69873d30f687f59e74e94d34e69ad9a",
+      "size": 1319410,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/06d49a50a69873d30f687f59e74e94d34e69ad9a"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Female_Light_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21d0bd6f24f031f10b1a8278a1d414ac0b371ad9",
+      "size": 1317541,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/21d0bd6f24f031f10b1a8278a1d414ac0b371ad9"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Female_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a018dcca76de8ad9aa9342366f8c6c9031f51f42",
+      "size": 3420584,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/a018dcca76de8ad9aa9342366f8c6c9031f51f42"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Female_Roughness.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4edb3977d86b8ac72450011ebc528ab6745477e",
+      "size": 1997719,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/f4edb3977d86b8ac72450011ebc528ab6745477e"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Male_Dark.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6391f45275f6c904edbde5daa500bab26b103366",
+      "size": 1384380,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/6391f45275f6c904edbde5daa500bab26b103366"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Male_Ligh.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71b53f579330ffd84c5b774f3e02aa969659df40",
+      "size": 1389170,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/71b53f579330ffd84c5b774f3e02aa969659df40"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Male_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d1c26074d1ab48aee7bdc9745fc54287c3f825a",
+      "size": 3687166,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/6d1c26074d1ab48aee7bdc9745fc54287c3f825a"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Textures/T_Superhero_Male_Roughness.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fbc1f61379f0830f42567833e0d7e6e901d03584",
+      "size": 1912686,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/fbc1f61379f0830f42567833e0d7e6e901d03584"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Unity",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "acbdd93835e86cc9d8914f1b5d08cad0d7b3e2ff",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/acbdd93835e86cc9d8914f1b5d08cad0d7b3e2ff"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Female_FullBody.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92603a5b146b45c416afdf3d6cc296c5830d14e9",
+      "size": 1006508,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/92603a5b146b45c416afdf3d6cc296c5830d14e9"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Male_FullBody.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ab11e5d4f0b55653f579c602f83d1a6ec897c99",
+      "size": 826876,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/4ab11e5d4f0b55653f579c602f83d1a6ec897c99"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Base Characters/Unreal-Engine-README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41fe7904ffb239903376fc91ef3e8fe51f13032e",
+      "size": 286,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/41fe7904ffb239903376fc91ef3e8fe51f13032e"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2e7c351952c4a6df0f9098758d21e0bb2e41a8c5",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/2e7c351952c4a6df0f9098758d21e0bb2e41a8c5"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6f19cc85a516dd631f29db84c9bd53a70f852280",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/6f19cc85a516dd631f29db84c9bd53a70f852280"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b0da3d84e0626cca0cc855bfd17d712e744d03ae",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/b0da3d84e0626cca0cc855bfd17d712e744d03ae"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Eyebrows_Female.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "203c8768b525d2d28af829c55a73d5ae067e0b38",
+      "size": 73596,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/203c8768b525d2d28af829c55a73d5ae067e0b38"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Eyebrows_Regular.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa35a7a3b09466c352242a93df9408106fb5cefc",
+      "size": 47132,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/fa35a7a3b09466c352242a93df9408106fb5cefc"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Beard.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05c13499adaf482aea4977ea894e4fa22bd5af25",
+      "size": 48444,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/05c13499adaf482aea4977ea894e4fa22bd5af25"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Buns.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c67ef8e325428a3d0146f3df7c666ac3efe067b9",
+      "size": 135388,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/c67ef8e325428a3d0146f3df7c666ac3efe067b9"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Buzzed.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d6942d9a8d6885351ec799bb775c93d865efcde",
+      "size": 45036,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/7d6942d9a8d6885351ec799bb775c93d865efcde"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_BuzzedFemale.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec107628b18a724d3b0a7c8724d515ad1e44b304",
+      "size": 43004,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/ec107628b18a724d3b0a7c8724d515ad1e44b304"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Long.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18ac2c8549ba3885676804add5a1b747cce0aff0",
+      "size": 125036,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/18ac2c8549ba3885676804add5a1b747cce0aff0"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_SimpleParted.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72449dbe50126afcd9edcaa5882e249cd2b61a0b",
+      "size": 62668,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/72449dbe50126afcd9edcaa5882e249cd2b61a0b"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ae6c045ee9d83f0f0a68c609fe1d227931a39f91",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/ae6c045ee9d83f0f0a68c609fe1d227931a39f91"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Eyebrows_Female.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c37a053919fcfb56ec7b00982e2738c3a322559",
+      "size": 73548,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/4c37a053919fcfb56ec7b00982e2738c3a322559"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Eyebrows_Regular.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c800d586ca53a4cdf95685425ba8356c58fa7d5",
+      "size": 47276,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/3c800d586ca53a4cdf95685425ba8356c58fa7d5"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_Beard.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fc43a85714bc7c616d6851f0d666cc9e21a3839",
+      "size": 48540,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/7fc43a85714bc7c616d6851f0d666cc9e21a3839"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_Buns.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ace5ef067d2d957e0ca715e8248b5a2d1b3cb149",
+      "size": 134476,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/ace5ef067d2d957e0ca715e8248b5a2d1b3cb149"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_Buzzed.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22fd198146654c890b219fe1354af5e9ae7b8bd0",
+      "size": 44716,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/22fd198146654c890b219fe1354af5e9ae7b8bd0"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_BuzzedFemale.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1e5981bd3f63aa32c06336cff6f07285c306a26",
+      "size": 43036,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/a1e5981bd3f63aa32c06336cff6f07285c306a26"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_Long.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30f2831064c8585db497ffbdb9b4a0ac5146f7e9",
+      "size": 123612,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/30f2831064c8585db497ffbdb9b4a0ac5146f7e9"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/Hair_SimpleParted.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cb4fc1d0c914c65fd6a7153224d7fc66910e0dd",
+      "size": 61932,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/6cb4fc1d0c914c65fd6a7153224d7fc66910e0dd"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "95b0b7e655b27969f105398239e4b6c4cc1ff3c0",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/95b0b7e655b27969f105398239e4b6c4cc1ff3c0"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Eyebrows_Female.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8d7809c7abcf00dcd31e7fd87db57759e30232a",
+      "size": 67248,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/d8d7809c7abcf00dcd31e7fd87db57759e30232a"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Eyebrows_Female.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "502f173fdc5393e7c9acbdf11af75362832707ce",
+      "size": 2855,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/502f173fdc5393e7c9acbdf11af75362832707ce"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Eyebrows_Regular.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd49747b7b7b4ec28eb09c35b0ac58813940bc14",
+      "size": 26576,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/fd49747b7b7b4ec28eb09c35b0ac58813940bc14"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Eyebrows_Regular.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1465ccc75c54a8ed110fbfb61fa9211a60a3be8f",
+      "size": 2018,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/1465ccc75c54a8ed110fbfb61fa9211a60a3be8f"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Beard.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b94ea08571523fc7b8b5205090d37a251f0a1ea",
+      "size": 25276,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/3b94ea08571523fc7b8b5205090d37a251f0a1ea"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Beard.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf9e75a7209b6609a952143338cf5e8268761feb",
+      "size": 2005,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/cf9e75a7209b6609a952143338cf5e8268761feb"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Buns.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39594db511b6a9882ed6919eebb0c1a52f435981",
+      "size": 131768,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/39594db511b6a9882ed6919eebb0c1a52f435981"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Buns.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5a8e0910ffc70f9708b6dea90b58571962a51fc",
+      "size": 2243,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/a5a8e0910ffc70f9708b6dea90b58571962a51fc"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Buzzed.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "904d236c8aab3c96f5348ec3fabc280ebd61a203",
+      "size": 19892,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/904d236c8aab3c96f5348ec3fabc280ebd61a203"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Buzzed.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "500139952138d9a48425a9df54aa4198460e991e",
+      "size": 2006,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/500139952138d9a48425a9df54aa4198460e991e"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_BuzzedFemale.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8708f6a17854419b1518a12bfb2683f8cd9c8c0a",
+      "size": 19892,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/8708f6a17854419b1518a12bfb2683f8cd9c8c0a"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_BuzzedFemale.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64ae5635aa18d104a91bf294c6b9b9ce2871791e",
+      "size": 2191,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/64ae5635aa18d104a91bf294c6b9b9ce2871791e"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Long.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a58435fdf81b820364a4087a1475516b44d11f5a",
+      "size": 115996,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/a58435fdf81b820364a4087a1475516b44d11f5a"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_Long.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3a541635e38ade34e592fa61df0c930a1450f97",
+      "size": 2056,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/d3a541635e38ade34e592fa61df0c930a1450f97"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_SimpleParted.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "503505e0b70478318b633f5550434fd5bf01bac8",
+      "size": 32032,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/503505e0b70478318b633f5550434fd5bf01bac8"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/Hair_SimpleParted.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "117642cc6da2ceaa31034a7170e189fb75058853",
+      "size": 2010,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/117642cc6da2ceaa31034a7170e189fb75058853"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c398ca7d10a12d0a1c3fb19d459280bde868594b",
+      "size": 1570376,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/c398ca7d10a12d0a1c3fb19d459280bde868594b"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5aa652eded3befcd3cab03950309c715de42c297",
+      "size": 4326126,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/5aa652eded3befcd3cab03950309c715de42c297"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bda8d959b61fc57184bfc287ce2e62143c6faff6",
+      "size": 1729467,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/bda8d959b61fc57184bfc287ce2e62143c6faff6"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d77b1dd52d5e2954b953364e2cf3555305971ed",
+      "size": 4710013,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/2d77b1dd52d5e2954b953364e2cf3555305971ed"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ba8a79ee408d65b53b264dcb1af1f25464bb6bee",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/ba8a79ee408d65b53b264dcb1af1f25464bb6bee"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d0dd32a3435dee46dc63fd9d4fce8a901ca95d2b",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/d0dd32a3435dee46dc63fd9d4fce8a901ca95d2b"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Eyebrows_Female.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69fda829969fbd8ad122c6b96e78a70d534ded2d",
+      "size": 194428,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/69fda829969fbd8ad122c6b96e78a70d534ded2d"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Eyebrows_Regular.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43d77f4d7d62338360059b853b8de42470adaf51",
+      "size": 168636,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/43d77f4d7d62338360059b853b8de42470adaf51"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Beard.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bcc10829a817466db5511501844f698b86e58de",
+      "size": 169804,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/7bcc10829a817466db5511501844f698b86e58de"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Buns.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b27f4827e52757faab75f1814efc7c0ba8e18f0c",
+      "size": 259420,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/b27f4827e52757faab75f1814efc7c0ba8e18f0c"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Buzzed.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89121bba6c8dc3146755946858102344cff24721",
+      "size": 165884,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/89121bba6c8dc3146755946858102344cff24721"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_BuzzedFemale.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ea0bf4523541a92314a18564b809bcaac8e8344",
+      "size": 164492,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/3ea0bf4523541a92314a18564b809bcaac8e8344"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Long.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e53e8bcb80ecb4dfe67479a33eb7a7ac142869d",
+      "size": 249404,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/3e53e8bcb80ecb4dfe67479a33eb7a7ac142869d"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_SimpleParted.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b554a97095da0307321106f112cde83752c503bd",
+      "size": 181628,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/b554a97095da0307321106f112cde83752c503bd"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2cb93e0aa1214a2e15c36931022cf5965ed73298",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/2cb93e0aa1214a2e15c36931022cf5965ed73298"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Female.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d8f9e3bd4058203904f743b3e1ebb36af5a1e50",
+      "size": 100592,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/5d8f9e3bd4058203904f743b3e1ebb36af5a1e50"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Female.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8766cedc146e8031bc7964e02c6e76c1969be638",
+      "size": 25053,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/8766cedc146e8031bc7964e02c6e76c1969be638"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Regular.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93c9302b00e9dcc77583db8e4ee5d901921e61a2",
+      "size": 43656,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/93c9302b00e9dcc77583db8e4ee5d901921e61a2"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Regular.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35a9469378aa1fc4bda9a0a06b7c720788abc560",
+      "size": 23117,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/35a9469378aa1fc4bda9a0a06b7c720788abc560"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Beard.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd570929cb4e7c929681b149b4fa9e770ba9b530",
+      "size": 41356,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/dd570929cb4e7c929681b149b4fa9e770ba9b530"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Beard.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca79e6c675f69e1b3410d9315a3b9e46a61d930d",
+      "size": 23104,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/ca79e6c675f69e1b3410d9315a3b9e46a61d930d"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buns.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "edf82d5d9021529e3272b9e54ed0c7a2d67bcb20",
+      "size": 205916,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/edf82d5d9021529e3272b9e54ed0c7a2d67bcb20"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buns.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb63768cc5b783f1d6b06fe25d10ab8910d53116",
+      "size": 23807,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/eb63768cc5b783f1d6b06fe25d10ab8910d53116"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buzzed.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d617b82901bb41fdbfc47f1ecdd69876c6aef93",
+      "size": 33372,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/9d617b82901bb41fdbfc47f1ecdd69876c6aef93"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buzzed.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41b3436160b05c669ffe5d0bdfd822a0dd5d8a05",
+      "size": 23108,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/41b3436160b05c669ffe5d0bdfd822a0dd5d8a05"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_BuzzedFemale.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70c8b956586e68e50a17cd54fdd48d3b8aa61c13",
+      "size": 33372,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/70c8b956586e68e50a17cd54fdd48d3b8aa61c13"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_BuzzedFemale.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ab863003205a7e6a8528585b2ecbbeefb37f13d",
+      "size": 23779,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/3ab863003205a7e6a8528585b2ecbbeefb37f13d"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Long.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6dd35df4eb7157b51dff4f537a0e2191e778b0ab",
+      "size": 181756,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/6dd35df4eb7157b51dff4f537a0e2191e778b0ab"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Long.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbe0388d7937ee3b271d4b9e6f508aa8241e168a",
+      "size": 23813,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/cbe0388d7937ee3b271d4b9e6f508aa8241e168a"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_SimpleParted.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7acd443dbed9640224dda0d9a11dfa4b55bb5c2d",
+      "size": 51332,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/7acd443dbed9640224dda0d9a11dfa4b55bb5c2d"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_SimpleParted.gltf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f62944bd4b6a00accf32c37ca1c08dbe5cbb421",
+      "size": 23114,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/1f62944bd4b6a00accf32c37ca1c08dbe5cbb421"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c398ca7d10a12d0a1c3fb19d459280bde868594b",
+      "size": 1570376,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/c398ca7d10a12d0a1c3fb19d459280bde868594b"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5aa652eded3befcd3cab03950309c715de42c297",
+      "size": 4326126,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/5aa652eded3befcd3cab03950309c715de42c297"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bda8d959b61fc57184bfc287ce2e62143c6faff6",
+      "size": 1729467,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/bda8d959b61fc57184bfc287ce2e62143c6faff6"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d77b1dd52d5e2954b953364e2cf3555305971ed",
+      "size": 4710013,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/2d77b1dd52d5e2954b953364e2cf3555305971ed"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Textures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cd7d0b5bf0208ccd81f757a9b906de31b067088c",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/cd7d0b5bf0208ccd81f757a9b906de31b067088c"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Textures/Normals Unity - Godot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ca2145c7d9cdddd789535654ef9b2f2fa43d757a",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/ca2145c7d9cdddd789535654ef9b2f2fa43d757a"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Textures/Normals Unity - Godot/T_Hair_1_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5aa652eded3befcd3cab03950309c715de42c297",
+      "size": 4326126,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/5aa652eded3befcd3cab03950309c715de42c297"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Textures/Normals Unity - Godot/T_Hair_2_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d77b1dd52d5e2954b953364e2cf3555305971ed",
+      "size": 4710013,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/2d77b1dd52d5e2954b953364e2cf3555305971ed"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Textures/T_Hair_1_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c398ca7d10a12d0a1c3fb19d459280bde868594b",
+      "size": 1570376,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/c398ca7d10a12d0a1c3fb19d459280bde868594b"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Textures/T_Hair_1_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3b8148538d668ff7c7280a7a5fe0be261f41dec",
+      "size": 3770683,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/d3b8148538d668ff7c7280a7a5fe0be261f41dec"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Textures/T_Hair_2_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bda8d959b61fc57184bfc287ce2e62143c6faff6",
+      "size": 1729467,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/bda8d959b61fc57184bfc287ce2e62143c6faff6"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Hairstyles/Textures/T_Hair_2_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a571c9e9d4d75a7af517c4753d32607106f9111",
+      "size": 4109628,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/3a571c9e9d4d75a7af517c4753d32607106f9111"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/License_Standard.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "383cc15f00799f91d6e69407ea8f4037be9492e9",
+      "size": 784,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/383cc15f00799f91d6e69407ea8f4037be9492e9"
+    },
+    {
+      "path": "Universal Base Characters[Standard]/Universal Base Characters[Standard]/Preview.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f4ff7df815d4bd2e459091cc5e1da8785bdcb87",
+      "size": 2109533,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/3f4ff7df815d4bd2e459091cc5e1da8785bdcb87"
+    },
+    {
+      "path": "merge",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fc83eb8cbea17abaa3e9fa965455659c1eb5cd7b",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/fc83eb8cbea17abaa3e9fa965455659c1eb5cd7b"
+    },
+    {
+      "path": "merge/diagnose.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c89ec280e577193f922b98f3093c469e71d5e45a",
+      "size": 1438,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/c89ec280e577193f922b98f3093c469e71d5e45a"
+    },
+    {
+      "path": "merge/merge.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef9e406d15bbd1d7072dfa7bbc6721a955db00ee",
+      "size": 3834,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/ef9e406d15bbd1d7072dfa7bbc6721a955db00ee"
+    },
+    {
+      "path": "merge/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a995fba95ae84b4beea2b61126bcae0113ec2d4",
+      "size": 1871,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/0a995fba95ae84b4beea2b61126bcae0113ec2d4"
+    },
+    {
+      "path": "merge/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c3a42b329a9f9451314707450a8cd5b03160f01",
+      "size": 347,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/0c3a42b329a9f9451314707450a8cd5b03160f01"
+    },
+    {
+      "path": "test",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "97ff6e0d9892a09e0c1c1eb45bd74490f5103651",
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/trees/97ff6e0d9892a09e0c1c1eb45bd74490f5103651"
+    },
+    {
+      "path": "test/human_female.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3ebcbbcd14bb742b2962687640e36ee95977e3f",
+      "size": 35752840,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/d3ebcbbcd14bb742b2962687640e36ee95977e3f"
+    },
+    {
+      "path": "test/human_male.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad6e0e84b934007d2bc89acf2ebb947a79738333",
+      "size": 35190592,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/ad6e0e84b934007d2bc89acf2ebb947a79738333"
+    },
+    {
+      "path": "test/test.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3382e7af6eaa04c29daf2930e14d29d9f024dcdb",
+      "size": 7308,
+      "url": "https://api.github.com/repos/NafisRayan/Animate-Rigged-Humanoid-No-Blender/git/blobs/3382e7af6eaa04c29daf2930e14d29d9f024dcdb"
+    }
+  ],
+  "truncated": false
+}

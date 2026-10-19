@@ -1,0 +1,214 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-17",
+  "files": {
+    "README.md": {
+      "bytes": 5253,
+      "sha256": "d09e17ca9b9b9e041045ab3642fa4c92c25fd1d118d1393115c07a4454669d9d"
+    },
+    "THIRD_PARTY_LICENSES.txt": {
+      "bytes": 1279,
+      "sha256": "8ea79173c22f87bf0682397685f92f6d746f06fbdaa3d01c19c74a71131fc8bd"
+    },
+    "assets/A-chibi/Ache.blend": {
+      "bytes": 1704825,
+      "sha256": "866e4423fa6aaf80d98e8c255ff7db0638677173722ab43c94ee0c02835e55c9"
+    },
+    "assets/A-chibi/Ache.glb": {
+      "bytes": 1225068,
+      "sha256": "8ad1acd5962c5dc8a5e5641184f701bca2dbef064ea22124b9b97dcebcdc0e42"
+    },
+    "assets/B-cartoon/Ache.blend": {
+      "bytes": 1703629,
+      "sha256": "538f36a254e345332c935635cb899ba0b22fb4e003eefe1934ad923d27619ea8"
+    },
+    "assets/B-cartoon/Ache.glb": {
+      "bytes": 1225496,
+      "sha256": "81f024bc952d427467a4cc24cd89101839d41698ada1b1ba950d02502e2bb8ed"
+    },
+    "assets/C-natural/Ache.blend": {
+      "bytes": 1892763,
+      "sha256": "d4747cd6f38038ccdb277cfc92221205a658d1ee6971b934946025e3f911c205"
+    },
+    "assets/C-natural/Ache.glb": {
+      "bytes": 1108184,
+      "sha256": "9fd463ce3a73afd06abdaaafcf30a3077614212bb49e1182caf634ec857af82e"
+    },
+    "assets/manifest.json": {
+      "bytes": 809,
+      "sha256": "db120684e1fc4157abcd9b0e700c8d268fabc51fc19c02b9bfeaadde7fb068c1"
+    },
+    "package.json": {
+      "bytes": 354,
+      "sha256": "9885ac0dba9ff238c738b8b33f510722859c3c473d97ee50d29b2a6a8f40f215"
+    },
+    "qa/angle.png": {
+      "bytes": 262248,
+      "sha256": "22c7d59a7a714e7047275197eecf404440ae846bc7b79362c6b3d9602de95378"
+    },
+    "qa/asset-validation.json": {
+      "bytes": 175,
+      "sha256": "11c6f54d4e5d369581e89b46c7e9965cf6bbe8a5141acb95e2a256457bd70e7c"
+    },
+    "qa/back.png": {
+      "bytes": 236933,
+      "sha256": "6132efa948bb9038c8686430af51a4b2a5d7702e4e243bfd3ef738d1bb9e8a1f"
+    },
+    "qa/bones.png": {
+      "bytes": 272171,
+      "sha256": "bcac80fa6f9c5c9a6e11a008b2c4e57e72cd49158223f799beaac00fe88a79b7"
+    },
+    "qa/browser-validation.json": {
+      "bytes": 4650,
+      "sha256": "3c2731acc59d19e9e9a73824b8c8d37d4be6b558e1e0d2235df78962b978bead"
+    },
+    "qa/build.log": {
+      "bytes": 10155,
+      "sha256": "4226e082c44f178ee2389cfbb7d99dc03b252b1716fbbeab27744bd608c88f05"
+    },
+    "qa/comparison.png": {
+      "bytes": 263428,
+      "sha256": "d1f829dc4f247f68c5a53513bdbaa02653daac8c0fc80eba0d3e2fd01ee52f95"
+    },
+    "qa/front.png": {
+      "bytes": 266309,
+      "sha256": "b41a7a680e2c780a7f2061896be04e2aea468267d3925e9f43436416137eb869"
+    },
+    "qa/mobile-C.png": {
+      "bytes": 79559,
+      "sha256": "2bcc561540bf64107cc973ab6d28b8deed0bee42a09f44a787be5ffa3515e47f"
+    },
+    "qa/mobile-top.png": {
+      "bytes": 89359,
+      "sha256": "5ef919d6ad7a75068764e3221275d77db7c33980490f5aaa3262602c99535ed5"
+    },
+    "qa/model-validation.json": {
+      "bytes": 5643,
+      "sha256": "b1b1a646231536e6b37ba8b59a12f31ceaf74ee33eae043138a43a073fe32a65"
+    },
+    "qa/model-validation.log": {
+      "bytes": 6475,
+      "sha256": "3a1c198ce24c70db27724a1a53c00336331f9342528d791f58243d10d8a01681"
+    },
+    "qa/side.png": {
+      "bytes": 240825,
+      "sha256": "e2822a30ea9b0fbdbdd0518f32853bdd45ee1e719942b2c16ef34649936ab49e"
+    },
+    "qa/walking.png": {
+      "bytes": 262334,
+      "sha256": "be7b1fff716d3b24ca1c7fffc97a3158566d421f30e5a328f1c3496ddfa4d08a"
+    },
+    "qa/waving.png": {
+      "bytes": 264786,
+      "sha256": "e61dc42705f0131a9ca907ef6c5899c8ef52a7670f1602d91770efdaf9d36d62"
+    },
+    "reference/2d-source.json": {
+      "bytes": 235,
+      "sha256": "80c44823ba40e1609cc3da8397ed6c7d22e3f2d902139bcf6204d007ef9133ec"
+    },
+    "reference/source-manifest.json": {
+      "bytes": 7544,
+      "sha256": "1f400a5fd44d641d0bb8ae103e187bc78ace8afa911e76ea23bd8c48a07d2570"
+    },
+    "reference/阿澈-2D原型.png": {
+      "bytes": 37467,
+      "sha256": "bc1403a9ee49eaa558c3155610ebc9680c9226d17a5db58e24375f14c2805afa"
+    },
+    "src/build_samples.py": {
+      "bytes": 12006,
+      "sha256": "f7142a7577955fd03e0c6b11dca1fd5fb09f15496434b925535654f75e471892"
+    },
+    "src/package_preview.py": {
+      "bytes": 555,
+      "sha256": "c3e67ebecba73313ca04e92241ff0fd3c5ca461e0ab1041242687a2b3a004ecc"
+    },
+    "src/verify_models.py": {
+      "bytes": 2385,
+      "sha256": "1443a0edbc1e5454507f92c17ad5dfe84d0fae9ef815da7f8dabad6c1e8de85d"
+    },
+    "src/viewer.js": {
+      "bytes": 6501,
+      "sha256": "90e66db0f4a8106f51c1a136adf1c7f3f864e787e7be2f44ab71e9312531c7bc"
+    },
+    "template.html": {
+      "bytes": 7611,
+      "sha256": "bbe5037aa4ad63b07f122e5014061471258ac8c47df2228c8bc4b2e53f7a66ea"
+    },
+    "vendor/quaternius/License_Animations.txt": {
+      "bytes": 320,
+      "sha256": "d77329b05c4c206e76c83285ecdd1e5f2b3df2350ec80657ebdb5a706a0fc0de"
+    },
+    "vendor/quaternius/License_Base_Characters.txt": {
+      "bytes": 784,
+      "sha256": "e08f717c3cfd999f4b44f2be4522b11a3ac3c0e5b6364b3a8788d25d4c90ff94"
+    },
+    "vendor/quaternius/UAL1_Standard.glb": {
+      "bytes": 7618436,
+      "sha256": "69591853d817488edaa8fd9bf8fc1d821eaeaf789f8627b3cd23b41c4ed67997"
+    },
+    "vendor/quaternius/base/Superhero_Male_FullBody.bin": {
+      "bytes": 720076,
+      "sha256": "459003f9745853ae562a85506a2b94dd56515c1f37728f9fa3d2ce1a3e4cd92f"
+    },
+    "vendor/quaternius/base/Superhero_Male_FullBody.gltf": {
+      "bytes": 30989,
+      "sha256": "e7fcea214ecf8855afbf910b50de6f9c7d1decfb71ca28bad8a4481452dafeb4"
+    },
+    "vendor/quaternius/base/T_Eye_Brown.png": {
+      "bytes": 35958,
+      "sha256": "d08e3356a83211bc6ca21fe3a8e39f4b5c1a3b8f85457fc2c0fb57be09935025"
+    },
+    "vendor/quaternius/base/T_Eye_Normal_png.png": {
+      "bytes": 15099,
+      "sha256": "9ed61f7726a54fe346a78b9e5a18905d8e2b88f86235d97f53cd207a26f3f8c7"
+    },
+    "vendor/quaternius/base/T_Hair_1_BaseColor.png": {
+      "bytes": 1570376,
+      "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e"
+    },
+    "vendor/quaternius/base/T_Hair_1_Normal_png.png": {
+      "bytes": 4326126,
+      "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb"
+    },
+    "vendor/quaternius/base/T_Superhero_Male_Dark.png": {
+      "bytes": 1384380,
+      "sha256": "df680cbc1967a61e85998bfafb8f7bc0a36dd604bb3266486c4b06b1a184bb45"
+    },
+    "vendor/quaternius/base/T_Superhero_Male_Normal.png": {
+      "bytes": 4252937,
+      "sha256": "9b25cf9200216eb754b79cf4c63b5380c419780788322f3c57cdd2b3e02679a6"
+    },
+    "vendor/quaternius/base/T_Superhero_Male_Roughness.png": {
+      "bytes": 3152049,
+      "sha256": "c70dabf48574cda55644d556beae1ee7cf1bdcf68a50d259d20f2f2358f27991"
+    },
+    "vendor/quaternius/hair/Hair_SimpleParted.bin": {
+      "bytes": 32032,
+      "sha256": "57c6359703a37e346ee38a9c7ba55c8dee761c0a02da99847d06f5a91728f3cc"
+    },
+    "vendor/quaternius/hair/Hair_SimpleParted.gltf": {
+      "bytes": 2010,
+      "sha256": "ce6c666d00bcca2baa0c58d0442505f90f8feff952592effc4697a2341e9e56d"
+    },
+    "vendor/quaternius/hair/T_Hair_1_BaseColor.png": {
+      "bytes": 1570376,
+      "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e"
+    },
+    "vendor/quaternius/hair/T_Hair_1_Normal.png": {
+      "bytes": 4326126,
+      "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb"
+    },
+    "viewer.bundle.js": {
+      "bytes": 609650,
+      "sha256": "d9f67a5a68ed22beb15583206b1eadffb36175926d48da0b53fbe3f61583065f"
+    },
+    "人物三种比例-离线预览.html": {
+      "bytes": 5412255,
+      "sha256": "b4bb8b5f58bdd7502e5dcd23f3a6a2255f05b966f9f8f8dc7838cadc90962744"
+    },
+    "样例范围与来源.md": {
+      "bytes": 2428,
+      "sha256": "91e811dbd3582142adc5efe5c2780e2ce2df6bc81f890a347c585d823850aed8"
+    }
+  }
+}

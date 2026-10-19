@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": [
+    0.5,
+    0.9
+  ],
+  "animations": {
+    "idle": {
+      "atlas": "animations/idle.png",
+      "gif": "animations/idle.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_down": {
+      "atlas": "animations/walk_down.png",
+      "gif": "animations/walk_down.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "walk_left": {
+      "atlas": "animations/walk_left.png",
+      "gif": "animations/walk_left.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_04.png"
+    },
+    "walk_right": {
+      "atlas": "animations/walk_right.png",
+      "gif": "animations/walk_right.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_07.png"
+    },
+    "walk_up": {
+      "atlas": "animations/walk_up.png",
+      "gif": "animations/walk_up.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_10.png"
+    },
+    "wave": {
+      "atlas": "animations/wave.png",
+      "gif": "animations/wave.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_14.png"
+    },
+    "surprise": {
+      "atlas": "animations/surprise.png",
+      "gif": "animations/surprise.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_15.png"
+    },
+    "sit": {
+      "atlas": "animations/sit.png",
+      "gif": "animations/sit.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_16.png"
+    },
+    "jump": {
+      "atlas": "animations/jump.png",
+      "gif": "animations/jump.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "cheer": {
+      "atlas": "animations/cheer.png",
+      "gif": "animations/cheer.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_11.png"
+    },
+    "work": {
+      "atlas": "animations/work.png",
+      "gif": "animations/work.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png"
+    },
+    "nod": {
+      "atlas": "animations/daily/nod.png",
+      "gif": "animations/daily/nod.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/nod",
+      "humanApproval": "pending review of this new clip"
+    },
+    "shake_head": {
+      "atlas": "animations/daily/shake_head.png",
+      "gif": "animations/daily/shake_head.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 12,
+      "source": "frame_01.png",
+      "technique": "original directional head keyposes; horizontal yaw perspective; fixed frontal body; no head roll",
+      "individualFrames": "animations/daily/shake_head",
+      "humanApproval": "pending review of this new clip",
+      "sources": [
+        "frame_01.png",
+        "frame_04.png",
+        "frame_07.png"
+      ],
+      "headTurn": {
+        "revision": "20261003-shake-yaw-v2",
+        "cutY": 127,
+        "bodyFixedFromY": 127,
+        "hairRegions": {},
+        "yawKeySequence": [
+          0,
+          -1,
+          -2,
+          -3,
+          -3,
+          -3,
+          -2,
+          -1,
+          0,
+          1,
+          2,
+          3,
+          3,
+          3,
+          2,
+          1
+        ],
+        "leftProfilePhase": 3,
+        "rightProfilePhase": 11,
+        "registrations": {
+          "-1": {
+            "source": "frame_04.png",
+            "mirrored": false,
+            "trimBox": [
+              71,
+              20,
+              184,
+              230
+            ],
+            "sourceHeadCut": 107,
+            "scale": 1.0,
+            "paste": [
+              73,
+              20
+            ]
+          },
+          "1": {
+            "source": "frame_07.png",
+            "mirrored": false,
+            "trimBox": [
+              72,
+              20,
+              185,
+              230
+            ],
+            "sourceHeadCut": 107,
+            "scale": 1.0,
+            "paste": [
+              71,
+              20
+            ]
+          }
+        },
+        "rollDegrees": 0,
+        "verticalMotion": 0
+      }
+    },
+    "chat": {
+      "atlas": "animations/daily/chat.png",
+      "gif": "animations/daily/chat.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/chat",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "renderer": "nearest-neighbour anatomical weighted rigid deformation",
+  "sourcePreserved": true,
+  "sourceSHA256": {
+    "frame_01.png": "78838ad1ec1abbe447e6f9974b1d4c3ae5ffd79737a6cd9db445b27cd491eed9",
+    "frame_04.png": "9d8ef9ab7f2f9406b3f5e153bd782dc9197aae519925a4f978681eda29e6c82a",
+    "frame_07.png": "b3b2206425ec14d964ca0841cbe27aa7c73bd95284ea799c83d75502d4c5f73d",
+    "frame_10.png": "5a2a480e70a25a1013fa1c568626950fca6f3173b885736808cd8465a55f4486",
+    "frame_14.png": "6e723141ca34a7e5a66a716bcd60a192661a91b4e78edd95e95b40b746b92f48",
+    "frame_15.png": "c1344da6c2051254a9dca85ebfbd6adddf6b78f37e55629cae1957b4573dac18",
+    "frame_16.png": "175ae3ac4eba54f7906debdbf20351f66a258c970da212560f6402089d242c88",
+    "frame_11.png": "b5d88a4fe840f1cd919a2a0224c488bf17a67e9d6bb459bfeac7a05c91f5b029"
+  },
+  "qualityNotes": [
+    "Continuous anatomical rig derived from genuine front/left/back/wave/sit/cheer key poses",
+    "Work tools are occupational visual indications; tool interaction and vehicle physics are not simulated",
+    "Right view is a mirror of the left-view source"
+  ],
+  "previewBoard": "basic_actions.png",
+  "dailyActionExpansion": {
+    "version": "20261003-daily-v1",
+    "manifest": "animations/daily/manifest.json",
+    "actions": [
+      "nod",
+      "shake_head",
+      "chat"
+    ],
+    "humanApproval": "pending new-action review"
+  }
+}

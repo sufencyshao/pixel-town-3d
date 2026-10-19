@@ -1,0 +1,1250 @@
+{
+  "status": "PASS",
+  "sourceTownSha256": "131bace9631887565f12a61da65585c98c87b658d420886fa3c6c3d76fba92e7",
+  "sourceTownUnchanged": true,
+  "snapshotSha256": "6bae83adfd33a05f4480e72d24106e4969a2889fc77704ef244f01088b2e3997",
+  "output": "Town-with-animals.blend",
+  "selectedScene": "01 Whole town",
+  "animals": 20,
+  "caretakers": 1,
+  "animalClips": 179,
+  "caretakerClips": 22,
+  "habitatCount": 11,
+  "allPadsAtOrBelowRestGround": true,
+  "actors": [
+    {
+      "id": "01_cat_tabby",
+      "name": "麦粒",
+      "kind": "animal",
+      "wrapper": "01_cat_tabby__WORLD",
+      "rig": "01_cat_tabby__Cat.001",
+      "bones": 23,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "01_cat_tabby__Drink",
+        "01_cat_tabby__Eat",
+        "01_cat_tabby__Groom",
+        "01_cat_tabby__Idle",
+        "01_cat_tabby__Observe",
+        "01_cat_tabby__Rest",
+        "01_cat_tabby__Run",
+        "01_cat_tabby__Sniff",
+        "01_cat_tabby__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        -88,
+        0.07,
+        -91
+      ],
+      "positionBlender": [
+        -88.0,
+        91.0,
+        0.07000000029802322
+      ],
+      "yaw": 5.067404490491398,
+      "sourceSha256": "e57c94dfe321987446f86f39b1b90956f2a79dba97b237c90a6d32181d982b8c",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "02_cat_calico",
+      "name": "三叶",
+      "kind": "animal",
+      "wrapper": "02_cat_calico__WORLD",
+      "rig": "02_cat_calico__Cat.001",
+      "bones": 23,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "02_cat_calico__Drink",
+        "02_cat_calico__Eat",
+        "02_cat_calico__Groom",
+        "02_cat_calico__Idle",
+        "02_cat_calico__Observe",
+        "02_cat_calico__Rest",
+        "02_cat_calico__Run",
+        "02_cat_calico__Sniff",
+        "02_cat_calico__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        5,
+        0.09,
+        79.5
+      ],
+      "positionBlender": [
+        5.0,
+        -79.5,
+        0.09000000357627869
+      ],
+      "yaw": 2.3458983103665556,
+      "sourceSha256": "5d02d1aa1303c98ce39e37f13b083990c1b2f041b45d3a609b266a03ac4c5e7e",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "03_cat_british_blue",
+      "name": "灰团",
+      "kind": "animal",
+      "wrapper": "03_cat_british_blue__WORLD",
+      "rig": "03_cat_british_blue__Cat.001",
+      "bones": 23,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "03_cat_british_blue__Drink",
+        "03_cat_british_blue__Eat",
+        "03_cat_british_blue__Groom",
+        "03_cat_british_blue__Idle",
+        "03_cat_british_blue__Observe",
+        "03_cat_british_blue__Rest",
+        "03_cat_british_blue__Run",
+        "03_cat_british_blue__Sniff",
+        "03_cat_british_blue__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        68,
+        0.13,
+        49
+      ],
+      "positionBlender": [
+        68.0,
+        -49.0,
+        0.12999999523162842
+      ],
+      "yaw": 5.7701442421485005,
+      "sourceSha256": "1949fd2bd8ee338d9c069f0c0b0020cef654dc6233a4bde93bf78cb51972b190",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "04_cat_siamese",
+      "name": "浅墨",
+      "kind": "animal",
+      "wrapper": "04_cat_siamese__WORLD",
+      "rig": "04_cat_siamese__Cat.001",
+      "bones": 23,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "04_cat_siamese__Drink",
+        "04_cat_siamese__Eat",
+        "04_cat_siamese__Groom",
+        "04_cat_siamese__Idle",
+        "04_cat_siamese__Observe",
+        "04_cat_siamese__Rest",
+        "04_cat_siamese__Run",
+        "04_cat_siamese__Sniff",
+        "04_cat_siamese__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        -0.5,
+        0,
+        -78
+      ],
+      "positionBlender": [
+        -0.5,
+        78.0,
+        0.0
+      ],
+      "yaw": 0.29958181364217423,
+      "sourceSha256": "46b5bebd5caad79e8261dbd7d925c2c0b98ab1734be9267a094a5e13f92b7924",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "05_cat_maine",
+      "name": "松尾",
+      "kind": "animal",
+      "wrapper": "05_cat_maine__WORLD",
+      "rig": "05_cat_maine__Cat.001",
+      "bones": 23,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "05_cat_maine__Drink",
+        "05_cat_maine__Eat",
+        "05_cat_maine__Groom",
+        "05_cat_maine__Idle",
+        "05_cat_maine__Observe",
+        "05_cat_maine__Rest",
+        "05_cat_maine__Run",
+        "05_cat_maine__Sniff",
+        "05_cat_maine__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        -86.5,
+        0,
+        -93
+      ],
+      "positionBlender": [
+        -86.5,
+        93.0,
+        0.0
+      ],
+      "yaw": 1.2990208056592742,
+      "sourceSha256": "447cbdb40962b6e2d9f203b147b0c2f85fe7b02948debd33a2ac75beaa6121d3",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "06_dog_corgi",
+      "name": "栗饼",
+      "kind": "animal",
+      "wrapper": "06_dog_corgi__WORLD",
+      "rig": "06_dog_corgi__AnimalArmature",
+      "bones": 46,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "06_dog_corgi__Drink",
+        "06_dog_corgi__Eat",
+        "06_dog_corgi__Idle",
+        "06_dog_corgi__Observe",
+        "06_dog_corgi__Rest",
+        "06_dog_corgi__Run",
+        "06_dog_corgi__Sniff",
+        "06_dog_corgi__Wag",
+        "06_dog_corgi__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        60.5,
+        0.044,
+        10.5
+      ],
+      "positionBlender": [
+        60.5,
+        -10.5,
+        0.04399999976158142
+      ],
+      "yaw": 4.934196656136129,
+      "sourceSha256": "0b39a4e468821d493f9489513ebec02b778e457e26f2fc7b4d1c2e24f0de91ba",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "07_dog_shiba",
+      "name": "赤丸",
+      "kind": "animal",
+      "wrapper": "07_dog_shiba__WORLD",
+      "rig": "07_dog_shiba__AnimalArmature",
+      "bones": 46,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "07_dog_shiba__Drink",
+        "07_dog_shiba__Eat",
+        "07_dog_shiba__Idle",
+        "07_dog_shiba__Observe",
+        "07_dog_shiba__Rest",
+        "07_dog_shiba__Run",
+        "07_dog_shiba__Sniff",
+        "07_dog_shiba__Wag",
+        "07_dog_shiba__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        64,
+        0.044,
+        15.5
+      ],
+      "positionBlender": [
+        64.0,
+        -15.5,
+        0.04399999976158142
+      ],
+      "yaw": 4.600692714164006,
+      "sourceSha256": "e0865294217878408c44c9e435c5b9c5045393187bd34634368e2cec3d2a63a1",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "08_dog_border",
+      "name": "墨点",
+      "kind": "animal",
+      "wrapper": "08_dog_border__WORLD",
+      "rig": "08_dog_border__AnimalArmature",
+      "bones": 49,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "08_dog_border__Drink",
+        "08_dog_border__Eat",
+        "08_dog_border__Idle",
+        "08_dog_border__Observe",
+        "08_dog_border__Rest",
+        "08_dog_border__Run",
+        "08_dog_border__Sniff",
+        "08_dog_border__Wag",
+        "08_dog_border__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        -64,
+        0,
+        63
+      ],
+      "positionBlender": [
+        -64.0,
+        -63.0,
+        0.0
+      ],
+      "yaw": 4.939239598080617,
+      "sourceSha256": "839d87e353ef7e3c31dd8e15ae0f42c2f6b289147fe7d7651d46ae6608c32094",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "09_dog_golden",
+      "name": "麦穗",
+      "kind": "animal",
+      "wrapper": "09_dog_golden__WORLD",
+      "rig": "09_dog_golden__AnimalArmature",
+      "bones": 49,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "09_dog_golden__Drink",
+        "09_dog_golden__Eat",
+        "09_dog_golden__Idle",
+        "09_dog_golden__Observe",
+        "09_dog_golden__Rest",
+        "09_dog_golden__Run",
+        "09_dog_golden__Sniff",
+        "09_dog_golden__Wag",
+        "09_dog_golden__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        62,
+        0.044,
+        17
+      ],
+      "positionBlender": [
+        62.0,
+        -17.0,
+        0.04399999976158142
+      ],
+      "yaw": 4.2664460047954975,
+      "sourceSha256": "5789057177bdb3af187d0135c5427a2507e4862e5eaa805ee38f142dcd977443",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "10_dog_dachshund",
+      "name": "可栗",
+      "kind": "animal",
+      "wrapper": "10_dog_dachshund__WORLD",
+      "rig": "10_dog_dachshund__AnimalArmature",
+      "bones": 46,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "10_dog_dachshund__Drink",
+        "10_dog_dachshund__Eat",
+        "10_dog_dachshund__Idle",
+        "10_dog_dachshund__Observe",
+        "10_dog_dachshund__Rest",
+        "10_dog_dachshund__Run",
+        "10_dog_dachshund__Sniff",
+        "10_dog_dachshund__Wag",
+        "10_dog_dachshund__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        3.5,
+        0,
+        79
+      ],
+      "positionBlender": [
+        3.5,
+        -79.0,
+        0.0
+      ],
+      "yaw": 3.7789590742766865,
+      "sourceSha256": "33ac7147861d5c57beb4d017847dd29f7ddd7300f0b47228fe01bc3f7e8d380c",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "11_dog_poodle",
+      "name": "卷卷",
+      "kind": "animal",
+      "wrapper": "11_dog_poodle__WORLD",
+      "rig": "11_dog_poodle__AnimalArmature",
+      "bones": 46,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "11_dog_poodle__Drink",
+        "11_dog_poodle__Eat",
+        "11_dog_poodle__Idle",
+        "11_dog_poodle__Observe",
+        "11_dog_poodle__Rest",
+        "11_dog_poodle__Run",
+        "11_dog_poodle__Sniff",
+        "11_dog_poodle__Wag",
+        "11_dog_poodle__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        67,
+        0.13,
+        47.5
+      ],
+      "positionBlender": [
+        67.0,
+        -47.5,
+        0.12999999523162842
+      ],
+      "yaw": 5.585738549665507,
+      "sourceSha256": "10f4f6d711c173b5f45f71413995df9c0f06662575c0e05a570bdc43c25c939b",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "12_bird_budgie_green",
+      "name": "青豆",
+      "kind": "animal",
+      "wrapper": "12_bird_budgie_green__WORLD",
+      "rig": "12_bird_budgie_green__AnimalRig",
+      "bones": 13,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "12_bird_budgie_green__Drink",
+        "12_bird_budgie_green__Eat",
+        "12_bird_budgie_green__Fly",
+        "12_bird_budgie_green__Groom",
+        "12_bird_budgie_green__Hop",
+        "12_bird_budgie_green__Idle",
+        "12_bird_budgie_green__Observe",
+        "12_bird_budgie_green__Rest",
+        "12_bird_budgie_green__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        87.5,
+        1.25,
+        -20
+      ],
+      "positionBlender": [
+        87.5,
+        20.0,
+        1.25
+      ],
+      "yaw": 5.464299891257942,
+      "sourceSha256": "be44877f2056e19effb2ae4ab4287eb6f42023edc101d1010126e340c60c3ac5",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "13_bird_budgie_blue",
+      "name": "蓝芽",
+      "kind": "animal",
+      "wrapper": "13_bird_budgie_blue__WORLD",
+      "rig": "13_bird_budgie_blue__AnimalRig",
+      "bones": 13,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "13_bird_budgie_blue__Drink",
+        "13_bird_budgie_blue__Eat",
+        "13_bird_budgie_blue__Fly",
+        "13_bird_budgie_blue__Groom",
+        "13_bird_budgie_blue__Hop",
+        "13_bird_budgie_blue__Idle",
+        "13_bird_budgie_blue__Observe",
+        "13_bird_budgie_blue__Rest",
+        "13_bird_budgie_blue__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        84.5,
+        1.45,
+        -23.5
+      ],
+      "positionBlender": [
+        84.5,
+        23.5,
+        1.4500000476837158
+      ],
+      "yaw": 0.9691329894447331,
+      "sourceSha256": "3552fcdf3aac37a5e2a16b715805bb8d638a5043e4f8b17157b14e770fee702e",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "14_bird_cockatiel",
+      "name": "小冠",
+      "kind": "animal",
+      "wrapper": "14_bird_cockatiel__WORLD",
+      "rig": "14_bird_cockatiel__AnimalRig",
+      "bones": 13,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "14_bird_cockatiel__Drink",
+        "14_bird_cockatiel__Eat",
+        "14_bird_cockatiel__Fly",
+        "14_bird_cockatiel__Groom",
+        "14_bird_cockatiel__Hop",
+        "14_bird_cockatiel__Idle",
+        "14_bird_cockatiel__Observe",
+        "14_bird_cockatiel__Rest",
+        "14_bird_cockatiel__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        86.5,
+        1.25,
+        -23
+      ],
+      "positionBlender": [
+        86.5,
+        23.0,
+        1.25
+      ],
+      "yaw": 5.828770991387929,
+      "sourceSha256": "94b75b1628ce46a129598807885636ca64c07a626409fd0301125cdc72c904ce",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "15_bird_canary",
+      "name": "柠羽",
+      "kind": "animal",
+      "wrapper": "15_bird_canary__WORLD",
+      "rig": "15_bird_canary__AnimalRig",
+      "bones": 13,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "15_bird_canary__Drink",
+        "15_bird_canary__Eat",
+        "15_bird_canary__Fly",
+        "15_bird_canary__Groom",
+        "15_bird_canary__Hop",
+        "15_bird_canary__Idle",
+        "15_bird_canary__Observe",
+        "15_bird_canary__Rest",
+        "15_bird_canary__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        85.5,
+        1.45,
+        -19
+      ],
+      "positionBlender": [
+        85.5,
+        19.0,
+        1.4500000476837158
+      ],
+      "yaw": 0.41123770478678806,
+      "sourceSha256": "05b2c333e84ff4ac8892848b1c90d268075a888fa0bdad74100a8f08d8e1b801",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "16_rabbit_lop",
+      "name": "绒耳",
+      "kind": "animal",
+      "wrapper": "16_rabbit_lop__WORLD",
+      "rig": "16_rabbit_lop__AnimalRig",
+      "bones": 15,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "16_rabbit_lop__Drink",
+        "16_rabbit_lop__Eat",
+        "16_rabbit_lop__Groom",
+        "16_rabbit_lop__Hop",
+        "16_rabbit_lop__Idle",
+        "16_rabbit_lop__Observe",
+        "16_rabbit_lop__Rest",
+        "16_rabbit_lop__Run",
+        "16_rabbit_lop__Sniff",
+        "16_rabbit_lop__Walk"
+      ],
+      "clipCount": 10,
+      "positionThree": [
+        -83,
+        0,
+        57.5
+      ],
+      "positionBlender": [
+        -83.0,
+        -57.5,
+        0.0
+      ],
+      "yaw": 4.525325699716767,
+      "sourceSha256": "ee883a884c5d43cabe12cc478d38a207a8f76d2d50e930dc5fa6a59e543172e5",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 10
+    },
+    {
+      "id": "17_rabbit_dutch",
+      "name": "黑豆",
+      "kind": "animal",
+      "wrapper": "17_rabbit_dutch__WORLD",
+      "rig": "17_rabbit_dutch__AnimalRig",
+      "bones": 15,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "17_rabbit_dutch__Drink",
+        "17_rabbit_dutch__Eat",
+        "17_rabbit_dutch__Groom",
+        "17_rabbit_dutch__Hop",
+        "17_rabbit_dutch__Idle",
+        "17_rabbit_dutch__Observe",
+        "17_rabbit_dutch__Rest",
+        "17_rabbit_dutch__Run",
+        "17_rabbit_dutch__Sniff",
+        "17_rabbit_dutch__Walk"
+      ],
+      "clipCount": 10,
+      "positionThree": [
+        -84.5,
+        0,
+        53.5
+      ],
+      "positionBlender": [
+        -84.5,
+        -53.5,
+        0.0
+      ],
+      "yaw": 2.9076593004580773,
+      "sourceSha256": "01263b0ad04bc0c1dd82f0728aff64d4766b06aa8c03932215e8498ad2878ec0",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 10
+    },
+    {
+      "id": "18_guineapig_rosette",
+      "name": "花栗",
+      "kind": "animal",
+      "wrapper": "18_guineapig_rosette__WORLD",
+      "rig": "18_guineapig_rosette__AnimalRig",
+      "bones": 15,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "18_guineapig_rosette__Drink",
+        "18_guineapig_rosette__Eat",
+        "18_guineapig_rosette__Groom",
+        "18_guineapig_rosette__Idle",
+        "18_guineapig_rosette__Observe",
+        "18_guineapig_rosette__Rest",
+        "18_guineapig_rosette__Run",
+        "18_guineapig_rosette__Sniff",
+        "18_guineapig_rosette__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        -83.5,
+        0,
+        67
+      ],
+      "positionBlender": [
+        -83.5,
+        -67.0,
+        0.0
+      ],
+      "yaw": 4.266657738780782,
+      "sourceSha256": "8c7bfc4432dfd70c21a7e178b877605fb90d7f0df427fe52ed4621f2ff39ca91",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "19_tortoise_hermann",
+      "name": "苔背",
+      "kind": "animal",
+      "wrapper": "19_tortoise_hermann__WORLD",
+      "rig": "19_tortoise_hermann__AnimalRig",
+      "bones": 13,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "19_tortoise_hermann__Eat",
+        "19_tortoise_hermann__Hide",
+        "19_tortoise_hermann__Idle",
+        "19_tortoise_hermann__Observe",
+        "19_tortoise_hermann__Rest",
+        "19_tortoise_hermann__Walk"
+      ],
+      "clipCount": 6,
+      "positionThree": [
+        -54,
+        0.1,
+        69.5
+      ],
+      "positionBlender": [
+        -54.0,
+        -69.5,
+        0.10000000149011612
+      ],
+      "yaw": 4.939066847936308,
+      "sourceSha256": "bc15f705135152afdbaba6f9995e985ac606c97f216565cb55337107eff9c38b",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 6
+    },
+    {
+      "id": "20_pony_shetland",
+      "name": "小栗",
+      "kind": "animal",
+      "wrapper": "20_pony_shetland__WORLD",
+      "rig": "20_pony_shetland__AnimalArmature",
+      "bones": 50,
+      "skinnedMeshes": 1,
+      "meshObjects": 1,
+      "clips": [
+        "20_pony_shetland__Drink",
+        "20_pony_shetland__Eat",
+        "20_pony_shetland__Idle",
+        "20_pony_shetland__Observe",
+        "20_pony_shetland__Rest",
+        "20_pony_shetland__Run",
+        "20_pony_shetland__Sniff",
+        "20_pony_shetland__Wag",
+        "20_pony_shetland__Walk"
+      ],
+      "clipCount": 9,
+      "positionThree": [
+        -73,
+        0,
+        62
+      ],
+      "positionBlender": [
+        -73.0,
+        -62.0,
+        0.0
+      ],
+      "yaw": 3.101224466401334,
+      "sourceSha256": "164cc4128dffc994bd6a3685595afbc13ed71cb357c5396c5f11fab51fb08609",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 9
+    },
+    {
+      "id": "Ache_caretaker",
+      "name": "阿澈",
+      "kind": "caretaker",
+      "wrapper": "Ache_caretaker__WORLD",
+      "rig": "Ache_caretaker__Ache_Rig",
+      "bones": 65,
+      "skinnedMeshes": 22,
+      "meshObjects": 22,
+      "clips": [
+        "Ache_caretaker__Crouch",
+        "Ache_caretaker__CrouchWalk",
+        "Ache_caretaker__Dance",
+        "Ache_caretaker__Feed",
+        "Ache_caretaker__Idle",
+        "Ache_caretaker__JumpLand",
+        "Ache_caretaker__JumpLoop",
+        "Ache_caretaker__JumpStart",
+        "Ache_caretaker__Nod",
+        "Ache_caretaker__Pet",
+        "Ache_caretaker__PickUp",
+        "Ache_caretaker__Run",
+        "Ache_caretaker__ShakeHead",
+        "Ache_caretaker__Sit",
+        "Ache_caretaker__SitDown",
+        "Ache_caretaker__StandUp",
+        "Ache_caretaker__Swim",
+        "Ache_caretaker__Talk",
+        "Ache_caretaker__ThrowBall",
+        "Ache_caretaker__Walk",
+        "Ache_caretaker__Wave",
+        "Ache_caretaker__Work"
+      ],
+      "clipCount": 22,
+      "positionThree": [
+        57,
+        0.044,
+        13
+      ],
+      "positionBlender": [
+        57.0,
+        -13.0,
+        0.04399999976158142
+      ],
+      "yaw": 0.0,
+      "sourceSha256": "b39b2986ff099c55c1c8ae8d8e37dcc04f8715a7aa05afcfb5394a3f72067cd0",
+      "reopened": true,
+      "idlePoseFinite": true,
+      "positionMatchesSnapshot": true,
+      "clipCountReopened": 22
+    }
+  ],
+  "habitats": [
+    {
+      "id": "a-garden-cats",
+      "bounds": [
+        -97.53876,
+        -99.53876,
+        -96.03183,
+        -98.03183
+      ],
+      "roofY": 0.95,
+      "groundY": 0.07,
+      "padCenterY": -0.014,
+      "padTopY": -0.0014999999999999996,
+      "minimumRestY": 0.0,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            -78.5,
+            0,
+            -79.5
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            -78.5,
+            0,
+            -98.5
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": -0.0015000002458691597,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "b-library-cat",
+      "bounds": [
+        -1.97299,
+        -78.97299,
+        -1.02701,
+        -78.02701
+      ],
+      "roofY": 0.95,
+      "groundY": 0.0,
+      "padCenterY": -0.014,
+      "padTopY": -0.0014999999999999996,
+      "minimumRestY": 0.0,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            5.5,
+            0.09,
+            -76.5
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            5.5,
+            0,
+            -78.5
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": -0.0015000002458691597,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "h-florist-courtyard",
+      "bounds": [
+        -1.14615,
+        76.35385,
+        0.14615,
+        78.45534
+      ],
+      "roofY": 0.95,
+      "groundY": 0.0,
+      "padCenterY": -0.014,
+      "padTopY": -0.0014999999999999996,
+      "minimumRestY": 0.0,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            4.5,
+            0.09,
+            80
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            4.5,
+            0,
+            78
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": -0.0015000002458691597,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "i-inn-garden",
+      "bounds": [
+        60.52647,
+        47.52647,
+        61.97459,
+        48.97459
+      ],
+      "roofY": 1.08,
+      "groundY": 0.13,
+      "padCenterY": 0.116,
+      "padTopY": 0.1285,
+      "minimumRestY": 0.13,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            71.5,
+            0.13,
+            49
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            73.5,
+            0.13,
+            48.5
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": 0.12849999964237213,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "f-dog-meadow",
+      "bounds": [
+        55.30285,
+        4.44202,
+        57.56175,
+        6.69715
+      ],
+      "roofY": 1.08158,
+      "groundY": 0.044,
+      "padCenterY": 0.03,
+      "padTopY": 0.042499999999999996,
+      "minimumRestY": 0.044,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            71.5,
+            0.044,
+            20
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            72,
+            0.044,
+            5.5
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": 0.042500000447034836,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "f-bird-sanctuary",
+      "bounds": [
+        83.3998,
+        -23.6002,
+        85.6002,
+        -21.8998
+      ],
+      "roofY": 2.05,
+      "groundY": 0.0,
+      "padCenterY": 0.021000000000000005,
+      "padTopY": 0.0335,
+      "minimumRestY": 0.035,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            87.5,
+            0,
+            -19
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            87,
+            0,
+            -22
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 4,
+      "objects": 23,
+      "reopenedPadTopY": 0.03350000083446503,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "g-orchard-dog",
+      "bounds": [
+        -63.653,
+        55.347,
+        -62.347,
+        56.653
+      ],
+      "roofY": 1.02972,
+      "groundY": -0.0,
+      "padCenterY": -0.014,
+      "padTopY": -0.0014999999999999996,
+      "minimumRestY": 0.0,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            -62.5,
+            0,
+            65
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            -61.5,
+            0,
+            55
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": -0.0015000002458691597,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "g-rabbit-garden",
+      "bounds": [
+        -85.4044,
+        50.0956,
+        -84.5956,
+        51.4044
+      ],
+      "roofY": 0.95,
+      "groundY": 0.0,
+      "padCenterY": -0.014,
+      "padTopY": -0.0014999999999999996,
+      "minimumRestY": 0.0,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            -82.5,
+            0,
+            57.5
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            -82.5,
+            0,
+            51
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": -0.0015000002458691597,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "g-guinea-garden",
+      "bounds": [
+        -84.8664,
+        64.1336,
+        -84.1336,
+        64.8664
+      ],
+      "roofY": 0.95,
+      "groundY": 0.0,
+      "padCenterY": -0.014,
+      "padTopY": -0.0014999999999999996,
+      "minimumRestY": 0.0,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            -82.5,
+            0,
+            67.5
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            -82.5,
+            0,
+            64.5
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": -0.0015000002458691597,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "g-tortoise-garden",
+      "bounds": [
+        -59.36744,
+        68.13256,
+        -58.63256,
+        68.86744
+      ],
+      "roofY": 0.95,
+      "groundY": 0.0,
+      "padCenterY": -0.014,
+      "padTopY": -0.0014999999999999996,
+      "minimumRestY": 0.0,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            -54,
+            0.1,
+            70
+          ],
+          "radius": 0.18
+        },
+        {
+          "kind": "drink",
+          "point": [
+            -55,
+            0,
+            68.5
+          ],
+          "radius": 0.18
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": -0.0015000002458691597,
+      "padAtOrBelowRestGround": true
+    },
+    {
+      "id": "g-pony-paddock",
+      "bounds": [
+        -76.02195,
+        53.97805,
+        -73.97805,
+        56.02195
+      ],
+      "roofY": 1.95,
+      "groundY": -0.0,
+      "padCenterY": -0.014,
+      "padTopY": -0.0014999999999999996,
+      "minimumRestY": 0.0,
+      "bowls": [
+        {
+          "kind": "food",
+          "point": [
+            -73,
+            0,
+            66
+          ],
+          "radius": 0.28
+        },
+        {
+          "kind": "drink",
+          "point": [
+            -73,
+            0,
+            55
+          ],
+          "radius": 0.28
+        }
+      ],
+      "perches": 0,
+      "objects": 8,
+      "reopenedPadTopY": -0.0015000002458691597,
+      "padAtOrBelowRestGround": true
+    }
+  ],
+  "imagesPacked": true,
+  "scope": "Editable static initial town layout with every actor animation retained. Browser behavior, paths, IK and weather are not baked.",
+  "outputSha256": "84673e0878f8eccf581aac6a98f0d09ad320ad0e40c2b223e1156f33759ea91c",
+  "elapsedSeconds": 7.81
+}

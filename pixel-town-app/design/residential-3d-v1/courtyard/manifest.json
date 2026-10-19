@@ -1,0 +1,53 @@
+{
+  "key": "courtyard",
+  "title": "庭院花园别墅",
+  "floors": 2,
+  "floorHeight": 3.25,
+  "slabThickness": 0.25,
+  "units": 1,
+  "building": [
+    12,
+    9
+  ],
+  "plot": [
+    20,
+    18
+  ],
+  "pool": null,
+  "poolWaterDepth": null,
+  "vegetableBeds": 0,
+  "frontGardenAreas": 0,
+  "frontGardenStyle": null,
+  "program": [
+    "一层：客厅、餐厨、书桌、卫生间",
+    "二层：主卧、客卧兼书房、卫生间、阳台",
+    "花园、露台、廊架"
+  ],
+  "stairsPerFlight": 18,
+  "sceneTarget": [
+    0,
+    0,
+    2.8
+  ],
+  "scale": 27,
+  "meshObjects": 543,
+  "triangles": 15816,
+  "degenerateTriangles": 0,
+  "bounds": [
+    20.051315307617188,
+    18.0,
+    8.60500031709671
+  ],
+  "unit": "metres",
+  "sha256": "1f28797726173e83a5977966627911ddf64127b51003523de282549efa55ccdb",
+  "blender": "5.2.2 LTS",
+  "status": "design-review",
+  "sourceAxes": {
+    "up": "+Z",
+    "front": "-Y"
+  },
+  "glbAxes": {
+    "up": "+Y",
+    "front": "+Z"
+  }
+}

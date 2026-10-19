@@ -1,0 +1,16 @@
+{
+  "vendor/THREE-LICENSE.txt": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601",
+  "vendor/animals/Horse.gltf": "3deb61550dff1d2786d04b6e8559d63ad3907d6ab606ba28ce0af074ed96341b",
+  "vendor/animals/Husky.gltf": "0cfd85ddfcc5c07caf1bdeb296b21017b0da4c8558a92086daf4a172e0bf8d97",
+  "vendor/animals/Quaternius-License.txt": "83d8959f9fc56353ed571fbe2dc52e4bcd64508e2399501cd45ac2ce3df0bf8c",
+  "vendor/animals/ShibaInu.gltf": "3236979b94a840eb72d9ce091b1361da327a96f5ce068e666680297480f30f6b",
+  "vendor/animals/sources.json": "397549178db39d7b5c195c5476fe362b5a4ff13a90404e80f7f10d8d05cf1e22",
+  "vendor/quaternius-men/License_Modular_Men_CC0.txt": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+  "vendor/quaternius-men/Quaternius-Casual.glb": "fea7e71271203e7073f1a073fa1208de7402df276f87f80e149bf7589b5d46b4",
+  "vendor/quaternius-men/Quaternius-Worker.glb": "9c28614f465b7dc105f908c20c22fc045f4b07caf8c5ef0e9f8049eceb6dd38d",
+  "vendor/quaternius-men/source.json": "52b83c964c255cbef1785241e7bb048897f22bb8b3c5df1b006e65f8216e3a72",
+  "vendor/quaternius-women/Casual.gltf": "b0fe6e92219cd71808844a20a1a8b960fd1cf640a6546dc6362b5add6604e87c",
+  "vendor/quaternius-women/License.txt": "e8dbf915a2b82229913e301a0787696611241bdefec4832bc084f54161db1efe",
+  "vendor/quaternius-women/Worker.gltf": "e2bfc1039f429e870a0119e274c2dd45f6304f00c39f4570dfeb9ed4d97a063d",
+  "vendor/quaternius-women/source.json": "0839dbcfd4f949c82c56cedfc5531dfda74d87399ad5ec87117aab24cb064f1d"
+}

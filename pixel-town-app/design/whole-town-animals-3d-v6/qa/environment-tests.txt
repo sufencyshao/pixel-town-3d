@@ -1,0 +1,31 @@
+✔ midnight rolls to the next day without losing simulated time (0.479292ms)
+✔ pausing stops the clock but allows weather transitions (0.074916ms)
+✔ all speeds are frame-rate independent (0.820167ms)
+✔ night lights fade on and off around sunset and sunrise (0.13475ms)
+✔ rain levels are ordered and dry weather clears rain while ground dries gradually (0.074875ms)
+✔ automatic weather advances once per three simulated hours; manual selection takes over (0.079917ms)
+✔ invalid input cannot poison state (0.094625ms)
+✔ fresh light medium and heavy snow accumulate toward distinct depths (0.069459ms)
+✔ lighter snow preserves previous heavy snow and sunshine melts gradually (0.059875ms)
+✔ river rise scales with rainfall and typhoon remains below bank level (0.094875ms)
+✔ river recedes gradually after rain and clock jumps do not alter surface water (0.049583ms)
+✔ surface reset and settled preview keep weather and clock intact (0.053583ms)
+✔ surface accumulation is independent of rendering frame rate (1.151375ms)
+✔ extreme wind and tornado have distinct combinations and clear on switch (0.055917ms)
+✔ seasonal solar arc has longer summer days, shorter winter days and different noons (0.184167ms)
+✔ nonwinter snow and winter thunderstorms cannot be selected by any state entry (0.0855ms)
+✔ changing season repairs incompatible weather and clears forbidden particles immediately (0.046875ms)
+✔ a twelve-day calendar crosses all four seasons, including winter snow to spring (0.039958ms)
+✔ manual season switching preserves day, time, speed, pause, surfaces and auto weather choice (0.055417ms)
+✔ pause blocks seasonal advancement and time-of-day scrubbing never changes the season (0.02925ms)
+✔ seasonal weighted weather is reproducible, never forbidden and summer favors strong events (25.052ms)
+✔ automatic weather includes summer typhoons and winter snowfall over complete season samples (1.470042ms)
+✔ invalid seasons cannot change the calendar (0.067875ms)
+ℹ tests 23
+ℹ suites 0
+ℹ pass 23
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 70.382875

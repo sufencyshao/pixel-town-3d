@@ -1,0 +1,974 @@
+{
+  "date": "2026-10-18",
+  "sourceHashes": {
+    "src/animal-simulation.js": "6f52de8729940f052ed681371c537c9967c03c388ca7df1886487f6cc1bf0de6",
+    "src/animal-world.js": "08234435a0a335717ad0b45c63e2f1590486bb235459b0ae044230fa1b9c7e25",
+    "template.html": "debf4c5f2c834fba2e84dc9d2abf3a2a4316126f222fd9f39e2b325a17641f95",
+    "viewer.bundle.js": "e9314d8e7c4840a704e7a76d539718bcaeb11ff14a24f839838c9af7aa156c3d",
+    "小镇动物生活-离线预览.html": "5848ebaeddefc81687173e578b82c16410a85b45cb6ceeaa3416afa34053c2be"
+  },
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "20 models / 179 clips / 22 caretaker clips",
+      "pass": true,
+      "details": {
+        "profiles": 20,
+        "loaded": 20,
+        "clips": 179,
+        "caretaker": 22,
+        "skins": [
+          4,
+          4,
+          4,
+          4,
+          5,
+          7,
+          6,
+          6,
+          9,
+          10,
+          11,
+          11,
+          9,
+          5,
+          10,
+          9,
+          5,
+          7,
+          6,
+          9
+        ]
+      }
+    },
+    {
+      "name": "select 01_cat_tabby",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 02_cat_calico",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 03_cat_british_blue",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 04_cat_siamese",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 05_cat_maine",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 06_dog_corgi",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 07_dog_shiba",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 08_dog_border",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 09_dog_golden",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 10_dog_dachshund",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 11_dog_poodle",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 12_bird_budgie_green",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 13_bird_budgie_blue",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 14_bird_cockatiel",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 15_bird_canary",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 16_rabbit_lop",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 17_rabbit_dutch",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 18_guineapig_rosette",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 19_tortoise_hermann",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "select 20_pony_shetland",
+      "pass": true,
+      "details": {
+        "visible": true,
+        "finite": true,
+        "onscreen": true
+      }
+    },
+    {
+      "name": "07_dog_shiba call complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 6.749999999999985,
+        "phases": [
+          "approaching",
+          "calling",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 6.63,
+            "kind": "call-complete",
+            "text": "赤丸回应呼唤，来到附近观察",
+            "ids": [
+              "07_dog_shiba"
+            ]
+          }
+        ],
+        "minTouch": null,
+        "maxTouch": 0,
+        "ballStates": [],
+        "animal": [
+          62.48000000000002,
+          0.044,
+          15.5
+        ]
+      }
+    },
+    {
+      "name": "07_dog_shiba feed complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 25.50000000000032,
+        "phases": [
+          "approaching",
+          "feeding",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 32.18,
+            "kind": "feed-complete",
+            "text": "赤丸靠近食盆进食，阿澈收好食物",
+            "ids": [
+              "07_dog_shiba"
+            ]
+          }
+        ],
+        "minTouch": null,
+        "maxTouch": 0,
+        "ballStates": [],
+        "animal": [
+          71,
+          0.044,
+          19.472499999999982
+        ]
+      }
+    },
+    {
+      "name": "07_dog_shiba pet complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 22.749999999998707,
+        "phases": [
+          "approaching",
+          "petting",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 54.93,
+            "kind": "pet-complete",
+            "text": "阿澈轻抚赤丸，随后留出空间",
+            "ids": [
+              "07_dog_shiba"
+            ]
+          }
+        ],
+        "minTouch": 1.27315026662307e-7,
+        "maxTouch": 0.40121396359784317,
+        "ballStates": [],
+        "animal": [
+          71,
+          0.044,
+          19.472499999999982
+        ]
+      }
+    },
+    {
+      "name": "07_dog_shiba hand reaches target during pet",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 22.749999999998707,
+        "phases": [
+          "approaching",
+          "petting",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 54.93,
+            "kind": "pet-complete",
+            "text": "阿澈轻抚赤丸，随后留出空间",
+            "ids": [
+              "07_dog_shiba"
+            ]
+          }
+        ],
+        "minTouch": 1.27315026662307e-7,
+        "maxTouch": 0.40121396359784317,
+        "ballStates": [],
+        "animal": [
+          71,
+          0.044,
+          19.472499999999982
+        ]
+      }
+    },
+    {
+      "name": "07_dog_shiba fetch complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 19.749999999998884,
+        "phases": [
+          "approaching",
+          "throwing",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 74.78,
+            "kind": "fetch-complete",
+            "text": "赤丸追到球并衔回阿澈身边",
+            "ids": [
+              "07_dog_shiba"
+            ]
+          }
+        ],
+        "minTouch": null,
+        "maxTouch": 0,
+        "ballStates": [
+          "flight",
+          "carried"
+        ],
+        "animal": [
+          70.7887499999999,
+          0.044,
+          19
+        ]
+      }
+    },
+    {
+      "name": "ball flight / ground / carried",
+      "pass": true,
+      "details": [
+        "flight",
+        "carried"
+      ]
+    },
+    {
+      "name": "07_dog_shiba walk complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 27.499999999998437,
+        "phases": [
+          "approaching",
+          "walking",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 102.33,
+            "kind": "walk-complete",
+            "text": "赤丸与阿澈结束一段陪伴散步",
+            "ids": [
+              "07_dog_shiba"
+            ]
+          }
+        ],
+        "minTouch": null,
+        "maxTouch": 0,
+        "ballStates": [],
+        "animal": [
+          66.81499999999997,
+          0.044,
+          18.5
+        ]
+      }
+    },
+    {
+      "name": "07_dog_shiba social complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 21.749999999998764,
+        "phases": [
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 107.13,
+            "kind": "social-greeting",
+            "text": "赤丸与麦穗相互嗅闻、观察",
+            "ids": [
+              "07_dog_shiba",
+              "09_dog_golden"
+            ]
+          },
+          {
+            "time": 108.63,
+            "kind": "social-start",
+            "text": "麦粒正在靠近松尾",
+            "ids": [
+              "01_cat_tabby",
+              "05_cat_maine"
+            ]
+          },
+          {
+            "time": 111.03,
+            "kind": "social-greeting",
+            "text": "麦粒与松尾相互嗅闻、观察",
+            "ids": [
+              "01_cat_tabby",
+              "05_cat_maine"
+            ]
+          },
+          {
+            "time": 124.08,
+            "kind": "social-complete",
+            "text": "麦粒与松尾结束玩耍，各自继续探索",
+            "ids": [
+              "01_cat_tabby",
+              "05_cat_maine"
+            ]
+          }
+        ],
+        "minTouch": null,
+        "maxTouch": 0,
+        "ballStates": [],
+        "animal": [
+          65,
+          0.044,
+          13.502500000000012
+        ]
+      }
+    },
+    {
+      "name": "01_cat_tabby pet complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 18.25000000000304,
+        "phases": [
+          "approaching",
+          "petting",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 142.18,
+            "kind": "pet-complete",
+            "text": "阿澈轻抚麦粒，随后留出空间",
+            "ids": [
+              "01_cat_tabby"
+            ]
+          }
+        ],
+        "minTouch": 1.389678897576363e-7,
+        "maxTouch": 1.415726405641695e-7,
+        "ballStates": [],
+        "animal": [
+          -85.53199999999994,
+          0,
+          -92.5
+        ]
+      }
+    },
+    {
+      "name": "01_cat_tabby hand reaches target during pet",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 18.25000000000304,
+        "phases": [
+          "approaching",
+          "petting",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 142.18,
+            "kind": "pet-complete",
+            "text": "阿澈轻抚麦粒，随后留出空间",
+            "ids": [
+              "01_cat_tabby"
+            ]
+          }
+        ],
+        "minTouch": 1.389678897576363e-7,
+        "maxTouch": 1.415726405641695e-7,
+        "ballStates": [],
+        "animal": [
+          -85.53199999999994,
+          0,
+          -92.5
+        ]
+      }
+    },
+    {
+      "name": "16_rabbit_lop pet complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 9.750000000002217,
+        "phases": [
+          "approaching",
+          "petting",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 151.88,
+            "kind": "pet-complete",
+            "text": "阿澈轻抚绒耳，随后留出空间",
+            "ids": [
+              "16_rabbit_lop"
+            ]
+          }
+        ],
+        "minTouch": 0.049226126380242534,
+        "maxTouch": 0.52617638186469,
+        "ballStates": [],
+        "animal": [
+          -83,
+          0,
+          57.5
+        ]
+      }
+    },
+    {
+      "name": "16_rabbit_lop hand reaches target during pet",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 9.750000000002217,
+        "phases": [
+          "approaching",
+          "petting",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 151.88,
+            "kind": "pet-complete",
+            "text": "阿澈轻抚绒耳，随后留出空间",
+            "ids": [
+              "16_rabbit_lop"
+            ]
+          }
+        ],
+        "minTouch": 0.049226126380242534,
+        "maxTouch": 0.52617638186469,
+        "ballStates": [],
+        "animal": [
+          -83,
+          0,
+          57.5
+        ]
+      }
+    },
+    {
+      "name": "12_bird_budgie_green feed complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 8.250000000001876,
+        "phases": [
+          "approaching",
+          "feeding",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 160.28,
+            "kind": "feed-complete",
+            "text": "青豆靠近食盆进食，阿澈收好食物",
+            "ids": [
+              "12_bird_budgie_green"
+            ]
+          }
+        ],
+        "minTouch": null,
+        "maxTouch": 0,
+        "ballStates": [],
+        "animal": [
+          87.15,
+          0,
+          -19
+        ]
+      }
+    },
+    {
+      "name": "14_bird_cockatiel social complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 10.25000000000233,
+        "phases": [
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 160.38,
+            "kind": "social-greeting",
+            "text": "小冠与蓝芽一起短飞、换枝栖停",
+            "ids": [
+              "14_bird_cockatiel",
+              "13_bird_budgie_blue"
+            ]
+          },
+          {
+            "time": 170.38,
+            "kind": "social-complete",
+            "text": "小冠与蓝芽结束结伴短飞",
+            "ids": [
+              "14_bird_cockatiel",
+              "13_bird_budgie_blue"
+            ]
+          }
+        ],
+        "minTouch": null,
+        "maxTouch": 0,
+        "ballStates": [],
+        "animal": [
+          85,
+          0.035,
+          -22.5
+        ]
+      }
+    },
+    {
+      "name": "18_guineapig_rosette feed complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 19.00000000000432,
+        "phases": [
+          "approaching",
+          "feeding",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 189.53,
+            "kind": "feed-complete",
+            "text": "花栗靠近食盆进食，阿澈收好食物",
+            "ids": [
+              "18_guineapig_rosette"
+            ]
+          }
+        ],
+        "minTouch": null,
+        "maxTouch": 0,
+        "ballStates": [],
+        "animal": [
+          -82.47889865345635,
+          0,
+          67.00126610777751
+        ]
+      }
+    },
+    {
+      "name": "20_pony_shetland pet complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 6.500000000001478,
+        "phases": [
+          "approaching",
+          "petting",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 195.98,
+            "kind": "pet-complete",
+            "text": "阿澈轻抚小栗，随后留出空间",
+            "ids": [
+              "20_pony_shetland"
+            ]
+          }
+        ],
+        "minTouch": 1.3548983450767056e-7,
+        "maxTouch": 1.6713885728200796e-7,
+        "ballStates": [],
+        "animal": [
+          -73,
+          0,
+          62
+        ]
+      }
+    },
+    {
+      "name": "20_pony_shetland hand reaches target during pet",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 6.500000000001478,
+        "phases": [
+          "approaching",
+          "petting",
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 195.98,
+            "kind": "pet-complete",
+            "text": "阿澈轻抚小栗，随后留出空间",
+            "ids": [
+              "20_pony_shetland"
+            ]
+          }
+        ],
+        "minTouch": 1.3548983450767056e-7,
+        "maxTouch": 1.6713885728200796e-7,
+        "ballStates": [],
+        "animal": [
+          -73,
+          0,
+          62
+        ]
+      }
+    },
+    {
+      "name": "02_cat_calico social complete",
+      "pass": true,
+      "details": {
+        "completed": true,
+        "elapsed": 22.25000000000506,
+        "phases": [
+          "idle"
+        ],
+        "events": [
+          {
+            "time": 196.13,
+            "kind": "social-greeting",
+            "text": "三叶与可栗相互嗅闻、观察",
+            "ids": [
+              "02_cat_calico",
+              "10_dog_dachshund"
+            ]
+          },
+          {
+            "time": 199.73,
+            "kind": "social-start",
+            "text": "赤丸正在靠近栗饼",
+            "ids": [
+              "07_dog_shiba",
+              "06_dog_corgi"
+            ]
+          },
+          {
+            "time": 205.28,
+            "kind": "social-greeting",
+            "text": "赤丸与栗饼相互嗅闻、观察",
+            "ids": [
+              "07_dog_shiba",
+              "06_dog_corgi"
+            ]
+          },
+          {
+            "time": 218.33,
+            "kind": "social-complete",
+            "text": "赤丸与栗饼结束玩耍，各自继续探索",
+            "ids": [
+              "07_dog_shiba",
+              "06_dog_corgi"
+            ]
+          }
+        ],
+        "minTouch": null,
+        "maxTouch": 0,
+        "ballStates": [],
+        "animal": [
+          3.000461968569374,
+          0.09,
+          77.4871836214678
+        ]
+      }
+    },
+    {
+      "name": "pause freezes simulation and skeleton animation",
+      "pass": true
+    },
+    {
+      "name": "4x speed advances four seconds",
+      "pass": true,
+      "details": 3.9999999999997726
+    },
+    {
+      "name": "download GLB matches source",
+      "pass": true,
+      "details": "e0865294217878408c44c9e435c5b9c5045393187bd34634368e2cec3d2a63a1"
+    },
+    {
+      "name": "rain sends all 20 to actual shelter slots",
+      "pass": true,
+      "details": [
+        {
+          "id": "01_cat_tabby",
+          "d": 0.10137376808393257,
+          "state": "rest"
+        },
+        {
+          "id": "02_cat_calico",
+          "d": 0.11062460986243533,
+          "state": "rest"
+        },
+        {
+          "id": "03_cat_british_blue",
+          "d": 0.11002499937499172,
+          "state": "rest"
+        },
+        {
+          "id": "04_cat_siamese",
+          "d": 0.11062460986243533,
+          "state": "rest"
+        },
+        {
+          "id": "05_cat_maine",
+          "d": 0.1279790104858307,
+          "state": "rest"
+        },
+        {
+          "id": "06_dog_corgi",
+          "d": 0.12350539250346707,
+          "state": "rest"
+        },
+        {
+          "id": "07_dog_shiba",
+          "d": 0.12250595220581874,
+          "state": "rest"
+        },
+        {
+          "id": "08_dog_border",
+          "d": 0.10000000000002274,
+          "state": "rest"
+        },
+        {
+          "id": "09_dog_golden",
+          "d": 0.12590177029765157,
+          "state": "rest"
+        },
+        {
+          "id": "10_dog_dachshund",
+          "d": 0.10000003788522281,
+          "state": "rest"
+        },
+        {
+          "id": "11_dog_poodle",
+          "d": 0.10009800907562846,
+          "state": "rest"
+        },
+        {
+          "id": "12_bird_budgie_green",
+          "d": 0,
+          "state": "rest"
+        },
+        {
+          "id": "13_bird_budgie_blue",
+          "d": 0,
+          "state": "rest"
+        },
+        {
+          "id": "14_bird_cockatiel",
+          "d": 0,
+          "state": "rest"
+        },
+        {
+          "id": "15_bird_canary",
+          "d": 0,
+          "state": "rest"
+        },
+        {
+          "id": "16_rabbit_lop",
+          "d": 0.10905259880470908,
+          "state": "rest"
+        },
+        {
+          "id": "17_rabbit_dutch",
+          "d": 0.11000000000001364,
+          "state": "rest"
+        },
+        {
+          "id": "18_guineapig_rosette",
+          "d": 0.11565383643363787,
+          "state": "rest"
+        },
+        {
+          "id": "19_tortoise_hermann",
+          "d": 0.1269653181640505,
+          "state": "rest"
+        },
+        {
+          "id": "20_pony_shetland",
+          "d": 0.11750000000002814,
+          "state": "rest"
+        }
+      ]
+    },
+    {
+      "name": "night keeps animals resting",
+      "pass": true
+    },
+    {
+      "name": "sheltered animal comes into open before petting",
+      "pass": true
+    },
+    {
+      "name": "bird closeup clears obstructing trees",
+      "pass": true
+    },
+    {
+      "name": "390px no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "390px canvas rendered",
+      "pass": true
+    },
+    {
+      "name": "file offline loads all 20 with no network",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "zero browser application errors",
+      "pass": true,
+      "details": []
+    }
+  ],
+  "errors": []
+}

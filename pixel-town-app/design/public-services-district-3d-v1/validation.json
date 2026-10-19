@@ -1,0 +1,188 @@
+{
+  "status": "PASS",
+  "date": "2026-10-14",
+  "blender": "5.2.2 LTS",
+  "checks": 65,
+  "scenes": [
+    "01 B district",
+    "02 Plan",
+    "03 B01",
+    "04 B02",
+    "05 B03",
+    "06 B04",
+    "07 B05",
+    "08 B06",
+    "09 Library upper"
+  ],
+  "meshObjects": 4834,
+  "triangles": 216852,
+  "degenerateTriangles": 0,
+  "sampledWalkCells": 33920,
+  "reachableCells": 33566,
+  "bodyRadius": 0.35,
+  "rayBoundaryToleranceMetres": 2e-05,
+  "gridSpacing": 0.25,
+  "reachableGoals": {
+    "west": [
+      -42,
+      -5
+    ],
+    "east": [
+      42,
+      -5
+    ],
+    "northWest": [
+      -11.5,
+      30.5
+    ],
+    "northEast": [
+      15.5,
+      30.5
+    ],
+    "schoolInside": [
+      -26,
+      10
+    ],
+    "libraryInside": [
+      2,
+      8.5
+    ],
+    "clinicInside": [
+      28,
+      9
+    ],
+    "communityInside": [
+      -26,
+      -11.5
+    ],
+    "postInside": [
+      0.5,
+      -11.5
+    ],
+    "policeInside": [
+      27.5,
+      -11.5
+    ],
+    "clinicSideInside": [
+      35.5,
+      12
+    ],
+    "clinicSideThreshold": [
+      36.5,
+      12.5
+    ],
+    "postalRearInside": [
+      0.5,
+      -22.5
+    ],
+    "libraryForecourt": [
+      2,
+      0
+    ],
+    "clinicForecourt": [
+      28,
+      0
+    ],
+    "schoolClass1": [
+      -32,
+      13
+    ],
+    "schoolClass2": [
+      -18.5,
+      13
+    ],
+    "schoolWC": [
+      -26,
+      19
+    ],
+    "communityConsult": [
+      -31,
+      -18
+    ],
+    "communityWC": [
+      -26,
+      -21
+    ],
+    "postWC": [
+      8,
+      -21
+    ],
+    "policeMediation": [
+      20.5,
+      -18
+    ],
+    "policeWC": [
+      20,
+      -21
+    ]
+  },
+  "sha256": "a7144e93a4d5e03a53eb2c151d51400301014336073f9d9dc8849b71be7b1bf1",
+  "items": [
+    "Nine Blender review scenes including both library floors",
+    "Masterplan B plot retained: 85 x 62.5 m",
+    "Six public service buildings",
+    "All model geometry remains inside B plot",
+    "Buildings disjoint: B01 / B02",
+    "Buildings disjoint: B01 / B03",
+    "Buildings disjoint: B01 / B04",
+    "Buildings disjoint: B01 / B05",
+    "Buildings disjoint: B01 / B06",
+    "Buildings disjoint: B02 / B03",
+    "Buildings disjoint: B02 / B04",
+    "Buildings disjoint: B02 / B05",
+    "Buildings disjoint: B02 / B06",
+    "Buildings disjoint: B03 / B04",
+    "Buildings disjoint: B03 / B05",
+    "Buildings disjoint: B03 / B06",
+    "Buildings disjoint: B04 / B05",
+    "Buildings disjoint: B04 / B06",
+    "Buildings disjoint: B05 / B06",
+    "24 school desks in two classrooms",
+    "Original clinic medical red cross preserved",
+    "Library 22 stair treads retained",
+    "B01 wall meets ceiling without vertical gap",
+    "B04 wall meets ceiling without vertical gap",
+    "B05 wall meets ceiling without vertical gap",
+    "B06 wall meets ceiling without vertical gap",
+    "Source unchanged: civic-buildings-3d-v2/library/B02-library.blend",
+    "Source GLB unchanged: library",
+    "Source unchanged: public-services-district-3d-v1/reference/civic-buildings-3d-v2/library/B02-library.blend",
+    "Source GLB unchanged: library",
+    "Original library imported at scale 1",
+    "Source unchanged: civic-buildings-3d-v2/clinic/B03-clinic.blend",
+    "Source GLB unchanged: clinic",
+    "Source unchanged: public-services-district-3d-v1/reference/civic-buildings-3d-v2/clinic/B03-clinic.blend",
+    "Source GLB unchanged: clinic",
+    "Original clinic imported at scale 1",
+    "South portal body clearance",
+    "Continuous body route reaches west",
+    "Continuous body route reaches east",
+    "Continuous body route reaches northWest",
+    "Continuous body route reaches northEast",
+    "Continuous body route reaches schoolInside",
+    "Continuous body route reaches libraryInside",
+    "Continuous body route reaches clinicInside",
+    "Continuous body route reaches communityInside",
+    "Continuous body route reaches postInside",
+    "Continuous body route reaches policeInside",
+    "Continuous body route reaches clinicSideInside",
+    "Continuous body route reaches clinicSideThreshold",
+    "Continuous body route reaches postalRearInside",
+    "Continuous body route reaches libraryForecourt",
+    "Continuous body route reaches clinicForecourt",
+    "Continuous body route reaches schoolClass1",
+    "Continuous body route reaches schoolClass2",
+    "Continuous body route reaches schoolWC",
+    "Continuous body route reaches communityConsult",
+    "Continuous body route reaches communityWC",
+    "Continuous body route reaches postWC",
+    "Continuous body route reaches policeMediation",
+    "Continuous body route reaches policeWC",
+    "Public paving union has no overlapping tiles",
+    "GLB mesh count equals source",
+    "GLB triangle count equals source",
+    "GLB zero degenerate triangles",
+    "GLB current hash"
+  ],
+  "scope": "Static sampled ground-floor entry routes; not runtime collision, stair traversal or regulatory accessibility certification"
+}

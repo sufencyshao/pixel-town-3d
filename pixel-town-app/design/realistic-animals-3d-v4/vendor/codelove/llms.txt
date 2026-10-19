@@ -1,0 +1,184 @@
+# models.codelove.in — 6,792 free 3D models (GLB)
+
+> A free library of 6,792 ready-to-use 3D models: 115 rigged human characters with 20 animation clips, animals, vehicles, buildings, furniture, food, nature, trees, space, weapons and game kits. Every model is one glTF 2.0 binary file (.glb) with a direct download URL — no sign-up, no API key — and free for personal and commercial use (MIT, CC0 or public domain; a few hairstyles are CC BY / CC BY-ND and need credit).
+
+Site: https://models.codelove.in/ · Made by Gowtham
+
+Use it when you need:
+- free 3D models or game assets for three.js, react-three-fiber, Babylon.js, A-Frame or WebXR projects (other glTF engines too — see Using the files);
+- low-poly kits to build cities, roads, dungeons, castles, pirate islands, farms, restaurants or space bases;
+- rigged, animated people (adults, children, professions) and animals — 275 rigged models in all;
+- models an AI coding agent can load by URL straight into a prototype.
+
+## Find models without crawling the site
+
+- [Every model in one file](https://models.codelove.in/llms-full.txt): Markdown, one line per model — name, model page, .glb path, triangles, size, file size, license notes. Paths are relative to https://models.codelove.in.
+- [catalog.json](https://models.codelove.in/catalog.json): the same data as JSON for scripts (`models[].glb` is relative to `url`).
+- One collection at a time: https://models.codelove.in/llms/<collection>.md — listed under Collections below, with absolute URLs.
+- Model page: https://models.codelove.in/models/<slug>/ (3D preview, downloads, license). Category pages: https://models.codelove.in/models/category/<category>/. Sitemap: https://models.codelove.in/sitemap.xml.
+- The .glb files and these catalog files can be fetched from any website (CORS allows every origin), so a web app can load models straight from this site.
+
+## Using the files
+
+- Format: glTF 2.0 binary (.glb), one file per model with textures embedded, compressed with EXT_meshopt_compression and EXT_texture_webp. three.js (GLTFLoader + MeshoptDecoder; drei's useGLTF sets this up) and Babylon.js load them directly; other engines need meshopt support or a decompressed copy.
+- Size is the bounding box (width × height × depth) in glTF units, which are metres by the glTF spec; models are Y-up. A few imported models are not to real-world scale, so scale them to fit.
+- Rigged humans use a Biped skeleton (root bone Bip01; the child characters use Bip02). The 20 animation clips (10 motions: idle, look around, talk, thoughtful, wave, cheer, clap, dance, walk, run) are separate skeleton-only .glb files in a female (f_) and a male (m_) set: load a character and a clip from its set, then play the clip with THREE.AnimationMixer — the bone names match.
+- Each .glb carries its license and credit in the glTF asset block (asset.copyright, asset.extras).
+
+Load a model in three.js:
+
+```js
+import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
+import { MeshoptDecoder } from "three/addons/libs/meshopt_decoder.module.js";
+
+const loader = new GLTFLoader().setMeshoptDecoder(MeshoptDecoder);
+const gltf = await loader.loadAsync("https://models.codelove.in/library/car-kit/police.glb"); // Police
+scene.add(gltf.scene);
+```
+
+## Licenses
+
+- MIT License — 142 models and all 20 animation clips: Keep the included license file with the model when you ship or share it. https://opensource.org/licenses/MIT
+- CC0 1.0 — public domain — 6,392 models: No attribution required. https://creativecommons.org/publicdomain/zero/1.0/
+- Public domain — 244 models: No attribution required; don't use insignia or logos shown on the model to imply endorsement. https://creativecommons.org/publicdomain/mark/1.0/
+- CC BY 4.0 — 11 models: Credit the author (named on the model page, in the file and in ATTRIBUTION.txt) when you use or share it. https://creativecommons.org/licenses/by/4.0/
+- CC BY-ND 4.0 — 3 models: Credit the author (named on the model page, in the file and in ATTRIBUTION.txt) when you use or share it, and share only unmodified copies. https://creativecommons.org/licenses/by-nd/4.0/
+
+Every model page names its license; the full texts and a per-collection table are at https://models.codelove.in/license/.
+
+## Categories
+
+- [Characters](https://models.codelove.in/models/category/characters/): 165 models — Rigged people, professions and stylized characters
+- [Animals](https://models.codelove.in/models/category/animals/): 114 models — Farm animals, pets, birds and creatures
+- [Vehicles](https://models.codelove.in/models/category/vehicles/): 472 models — Cars, trucks, trains, boats and karts
+- [Buildings](https://models.codelove.in/models/category/buildings/): 1,857 models — Houses, city blocks, castles and roads
+- [Furniture](https://models.codelove.in/models/category/furniture/): 278 models — Home, kitchen, office and outdoor furniture
+- [Food](https://models.codelove.in/models/category/food/): 350 models — Meals, fruit, drinks and restaurant props
+- [Nature](https://models.codelove.in/models/category/nature/): 446 models — Plants, flowers, rocks and terrain
+- [Trees](https://models.codelove.in/models/category/trees/): 153 models — Oaks, pines, palms, autumn and snowy trees
+- [Space](https://models.codelove.in/models/category/space/): 586 models — Spacecraft, rovers, planets and space bases
+- [Weapons](https://models.codelove.in/models/category/weapons/): 105 models — Swords, shields, bows, blasters and siege engines
+- [Skeletons](https://models.codelove.in/models/category/skeletons/): 18 models — Undead skeleton warriors, mages, rogues and dungeon armaments
+- [Ghosts](https://models.codelove.in/models/category/ghosts/): 13 models — Spooky ghosts, haunting spirits and floating phantoms for horror and Halloween games
+- [Bikes](https://models.codelove.in/models/category/bikes/): 10 models — Motorcycles, racing road bikes, choppers, and urban cycles
+- [Gaming](https://models.codelove.in/models/category/gaming/): 23 models — Arcade machines, combat soldiers, battle arenas and RPG loot
+- [Hair](https://models.codelove.in/models/category/hair/): 6 models — Long, bob, bun and anime hairstyles by Sketchfab artists (credit the author)
+- [God of War](https://models.codelove.in/models/category/god-of-war/): 17 models — Kratos, Spartan champions, archers and mythological deities
+- [Props](https://models.codelove.in/models/category/props/): 2,179 models — Game kits, dungeons, tools and decorations
+
+## Collections
+
+- [Animated Characters Protagonists](https://models.codelove.in/llms/animated-characters-protagonists.md): 4 models · Characters · CC0
+- [Animated Characters Retro](https://models.codelove.in/llms/animated-characters-retro.md): 4 models · Characters · CC0
+- [Animated Characters Survivors](https://models.codelove.in/llms/animated-characters-survivors.md): 4 models · Characters · CC0
+- [Blocky Characters](https://models.codelove.in/llms/blocky-characters.md): 18 models · Characters · CC0
+- [Rigged Adults](https://models.codelove.in/llms/rigged-adults.md): 40 models · Characters · MIT
+- [Rigged Children](https://models.codelove.in/llms/rigged-children.md): 4 models · Characters · MIT
+- [Rigged Professions](https://models.codelove.in/llms/rigged-professions.md): 71 models · Characters · MIT
+- [Cube Pets](https://models.codelove.in/llms/cube-pets.md): 24 models · Animals · CC0
+- [Rigged Animals](https://models.codelove.in/llms/rigged-animals.md): 25 models · Animals · MIT
+- [Xyz](https://models.codelove.in/llms/xyz.md): 60 models · Animals · CC0
+- [Car Kit](https://models.codelove.in/llms/car-kit.md): 50 models · Vehicles 45, Bikes 5 · CC0
+- [Racing Kit](https://models.codelove.in/llms/racing-kit.md): 112 models · Vehicles 110, Trees 2 · CC0
+- [Toy Car Kit](https://models.codelove.in/llms/toy-car-kit.md): 157 models · Vehicles 155, Trees 2 · CC0
+- [Train Kit](https://models.codelove.in/llms/train-kit.md): 103 models · Vehicles · CC0
+- [Watercraft Kit](https://models.codelove.in/llms/watercraft-kit.md): 46 models · Vehicles · CC0
+- [3D Road Tiles](https://models.codelove.in/llms/3d-road-tiles.md): 302 models · Buildings · CC0
+- [Abm](https://models.codelove.in/llms/abm.md): 51 models · Vehicles 4, Buildings 27, Nature 10, Trees 3, Props 7 · CC0
+- [Aero System](https://models.codelove.in/llms/aero-system.md): 15 models · Vehicles 1, Buildings 11, Nature 2, Trees 1 · CC0
+- [Brick Kit](https://models.codelove.in/llms/brick-kit.md): 296 models · Buildings · CC0
+- [Building Kit](https://models.codelove.in/llms/building-kit.md): 79 models · Buildings · CC0
+- [Ca World](https://models.codelove.in/llms/ca-world.md): 63 models · Buildings 27, Furniture 12, Nature 4, Props 20 · CC0
+- [Castle Kit](https://models.codelove.in/llms/castle-kit.md): 76 models · Buildings 68, Trees 2, Weapons 6 · CC0
+- [City Builder Bits](https://models.codelove.in/llms/city-builder-bits.md): 41 models · Vehicles 5, Buildings 36 · CC0
+- [City Kit Commercial](https://models.codelove.in/llms/city-kit-commercial.md): 41 models · Buildings · CC0
+- [City Kit Industrial](https://models.codelove.in/llms/city-kit-industrial.md): 37 models · Buildings · CC0
+- [City Kit Roads](https://models.codelove.in/llms/city-kit-roads.md): 95 models · Buildings · CC0
+- [City Kit Suburban](https://models.codelove.in/llms/city-kit-suburban.md): 40 models · Buildings 38, Trees 2 · CC0
+- [Crystal Crossroads](https://models.codelove.in/llms/crystal-crossroads.md): 64 models · Buildings 22, Furniture 15, Nature 14, Props 13 · CC0
+- [Factory Kit](https://models.codelove.in/llms/factory-kit.md): 143 models · Buildings · CC0
+- [Fantasy Town Kit](https://models.codelove.in/llms/fantasy-town-kit.md): 167 models · Buildings 162, Trees 5 · CC0
+- [Modular Buildings](https://models.codelove.in/llms/modular-buildings.md): 108 models · Buildings · CC0
+- [Retro Urban Kit](https://models.codelove.in/llms/retro-urban-kit.md): 124 models · Buildings 117, Trees 7 · CC0
+- [Tomb Chaser 1](https://models.codelove.in/llms/tomb-chaser-1.md): 53 models · Buildings 30, Nature 2, Trees 1, Ghosts 1, God of War 3, Props 16 · CC0
+- [Tomb Chaser 2](https://models.codelove.in/llms/tomb-chaser-2.md): 50 models · Buildings 26, Nature 10, Props 14 · CC0
+- [Towers](https://models.codelove.in/llms/towers.md): 89 models · Buildings 46, Nature 20, Trees 3, Props 20 · CC0
+- [Transit](https://models.codelove.in/llms/transit.md): 23 models · Vehicles 2, Buildings 17, Furniture 1, Nature 3 · CC0
+- [Trash Polka](https://models.codelove.in/llms/trash-polka.md): 30 models · Buildings 16, Nature 2, Props 12 · CC0
+- [Avatar Show](https://models.codelove.in/llms/avatar-show.md): 47 models · Buildings 10, Furniture 17, Food 3, Nature 3, Props 14 · CC0
+- [Furniture Bits](https://models.codelove.in/llms/furniture-bits.md): 53 models · Furniture · CC0
+- [Furniture Kit](https://models.codelove.in/llms/furniture-kit.md): 140 models · Furniture · CC0
+- [Mini Market](https://models.codelove.in/llms/mini-market.md): 20 models · Furniture · CC0
+- [Food Kit](https://models.codelove.in/llms/food-kit.md): 200 models · Food · CC0
+- [Restaurant Bits](https://models.codelove.in/llms/restaurant-bits.md): 144 models · Food · CC0
+- [Mini Forest](https://models.codelove.in/llms/mini-forest.md): 22 models · Nature 18, Trees 2, Weapons 2 · CC0
+- [Momus Park](https://models.codelove.in/llms/momuspark.md): 72 models · Animals 5, Buildings 9, Furniture 10, Nature 37, Trees 4, Props 7 · CC0
+- [Nature Kit](https://models.codelove.in/llms/nature-kit.md): 329 models · Nature 268, Trees 61 · CC0
+- [Astronaut Gear](https://models.codelove.in/llms/gear.md): 11 models · Space · Public domain
+- [Modular Space Kit](https://models.codelove.in/llms/modular-space-kit.md): 40 models · Space · CC0
+- [Planets & Small Bodies](https://models.codelove.in/llms/planets.md): 20 models · Space · Public domain
+- [Rockets & Crewed Craft](https://models.codelove.in/llms/crewed.md): 28 models · Space 26, Weapons 2 · Public domain
+- [Rovers & Landers](https://models.codelove.in/llms/rovers.md): 5 models · Space · Public domain
+- [Satellites & Probes](https://models.codelove.in/llms/satellites.md): 180 models · Space 179, Weapons 1 · Public domain
+- [Space Base Bits](https://models.codelove.in/llms/space-base-bits.md): 57 models · Space · CC0
+- [Space Kit](https://models.codelove.in/llms/space-kit.md): 153 models · Space 149, Weapons 4 · CC0
+- [Space Station Kit](https://models.codelove.in/llms/space-station-kit.md): 97 models · Space · CC0
+- [Blaster Kit](https://models.codelove.in/llms/blaster-kit.md): 40 models · Weapons · CC0
+- [Character Pack Adventures](https://models.codelove.in/llms/character-pack-adventures.md): 32 models · Characters 5, Weapons 23, Props 4 · CC0
+- [Character Pack Skeletons](https://models.codelove.in/llms/character-pack-skeletons.md): 17 models · Skeletons · CC0
+- [Ghosts](https://models.codelove.in/llms/ghosts.md): 11 models · Ghosts · CC BY / CC0 / CC BY-ND
+- [Bikes & Motorcycles](https://models.codelove.in/llms/bikes.md): 4 models · Bikes · CC0
+- [Gaming & Esports](https://models.codelove.in/llms/gaming.md): 3 models · Gaming · CC0
+- [Mini Arcade](https://models.codelove.in/llms/mini-arcade.md): 20 models · Gaming · CC0
+- [Hairstyles & Hair Packs](https://models.codelove.in/llms/hair.md): 6 models · Hair · CC BY / CC BY-ND
+- [God of War](https://models.codelove.in/llms/god-of-war.md): 14 models · God of War · CC0 / MIT
+- [Avatar Garden](https://models.codelove.in/llms/avatar-garden.md): 125 models · Buildings 19, Nature 47, Trees 8, Space 2, Props 49 · CC0
+- [Christmas](https://models.codelove.in/llms/christmas.md): 40 models · Buildings 13, Furniture 3, Nature 1, Trees 2, Props 21 · CC0
+- [Chromatic Chaos](https://models.codelove.in/llms/chromatic-chaos.md): 49 models · Buildings 10, Nature 1, Props 38 · CC0
+- [Coaster Kit](https://models.codelove.in/llms/coaster-kit.md): 183 models · Trees 2, Props 181 · CC0
+- [Dungeon Remastered](https://models.codelove.in/llms/dungeon-remastered.md): 203 models · Weapons 3, Props 200 · CC0
+- [Graveyard Kit](https://models.codelove.in/llms/graveyard-kit.md): 91 models · Trees 4, Skeletons 1, Ghosts 1, Props 85 · CC0
+- [Halloween Bits](https://models.codelove.in/llms/halloween-bits.md): 63 models · Trees 10, Props 53 · CC0
+- [Hexagon Kit](https://models.codelove.in/llms/hexagon-kit.md): 72 models · Trees 1, Props 71 · CC0
+- [Holiday Kit](https://models.codelove.in/llms/holiday-kit.md): 99 models · Trees 6, Props 93 · CC0
+- [Lunar Year](https://models.codelove.in/llms/lunar-year.md): 52 models · Buildings 17, Furniture 5, Nature 2, Props 28 · CC0
+- [Marble Kit](https://models.codelove.in/llms/marble-kit.md): 162 models · Trees 4, Props 158 · CC0
+- [Medieval Fair](https://models.codelove.in/llms/medieval-fair.md): 35 models · Vehicles 1, Buildings 13, Furniture 2, Food 3, Nature 2, Props 14 · CC0
+- [Mini Arena](https://models.codelove.in/llms/mini-arena.md): 22 models · Trees 1, Weapons 3, Props 18 · CC0
+- [Mini Characters](https://models.codelove.in/llms/mini-characters.md): 26 models · Characters 12, Props 14 · CC0
+- [Mini Dungeon](https://models.codelove.in/llms/mini-dungeon.md): 30 models · Weapons 4, Props 26 · CC0
+- [Mini Skate](https://models.codelove.in/llms/mini-skate.md): 20 models · Bikes 1, Props 19 · CC0
+- [Minigolf Kit](https://models.codelove.in/llms/minigolf-kit.md): 126 models · Props · CC0
+- [Modular Cave Kit](https://models.codelove.in/llms/modular-cave-kit.md): 40 models · Props · CC0
+- [Modular Dungeon Kit](https://models.codelove.in/llms/modular-dungeon-kit.md): 39 models · Props · CC0
+- [Pirate Kit](https://models.codelove.in/llms/pirate-kit.md): 72 models · Trees 4, Weapons 3, Props 65 · CC0
+- [Platformer Kit](https://models.codelove.in/llms/platformer-kit.md): 153 models · Trees 6, Props 147 · CC0
+- [Prototype Bits](https://models.codelove.in/llms/prototype-bits.md): 72 models · Props · CC0
+- [Prototype Kit](https://models.codelove.in/llms/prototype-kit.md): 145 models · Weapons 2, Props 143 · CC0
+- [Retro Booth](https://models.codelove.in/llms/retro-booth.md): 54 models · Characters 3, Buildings 22, Props 29 · CC0
+- [Retro Fantasy Kit](https://models.codelove.in/llms/retro-fantasy-kit.md): 105 models · Trees 2, Props 103 · CC0
+- [Survival Kit](https://models.codelove.in/llms/survival-kit.md): 80 models · Trees 4, Props 76 · CC0
+- [Tower Defense Kit](https://models.codelove.in/llms/tower-defense-kit.md): 160 models · Trees 4, Weapons 12, Props 144 · CC0
+
+## Optional
+
+- [Download packs](https://models.codelove.in/packs/): every collection as one .zip (built in the browser), plus all animation clips.
+- [Animations](https://models.codelove.in/animations/): preview the 20 clips on a character and download them.
+- [Scene builder](https://models.codelove.in/builder/): compose scenes from any model in the browser and export one .glb.
+- [Scene builder tutorials](https://models.codelove.in/tutorials/): narrated step-by-step videos of scenes being built, with written steps and transcripts.
+- [GLB viewer](https://models.codelove.in/viewer/): open a local .glb to preview, recolor and inspect it.
+- [For developers & AI](https://models.codelove.in/developers/): these files explained, with code samples.
+- [Free 3D games online](https://games.codelove.in/): free 3D games built only from these models, on games.codelove.in — no download, no sign-up, on PC or phone.
+- [Patti Veedu](https://games.codelove.in/patti-veedu/): free 3D game (horror puzzle) built only from these models — Grandma's house. Five nights. Listen for her anklet bells.
+- [Skate Rush](https://games.codelove.in/skate-rush/): free 3D game (endless runner) built only from these models — Skate through the city, dodge the traffic, grab every coin.
+- [Saucer Siege](https://games.codelove.in/saucer-siege/): free 3D game (tower defense) built only from these models — Medieval towers versus flying saucers. Hold the valley!
+- [Cannon Cove](https://games.codelove.in/cannon-cove/): free 3D game (naval trading & action) built only from these models — Trade across the open sea, build a fleet, battle friends online.
+- [Crypt Knight](https://games.codelove.in/crypt-knight/): free 3D game (action roguelite) built only from these models — Sword, shield and a crypt full of restless skeletons.
+- [Order Up!](https://games.codelove.in/order-up/): free 3D game (cooking time management) built only from these models — Grill, stack and serve burgers before the customers walk out.
+- [Hex Haven](https://games.codelove.in/hex-haven/): free 3D game (puzzle) built only from these models — Lay hex tiles, match the edges, grow a tiny kingdom.
+- [Sky Hop](https://games.codelove.in/sky-hop/): free 3D game (3d platformer) built only from these models — Run, double-jump and stomp across floating sky islands.
+- [Turbo Karts](https://games.codelove.in/turbo-karts/): free 3D game (kart racing) built only from these models — Drift, boost and banana-slip your way to the podium.
+- [Siege Smash](https://games.codelove.in/siege-smash/): free 3D game (physics puzzle) built only from these models — Aim the trebuchet, topple the towers, rout the defenders.
+- [Beat Street](https://games.codelove.in/beat-street/): free 3D game (rhythm) built only from these models — Hit the notes on the beat and make the crowd dance.
+- [Putt Paradise](https://games.codelove.in/putt-paradise/): free 3D game (mini golf) built only from these models — Nine dreamy mini-golf holes. Ramps, loops and windmills.
+- [Kingdom Clash](https://games.codelove.in/kingdom-clash/): free 3D game (base-building strategy) built only from these models — Build your village, train an army, raid rival villages online and in a 100-stage campaign.

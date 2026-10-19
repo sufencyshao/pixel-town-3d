@@ -1,0 +1,4760 @@
+{
+  "checks": [
+    {
+      "name": "45 distinct source models",
+      "pass": true
+    },
+    {
+      "name": "01_hero_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "01_hero_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "02_hero_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "02_hero_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "03_barista_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "03_barista_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "04_baker_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "04_baker_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "05_carpenter_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "05_carpenter_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "06_postman_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "06_postman_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "07_police_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "07_police_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "08_doctor_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "08_doctor_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "09_gardener_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "09_gardener_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "10_musician_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "10_musician_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "11_chef_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "11_chef_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "12_florist_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "12_florist_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "13_pastrychef_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "13_pastrychef_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "14_teacher_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "14_teacher_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "15_nurse_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "15_nurse_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "16_librarian_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "16_librarian_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "17_cafeowner_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "17_cafeowner_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "18_artist_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "18_artist_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "19_vet_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "19_vet_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "20_student_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "20_student_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "21_firefighter_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "21_firefighter_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "22_grocer_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "22_grocer_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "23_farmer_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "23_farmer_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "24_driver_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "24_driver_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "25_hairdresser_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "25_hairdresser_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "26_baker_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "26_baker_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "27_librarian_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "27_librarian_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "28_mechanic_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "28_mechanic_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "29_innkeeper_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "29_innkeeper_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "30_florist_male source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "30_florist_male clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "31_firefighter_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "31_firefighter_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "32_grocer_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "32_grocer_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "33_farmer_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "33_farmer_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "34_driver_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "34_driver_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "35_hairdresser_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "35_hairdresser_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "36_barista_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "36_barista_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "37_carpenter_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "37_carpenter_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "38_postal_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "38_postal_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "39_police_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "39_police_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "40_doctor_female source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "40_doctor_female clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "hai-qin-yan source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "hai-qin-yan clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "kanna source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "kanna clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "rui source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "rui clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "xin source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "xin clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "xin-fragrance source geometry and textures",
+      "pass": true
+    },
+    {
+      "name": "xin-fragrance clip set and motion",
+      "pass": true
+    },
+    {
+      "name": "model download matches unmodified source",
+      "pass": true
+    },
+    {
+      "name": "motion download matches original",
+      "pass": true
+    },
+    {
+      "name": "name and role search",
+      "pass": true
+    },
+    {
+      "name": "390px no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "file offline both sets and child",
+      "pass": true
+    },
+    {
+      "name": "no binding warnings or browser errors",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "motion": [
+    {
+      "id": "01_hero_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7408275408288623
+    },
+    {
+      "id": "02_hero_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7193920604762885
+    },
+    {
+      "id": "03_barista_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7146696450379496
+    },
+    {
+      "id": "04_baker_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7244713746784845
+    },
+    {
+      "id": "05_carpenter_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7254863442000246
+    },
+    {
+      "id": "06_postman_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 2,
+      "textureMaps": 2,
+      "height": 0.748512242016611
+    },
+    {
+      "id": "07_police_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 4,
+      "textureMaps": 4,
+      "height": 0.7303845078778591
+    },
+    {
+      "id": "08_doctor_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7201363777042478
+    },
+    {
+      "id": "09_gardener_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7200359517938415
+    },
+    {
+      "id": "10_musician_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7107545537020694
+    },
+    {
+      "id": "11_chef_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7228915427314198
+    },
+    {
+      "id": "12_florist_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7258178139430996
+    },
+    {
+      "id": "13_pastrychef_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 2,
+      "textureMaps": 2,
+      "height": 0.7704110174569947
+    },
+    {
+      "id": "14_teacher_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7256357040178358
+    },
+    {
+      "id": "15_nurse_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 4,
+      "textureMaps": 4,
+      "height": 0.7258293767909618
+    },
+    {
+      "id": "16_librarian_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 4,
+      "textureMaps": 4,
+      "height": 0.7251037207866209
+    },
+    {
+      "id": "17_cafeowner_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7191517729216982
+    },
+    {
+      "id": "18_artist_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7076172001862661
+    },
+    {
+      "id": "19_vet_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7637093623569646
+    },
+    {
+      "id": "20_student_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7073974510068126
+    },
+    {
+      "id": "21_firefighter_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7441945137435078
+    },
+    {
+      "id": "22_grocer_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7246301968822031
+    },
+    {
+      "id": "23_farmer_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 2,
+      "textureMaps": 2,
+      "height": 0.7282071827405965
+    },
+    {
+      "id": "24_driver_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.719630308415202
+    },
+    {
+      "id": "25_hairdresser_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7216595138304505
+    },
+    {
+      "id": "26_baker_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7300892145746398
+    },
+    {
+      "id": "27_librarian_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7216503613862216
+    },
+    {
+      "id": "28_mechanic_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 4,
+      "textureMaps": 4,
+      "height": 0.7232352435608671
+    },
+    {
+      "id": "29_innkeeper_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7219043385785784
+    },
+    {
+      "id": "30_florist_male",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 11.666666984558105,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.633333206176758,
+          "tracks": 60,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 35.56666564941406,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 13.5,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 2.8333332538604736,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 24.633333206176758,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 7,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 21.5,
+          "tracks": 66,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 24,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7333333492279053,
+          "tracks": 54,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7286563369671375
+    },
+    {
+      "id": "31_firefighter_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 6,
+      "textureMaps": 6,
+      "height": 0.7933754585725008
+    },
+    {
+      "id": "32_grocer_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7197373024544956
+    },
+    {
+      "id": "33_farmer_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7300806298490101
+    },
+    {
+      "id": "34_driver_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7074466227894298
+    },
+    {
+      "id": "35_hairdresser_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7204885013029841
+    },
+    {
+      "id": "36_barista_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7414106935281504
+    },
+    {
+      "id": "37_carpenter_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7324810421964433
+    },
+    {
+      "id": "38_postal_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.73769492380073
+    },
+    {
+      "id": "39_police_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 4,
+      "textureMaps": 4,
+      "height": 0.7540392582775539
+    },
+    {
+      "id": "40_doctor_female",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.728777568775355
+    },
+    {
+      "id": "hai-qin-yan",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7356475055356737
+    },
+    {
+      "id": "kanna",
+      "clips": [],
+      "skippedSourceTracks": [],
+      "meshes": 2,
+      "textureMaps": 2,
+      "height": 0.26074141220004077
+    },
+    {
+      "id": "rui",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.729801895353417
+    },
+    {
+      "id": "xin",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.71622528832697
+    },
+    {
+      "id": "xin-fragrance",
+      "clips": [
+        {
+          "name": "Idle",
+          "seconds": 15.533333778381348,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Look around",
+          "seconds": 4.4666666984558105,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Talk",
+          "seconds": 27.33333396911621,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Thoughtful",
+          "seconds": 9.433333396911621,
+          "tracks": 62,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Wave",
+          "seconds": 5.5333333015441895,
+          "tracks": 46,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Cheer",
+          "seconds": 15.300000190734863,
+          "tracks": 64,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Clap",
+          "seconds": 15.933333396911621,
+          "tracks": 63,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Dance",
+          "seconds": 24.96666717529297,
+          "tracks": 65,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Walk",
+          "seconds": 1.2000000476837158,
+          "tracks": 30,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        },
+        {
+          "name": "Run",
+          "seconds": 0.7666666507720947,
+          "tracks": 59,
+          "allTracksBind": true,
+          "finite": true,
+          "missingTracks": [],
+          "skinDeforms": true
+        }
+      ],
+      "skippedSourceTracks": [],
+      "meshes": 3,
+      "textureMaps": 3,
+      "height": 0.7412155200609059
+    }
+  ]
+}

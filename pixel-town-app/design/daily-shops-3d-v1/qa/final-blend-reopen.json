@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "scenes": 9,
+  "meshObjects": 4090,
+  "backgroundSize": [
+    1000.0,
+    1000.0,
+    0.11999999731779099
+  ],
+  "note": "Final saved file reopened after enlarging render-only studio ground."
+}

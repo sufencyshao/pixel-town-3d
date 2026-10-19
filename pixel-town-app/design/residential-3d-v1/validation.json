@@ -1,0 +1,104 @@
+{
+  "courtyard": {
+    "status": "PASS",
+    "blender": "5.2.2 LTS",
+    "scenes": [
+      "01 Exterior",
+      "02 Floor 1 Interior",
+      "03 Floor 2 Interior",
+      "04 Floor 1 Plan",
+      "05 Floor 2 Plan"
+    ],
+    "meshObjects": 543,
+    "triangles": 15816,
+    "sha256": "1f28797726173e83a5977966627911ddf64127b51003523de282549efa55ccdb",
+    "stairsAndFloorSlabs": "no volume intersections",
+    "unitCount": 1,
+    "wallSlabJoints": "continuous within 0.1 mm numerical tolerance",
+    "balconyJoints": "same level and edge-to-edge"
+  },
+  "hero": {
+    "status": "PASS",
+    "blender": "5.2.2 LTS",
+    "scenes": [
+      "01 Exterior",
+      "02 Floor 1 Interior",
+      "03 Floor 2 Interior",
+      "04 Floor 1 Plan",
+      "05 Floor 2 Plan"
+    ],
+    "meshObjects": 2054,
+    "triangles": 58564,
+    "sha256": "409e857aaa18a3acfd305167216970e1844a616a94c484773b4eac5527992f75",
+    "stairsAndFloorSlabs": "no volume intersections",
+    "unitCount": 1,
+    "wallSlabJoints": "continuous within 0.1 mm numerical tolerance",
+    "balconyJoints": "same level and edge-to-edge"
+  },
+  "apartment-3": {
+    "status": "PASS",
+    "blender": "5.2.2 LTS",
+    "scenes": [
+      "01 Exterior",
+      "02 Floor 1 Interior",
+      "03 Floor 2 Interior",
+      "04 Floor 3 Interior",
+      "05 Floor 1 Plan",
+      "06 Floor 2 Plan",
+      "07 Floor 3 Plan"
+    ],
+    "meshObjects": 1384,
+    "triangles": 45060,
+    "sha256": "fed28a9b7da4670469418c959853455f8898511df3a5b1d151aa450a16fcf8fc",
+    "stairsAndFloorSlabs": "no volume intersections",
+    "unitCount": 6,
+    "wallSlabJoints": "continuous within 0.1 mm numerical tolerance",
+    "balconyJoints": "same level and edge-to-edge"
+  },
+  "apartment-4": {
+    "status": "PASS",
+    "blender": "5.2.2 LTS",
+    "scenes": [
+      "01 Exterior",
+      "02 Floor 1 Interior",
+      "03 Floor 2 Interior",
+      "04 Floor 3 Interior",
+      "05 Floor 4 Interior",
+      "06 Floor 1 Plan",
+      "07 Floor 2 Plan",
+      "08 Floor 3 Plan",
+      "09 Floor 4 Plan"
+    ],
+    "meshObjects": 1852,
+    "triangles": 58608,
+    "sha256": "733d9eb8d7c998b8d05478f25f8093e8778bab557eeedafc984754b491e7df5e",
+    "stairsAndFloorSlabs": "no volume intersections",
+    "unitCount": 8,
+    "wallSlabJoints": "continuous within 0.1 mm numerical tolerance",
+    "balconyJoints": "same level and edge-to-edge"
+  },
+  "apartment-5": {
+    "status": "PASS",
+    "blender": "5.2.2 LTS",
+    "scenes": [
+      "01 Exterior",
+      "02 Floor 1 Interior",
+      "03 Floor 2 Interior",
+      "04 Floor 3 Interior",
+      "05 Floor 4 Interior",
+      "06 Floor 5 Interior",
+      "07 Floor 1 Plan",
+      "08 Floor 2 Plan",
+      "09 Floor 3 Plan",
+      "10 Floor 4 Plan",
+      "11 Floor 5 Plan"
+    ],
+    "meshObjects": 2320,
+    "triangles": 72564,
+    "sha256": "d95a4c8e9bb692be02e9cc4b7f6046a01d2c6928f247502675e1cca629e3c04c",
+    "stairsAndFloorSlabs": "no volume intersections",
+    "unitCount": 10,
+    "wallSlabJoints": "continuous within 0.1 mm numerical tolerance",
+    "balconyJoints": "same level and edge-to-edge"
+  }
+}

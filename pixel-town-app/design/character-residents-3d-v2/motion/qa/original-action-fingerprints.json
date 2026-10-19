@@ -1,0 +1,28 @@
+{
+  "source": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+  "sha256": "737b2f5fb37a48d880887b28be0c718e0e27d8307c9d00bdcd374a244988cd0b",
+  "fcurves": {
+    "Crouch": "0f859a5f970715309c8654679f31b530b22f16828aa92c47235b4e20eea71873",
+    "CrouchWalk": "3b5edb5a05bed5f09a9797c9f126b40518bc6199307e8deb1ffcc511bab37966",
+    "Dance": "645e2340af4e4284686849c27b9c1c9d772edab84d414a147de8f1829aef63cb",
+    "Feed": "943452c08d215a067df6ecd0362c5ac4a537780c256f32b17ab4ad30dee178bd",
+    "Idle": "20c7f4b6a8dc5d7dca06dd29f688c2bf33ba92e8f3ab96af7d6eff3a44c8012f",
+    "JumpLand": "fa72e4e7cab981fb9e33551f796ad299f0f642b8c46c39b86b6feb2864d11d23",
+    "JumpLoop": "3986d98eef5255d43e797ea1adcfb83f752a08c3350e1e7274c3938f7ffca3cd",
+    "JumpStart": "75bf9aa176f9d4782d9c36d01713e5e4fc29f02097fccb7e39e38cc69621f2fa",
+    "Nod": "acf6b107443e65a4e8fcfad3ae57305d82e3f727525d39074e4eccff48a87f7a",
+    "Pet": "943452c08d215a067df6ecd0362c5ac4a537780c256f32b17ab4ad30dee178bd",
+    "PickUp": "9fef77eafc48f74d7fbc6d0323217f4dfa22605a1e4f3bbde74519758c41480c",
+    "Run": "0d654702b30c2298c3174c832e33831efea710a974cca71128010daf6f31275c",
+    "ShakeHead": "79ec11cadce44cb664deea12b0aa9f2def9929f7fea86f494d6251202304b9ad",
+    "Sit": "1d0c5e81bc981f2f8ad42fb980ca0862fc0ba151bc13a8a383c071dd06f7c451",
+    "SitDown": "28146565f56acabb615159ed2c41cde7dc6a26029807ef538b5b31bf06d92419",
+    "StandUp": "67a20ad582e5726207cc61fd35c2fe543132092faf26791cdb74aa2abc3b5b9c",
+    "Swim": "1cd46594bd67e4c6d6360b23d14be1be6410ee52bd3e74bf2b45296f1f70b901",
+    "Talk": "d5a66d109c30eddae42b7ba07a84ed192264babd044aeba472ca6441904388de",
+    "ThrowBall": "54bfccecbac0ec89aa2a2d019ed1d3d4625740264a36ef43a68a0f4f05831915",
+    "Walk": "4beb5e197be126e8e607dbfbe47ab4eac17a299f84b4ab76212ccb404dd2c85e",
+    "Wave": "c4101ba6277708b7cdfc9945d8cc9e89bdc9b72b3d954b201fef631a9696d34e",
+    "Work": "c016b804903167e591a49af296a27c8eb17c0e6a90bd2fb4cbf3f0bf16bf401c"
+  }
+}

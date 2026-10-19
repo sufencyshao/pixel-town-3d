@@ -1,0 +1,15 @@
+✔ midnight rolls to the next day without losing simulated time (0.349625ms)
+✔ pausing stops the clock but allows weather transitions (0.056208ms)
+✔ all speeds are frame-rate independent (0.716375ms)
+✔ night lights fade on and off around sunset and sunrise (0.279959ms)
+✔ rain levels are ordered and dry weather clears rain while ground dries gradually (0.076792ms)
+✔ automatic weather advances once per three simulated hours; manual selection takes over (0.043958ms)
+✔ invalid input cannot poison state (0.082292ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 34.252959

@@ -1,0 +1,71 @@
+{
+  "id": "31_firefighter_female",
+  "sprite": "31_firefighter_female",
+  "assetFolder": "characters/31_firefighter_female",
+  "kind": "human",
+  "name": "岑灯",
+  "sex": "女",
+  "role": "消防员",
+  "appearance": "深肤、短寸发、深蓝黄边制服",
+  "persona": {
+    "personality": "果断、亲切",
+    "background": "负责消防巡查和居民应急演练，与陆焰交班",
+    "interests": "体能训练、绳结",
+    "speech": "清晰利落，平时会轻松聊天"
+  },
+  "presets": [
+    {
+      "id": "settled",
+      "label": "扎根小镇",
+      "role": "消防员",
+      "personality": "果断、亲切",
+      "background": "负责消防巡查和居民应急演练，与陆焰交班",
+      "interests": "体能训练、绳结",
+      "speech": "清晰利落，平时会轻松聊天"
+    },
+    {
+      "id": "newcomer",
+      "label": "新来的同行",
+      "role": "消防员",
+      "personality": "慢热、好奇、有边界",
+      "background": "刚搬来小镇的消防员，正在熟悉工作和邻里，希望结交能相互尊重的朋友。",
+      "interests": "体能训练、绳结、探索街区",
+      "speech": "先倾听，熟悉后主动提问"
+    },
+    {
+      "id": "mentor",
+      "label": "经验伙伴",
+      "role": "消防员",
+      "personality": "耐心、务实、愿意分享",
+      "background": "有多年消防员经验，选择在小镇稳定生活，愿意指导新人但不替别人决定。",
+      "interests": "体能训练、绳结、整理经验",
+      "speech": "以具体例子解释，给对方选择空间"
+    }
+  ],
+  "schedule": [
+    {
+      "time": "07:00",
+      "activity": "早餐与准备"
+    },
+    {
+      "time": "09:00",
+      "activity": "消防员日常工作"
+    },
+    {
+      "time": "12:00",
+      "activity": "午间休息"
+    },
+    {
+      "time": "14:00",
+      "activity": "工作与邻里事务"
+    },
+    {
+      "time": "18:00",
+      "activity": "体能训练、绳结"
+    },
+    {
+      "time": "22:00",
+      "activity": "回家休息"
+    }
+  ]
+}

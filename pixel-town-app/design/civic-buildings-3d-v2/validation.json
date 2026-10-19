@@ -1,0 +1,42 @@
+{
+  "clinic": {
+    "status": "PASS",
+    "blender": "5.2.2 LTS",
+    "blendScenes": [
+      "01 Exterior",
+      "02 Interior",
+      "03 Plan"
+    ],
+    "glbMeshes": 468,
+    "triangles": 40910,
+    "boundsBlenderXYZ": [
+      17.399999618530273,
+      13.90000057220459,
+      4.88999979197979
+    ],
+    "materialCount": 19,
+    "missingMaterials": 0,
+    "sha256": "0d52252d44f53d06f7aaf54d9f71bb5e9f14ef6f7d708a84005d60c5c198e84d"
+  },
+  "library": {
+    "status": "PASS",
+    "blender": "5.2.2 LTS",
+    "blendScenes": [
+      "01 Exterior",
+      "02 Interior",
+      "03 Plan",
+      "04 Upper Interior",
+      "05 Upper Plan"
+    ],
+    "glbMeshes": 1456,
+    "triangles": 60922,
+    "boundsBlenderXYZ": [
+      20.399999618530273,
+      14.90000057220459,
+      8.584999963641167
+    ],
+    "materialCount": 19,
+    "missingMaterials": 0,
+    "sha256": "bcd9aaf93755021dd689766b2660d50f485ee4ec25cd9c1d1c259e0b9174c05b"
+  }
+}

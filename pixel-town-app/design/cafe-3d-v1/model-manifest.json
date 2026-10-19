@@ -1,0 +1,63 @@
+{
+  "buildingId": "H01",
+  "name": "溪畔咖啡厅",
+  "units": "metre",
+  "axes": {
+    "up": "+Y",
+    "front": "+Z"
+  },
+  "plotMetres": [
+    23.5,
+    13
+  ],
+  "buildingMetres": [
+    18,
+    9
+  ],
+  "seats": {
+    "indoor": 18,
+    "terrace": 4
+  },
+  "groundY": 0.155,
+  "anchorStatus": "proposed-not-navigation-tested",
+  "anchors": {
+    "entrance": [
+      0,
+      0.155,
+      4.4
+    ],
+    "order": [
+      1.55,
+      0.155,
+      0
+    ],
+    "barista": [
+      -2.2,
+      0.155,
+      -2.7
+    ],
+    "grinder": [
+      -0.63,
+      0.155,
+      -2.7
+    ],
+    "cashier": [
+      1.55,
+      0.155,
+      -2.7
+    ],
+    "staffAccess": [
+      3.65,
+      0.155,
+      -1.0
+    ],
+    "rearDoor": [
+      5.15,
+      0.155,
+      -4.4
+    ]
+  },
+  "source": "src/scene.js",
+  "asset": "H01-cafe.glb",
+  "preview": "咖啡厅-离线预览.html"
+}

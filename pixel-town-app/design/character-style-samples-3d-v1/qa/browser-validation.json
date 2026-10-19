@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-17",
+  "url": "http://127.0.0.1:49327/人物三种比例-离线预览.html",
+  "browser": "Chrome headless / Playwright; Browser plugin not available",
+  "viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "checks": [
+    {
+      "name": "page identity and meaningful content",
+      "pass": true
+    },
+    {
+      "name": "original 2D reference visible",
+      "pass": true
+    },
+    {
+      "name": "A-chibi genuine 65-bone skin and three clips",
+      "pass": true,
+      "details": {
+        "id": "A-chibi",
+        "bones": 65,
+        "skins": 33,
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave"
+        ]
+      }
+    },
+    {
+      "name": "B-cartoon genuine 65-bone skin and three clips",
+      "pass": true,
+      "details": {
+        "id": "B-cartoon",
+        "bones": 65,
+        "skins": 33,
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave"
+        ]
+      }
+    },
+    {
+      "name": "C-natural genuine 65-bone skin and three clips",
+      "pass": true,
+      "details": {
+        "id": "C-natural",
+        "bones": 65,
+        "skins": 8,
+        "clips": [
+          "Idle",
+          "Walk",
+          "Wave"
+        ]
+      }
+    },
+    {
+      "name": "pause freezes animation time",
+      "pass": true
+    },
+    {
+      "name": "Idle selected in all three stages",
+      "pass": true
+    },
+    {
+      "name": "Walk selected in all three stages",
+      "pass": true
+    },
+    {
+      "name": "Wave selected in all three stages",
+      "pass": true
+    },
+    {
+      "name": "A-chibi walking moves foot through joint animation",
+      "pass": true,
+      "details": {
+        "id": "A-chibi",
+        "delta": 0.2776774365973565
+      }
+    },
+    {
+      "name": "B-cartoon walking moves foot through joint animation",
+      "pass": true,
+      "details": {
+        "id": "B-cartoon",
+        "delta": 0.3804008970549791
+      }
+    },
+    {
+      "name": "C-natural walking moves foot through joint animation",
+      "pass": true,
+      "details": {
+        "id": "C-natural",
+        "delta": 0.43958615619771274
+      }
+    },
+    {
+      "name": "A-chibi wave raises wrist and bends elbow",
+      "pass": true,
+      "details": {
+        "id": "A-chibi",
+        "handAboveShoulder": 0.2710113545250651,
+        "elbowAngle": 60.43915033015837,
+        "headHandGap": 0.4417023967726763
+      }
+    },
+    {
+      "name": "B-cartoon wave raises wrist and bends elbow",
+      "pass": true,
+      "details": {
+        "id": "B-cartoon",
+        "handAboveShoulder": 0.2802643352573382,
+        "elbowAngle": 60.43911357537177,
+        "headHandGap": 0.46038528586125227
+      }
+    },
+    {
+      "name": "C-natural wave raises wrist and bends elbow",
+      "pass": true,
+      "details": {
+        "id": "C-natural",
+        "handAboveShoulder": 0.2781577857815094,
+        "elbowAngle": 60.43918695489949,
+        "headHandGap": 0.4580779350828211
+      }
+    },
+    {
+      "name": "timeline scrubs and pauses at midpoint",
+      "pass": true
+    },
+    {
+      "name": "skeleton overlay enabled in all stages",
+      "pass": true
+    },
+    {
+      "name": "front camera control updates all stages",
+      "pass": true
+    },
+    {
+      "name": "side camera control updates all stages",
+      "pass": true
+    },
+    {
+      "name": "back camera control updates all stages",
+      "pass": true
+    },
+    {
+      "name": "angle camera control updates all stages",
+      "pass": true
+    },
+    {
+      "name": "each character can rotate independently",
+      "pass": true
+    },
+    {
+      "name": "resume and speed control advance action",
+      "pass": true
+    },
+    {
+      "name": "A-chibi downloaded GLB is byte-identical",
+      "pass": true
+    },
+    {
+      "name": "B-cartoon downloaded GLB is byte-identical",
+      "pass": true
+    },
+    {
+      "name": "C-natural downloaded GLB is byte-identical",
+      "pass": true
+    },
+    {
+      "name": "mobile no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "mobile action control changes all models",
+      "pass": true
+    },
+    {
+      "name": "compiled shaders run",
+      "pass": true
+    },
+    {
+      "name": "console and runtime errors clean",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "standalone file works offline without network",
+      "pass": true
+    }
+  ],
+  "console": [],
+  "screenshots": [
+    "bones.png",
+    "front.png",
+    "side.png",
+    "back.png",
+    "angle.png",
+    "comparison.png",
+    "walking.png",
+    "waving.png",
+    "mobile-top.png",
+    "mobile-C.png"
+  ]
+}

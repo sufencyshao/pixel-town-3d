@@ -1,0 +1,507 @@
+{
+  "animals": [
+    {
+      "id": "06_dog_corgi",
+      "name": "栗饼",
+      "species": "狗",
+      "breed": "柴犬",
+      "coat": "原版赤褐白",
+      "bodySize": "中",
+      "source": "Quaternius CC0 原版完整模型",
+      "glb": "assets/models/animal-shiba.glb",
+      "height": 0.6,
+      "length": 0.8090623797325524,
+      "radius": 0.323624951893021,
+      "actions": [
+        "Attack",
+        "Death",
+        "Eating",
+        "Gallop",
+        "Gallop_Jump",
+        "Idle",
+        "Idle_2",
+        "Idle_2_HeadLow",
+        "Idle_HitReact1",
+        "Idle_HitReact2",
+        "Jump_ToIdle",
+        "Walk"
+      ],
+      "headLocal": [
+        1.1557420732867857e-09,
+        0.5135949186185685,
+        0.2726494687279862
+      ],
+      "bodyLocal": [
+        0,
+        0.27,
+        0
+      ],
+      "groundOffset": 0,
+      "front": "+Z",
+      "rig": "dog",
+      "boneCount": 46,
+      "originalIdentityScale": 0.55,
+      "bakedFps": 24,
+      "locomotion": "in-place; wrapper moves in world",
+      "sourceModel": "animal-shiba",
+      "sourceLabel": "柴犬",
+      "sourceSha256": "8302af941f144185c1afbde4ad8cc79358b575311deea23be4fbcd3d367f50a8",
+      "fitHeight": 0.6,
+      "displayScale": 0.19439595254076636,
+      "displayOffset": [
+        1.0156490742058986e-09,
+        -0.0008602844571032632,
+        -0.08029941292730608
+      ],
+      "width": 0.20820171359268608,
+      "originalBreed": "威尔士柯基",
+      "appearance": "柴犬 · Quaternius原版"
+    },
+    {
+      "id": "07_dog_shiba",
+      "name": "赤丸",
+      "species": "狗",
+      "breed": "柴犬",
+      "coat": "原版赤褐白",
+      "bodySize": "中",
+      "source": "Quaternius CC0 原版完整模型",
+      "glb": "assets/models/animal-shiba.glb",
+      "height": 0.63,
+      "length": 0.8495154987191799,
+      "radius": 0.339806199487672,
+      "actions": [
+        "Attack",
+        "Death",
+        "Eating",
+        "Gallop",
+        "Gallop_Jump",
+        "Idle",
+        "Idle_2",
+        "Idle_2_HeadLow",
+        "Idle_HitReact1",
+        "Idle_HitReact2",
+        "Jump_ToIdle",
+        "Walk"
+      ],
+      "headLocal": [
+        1.2135291769511249e-09,
+        0.539274664549497,
+        0.28628194216438546
+      ],
+      "bodyLocal": [
+        0,
+        0.28350000000000003,
+        0
+      ],
+      "groundOffset": 0,
+      "front": "+Z",
+      "rig": "dog",
+      "boneCount": 46,
+      "originalIdentityScale": 0.59,
+      "bakedFps": 24,
+      "locomotion": "in-place; wrapper moves in world",
+      "sourceModel": "animal-shiba",
+      "sourceLabel": "柴犬",
+      "sourceSha256": "8302af941f144185c1afbde4ad8cc79358b575311deea23be4fbcd3d367f50a8",
+      "fitHeight": 0.63,
+      "displayScale": 0.20411575016780467,
+      "displayOffset": [
+        1.0664315279161933e-09,
+        -0.0009032986799584264,
+        -0.08431438357367138
+      ],
+      "width": 0.21861179927232038,
+      "originalBreed": "柴犬",
+      "appearance": "柴犬 · Quaternius原版"
+    },
+    {
+      "id": "08_dog_border",
+      "name": "墨点",
+      "species": "狗",
+      "breed": "哈士奇",
+      "coat": "原版灰白",
+      "bodySize": "中大",
+      "source": "Quaternius CC0 原版完整模型",
+      "glb": "assets/models/animal-husky.glb",
+      "height": 0.78,
+      "length": 0.9531984329833681,
+      "radius": 0.38127937319334726,
+      "actions": [
+        "Attack",
+        "Death",
+        "Eating",
+        "Gallop",
+        "Gallop_Jump",
+        "Idle",
+        "Idle_2",
+        "Idle_2_HeadLow",
+        "Idle_HitReact1",
+        "Idle_HitReact2",
+        "Jump_ToIdle",
+        "Walk"
+      ],
+      "headLocal": [
+        1.7662528144558276e-10,
+        0.6478656698994159,
+        0.3297143819470196
+      ],
+      "bodyLocal": [
+        0,
+        0.35100000000000003,
+        0
+      ],
+      "groundOffset": 0,
+      "front": "+Z",
+      "rig": "dog",
+      "boneCount": 49,
+      "originalIdentityScale": 0.7,
+      "bakedFps": 24,
+      "locomotion": "in-place; wrapper moves in world",
+      "sourceModel": "animal-husky",
+      "sourceLabel": "哈士奇",
+      "sourceSha256": "d5e33b7f9ffc92e5278df5035f86e8749f14c5ff8d9c79a922b2e8c1c906fcec",
+      "fitHeight": 0.78,
+      "displayScale": 0.24508890561740668,
+      "displayOffset": [
+        -0.0,
+        -0.0007448647492190967,
+        -0.11527356154240376
+      ],
+      "width": 0.24262931260077142,
+      "originalBreed": "边境牧羊犬",
+      "appearance": "哈士奇 · Quaternius原版"
+    },
+    {
+      "id": "09_dog_golden",
+      "name": "麦穗",
+      "species": "狗",
+      "breed": "哈士奇",
+      "coat": "原版灰白",
+      "bodySize": "大",
+      "source": "Quaternius CC0 原版完整模型",
+      "glb": "assets/models/animal-husky.glb",
+      "height": 0.82,
+      "length": 1.0020804039055922,
+      "radius": 0.4008321615622369,
+      "actions": [
+        "Attack",
+        "Death",
+        "Eating",
+        "Gallop",
+        "Gallop_Jump",
+        "Idle",
+        "Idle_2",
+        "Idle_2_HeadLow",
+        "Idle_HitReact1",
+        "Idle_HitReact2",
+        "Jump_ToIdle",
+        "Walk"
+      ],
+      "headLocal": [
+        1.8568298818638188e-10,
+        0.6810895504070782,
+        0.3466228117904565
+      ],
+      "bodyLocal": [
+        0,
+        0.369,
+        0
+      ],
+      "groundOffset": 0,
+      "front": "+Z",
+      "rig": "dog",
+      "boneCount": 49,
+      "originalIdentityScale": 0.78,
+      "bakedFps": 24,
+      "locomotion": "in-place; wrapper moves in world",
+      "sourceModel": "animal-husky",
+      "sourceLabel": "哈士奇",
+      "sourceSha256": "d5e33b7f9ffc92e5278df5035f86e8749f14c5ff8d9c79a922b2e8c1c906fcec",
+      "fitHeight": 0.82,
+      "displayScale": 0.25765756744394036,
+      "displayOffset": [
+        -0.0,
+        -0.0007830629414867428,
+        -0.121185026236886
+      ],
+      "width": 0.25507184145209305,
+      "originalBreed": "金毛寻回犬",
+      "appearance": "哈士奇 · Quaternius原版"
+    },
+    {
+      "id": "10_dog_dachshund",
+      "name": "可栗",
+      "species": "狗",
+      "breed": "柴犬",
+      "coat": "原版赤褐白",
+      "bodySize": "小",
+      "source": "Quaternius CC0 原版完整模型",
+      "glb": "assets/models/animal-shiba.glb",
+      "height": 0.58,
+      "length": 0.7820936337414672,
+      "radius": 0.3128374534965869,
+      "actions": [
+        "Attack",
+        "Death",
+        "Eating",
+        "Gallop",
+        "Gallop_Jump",
+        "Idle",
+        "Idle_2",
+        "Idle_2_HeadLow",
+        "Idle_HitReact1",
+        "Idle_HitReact2",
+        "Jump_ToIdle",
+        "Walk"
+      ],
+      "headLocal": [
+        1.1172173375105593e-09,
+        0.49647508799794965,
+        0.2635611531037199
+      ],
+      "bodyLocal": [
+        0,
+        0.261,
+        0
+      ],
+      "groundOffset": 0,
+      "front": "+Z",
+      "rig": "dog",
+      "boneCount": 46,
+      "originalIdentityScale": 0.5,
+      "bakedFps": 24,
+      "locomotion": "in-place; wrapper moves in world",
+      "sourceModel": "animal-shiba",
+      "sourceLabel": "柴犬",
+      "sourceSha256": "8302af941f144185c1afbde4ad8cc79358b575311deea23be4fbcd3d367f50a8",
+      "fitHeight": 0.58,
+      "displayScale": 0.18791608745607413,
+      "displayOffset": [
+        9.817941050657017e-10,
+        -0.0008316083085331544,
+        -0.07762276582972921
+      ],
+      "width": 0.20126165647292985,
+      "originalBreed": "腊肠犬",
+      "appearance": "柴犬 · Quaternius原版"
+    },
+    {
+      "id": "11_dog_poodle",
+      "name": "卷卷",
+      "species": "狗",
+      "breed": "哈士奇",
+      "coat": "原版灰白",
+      "bodySize": "小",
+      "source": "Quaternius CC0 原版完整模型",
+      "glb": "assets/models/animal-husky.glb",
+      "height": 0.72,
+      "length": 0.8798754766000321,
+      "radius": 0.35195019064001287,
+      "actions": [
+        "Attack",
+        "Death",
+        "Eating",
+        "Gallop",
+        "Gallop_Jump",
+        "Idle",
+        "Idle_2",
+        "Idle_2_HeadLow",
+        "Idle_HitReact1",
+        "Idle_HitReact2",
+        "Jump_ToIdle",
+        "Walk"
+      ],
+      "headLocal": [
+        1.6303872133438408e-10,
+        0.5980298491379222,
+        0.30435173718186426
+      ],
+      "bodyLocal": [
+        0,
+        0.324,
+        0
+      ],
+      "groundOffset": 0,
+      "front": "+Z",
+      "rig": "dog",
+      "boneCount": 46,
+      "originalIdentityScale": 0.43,
+      "bakedFps": 24,
+      "locomotion": "in-place; wrapper moves in world",
+      "sourceModel": "animal-husky",
+      "sourceLabel": "哈士奇",
+      "sourceSha256": "d5e33b7f9ffc92e5278df5035f86e8749f14c5ff8d9c79a922b2e8c1c906fcec",
+      "fitHeight": 0.72,
+      "displayScale": 0.22623591287760617,
+      "displayOffset": [
+        -0.0,
+        -0.0006875674608176278,
+        -0.10640636450068039
+      ],
+      "width": 0.22396551932378903,
+      "originalBreed": "玩具贵宾犬",
+      "appearance": "哈士奇 · Quaternius原版"
+    },
+    {
+      "id": "20_pony_shetland",
+      "name": "小栗",
+      "species": "马",
+      "breed": "设得兰矮种马",
+      "coat": "栗色白额",
+      "bodySize": "大",
+      "source": "Quaternius CC0 原版完整模型",
+      "glb": "assets/models/animal-horse.glb",
+      "height": 1.49542,
+      "length": 1.7595910122533882,
+      "radius": 0.7038364049013554,
+      "actions": [
+        "Attack_Headbutt",
+        "Attack_Kick",
+        "Death",
+        "Eating",
+        "Gallop",
+        "Gallop_Jump",
+        "Idle",
+        "Idle_2",
+        "Idle_Headlow",
+        "Idle_HitReact1",
+        "Idle_HitReact2",
+        "Jump_toIdle",
+        "Walk"
+      ],
+      "headLocal": [
+        2.8240088899389485e-08,
+        1.2984003424894301,
+        0.5926221727825177
+      ],
+      "bodyLocal": [
+        0,
+        0.672939,
+        0
+      ],
+      "groundOffset": 0,
+      "front": "+Z",
+      "rig": "pony",
+      "boneCount": 50,
+      "originalIdentityScale": 1.0,
+      "bakedFps": 24,
+      "locomotion": "in-place; wrapper moves in world",
+      "sourceModel": "animal-horse",
+      "sourceLabel": "马",
+      "sourceSha256": "0588334842feae74a257dea69983db37088da2e97d76beb4a2ecbe6afdb81e26",
+      "fitHeight": 1.49542,
+      "displayScale": 0.3099991625904301,
+      "displayOffset": [
+        3.2271485231822466e-08,
+        0.0034780115345739242,
+        -0.19057704262268813
+      ],
+      "width": 0.43754373421780085,
+      "originalBreed": "设得兰矮种马",
+      "appearance": "作者Horse原版 · 原身份档案保留"
+    }
+  ],
+  "pending": [
+    {
+      "id": "01_cat_tabby",
+      "name": "麦粒",
+      "breed": "中华田园猫",
+      "species": "猫",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "02_cat_calico",
+      "name": "三叶",
+      "breed": "中华田园猫",
+      "species": "猫",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "03_cat_british_blue",
+      "name": "灰团",
+      "breed": "英国短毛猫",
+      "species": "猫",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "04_cat_siamese",
+      "name": "浅墨",
+      "breed": "暹罗猫",
+      "species": "猫",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "05_cat_maine",
+      "name": "松尾",
+      "breed": "缅因猫",
+      "species": "猫",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "12_bird_budgie_green",
+      "name": "青豆",
+      "breed": "虎皮鹦鹉",
+      "species": "鸟",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "13_bird_budgie_blue",
+      "name": "蓝芽",
+      "breed": "虎皮鹦鹉",
+      "species": "鸟",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "14_bird_cockatiel",
+      "name": "小冠",
+      "breed": "玄凤鹦鹉",
+      "species": "鸟",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "15_bird_canary",
+      "name": "柠羽",
+      "breed": "金丝雀",
+      "species": "鸟",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "16_rabbit_lop",
+      "name": "绒耳",
+      "breed": "垂耳兔",
+      "species": "兔",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "17_rabbit_dutch",
+      "name": "黑豆",
+      "breed": "荷兰兔",
+      "species": "兔",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "18_guineapig_rosette",
+      "name": "花栗",
+      "breed": "阿比西尼亚豚鼠",
+      "species": "豚鼠",
+      "status": "待匹配原版成品"
+    },
+    {
+      "id": "19_tortoise_hermann",
+      "name": "苔背",
+      "breed": "赫曼陆龟",
+      "species": "陆龟",
+      "status": "待匹配原版成品"
+    }
+  ],
+  "totalIdentities": 20,
+  "caretaker": {
+    "sourceModel": "male-casual",
+    "displayScale": 0.9513230150487444,
+    "displayOffset": [
+      0,
+      0.0011553941819451175,
+      0
+    ]
+  }
+}

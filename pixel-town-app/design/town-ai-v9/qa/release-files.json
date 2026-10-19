@@ -1,0 +1,34 @@
+{
+  "三维小镇-AI生活.html": {
+    "bytes": 197234650,
+    "sha256": "78a9f3a099e20557327f3a9b02bd474af2050cedf8ad9a3361da8db73ffb9dbb"
+  },
+  "viewer.bundle.js": {
+    "bytes": 773280,
+    "sha256": "cd307a0e0ad16e043cb5e4e9afdf43645d6d720df9811a1b078f165fc0d26db0"
+  },
+  "capabilities.json": {
+    "bytes": 119141,
+    "sha256": "ddd6fa7ceb6044d6cc6785e4e4da2437da3552b148e7eaaae779abf6d9045f74"
+  },
+  "README.md": {
+    "bytes": 7994,
+    "sha256": "78047e7709addf33e0087dc4d6c67f79b4c4d65d9cb99cbf09ad2a0a3952d552"
+  },
+  "验收记录.md": {
+    "bytes": 4645,
+    "sha256": "e0e1050d2a6b4680225e8e53aabc0a0051d5f734c78a884b5c9c9ef5fa4e1e16"
+  },
+  "src/ai-panel.js": {
+    "bytes": 9246,
+    "sha256": "e7448c439811c0942fd837baa6d9a6c77d014eaafeff61aaeaf8cf033629c31c"
+  },
+  "src/ai-executor.js": {
+    "bytes": 7001,
+    "sha256": "46a2bb3d7971c7d78f6a182df1e6d2e800e7c889bdb5e616c324af1b17256174"
+  },
+  "src/navigation.js": {
+    "bytes": 1692,
+    "sha256": "10e1ea4f2caf3f711f2bd6e52018b0e85914ac80742e1f73dfbfbef7b0c0951c"
+  }
+}

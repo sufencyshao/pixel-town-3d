@@ -1,0 +1,162 @@
+[
+  {
+    "id": "f_idle_neutral_01",
+    "name": "Idle",
+    "set": "f",
+    "glb": "/animations/f_idle_neutral_01.glb",
+    "seconds": 15.533,
+    "bytes": 110432
+  },
+  {
+    "id": "m_idle_neutral_01",
+    "name": "Idle",
+    "set": "m",
+    "glb": "/animations/m_idle_neutral_01.glb",
+    "seconds": 11.667,
+    "bytes": 113152
+  },
+  {
+    "id": "f_idle_look_around_01",
+    "name": "Look around",
+    "set": "f",
+    "glb": "/animations/f_idle_look_around_01.glb",
+    "seconds": 4.467,
+    "bytes": 89792
+  },
+  {
+    "id": "m_idle_look_around_01",
+    "name": "Look around",
+    "set": "m",
+    "glb": "/animations/m_idle_look_around_01.glb",
+    "seconds": 4.633,
+    "bytes": 98180
+  },
+  {
+    "id": "f_gestic_talk_neutral_01",
+    "name": "Talk",
+    "set": "f",
+    "glb": "/animations/f_gestic_talk_neutral_01.glb",
+    "seconds": 27.333,
+    "bytes": 454908
+  },
+  {
+    "id": "m_gestic_talk_neutral_01",
+    "name": "Talk",
+    "set": "m",
+    "glb": "/animations/m_gestic_talk_neutral_01.glb",
+    "seconds": 35.567,
+    "bytes": 549084
+  },
+  {
+    "id": "f_gestic_thoughtful_01",
+    "name": "Thoughtful",
+    "set": "f",
+    "glb": "/animations/f_gestic_thoughtful_01.glb",
+    "seconds": 9.433,
+    "bytes": 165912
+  },
+  {
+    "id": "m_gestic_thoughtful_01",
+    "name": "Thoughtful",
+    "set": "m",
+    "glb": "/animations/m_gestic_thoughtful_01.glb",
+    "seconds": 13.5,
+    "bytes": 173144
+  },
+  {
+    "id": "f_wave_01",
+    "name": "Wave",
+    "set": "f",
+    "glb": "/animations/f_wave_01.glb",
+    "seconds": 5.533,
+    "bytes": 108096
+  },
+  {
+    "id": "m_wave_01",
+    "name": "Wave",
+    "set": "m",
+    "glb": "/animations/m_wave_01.glb",
+    "seconds": 2.833,
+    "bytes": 98788
+  },
+  {
+    "id": "f_cheer_01",
+    "name": "Cheer",
+    "set": "f",
+    "glb": "/animations/f_cheer_01.glb",
+    "seconds": 15.3,
+    "bytes": 346924
+  },
+  {
+    "id": "m_cheer_01",
+    "name": "Cheer",
+    "set": "m",
+    "glb": "/animations/m_cheer_01.glb",
+    "seconds": 24.633,
+    "bytes": 496912
+  },
+  {
+    "id": "f_claphands_01",
+    "name": "Clap",
+    "set": "f",
+    "glb": "/animations/f_claphands_01.glb",
+    "seconds": 15.933,
+    "bytes": 298420
+  },
+  {
+    "id": "m_claphands_01",
+    "name": "Clap",
+    "set": "m",
+    "glb": "/animations/m_claphands_01.glb",
+    "seconds": 7,
+    "bytes": 187924
+  },
+  {
+    "id": "f_dancing_neutral",
+    "name": "Dance",
+    "set": "f",
+    "glb": "/animations/f_dancing_neutral.glb",
+    "seconds": 24.967,
+    "bytes": 401732
+  },
+  {
+    "id": "m_dancing_neutral",
+    "name": "Dance",
+    "set": "m",
+    "glb": "/animations/m_dancing_neutral.glb",
+    "seconds": 21.5,
+    "bytes": 384456
+  },
+  {
+    "id": "f_walk_neutral_01",
+    "name": "Walk",
+    "set": "f",
+    "glb": "/animations/f_walk_neutral_01.glb",
+    "seconds": 1.2,
+    "bytes": 46748
+  },
+  {
+    "id": "m_walk_neutral_01",
+    "name": "Walk",
+    "set": "m",
+    "glb": "/animations/m_walk_neutral_01.glb",
+    "seconds": 1.2,
+    "bytes": 44344
+  },
+  {
+    "id": "f_run_neutral_01",
+    "name": "Run",
+    "set": "f",
+    "glb": "/animations/f_run_neutral_01.glb",
+    "seconds": 0.767,
+    "bytes": 56444
+  },
+  {
+    "id": "m_run_neutral_01",
+    "name": "Run",
+    "set": "m",
+    "glb": "/animations/m_run_neutral_01.glb",
+    "seconds": 0.733,
+    "bytes": 54548
+  }
+]

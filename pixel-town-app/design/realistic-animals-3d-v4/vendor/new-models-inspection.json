@@ -1,0 +1,29 @@
+[
+  {
+    "file": "bicolor-cat.glb",
+    "bytes": 2297972,
+    "sha256": "4b395ba943d647f4c490c982a70fa2175ef91569615773da7ef3429e427ed21a",
+    "asset": {
+      "extras": {
+        "author": "kenchoo (https://sketchfab.com/kenchoo)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/bicolor-cat-e623a618ca344a8393d7ba4d63ec23cf",
+        "title": "Bicolor Cat"
+      },
+      "generator": "Sketchfab-15.97.0",
+      "version": "2.0"
+    },
+    "skins": [
+      40
+    ],
+    "images": 3,
+    "extensions": [],
+    "animations": [
+      "Animation"
+    ]
+  },
+  {
+    "file": "domestic-guinea-pig.glb",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

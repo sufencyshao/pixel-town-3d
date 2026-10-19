@@ -1,0 +1,93 @@
+{
+  "file": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/cafe-3d-v1/blender-validation/H01-Cafe.blend",
+  "version": "5.2.2 LTS",
+  "scenes": {
+    "01 Exterior": {
+      "camera": "Camera Exterior",
+      "excluded_collections": []
+    },
+    "02 Interior Cutaway": {
+      "camera": "Camera Interior",
+      "excluded_collections": [
+        "02 Roof",
+        "03 FrontFacade",
+        "04 EastFacade"
+      ]
+    }
+  },
+  "packed_images": [
+    {
+      "name": "Image_0",
+      "packed": true,
+      "size": [
+        1024,
+        148
+      ],
+      "has_data": true
+    },
+    {
+      "name": "Image_1",
+      "packed": true,
+      "size": [
+        1024,
+        106
+      ],
+      "has_data": true
+    },
+    {
+      "name": "Image_2",
+      "packed": true,
+      "size": [
+        1024,
+        88
+      ],
+      "has_data": true
+    },
+    {
+      "name": "Image_3",
+      "packed": true,
+      "size": [
+        1024,
+        195
+      ],
+      "has_data": true
+    },
+    {
+      "name": "Image_4",
+      "packed": true,
+      "size": [
+        1024,
+        461
+      ],
+      "has_data": true
+    },
+    {
+      "name": "Image_5",
+      "packed": true,
+      "size": [
+        1024,
+        162
+      ],
+      "has_data": true
+    },
+    {
+      "name": "Image_6",
+      "packed": true,
+      "size": [
+        1024,
+        580
+      ],
+      "has_data": true
+    },
+    {
+      "name": "Image_7",
+      "packed": true,
+      "size": [
+        1024,
+        354
+      ],
+      "has_data": true
+    }
+  ],
+  "result": "PASS"
+}

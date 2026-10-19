@@ -1,0 +1,163 @@
+{
+  "views": [
+    {
+      "mode": "overview",
+      "visible": [
+        "D01_Floor",
+        "D01_Front",
+        "D01_Interior",
+        "D01_Roof",
+        "D01_Shell",
+        "D02_Floor",
+        "D02_Front",
+        "D02_Interior",
+        "D02_Roof",
+        "D02_Shell",
+        "D03_Floor",
+        "D03_Front",
+        "D03_Interior",
+        "D03_Roof",
+        "D03_Shell",
+        "D04_Floor",
+        "D04_Front",
+        "D04_Interior",
+        "D04_Roof",
+        "D04_Shell",
+        "Ground",
+        "Landscape",
+        "Logistics",
+        "Paths",
+        "Street_Furniture",
+        "Wayfinding"
+      ]
+    },
+    {
+      "mode": "plan",
+      "visible": [
+        "D01_Floor",
+        "D01_Front",
+        "D01_Interior",
+        "D01_Shell",
+        "D02_Floor",
+        "D02_Front",
+        "D02_Interior",
+        "D02_Shell",
+        "D03_Floor",
+        "D03_Front",
+        "D03_Interior",
+        "D03_Shell",
+        "D04_Floor",
+        "D04_Front",
+        "D04_Interior",
+        "D04_Shell",
+        "Ground",
+        "Landscape",
+        "Logistics",
+        "Paths",
+        "Street_Furniture",
+        "Wayfinding"
+      ]
+    },
+    {
+      "mode": "wood",
+      "visible": [
+        "D01_Floor",
+        "D01_Interior",
+        "D01_Shell",
+        "Ground",
+        "Landscape",
+        "Logistics",
+        "Paths",
+        "Street_Furniture",
+        "Wayfinding"
+      ]
+    },
+    {
+      "mode": "repair",
+      "visible": [
+        "D02_Floor",
+        "D02_Interior",
+        "D02_Shell",
+        "Ground",
+        "Landscape",
+        "Logistics",
+        "Paths",
+        "Street_Furniture",
+        "Wayfinding"
+      ]
+    },
+    {
+      "mode": "art",
+      "visible": [
+        "D03_Floor",
+        "D03_Interior",
+        "D03_Shell",
+        "Ground",
+        "Landscape",
+        "Logistics",
+        "Paths",
+        "Street_Furniture",
+        "Wayfinding"
+      ]
+    },
+    {
+      "mode": "music",
+      "visible": [
+        "D04_Floor",
+        "D04_Interior",
+        "D04_Shell",
+        "Ground",
+        "Landscape",
+        "Logistics",
+        "Paths",
+        "Street_Furniture",
+        "Wayfinding"
+      ]
+    },
+    {
+      "mode": "lane",
+      "visible": [
+        "D01_Floor",
+        "D01_Front",
+        "D01_Interior",
+        "D01_Roof",
+        "D01_Shell",
+        "D02_Floor",
+        "D02_Front",
+        "D02_Interior",
+        "D02_Roof",
+        "D02_Shell",
+        "D03_Floor",
+        "D03_Front",
+        "D03_Interior",
+        "D03_Roof",
+        "D03_Shell",
+        "D04_Floor",
+        "D04_Front",
+        "D04_Interior",
+        "D04_Roof",
+        "D04_Shell",
+        "Ground",
+        "Landscape",
+        "Logistics",
+        "Paths",
+        "Street_Furniture",
+        "Wayfinding"
+      ]
+    }
+  ],
+  "roof": true,
+  "otherBuilding": true,
+  "auto": true,
+  "downloads": [
+    "D-craft-workshops.glb",
+    "D-overview.png"
+  ],
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "canvasWidth": 390
+  },
+  "offline": true,
+  "errors": []
+}

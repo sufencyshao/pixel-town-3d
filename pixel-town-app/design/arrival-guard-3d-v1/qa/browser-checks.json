@@ -1,0 +1,58 @@
+{
+  "views": [
+    {
+      "mode": "overview",
+      "innRoof": true,
+      "upperFloor": true,
+      "fireRoof": true,
+      "fireEast": true
+    },
+    {
+      "mode": "plan",
+      "innRoof": false,
+      "upperFloor": true,
+      "fireRoof": false,
+      "fireEast": true
+    },
+    {
+      "mode": "inn",
+      "innRoof": true,
+      "upperFloor": true,
+      "fireRoof": true,
+      "fireEast": true
+    },
+    {
+      "mode": "lobby",
+      "innRoof": false,
+      "upperFloor": false,
+      "fireRoof": false,
+      "fireEast": true
+    },
+    {
+      "mode": "rooms",
+      "innRoof": false,
+      "upperFloor": true,
+      "fireRoof": false,
+      "fireEast": true
+    },
+    {
+      "mode": "fire",
+      "innRoof": false,
+      "upperFloor": true,
+      "fireRoof": false,
+      "fireEast": false
+    },
+    {
+      "mode": "bus",
+      "innRoof": true,
+      "upperFloor": true,
+      "fireRoof": true,
+      "fireEast": true
+    }
+  ],
+  "errors": [],
+  "glbDownload": "I-arrival-guard.glb",
+  "capture": "I-overview.png",
+  "mobileNoOverflow": true,
+  "fileOfflineLoaded": true
+}

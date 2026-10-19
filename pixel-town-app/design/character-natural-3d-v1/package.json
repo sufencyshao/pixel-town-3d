@@ -1,0 +1,11 @@
+{
+  "name": "pixel-town-ache-natural-character-preview",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "build:viewer": "esbuild src/viewer.js --bundle --format=iife --minify --outfile=viewer.bundle.js",
+    "verify:browser": "node src/verify_browser.cjs"
+  },
+  "dependencies": {"three": "0.180.0"},
+  "devDependencies": {"esbuild": "0.25.9", "playwright": "1.64.0-alpha-1790635538000"}
+}

@@ -1,0 +1,130 @@
+{
+  "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+  "files": [
+    {
+      "path": "Assets/Animals/Bird_Duck_Male_01/Bird_Duck_Male_01.png",
+      "bytes": 791964,
+      "sha256": "ae957d9ded095615612b14d32c167549158b1d2663684d69ca0ebd782afd606d"
+    },
+    {
+      "path": "Assets/Animals/Bird_Duck_Male_01/Export/Bird_Duck_Male_01.fbx",
+      "bytes": 149664,
+      "sha256": "7aef77b7ee3c6f460df829e3e36a3c1deb3f9e263830bc9903c9c169e4d97154"
+    },
+    {
+      "path": "Assets/Animals/Bird_Duck_Male_01/Textures/duck_male_bump.tga",
+      "bytes": 3146267,
+      "sha256": "dfa1af0e2ba397877a1eb57b335085c517c9321a98cdacc90d7987bed75b741e"
+    },
+    {
+      "path": "Assets/Animals/Bird_Duck_Male_01/Textures/duck_male_color.tga",
+      "bytes": 3146267,
+      "sha256": "abb003b501ceeca0121eb704760869690baf8811200c9147e713ac452f201ea7"
+    },
+    {
+      "path": "Assets/Animals/Bird_Duck_Male_01/Textures/duck_male_specular.tga",
+      "bytes": 3145772,
+      "sha256": "07c2389cabfeaedb2ddcbd344542b6b56d2ec30b624a51f7a0d8319ef3144b4d"
+    },
+    {
+      "path": "Assets/Animals/Bird_Sparrow_01/Bird_Sparrow_01.png",
+      "bytes": 878679,
+      "sha256": "4d24e7691e63c9f2466e004007ea5c1380251d12770edc2b3b42f3924a9ed236"
+    },
+    {
+      "path": "Assets/Animals/Bird_Sparrow_01/Export/Bird_Sparrow_01.fbx",
+      "bytes": 207712,
+      "sha256": "2d3f92dda12ecc25e4b43a71b2ba667486ecac9f1702e20c1c32d1b724bbd992"
+    },
+    {
+      "path": "Assets/Animals/Bird_Sparrow_01/Textures/sparrow_bump.tga",
+      "bytes": 3146267,
+      "sha256": "531ed9956337c54f16b4f8dcc75c4ec0623f478a3fe45fea78d3a9b9c97a66be"
+    },
+    {
+      "path": "Assets/Animals/Bird_Sparrow_01/Textures/sparrow_color.tga",
+      "bytes": 4194348,
+      "sha256": "f6e28c848a4f0cea68b5c0d2b0d1f97a5ea60b6cfa7093f6337f457f887cc492"
+    },
+    {
+      "path": "Assets/Animals/Bird_Sparrow_01/Textures/sparrow_specular.tga",
+      "bytes": 3145772,
+      "sha256": "42c4b048ee8ff3c7522119b505a04d1ed6f7f62f68fa7ea19b7e5b22658bdfe3"
+    },
+    {
+      "path": "Assets/Animals/Dog_Beagle_01/Dog_Beagle_01.png",
+      "bytes": 993185,
+      "sha256": "5dd50e3045b8c18006ebd95cf1d1ed60fea189d905b9d121faa8d46b952109d4"
+    },
+    {
+      "path": "Assets/Animals/Dog_Beagle_01/Export/Dog_Beagle_01.fbx",
+      "bytes": 335984,
+      "sha256": "db6bf29f8d568fc6d40c2fb0a9725854e6dc7ac90e310f7f3e8c49a431c45685"
+    },
+    {
+      "path": "Assets/Animals/Dog_Beagle_01/Textures/beagle_bump.tga",
+      "bytes": 12582956,
+      "sha256": "7d333ee8223ed3dc6865cb30d988f1c43facbc539f49d9c17bf463931897a302"
+    },
+    {
+      "path": "Assets/Animals/Dog_Beagle_01/Textures/beagle_color.tga",
+      "bytes": 12582956,
+      "sha256": "f42e3816545f7ca39396a7ce5b2a6e0abac768d985a2f0b78f55fa5a8837d843"
+    },
+    {
+      "path": "Assets/Animals/Dog_Beagle_01/Textures/beagle_specular.tga",
+      "bytes": 12582956,
+      "sha256": "64511ce6ef33cc8284006fb985e69a31d89bc66c16cf7aace35fb8137b054d9c"
+    },
+    {
+      "path": "Assets/Animals/Dog_GermanShepard_01/Dog_GermanShepard_01.png",
+      "bytes": 900129,
+      "sha256": "23b8e8cb8c724ec54f17d594a881aa9543460c1a8243ac35bbf7241b4de49702"
+    },
+    {
+      "path": "Assets/Animals/Dog_GermanShepard_01/Export/Dog_GermanShepard_01.fbx",
+      "bytes": 288336,
+      "sha256": "b4da665a4be93d5b8b6d87a8b4677dbd05be84071f81d68476bcfc9c7eaf8ff8"
+    },
+    {
+      "path": "Assets/Animals/Dog_GermanShepard_01/Textures/shepherd_dog_bump.tga",
+      "bytes": 12582956,
+      "sha256": "4ff2aa482ac700c9a0c61b575e62bc1b79cd3027aad6c70d4fab98afaf3ebb6b"
+    },
+    {
+      "path": "Assets/Animals/Dog_GermanShepard_01/Textures/shepherd_dog_color.tga",
+      "bytes": 12582956,
+      "sha256": "92d40d25d38835d430aeb409c90d8ddabede34c7f3aa2a13718defb64d4a64b6"
+    },
+    {
+      "path": "Assets/Animals/Dog_GermanShepard_01/Textures/shepherd_dog_specular.tga",
+      "bytes": 12582956,
+      "sha256": "c14ca3b205c983742a3d7b7477a55a474c25ad3daac9ce8c567219d2e11afbbc"
+    },
+    {
+      "path": "Assets/Animals/Horse_Brown_01/Export/Horse_Brown_01.fbx",
+      "bytes": 393024,
+      "sha256": "4a5cc2cfc3db8d182036e0003023154f33642662c5d44ea3b0587bb1e24af061"
+    },
+    {
+      "path": "Assets/Animals/Horse_Brown_01/Horse_Brown_01.png",
+      "bytes": 650137,
+      "sha256": "af12efa63f634bfb0c8e652ac7df4e3eb6dd8c769e75f7088e7747854b8f6024"
+    },
+    {
+      "path": "Assets/Animals/Horse_Brown_01/Textures/horse_brown_bump.tga",
+      "bytes": 12583451,
+      "sha256": "289b14a6654cd55927c95a20f1a4a54a0a07fa96e444c08b73a794770f7d2f3e"
+    },
+    {
+      "path": "Assets/Animals/Horse_Brown_01/Textures/horse_brown_color.tga",
+      "bytes": 12583451,
+      "sha256": "85d196162b151762bff457251ae0db0f6580f884f526bb2a1ed3b9fa2735debe"
+    },
+    {
+      "path": "Assets/Animals/Horse_Brown_01/Textures/horse_brown_specular.tga",
+      "bytes": 12582956,
+      "sha256": "2f04a5bbee214eb03e501d41487b98c226a78a38e83cabc6227cbeb8323bbf8a"
+    }
+  ]
+}

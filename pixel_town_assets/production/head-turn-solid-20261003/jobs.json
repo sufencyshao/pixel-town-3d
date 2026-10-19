@@ -1,0 +1,3146 @@
+[
+  {
+    "id": "01_hero_male",
+    "name": "阿澈",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/01_hero_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/01_hero_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/01_hero_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/01_hero_male/generated-head-poses.png",
+    "cutY": 113,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 113,
+      "bodyFixedFromY": 113,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            76,
+            13,
+            180,
+            243
+          ],
+          "sourceHeadCut": 102,
+          "scale": 0.9117647058823529,
+          "paste": [
+            82,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            62,
+            28,
+            153,
+            243
+          ],
+          "sourceHeadCut": 95,
+          "scale": 0.9789473684210527,
+          "paste": [
+            85,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "02_hero_female",
+    "name": "小满",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/02_hero_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/02_hero_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/02_hero_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/02_hero_female/generated-head-poses.png",
+    "cutY": 116,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 116,
+      "bodyFixedFromY": 116,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_07.png",
+          "mirrored": true,
+          "trimBox": [
+            78,
+            34,
+            177,
+            243
+          ],
+          "sourceHeadCut": 96,
+          "scale": 1.0,
+          "paste": [
+            82,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            78,
+            34,
+            177,
+            243
+          ],
+          "sourceHeadCut": 96,
+          "scale": 1.0,
+          "paste": [
+            76,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "03_barista_male",
+    "name": "林屿",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/03_barista_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/03_barista_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/03_barista_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/03_barista_male/generated-head-poses.png",
+    "cutY": 115,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 115,
+      "bodyFixedFromY": 115,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            69,
+            13,
+            186,
+            242
+          ],
+          "sourceHeadCut": 104,
+          "scale": 0.9134615384615384,
+          "paste": [
+            73,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            78,
+            24,
+            179,
+            238
+          ],
+          "sourceHeadCut": 97,
+          "scale": 0.979381443298969,
+          "paste": [
+            80,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "04_baker_male",
+    "name": "麦麦",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/04_baker_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/04_baker_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/04_baker_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/04_baker_male/generated-head-poses.png",
+    "cutY": 138,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 138,
+      "bodyFixedFromY": 138,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            64,
+            13,
+            192,
+            243
+          ],
+          "sourceHeadCut": 129,
+          "scale": 0.9147286821705426,
+          "paste": [
+            73,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            64,
+            13,
+            191,
+            242
+          ],
+          "sourceHeadCut": 129,
+          "scale": 0.9147286821705426,
+          "paste": [
+            64,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "05_carpenter_male",
+    "name": "大森",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/05_carpenter_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/05_carpenter_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/05_carpenter_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/05_carpenter_male/generated-head-poses.png",
+    "cutY": 115,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 115,
+      "bodyFixedFromY": 115,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            73,
+            13,
+            173,
+            243
+          ],
+          "sourceHeadCut": 104,
+          "scale": 0.9134615384615384,
+          "paste": [
+            81,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            69,
+            14,
+            177,
+            243
+          ],
+          "sourceHeadCut": 104,
+          "scale": 0.9134615384615384,
+          "paste": [
+            78,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "06_postman_male",
+    "name": "小路",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/06_postman_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/06_postman_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/06_postman_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/06_postman_male/generated-head-poses.png",
+    "cutY": 124,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 124,
+      "bodyFixedFromY": 124,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            66,
+            13,
+            190,
+            243
+          ],
+          "sourceHeadCut": 114,
+          "scale": 0.9122807017543859,
+          "paste": [
+            67,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            68,
+            13,
+            188,
+            243
+          ],
+          "sourceHeadCut": 114,
+          "scale": 0.9122807017543859,
+          "paste": [
+            73,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "07_police_male",
+    "name": "程正",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/07_police_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/07_police_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/07_police_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/07_police_male/generated-head-poses.png",
+    "cutY": 121,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 121,
+      "bodyFixedFromY": 121,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            71,
+            13,
+            182,
+            243
+          ],
+          "sourceHeadCut": 111,
+          "scale": 0.9099099099099099,
+          "paste": [
+            77,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            68,
+            13,
+            178,
+            242
+          ],
+          "sourceHeadCut": 110,
+          "scale": 0.9181818181818182,
+          "paste": [
+            76,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "08_doctor_male",
+    "name": "许衡",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/08_doctor_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/08_doctor_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/08_doctor_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/08_doctor_male/generated-head-poses.png",
+    "cutY": 122,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 122,
+      "bodyFixedFromY": 122,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            65,
+            13,
+            189,
+            243
+          ],
+          "sourceHeadCut": 112,
+          "scale": 0.9107142857142857,
+          "paste": [
+            69,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            74,
+            26,
+            181,
+            241
+          ],
+          "sourceHeadCut": 104,
+          "scale": 0.9807692307692307,
+          "paste": [
+            77,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "09_gardener_male",
+    "name": "阿禾",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/09_gardener_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/09_gardener_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/09_gardener_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/09_gardener_male/generated-head-poses.png",
+    "cutY": 119,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 119,
+      "bodyFixedFromY": 119,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            57,
+            13,
+            198,
+            243
+          ],
+          "sourceHeadCut": 108,
+          "scale": 0.9166666666666666,
+          "paste": [
+            62,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            62,
+            35,
+            191,
+            243
+          ],
+          "sourceHeadCut": 98,
+          "scale": 1.010204081632653,
+          "paste": [
+            64,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "10_musician_male",
+    "name": "迟野",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/10_musician_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/10_musician_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/10_musician_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/10_musician_male/generated-head-poses.png",
+    "cutY": 122,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 122,
+      "bodyFixedFromY": 122,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            56,
+            13,
+            200,
+            243
+          ],
+          "sourceHeadCut": 112,
+          "scale": 0.9107142857142857,
+          "paste": [
+            65,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            87,
+            21,
+            211,
+            242
+          ],
+          "sourceHeadCut": 107,
+          "scale": 0.9532710280373832,
+          "paste": [
+            84,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "11_chef_male",
+    "name": "陈锅",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/11_chef_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/11_chef_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/11_chef_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/11_chef_male/generated-head-poses.png",
+    "cutY": 139,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 139,
+      "bodyFixedFromY": 139,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            71,
+            13,
+            184,
+            243
+          ],
+          "sourceHeadCut": 130,
+          "scale": 0.9153846153846154,
+          "paste": [
+            78,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            74,
+            13,
+            182,
+            243
+          ],
+          "sourceHeadCut": 130,
+          "scale": 0.9153846153846154,
+          "paste": [
+            75,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "12_florist_female",
+    "name": "花音",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/12_florist_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/12_florist_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/12_florist_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/12_florist_female/generated-head-poses.png",
+    "cutY": 118,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 118,
+      "bodyFixedFromY": 180,
+      "hairRegions": {
+        "0": [
+          [
+            150,
+            118,
+            180,
+            175
+          ]
+        ],
+        "-1": [
+          [
+            147,
+            118,
+            185,
+            180
+          ]
+        ],
+        "1": [
+          [
+            74,
+            118,
+            119,
+            180
+          ]
+        ]
+      },
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            75,
+            13,
+            181,
+            243
+          ],
+          "sourceHeadCut": 107,
+          "scale": 0.9158878504672897,
+          "paste": [
+            74,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            84,
+            26,
+            172,
+            242
+          ],
+          "sourceHeadCut": 101,
+          "scale": 0.9702970297029703,
+          "paste": [
+            85,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "13_pastrychef_female",
+    "name": "糖糖",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/13_pastrychef_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/13_pastrychef_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/13_pastrychef_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/13_pastrychef_female/generated-head-poses.png",
+    "cutY": 140,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 140,
+      "bodyFixedFromY": 140,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            61,
+            13,
+            195,
+            243
+          ],
+          "sourceHeadCut": 131,
+          "scale": 0.916030534351145,
+          "paste": [
+            73,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            61,
+            13,
+            195,
+            242
+          ],
+          "sourceHeadCut": 131,
+          "scale": 0.916030534351145,
+          "paste": [
+            64,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "14_teacher_female",
+    "name": "温书",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/14_teacher_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/14_teacher_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/14_teacher_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/14_teacher_female/generated-head-poses.png",
+    "cutY": 126,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 126,
+      "bodyFixedFromY": 126,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            69,
+            13,
+            187,
+            243
+          ],
+          "sourceHeadCut": 116,
+          "scale": 0.9137931034482759,
+          "paste": [
+            77,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            74,
+            31,
+            174,
+            243
+          ],
+          "sourceHeadCut": 107,
+          "scale": 0.9906542056074766,
+          "paste": [
+            75,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "15_nurse_female",
+    "name": "苏晴",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/15_nurse_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/15_nurse_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/15_nurse_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/15_nurse_female/generated-head-poses.png",
+    "cutY": 147,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 147,
+      "bodyFixedFromY": 147,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            60,
+            13,
+            195,
+            243
+          ],
+          "sourceHeadCut": 139,
+          "scale": 0.9136690647482014,
+          "paste": [
+            74,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            63,
+            13,
+            192,
+            243
+          ],
+          "sourceHeadCut": 139,
+          "scale": 0.9136690647482014,
+          "paste": [
+            62,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "16_librarian_female",
+    "name": "知秋",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/16_librarian_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/16_librarian_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/16_librarian_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/16_librarian_female/generated-head-poses.png",
+    "cutY": 115,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 115,
+      "bodyFixedFromY": 115,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            74,
+            13,
+            182,
+            243
+          ],
+          "sourceHeadCut": 104,
+          "scale": 0.9134615384615384,
+          "paste": [
+            80,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            99,
+            21,
+            196,
+            242
+          ],
+          "sourceHeadCut": 100,
+          "scale": 0.95,
+          "paste": [
+            78,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "17_cafeowner_female",
+    "name": "沈知",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/17_cafeowner_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/17_cafeowner_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/17_cafeowner_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/17_cafeowner_female/generated-head-poses.png",
+    "cutY": 120,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 120,
+      "bodyFixedFromY": 159,
+      "hairRegions": {
+        "0": [
+          [
+            149,
+            120,
+            181,
+            151
+          ]
+        ],
+        "-1": [
+          [
+            147,
+            120,
+            184,
+            159
+          ]
+        ],
+        "1": [
+          [
+            74,
+            120,
+            116,
+            159
+          ]
+        ]
+      },
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            80,
+            13,
+            176,
+            243
+          ],
+          "sourceHeadCut": 110,
+          "scale": 0.9090909090909091,
+          "paste": [
+            86,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            82,
+            13,
+            170,
+            243
+          ],
+          "sourceHeadCut": 110,
+          "scale": 0.9090909090909091,
+          "paste": [
+            86,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "18_artist_female",
+    "name": "鹿眠",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/18_artist_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/18_artist_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/18_artist_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/18_artist_female/generated-head-poses.png",
+    "cutY": 124,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 124,
+      "bodyFixedFromY": 124,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            58,
+            13,
+            198,
+            243
+          ],
+          "sourceHeadCut": 114,
+          "scale": 0.9122807017543859,
+          "paste": [
+            77,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            69,
+            13,
+            186,
+            242
+          ],
+          "sourceHeadCut": 113,
+          "scale": 0.9203539823008849,
+          "paste": [
+            73,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "19_vet_female",
+    "name": "安安",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/19_vet_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/19_vet_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/19_vet_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/19_vet_female/generated-head-poses.png",
+    "cutY": 130,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 130,
+      "bodyFixedFromY": 181,
+      "hairRegions": {
+        "0": [
+          [
+            54,
+            130,
+            99,
+            149
+          ],
+          [
+            157,
+            130,
+            202,
+            149
+          ]
+        ],
+        "-1": [
+          [
+            150,
+            130,
+            211,
+            181
+          ]
+        ],
+        "1": [
+          [
+            49,
+            130,
+            116,
+            181
+          ]
+        ]
+      },
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            57,
+            13,
+            199,
+            243
+          ],
+          "sourceHeadCut": 120,
+          "scale": 0.9166666666666666,
+          "paste": [
+            77,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            65,
+            30,
+            191,
+            242
+          ],
+          "sourceHeadCut": 111,
+          "scale": 0.990990990990991,
+          "paste": [
+            58,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "20_student_female",
+    "name": "夏芽",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/20_student_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/20_student_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/20_student_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/20_student_female/generated-head-poses.png",
+    "cutY": 120,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 120,
+      "bodyFixedFromY": 178,
+      "hairRegions": {
+        "0": [
+          [
+            149,
+            120,
+            195,
+            158
+          ]
+        ],
+        "-1": [
+          [
+            149,
+            120,
+            205,
+            178
+          ]
+        ],
+        "1": [
+          [
+            55,
+            120,
+            118,
+            178
+          ]
+        ]
+      },
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            70,
+            13,
+            185,
+            243
+          ],
+          "sourceHeadCut": 110,
+          "scale": 0.9090909090909091,
+          "paste": [
+            85,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            71,
+            13,
+            173,
+            243
+          ],
+          "sourceHeadCut": 110,
+          "scale": 0.9090909090909091,
+          "paste": [
+            77,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "21_firefighter_male",
+    "name": "陆焰",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/21_firefighter_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/21_firefighter_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/21_firefighter_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/21_firefighter_male/generated-head-poses.png",
+    "cutY": 122,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 122,
+      "bodyFixedFromY": 122,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            77,
+            20,
+            178,
+            230
+          ],
+          "sourceHeadCut": 102,
+          "scale": 1.0,
+          "paste": [
+            75,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            78,
+            20,
+            179,
+            230
+          ],
+          "sourceHeadCut": 102,
+          "scale": 1.0,
+          "paste": [
+            81,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "22_grocer_male",
+    "name": "周籽",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/22_grocer_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/22_grocer_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/22_grocer_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/22_grocer_male/generated-head-poses.png",
+    "cutY": 123,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 123,
+      "bodyFixedFromY": 123,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            76,
+            20,
+            179,
+            230
+          ],
+          "sourceHeadCut": 103,
+          "scale": 1.0,
+          "paste": [
+            79,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            77,
+            20,
+            180,
+            230
+          ],
+          "sourceHeadCut": 103,
+          "scale": 1.0,
+          "paste": [
+            75,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "23_farmer_male",
+    "name": "田伯",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/23_farmer_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/23_farmer_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/23_farmer_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/23_farmer_male/generated-head-poses.png",
+    "cutY": 131,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 131,
+      "bodyFixedFromY": 131,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            60,
+            20,
+            195,
+            230
+          ],
+          "sourceHeadCut": 111,
+          "scale": 1.0,
+          "paste": [
+            57,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            61,
+            20,
+            196,
+            230
+          ],
+          "sourceHeadCut": 111,
+          "scale": 1.0,
+          "paste": [
+            65,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "24_driver_male",
+    "name": "韩途",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/24_driver_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/24_driver_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/24_driver_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/24_driver_male/generated-head-poses.png",
+    "cutY": 129,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 129,
+      "bodyFixedFromY": 129,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            68,
+            20,
+            187,
+            230
+          ],
+          "sourceHeadCut": 109,
+          "scale": 1.0,
+          "paste": [
+            64,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            69,
+            20,
+            188,
+            230
+          ],
+          "sourceHeadCut": 109,
+          "scale": 1.0,
+          "paste": [
+            74,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "25_hairdresser_male",
+    "name": "银梳",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/25_hairdresser_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/25_hairdresser_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/25_hairdresser_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/25_hairdresser_male/generated-head-poses.png",
+    "cutY": 126,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 126,
+      "bodyFixedFromY": 126,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            72,
+            20,
+            183,
+            230
+          ],
+          "sourceHeadCut": 106,
+          "scale": 1.0,
+          "paste": [
+            71,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            73,
+            20,
+            184,
+            230
+          ],
+          "sourceHeadCut": 106,
+          "scale": 1.0,
+          "paste": [
+            75,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "26_baker_male",
+    "name": "陶麦",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/26_baker_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/26_baker_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/26_baker_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/26_baker_male/generated-head-poses.png",
+    "cutY": 127,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 127,
+      "bodyFixedFromY": 127,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            71,
+            20,
+            184,
+            230
+          ],
+          "sourceHeadCut": 107,
+          "scale": 1.0,
+          "paste": [
+            73,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            72,
+            20,
+            185,
+            230
+          ],
+          "sourceHeadCut": 107,
+          "scale": 1.0,
+          "paste": [
+            71,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "27_librarian_male",
+    "name": "书衡",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/27_librarian_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/27_librarian_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/27_librarian_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/27_librarian_male/generated-head-poses.png",
+    "cutY": 128,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 128,
+      "bodyFixedFromY": 128,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            76,
+            20,
+            180,
+            230
+          ],
+          "sourceHeadCut": 108,
+          "scale": 1.0,
+          "paste": [
+            78,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            76,
+            20,
+            180,
+            230
+          ],
+          "sourceHeadCut": 108,
+          "scale": 1.0,
+          "paste": [
+            76,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "28_mechanic_male",
+    "name": "罗栓",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/28_mechanic_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/28_mechanic_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/28_mechanic_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/28_mechanic_male/generated-head-poses.png",
+    "cutY": 126,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 126,
+      "bodyFixedFromY": 126,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            76,
+            20,
+            179,
+            230
+          ],
+          "sourceHeadCut": 106,
+          "scale": 1.0,
+          "paste": [
+            76,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            77,
+            20,
+            180,
+            230
+          ],
+          "sourceHeadCut": 106,
+          "scale": 1.0,
+          "paste": [
+            78,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "29_innkeeper_male",
+    "name": "顾栈",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/29_innkeeper_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/29_innkeeper_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/29_innkeeper_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/29_innkeeper_male/generated-head-poses.png",
+    "cutY": 127,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 127,
+      "bodyFixedFromY": 127,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            71,
+            20,
+            184,
+            230
+          ],
+          "sourceHeadCut": 107,
+          "scale": 1.0,
+          "paste": [
+            74,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            72,
+            20,
+            185,
+            230
+          ],
+          "sourceHeadCut": 107,
+          "scale": 1.0,
+          "paste": [
+            70,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "30_florist_male",
+    "name": "林苔",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/30_florist_male/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/30_florist_male/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/30_florist_male/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/30_florist_male/generated-head-poses.png",
+    "cutY": 129,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 129,
+      "bodyFixedFromY": 169,
+      "hairRegions": {
+        "0": [
+          [
+            50,
+            129,
+            100,
+            154
+          ],
+          [
+            156,
+            129,
+            205,
+            154
+          ]
+        ],
+        "-1": [
+          [
+            149,
+            129,
+            193,
+            169
+          ]
+        ],
+        "1": [
+          [
+            63,
+            129,
+            117,
+            169
+          ]
+        ]
+      },
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            68,
+            20,
+            188,
+            230
+          ],
+          "sourceHeadCut": 109,
+          "scale": 1.0,
+          "paste": [
+            74,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            68,
+            20,
+            188,
+            230
+          ],
+          "sourceHeadCut": 109,
+          "scale": 1.0,
+          "paste": [
+            63,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "31_firefighter_female",
+    "name": "岑灯",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/31_firefighter_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/31_firefighter_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/31_firefighter_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/31_firefighter_female/generated-head-poses.png",
+    "cutY": 122,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 122,
+      "bodyFixedFromY": 122,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            78,
+            20,
+            178,
+            230
+          ],
+          "sourceHeadCut": 102,
+          "scale": 1.0,
+          "paste": [
+            78,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            78,
+            20,
+            178,
+            230
+          ],
+          "sourceHeadCut": 102,
+          "scale": 1.0,
+          "paste": [
+            78,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "32_grocer_female",
+    "name": "陆杏",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/32_grocer_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/32_grocer_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/32_grocer_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/32_grocer_female/generated-head-poses.png",
+    "cutY": 125,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 125,
+      "bodyFixedFromY": 125,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            65,
+            20,
+            190,
+            230
+          ],
+          "sourceHeadCut": 105,
+          "scale": 1.0,
+          "paste": [
+            74,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            66,
+            20,
+            191,
+            230
+          ],
+          "sourceHeadCut": 105,
+          "scale": 1.0,
+          "paste": [
+            58,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "33_farmer_female",
+    "name": "禾青",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/33_farmer_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/33_farmer_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/33_farmer_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/33_farmer_female/generated-head-poses.png",
+    "cutY": 136,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 136,
+      "bodyFixedFromY": 179,
+      "hairRegions": {
+        "0": [
+          [
+            97,
+            136,
+            119,
+            179
+          ],
+          [
+            138,
+            136,
+            163,
+            179
+          ]
+        ],
+        "-1": [
+          [
+            143,
+            136,
+            176,
+            175
+          ]
+        ],
+        "1": [
+          [
+            81,
+            136,
+            116,
+            175
+          ]
+        ]
+      },
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            56,
+            20,
+            200,
+            230
+          ],
+          "sourceHeadCut": 116,
+          "scale": 1.0,
+          "paste": [
+            57,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            56,
+            20,
+            200,
+            230
+          ],
+          "sourceHeadCut": 116,
+          "scale": 1.0,
+          "paste": [
+            56,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "34_driver_female",
+    "name": "叶驰",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/34_driver_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/34_driver_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/34_driver_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/34_driver_female/generated-head-poses.png",
+    "cutY": 129,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 129,
+      "bodyFixedFromY": 129,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            66,
+            20,
+            189,
+            230
+          ],
+          "sourceHeadCut": 109,
+          "scale": 1.0,
+          "paste": [
+            66,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            67,
+            20,
+            190,
+            230
+          ],
+          "sourceHeadCut": 109,
+          "scale": 1.0,
+          "paste": [
+            68,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "35_hairdresser_female",
+    "name": "卷云",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/35_hairdresser_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/35_hairdresser_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/35_hairdresser_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/35_hairdresser_female/generated-head-poses.png",
+    "cutY": 130,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 130,
+      "bodyFixedFromY": 130,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            62,
+            20,
+            194,
+            230
+          ],
+          "sourceHeadCut": 110,
+          "scale": 1.0,
+          "paste": [
+            66,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            62,
+            20,
+            194,
+            230
+          ],
+          "sourceHeadCut": 110,
+          "scale": 1.0,
+          "paste": [
+            60,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "36_barista_female",
+    "name": "闻豆",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/36_barista_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/36_barista_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/36_barista_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/36_barista_female/generated-head-poses.png",
+    "cutY": 134,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 134,
+      "bodyFixedFromY": 169,
+      "hairRegions": {
+        "0": [
+          [
+            47,
+            134,
+            106,
+            148
+          ],
+          [
+            168,
+            134,
+            205,
+            141
+          ]
+        ],
+        "-1": [
+          [
+            146,
+            134,
+            220,
+            169
+          ]
+        ],
+        "1": [
+          [
+            37,
+            134,
+            116,
+            169
+          ]
+        ]
+      },
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            59,
+            20,
+            197,
+            230
+          ],
+          "sourceHeadCut": 114,
+          "scale": 1.0,
+          "paste": [
+            82,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            59,
+            20,
+            197,
+            230
+          ],
+          "sourceHeadCut": 114,
+          "scale": 1.0,
+          "paste": [
+            37,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "37_carpenter_female",
+    "name": "榆棠",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/37_carpenter_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/37_carpenter_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/37_carpenter_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/37_carpenter_female/generated-head-poses.png",
+    "cutY": 126,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 126,
+      "bodyFixedFromY": 126,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            68,
+            20,
+            188,
+            230
+          ],
+          "sourceHeadCut": 106,
+          "scale": 1.0,
+          "paste": [
+            74,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            68,
+            20,
+            188,
+            230
+          ],
+          "sourceHeadCut": 106,
+          "scale": 1.0,
+          "paste": [
+            62,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "38_postal_female",
+    "name": "章铃",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/38_postal_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/38_postal_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/38_postal_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/38_postal_female/generated-head-poses.png",
+    "cutY": 125,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 125,
+      "bodyFixedFromY": 125,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            67,
+            20,
+            189,
+            230
+          ],
+          "sourceHeadCut": 105,
+          "scale": 1.0,
+          "paste": [
+            84,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            67,
+            20,
+            189,
+            230
+          ],
+          "sourceHeadCut": 105,
+          "scale": 1.0,
+          "paste": [
+            51,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "39_police_female",
+    "name": "许巡",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/39_police_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/39_police_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/39_police_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/39_police_female/generated-head-poses.png",
+    "cutY": 124,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 124,
+      "bodyFixedFromY": 173,
+      "hairRegions": {
+        "0": [
+          [
+            69,
+            124,
+            120,
+            166
+          ]
+        ],
+        "-1": [
+          [
+            145,
+            124,
+            188,
+            173
+          ]
+        ],
+        "1": [
+          [
+            65,
+            124,
+            117,
+            173
+          ]
+        ]
+      },
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            74,
+            20,
+            182,
+            230
+          ],
+          "sourceHeadCut": 104,
+          "scale": 1.0,
+          "paste": [
+            70,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            74,
+            20,
+            182,
+            230
+          ],
+          "sourceHeadCut": 104,
+          "scale": 1.0,
+          "paste": [
+            80,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  },
+  {
+    "id": "40_doctor_female",
+    "name": "余笙",
+    "refs": [
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/40_doctor_female/front-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/40_doctor_female/left-reference.png",
+      "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/40_doctor_female/right-reference.png"
+    ],
+    "output": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/head-turn-solid-20261003/40_doctor_female/generated-head-poses.png",
+    "cutY": 135,
+    "referenceRegistration": {
+      "revision": "20261003-shake-yaw-v2",
+      "cutY": 135,
+      "bodyFixedFromY": 135,
+      "hairRegions": {},
+      "yawKeySequence": [
+        0,
+        -1,
+        -2,
+        -3,
+        -3,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "leftProfilePhase": 3,
+      "rightProfilePhase": 11,
+      "registrations": {
+        "-1": {
+          "source": "frame_04.png",
+          "mirrored": false,
+          "trimBox": [
+            65,
+            20,
+            191,
+            230
+          ],
+          "sourceHeadCut": 115,
+          "scale": 1.0,
+          "paste": [
+            72,
+            20
+          ]
+        },
+        "1": {
+          "source": "frame_07.png",
+          "mirrored": false,
+          "trimBox": [
+            65,
+            20,
+            191,
+            230
+          ],
+          "sourceHeadCut": 115,
+          "scale": 1.0,
+          "paste": [
+            58,
+            20
+          ]
+        }
+      },
+      "rollDegrees": 0,
+      "verticalMotion": 0
+    }
+  }
+]

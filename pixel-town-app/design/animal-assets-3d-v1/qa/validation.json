@@ -1,0 +1,1973 @@
+[
+  {
+    "id": "01_cat_tabby",
+    "native": {
+      "reopened": true,
+      "boneCount": 23,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": -7.777366306527256e-09,
+          "maxZ": 0.46717074513435364,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5834782123565674
+        },
+        "Eat": {
+          "minZ": -7.777366306527256e-09,
+          "maxZ": 0.46717074513435364,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5834782123565674
+        },
+        "Groom": {
+          "minZ": -7.777366306527256e-09,
+          "maxZ": 0.5117602944374084,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5709927082061768
+        },
+        "Idle": {
+          "minZ": -7.777366306527256e-09,
+          "maxZ": 0.5210592746734619,
+          "finite": true,
+          "movingBones": 7,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5577108263969421
+        },
+        "Observe": {
+          "minZ": -7.777366306527256e-09,
+          "maxZ": 0.5128127932548523,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5464481711387634
+        },
+        "Rest": {
+          "minZ": -7.777364530170416e-09,
+          "maxZ": 0.43150433897972107,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5699649453163147
+        },
+        "Run": {
+          "minZ": -7.777366306527256e-09,
+          "maxZ": 0.5363737940788269,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5499036908149719
+        },
+        "Sniff": {
+          "minZ": -7.777366306527256e-09,
+          "maxZ": 0.5089412331581116,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5702596008777618
+        },
+        "Walk": {
+          "minZ": -7.777366306527256e-09,
+          "maxZ": 0.5383678078651428,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5499036908149719
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 23,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Groom",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "02_cat_calico",
+    "native": {
+      "reopened": true,
+      "boneCount": 23,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 7.477311214643123e-09,
+          "maxZ": 0.4459356665611267,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5491560101509094
+        },
+        "Eat": {
+          "minZ": 7.477311214643123e-09,
+          "maxZ": 0.4459356665611267,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5491560101509094
+        },
+        "Groom": {
+          "minZ": 7.477311214643123e-09,
+          "maxZ": 0.48849841952323914,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5374048948287964
+        },
+        "Idle": {
+          "minZ": 7.477311214643123e-09,
+          "maxZ": 0.4973747134208679,
+          "finite": true,
+          "movingBones": 7,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5249042809009552
+        },
+        "Observe": {
+          "minZ": 7.477311214643123e-09,
+          "maxZ": 0.48950308561325073,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.514304131269455
+        },
+        "Rest": {
+          "minZ": 2.237847418484762e-08,
+          "maxZ": 0.41189050674438477,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.536437600851059
+        },
+        "Run": {
+          "minZ": -7.484187491968441e-09,
+          "maxZ": 0.5119931697845459,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5175563991069794
+        },
+        "Sniff": {
+          "minZ": 7.477311214643123e-09,
+          "maxZ": 0.48580747842788696,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5367148816585541
+        },
+        "Walk": {
+          "minZ": -2.2385348685816098e-08,
+          "maxZ": 0.5138965249061584,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5175563991069794
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 23,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Groom",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "03_cat_british_blue",
+    "native": {
+      "reopened": true,
+      "boneCount": 23,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 6.9470358354806194e-09,
+          "maxZ": 0.4777882695198059,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.6006394624710083
+        },
+        "Eat": {
+          "minZ": 6.9470358354806194e-09,
+          "maxZ": 0.4777882695198059,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.6006394624710083
+        },
+        "Groom": {
+          "minZ": 6.9470358354806194e-09,
+          "maxZ": 0.5233913064002991,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5877866744995117
+        },
+        "Idle": {
+          "minZ": 6.9470358354806194e-09,
+          "maxZ": 0.5329015851020813,
+          "finite": true,
+          "movingBones": 7,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5741140991449356
+        },
+        "Observe": {
+          "minZ": 6.9470358354806194e-09,
+          "maxZ": 0.5244677066802979,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5625201910734177
+        },
+        "Rest": {
+          "minZ": -7.954123582010197e-09,
+          "maxZ": 0.4413112998008728,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5867286920547485
+        },
+        "Run": {
+          "minZ": 6.9470358354806194e-09,
+          "maxZ": 0.5485641956329346,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5660773664712906
+        },
+        "Sniff": {
+          "minZ": 6.9470358354806194e-09,
+          "maxZ": 0.5205080509185791,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5870319902896881
+        },
+        "Walk": {
+          "minZ": 6.9470358354806194e-09,
+          "maxZ": 0.550603449344635,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5660773664712906
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 23,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Groom",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "04_cat_siamese",
+    "native": {
+      "reopened": true,
+      "boneCount": 23,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": -8.071962653843912e-09,
+          "maxZ": 0.48486649990081787,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5963490307331085
+        },
+        "Eat": {
+          "minZ": -8.071962653843912e-09,
+          "maxZ": 0.48486649990081787,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5963490307331085
+        },
+        "Groom": {
+          "minZ": -8.071962653843912e-09,
+          "maxZ": 0.5311450958251953,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5835880637168884
+        },
+        "Idle": {
+          "minZ": -8.071962653843912e-09,
+          "maxZ": 0.5407962799072266,
+          "finite": true,
+          "movingBones": 7,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5700131952762604
+        },
+        "Observe": {
+          "minZ": -8.071962653843912e-09,
+          "maxZ": 0.5322374105453491,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5585021078586578
+        },
+        "Rest": {
+          "minZ": -8.071960877487072e-09,
+          "maxZ": 0.4478491246700287,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5825376212596893
+        },
+        "Run": {
+          "minZ": -8.071962653843912e-09,
+          "maxZ": 0.5566909313201904,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5620338320732117
+        },
+        "Sniff": {
+          "minZ": -8.071962653843912e-09,
+          "maxZ": 0.5282191634178162,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.582838773727417
+        },
+        "Walk": {
+          "minZ": -8.071962653843912e-09,
+          "maxZ": 0.5587604641914368,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5620338320732117
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 23,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Groom",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "05_cat_maine",
+    "native": {
+      "reopened": true,
+      "boneCount": 23,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": -9.780626974986717e-09,
+          "maxZ": 0.6185024380683899,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7722507119178772
+        },
+        "Eat": {
+          "minZ": -9.780626974986717e-09,
+          "maxZ": 0.6185024380683899,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7722507119178772
+        },
+        "Groom": {
+          "minZ": -9.780626974986717e-09,
+          "maxZ": 0.6609469056129456,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7557256817817688
+        },
+        "Idle": {
+          "minZ": -9.780626974986717e-09,
+          "maxZ": 0.6661309003829956,
+          "finite": true,
+          "movingBones": 7,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7381466925144196
+        },
+        "Observe": {
+          "minZ": -9.780626974986717e-09,
+          "maxZ": 0.6558212041854858,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7232402265071869
+        },
+        "Rest": {
+          "minZ": 1.0139884487614381e-08,
+          "maxZ": 0.5647982358932495,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7543654143810272
+        },
+        "Run": {
+          "minZ": -9.780626974986717e-09,
+          "maxZ": 0.6848141551017761,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7278137505054474
+        },
+        "Sniff": {
+          "minZ": -9.780626974986717e-09,
+          "maxZ": 0.6578254103660583,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7547553777694702
+        },
+        "Walk": {
+          "minZ": -9.780626974986717e-09,
+          "maxZ": 0.6870838403701782,
+          "finite": true,
+          "movingBones": 23,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7278137505054474
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 23,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Groom",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "06_dog_corgi",
+    "native": {
+      "reopened": true,
+      "boneCount": 46,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.41903939843177795,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.6865390539169312
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.38581034541130066,
+          "finite": true,
+          "movingBones": 38,
+          "rootHorizontalRange": 0.0028594256727956266,
+          "maxSpan": 0.8377959132194519
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.38687634468078613,
+          "finite": true,
+          "movingBones": 38,
+          "rootHorizontalRange": 0.001761740830261261,
+          "maxSpan": 0.7805154621601105
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.386949747800827,
+          "finite": true,
+          "movingBones": 11,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7793243527412415
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.40483108162879944,
+          "finite": true,
+          "movingBones": 21,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7501038610935211
+        },
+        "Run": {
+          "minZ": 0.0,
+          "maxZ": 0.39930492639541626,
+          "finite": true,
+          "movingBones": 46,
+          "rootHorizontalRange": 1.1350493878126144e-09,
+          "maxSpan": 0.9564478099346161
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 0.40445971488952637,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7606534063816071
+        },
+        "Wag": {
+          "minZ": 0.0,
+          "maxZ": 0.386949747800827,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7793243527412415
+        },
+        "Walk": {
+          "minZ": -1.8189894035458565e-12,
+          "maxZ": 0.38168543577194214,
+          "finite": true,
+          "movingBones": 46,
+          "rootHorizontalRange": 7.8580342233181e-10,
+          "maxSpan": 0.8518024981021881
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 46,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Wag",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "07_dog_shiba",
+    "native": {
+      "reopened": true,
+      "boneCount": 46,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.6369398236274719,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.6467293202877045
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.5864317417144775,
+          "finite": true,
+          "movingBones": 38,
+          "rootHorizontalRange": 0.0025804574979702032,
+          "maxSpan": 0.7749553024768829
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.5880520343780518,
+          "finite": true,
+          "movingBones": 38,
+          "rootHorizontalRange": 0.0015898636920610447,
+          "maxSpan": 0.7712326645851135
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.5881635546684265,
+          "finite": true,
+          "movingBones": 11,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7304624915122986
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.6153432130813599,
+          "finite": true,
+          "movingBones": 21,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7120266258716583
+        },
+        "Run": {
+          "minZ": 0.0,
+          "maxZ": 0.6069434881210327,
+          "finite": true,
+          "movingBones": 46,
+          "rootHorizontalRange": 1.0331859812140465e-09,
+          "maxSpan": 0.8631357252597809
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 0.6147786974906921,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7136130630970001
+        },
+        "Wag": {
+          "minZ": 0.0,
+          "maxZ": 0.5881635546684265,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.7313441634178162
+        },
+        "Walk": {
+          "minZ": -2.3283064365386963e-10,
+          "maxZ": 0.5801619291305542,
+          "finite": true,
+          "movingBones": 46,
+          "rootHorizontalRange": 6.984919309616089e-10,
+          "maxSpan": 0.7721968293190002
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 46,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Wag",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "08_dog_border",
+    "native": {
+      "reopened": true,
+      "boneCount": 49,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.8027878403663635,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.9139681458473206
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.7797169089317322,
+          "finite": true,
+          "movingBones": 41,
+          "rootHorizontalRange": 0.0031383940658997766,
+          "maxSpan": 1.0919474959373474
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.7808142304420471,
+          "finite": true,
+          "movingBones": 41,
+          "rootHorizontalRange": 0.0019336179539095615,
+          "maxSpan": 1.0079227685928345
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.7818120121955872,
+          "finite": true,
+          "movingBones": 11,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.007503718137741
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.8070984482765198,
+          "finite": true,
+          "movingBones": 21,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.9650046229362488
+        },
+        "Run": {
+          "minZ": 0.0,
+          "maxZ": 0.7970660924911499,
+          "finite": true,
+          "movingBones": 49,
+          "rootHorizontalRange": 1.2514647096395493e-09,
+          "maxSpan": 1.0395420789718628
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 0.8067900538444519,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.9874727427959442
+        },
+        "Wag": {
+          "minZ": 0.0,
+          "maxZ": 0.7818118929862976,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.007503718137741
+        },
+        "Walk": {
+          "minZ": -4.656612873077393e-10,
+          "maxZ": 0.7710629105567932,
+          "finite": true,
+          "movingBones": 49,
+          "rootHorizontalRange": 6.693881005048752e-10,
+          "maxSpan": 1.0196052491664886
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 49,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Wag",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "09_dog_golden",
+    "native": {
+      "reopened": true,
+      "boneCount": 49,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.9187262654304504,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.009190559387207
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.7875791788101196,
+          "finite": true,
+          "movingBones": 41,
+          "rootHorizontalRange": 0.0033476203097961878,
+          "maxSpan": 1.1335422694683075
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.7905566096305847,
+          "finite": true,
+          "movingBones": 41,
+          "rootHorizontalRange": 0.0020625257748179146,
+          "maxSpan": 1.1187982857227325
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.7875794172286987,
+          "finite": true,
+          "movingBones": 11,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.1178867816925049
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.8396968245506287,
+          "finite": true,
+          "movingBones": 21,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.079985648393631
+        },
+        "Run": {
+          "minZ": -9.313225746154785e-10,
+          "maxZ": 0.8238581418991089,
+          "finite": true,
+          "movingBones": 49,
+          "rootHorizontalRange": 1.3387762010097504e-09,
+          "maxSpan": 1.1404962539672852
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 0.8272918462753296,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.097862422466278
+        },
+        "Wag": {
+          "minZ": 0.0,
+          "maxZ": 0.7875794172286987,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.1178867816925049
+        },
+        "Walk": {
+          "minZ": -2.3283064365386963e-10,
+          "maxZ": 0.7810647487640381,
+          "finite": true,
+          "movingBones": 49,
+          "rootHorizontalRange": 7.130438461899757e-10,
+          "maxSpan": 1.1279086470603943
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 49,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Wag",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "10_dog_dachshund",
+    "native": {
+      "reopened": true,
+      "boneCount": 46,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.3673407733440399,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.0078323781490326
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.31488198041915894,
+          "finite": true,
+          "movingBones": 38,
+          "rootHorizontalRange": 0.0033476203097961856,
+          "maxSpan": 1.1322212517261505
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.31607291102409363,
+          "finite": true,
+          "movingBones": 38,
+          "rootHorizontalRange": 0.002062525774817914,
+          "maxSpan": 0.9903830885887146
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.3148820996284485,
+          "finite": true,
+          "movingBones": 11,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.1165286600589752
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.33572903275489807,
+          "finite": true,
+          "movingBones": 21,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.0777302086353302
+        },
+        "Run": {
+          "minZ": 0.0,
+          "maxZ": 0.32993096113204956,
+          "finite": true,
+          "movingBones": 46,
+          "rootHorizontalRange": 1.3387762010097504e-09,
+          "maxSpan": 1.1376846134662628
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 0.3307670056819916,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.0965041816234589
+        },
+        "Wag": {
+          "minZ": 0.0,
+          "maxZ": 0.3148820698261261,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.1165286600589752
+        },
+        "Walk": {
+          "minZ": -6.984919309616089e-10,
+          "maxZ": 0.31036922335624695,
+          "finite": true,
+          "movingBones": 46,
+          "rootHorizontalRange": 9.022187441587448e-10,
+          "maxSpan": 1.0191812217235565
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 46,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Wag",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "11_dog_poodle",
+    "native": {
+      "reopened": true,
+      "boneCount": 46,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.5203993916511536,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5203993916511536
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.4552627205848694,
+          "finite": true,
+          "movingBones": 38,
+          "rootHorizontalRange": 0.0018830366170732324,
+          "maxSpan": 0.5430218726396561
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.45851457118988037,
+          "finite": true,
+          "movingBones": 38,
+          "rootHorizontalRange": 0.0011601708101807167,
+          "maxSpan": 0.5598976314067841
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.4552629292011261,
+          "finite": true,
+          "movingBones": 11,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5366249978542328
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.4786059856414795,
+          "finite": true,
+          "movingBones": 21,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5291629284620285
+        },
+        "Run": {
+          "minZ": 0.0,
+          "maxZ": 0.47945740818977356,
+          "finite": true,
+          "movingBones": 46,
+          "rootHorizontalRange": 7.566995918750763e-10,
+          "maxSpan": 0.6399475932121277
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 0.4752916097640991,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5253612399101257
+        },
+        "Wag": {
+          "minZ": 0.0,
+          "maxZ": 0.4552628695964813,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.5366249978542328
+        },
+        "Walk": {
+          "minZ": -1.1641532182693481e-10,
+          "maxZ": 0.45551151037216187,
+          "finite": true,
+          "movingBones": 46,
+          "rootHorizontalRange": 5.093170329928398e-10,
+          "maxSpan": 0.5732894390821457
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 46,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Wag",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "12_bird_budgie_green",
+    "native": {
+      "reopened": true,
+      "boneCount": 13,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.2082846760749817,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.21082546561956406
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.2082846760749817,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.21082546561956406
+        },
+        "Fly": {
+          "minZ": 0.004654580261558294,
+          "maxZ": 0.20561112463474274,
+          "finite": true,
+          "movingBones": 8,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2733015716075897
+        },
+        "Groom": {
+          "minZ": 0.0,
+          "maxZ": 0.21045951545238495,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22771987318992615
+        },
+        "Hop": {
+          "minZ": 0.0,
+          "maxZ": 0.2706111669540405,
+          "finite": true,
+          "movingBones": 13,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2420651763677597
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.21045951545238495,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22771987318992615
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.21045951545238495,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22771987318992615
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.2091061770915985,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22728297114372253
+        },
+        "Walk": {
+          "minZ": 0.0,
+          "maxZ": 0.2258298248052597,
+          "finite": true,
+          "movingBones": 13,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22776193916797638
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 13,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Fly",
+        "Groom",
+        "Hop",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "13_bird_budgie_blue",
+    "native": {
+      "reopened": true,
+      "boneCount": 13,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.2082846760749817,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.21082546561956406
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.2082846760749817,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.21082546561956406
+        },
+        "Fly": {
+          "minZ": 0.004654580261558294,
+          "maxZ": 0.20561112463474274,
+          "finite": true,
+          "movingBones": 8,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2733015716075897
+        },
+        "Groom": {
+          "minZ": 0.0,
+          "maxZ": 0.21045951545238495,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22771987318992615
+        },
+        "Hop": {
+          "minZ": 0.0,
+          "maxZ": 0.2706111669540405,
+          "finite": true,
+          "movingBones": 13,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2420651763677597
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.21045951545238495,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22771987318992615
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.21045951545238495,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22771987318992615
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.2091061770915985,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22728297114372253
+        },
+        "Walk": {
+          "minZ": 0.0,
+          "maxZ": 0.2258298248052597,
+          "finite": true,
+          "movingBones": 13,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.22776193916797638
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 13,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Fly",
+        "Groom",
+        "Hop",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "14_bird_cockatiel",
+    "native": {
+      "reopened": true,
+      "boneCount": 13,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.25274619460105896,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.25274619460105896
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.25274619460105896,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.25274619460105896
+        },
+        "Fly": {
+          "minZ": 0.0051200371235609055,
+          "maxZ": 0.27894604206085205,
+          "finite": true,
+          "movingBones": 8,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.30063173174858093
+        },
+        "Groom": {
+          "minZ": 0.0,
+          "maxZ": 0.2813381254673004,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2813381254673004
+        },
+        "Hop": {
+          "minZ": 0.0,
+          "maxZ": 0.35044610500335693,
+          "finite": true,
+          "movingBones": 13,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2857626751065254
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.2813381254673004,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2813381254673004
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.2813381254673004,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2813381254673004
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.27699679136276245,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.27699679136276245
+        },
+        "Walk": {
+          "minZ": 0.0,
+          "maxZ": 0.2991117835044861,
+          "finite": true,
+          "movingBones": 13,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2886605244129896
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 13,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Fly",
+        "Groom",
+        "Hop",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "15_bird_canary",
+    "native": {
+      "reopened": true,
+      "boneCount": 13,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.17912481725215912,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.18130990862846375
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.17912481725215912,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.18130990862846375
+        },
+        "Fly": {
+          "minZ": 0.004002938512712717,
+          "maxZ": 0.17682556807994843,
+          "finite": true,
+          "movingBones": 8,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2350393533706665
+        },
+        "Groom": {
+          "minZ": 0.0,
+          "maxZ": 0.1809951812028885,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.19583909958600998
+        },
+        "Hop": {
+          "minZ": 0.0,
+          "maxZ": 0.2327256053686142,
+          "finite": true,
+          "movingBones": 13,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.20817605406045914
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.1809951812028885,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.19583909958600998
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.1809951812028885,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.19583909958600998
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.17983131110668182,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.1954633593559265
+        },
+        "Walk": {
+          "minZ": 0.0,
+          "maxZ": 0.1942136436700821,
+          "finite": true,
+          "movingBones": 13,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.19587527215480804
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 13,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Fly",
+        "Groom",
+        "Hop",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "16_rabbit_lop",
+    "native": {
+      "reopened": true,
+      "boneCount": 15,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.24835669994354248,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38346610963344574
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.24835669994354248,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38346610963344574
+        },
+        "Groom": {
+          "minZ": 0.0,
+          "maxZ": 0.2853425443172455,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.3860098719596863
+        },
+        "Hop": {
+          "minZ": 0.0,
+          "maxZ": 0.2847616374492645,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38895362615585327
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.23490753769874573,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38599999248981476
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.2349628508090973,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38599999248981476
+        },
+        "Rest": {
+          "minZ": 1.1641532182693481e-09,
+          "maxZ": 0.22986117005348206,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.3866878002882004
+        },
+        "Run": {
+          "minZ": 0.0,
+          "maxZ": 0.2471000850200653,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38630203902721405
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 0.24047711491584778,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38439778983592987
+        },
+        "Walk": {
+          "minZ": 0.0,
+          "maxZ": 0.2471000850200653,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38630203902721405
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 15,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Groom",
+        "Hop",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "17_rabbit_dutch",
+    "native": {
+      "reopened": true,
+      "boneCount": 15,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.29872405529022217,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38346610963344574
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.29872405529022217,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38346610963344574
+        },
+        "Groom": {
+          "minZ": 0.0,
+          "maxZ": 0.3517304062843323,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.3860098719596863
+        },
+        "Hop": {
+          "minZ": 0.0,
+          "maxZ": 0.3770139217376709,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38895362615585327
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.32574039697647095,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38599999248981476
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.32574039697647095,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38599999248981476
+        },
+        "Rest": {
+          "minZ": 1.1641532182693481e-09,
+          "maxZ": 0.323154091835022,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.3866878002882004
+        },
+        "Run": {
+          "minZ": 0.0,
+          "maxZ": 0.34152480959892273,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38630203902721405
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 0.32630711793899536,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38439778983592987
+        },
+        "Walk": {
+          "minZ": 0.0,
+          "maxZ": 0.34152480959892273,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.38630203902721405
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 15,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Groom",
+        "Hop",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "18_guineapig_rosette",
+    "native": {
+      "reopened": true,
+      "boneCount": 15,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 0.16925731301307678,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2889999747276306
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.16925731301307678,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2889999747276306
+        },
+        "Groom": {
+          "minZ": 0.0,
+          "maxZ": 0.20574124157428741,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.29099997878074646
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.15947264432907104,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.29099997878074646
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.15949437022209167,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.29099997878074646
+        },
+        "Rest": {
+          "minZ": 4.889443516731262e-09,
+          "maxZ": 0.15763503313064575,
+          "finite": true,
+          "movingBones": 5,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2915021777153015
+        },
+        "Run": {
+          "minZ": 0.0,
+          "maxZ": 0.17363423109054565,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2986420691013336
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 0.16154420375823975,
+          "finite": true,
+          "movingBones": 6,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2899162173271179
+        },
+        "Walk": {
+          "minZ": 0.0,
+          "maxZ": 0.17363423109054565,
+          "finite": true,
+          "movingBones": 15,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.29706212878227234
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 15,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Groom",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "19_tortoise_hermann",
+    "native": {
+      "reopened": true,
+      "boneCount": 13,
+      "imagesPacked": true,
+      "clips": {
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 0.1227167621254921,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.28967924416065216
+        },
+        "Hide": {
+          "minZ": 0.0,
+          "maxZ": 0.1227167621254921,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.29202044010162354
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 0.1227167621254921,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.29358817636966705
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 0.1227167621254921,
+          "finite": true,
+          "movingBones": 4,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.29358817636966705
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 0.1227167621254921,
+          "finite": true,
+          "movingBones": 3,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.27564066648483276
+        },
+        "Walk": {
+          "minZ": 0.0,
+          "maxZ": 0.12421675771474838,
+          "finite": true,
+          "movingBones": 13,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 0.2936549335718155
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 13,
+      "actions": [
+        "Eat",
+        "Hide",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  },
+  {
+    "id": "20_pony_shetland",
+    "native": {
+      "reopened": true,
+      "boneCount": 50,
+      "imagesPacked": true,
+      "clips": {
+        "Drink": {
+          "minZ": 0.0,
+          "maxZ": 1.6052359342575073,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.7655360102653503
+        },
+        "Eat": {
+          "minZ": 0.0,
+          "maxZ": 1.4954239130020142,
+          "finite": true,
+          "movingBones": 42,
+          "rootHorizontalRange": 0.015172194107435812,
+          "maxSpan": 2.051212787628174
+        },
+        "Idle": {
+          "minZ": 0.0,
+          "maxZ": 1.5083043575286865,
+          "finite": true,
+          "movingBones": 42,
+          "rootHorizontalRange": 0.002921911538578571,
+          "maxSpan": 1.9481897950172424
+        },
+        "Observe": {
+          "minZ": 0.0,
+          "maxZ": 1.495424509048462,
+          "finite": true,
+          "movingBones": 11,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.9298774600028992
+        },
+        "Rest": {
+          "minZ": 0.0,
+          "maxZ": 1.526532769203186,
+          "finite": true,
+          "movingBones": 9,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.9361034035682678
+        },
+        "Run": {
+          "minZ": 0.0,
+          "maxZ": 1.4357060194015503,
+          "finite": true,
+          "movingBones": 50,
+          "rootHorizontalRange": 2.444721758365631e-09,
+          "maxSpan": 2.575022339820862
+        },
+        "Sniff": {
+          "minZ": 0.0,
+          "maxZ": 1.567216157913208,
+          "finite": true,
+          "movingBones": 12,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.895841896533966
+        },
+        "Wag": {
+          "minZ": 0.0,
+          "maxZ": 1.495424509048462,
+          "finite": true,
+          "movingBones": 7,
+          "rootHorizontalRange": 0.0,
+          "maxSpan": 1.933729112148285
+        },
+        "Walk": {
+          "minZ": 0.0,
+          "maxZ": 1.4822341203689575,
+          "finite": true,
+          "movingBones": 50,
+          "rootHorizontalRange": 5.820766091346741e-10,
+          "maxSpan": 2.041938841342926
+        }
+      }
+    },
+    "gltf": {
+      "reimported": true,
+      "boneCount": 50,
+      "actions": [
+        "Drink",
+        "Eat",
+        "Idle",
+        "Observe",
+        "Rest",
+        "Run",
+        "Sniff",
+        "Wag",
+        "Walk"
+      ],
+      "clipNamesMatch": true,
+      "skinnedMeshes": 1
+    }
+  }
+]

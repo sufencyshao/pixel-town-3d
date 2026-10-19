@@ -1,0 +1,4178 @@
+{
+  "1": {
+    "role": "01_hero_male",
+    "bodyBoundary": [
+      [
+        0,
+        108
+      ],
+      [
+        107,
+        108
+      ],
+      [
+        118,
+        111
+      ],
+      [
+        136,
+        111
+      ],
+      [
+        149,
+        108
+      ],
+      [
+        255,
+        108
+      ]
+    ],
+    "neckRoot": [
+      118,
+      136,
+      114
+    ],
+    "targetNeckEnd": [
+      127,
+      113
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        229.0,
+        384
+      ],
+      [
+        233.0,
+        384
+      ],
+      [
+        241.0,
+        384
+      ],
+      [
+        243.0,
+        384
+      ],
+      [
+        229.0,
+        362
+      ],
+      [
+        218.0,
+        362
+      ],
+      [
+        208.0,
+        362
+      ],
+      [
+        211.0,
+        362
+      ]
+    ],
+    "originalScaleBox": [
+      79,
+      20,
+      177,
+      113
+    ],
+    "fixedGarmentRects": [
+      [
+        105,
+        109,
+        108,
+        112
+      ],
+      [
+        150,
+        109,
+        153,
+        112
+      ]
+    ]
+  },
+  "2": {
+    "role": "02_hero_female",
+    "bodyBoundary": [
+      [
+        0,
+        111
+      ],
+      [
+        110,
+        111
+      ],
+      [
+        120,
+        111
+      ],
+      [
+        137,
+        111
+      ],
+      [
+        148,
+        111
+      ],
+      [
+        255,
+        111
+      ]
+    ],
+    "neckRoot": [
+      119,
+      138,
+      111
+    ],
+    "targetNeckEnd": [
+      128,
+      116
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        224.0,
+        388
+      ],
+      [
+        219.0,
+        388
+      ],
+      [
+        224.0,
+        388
+      ],
+      [
+        218.0,
+        388
+      ],
+      [
+        225.0,
+        363
+      ],
+      [
+        225.0,
+        363
+      ],
+      [
+        225.0,
+        363
+      ],
+      [
+        224.0,
+        363
+      ]
+    ],
+    "originalScaleBox": [
+      68,
+      20,
+      188,
+      116
+    ],
+    "fixedGarmentRects": [
+      [
+        104,
+        115,
+        107,
+        118
+      ],
+      [
+        149,
+        115,
+        152,
+        118
+      ]
+    ]
+  },
+  "3": {
+    "role": "03_barista_male",
+    "bodyBoundary": [
+      [
+        0,
+        111
+      ],
+      [
+        111,
+        111
+      ],
+      [
+        121,
+        116
+      ],
+      [
+        135,
+        116
+      ],
+      [
+        145,
+        111
+      ],
+      [
+        255,
+        111
+      ]
+    ],
+    "neckRoot": [
+      121,
+      135,
+      117
+    ],
+    "targetNeckEnd": [
+      128,
+      115
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        255.0,
+        393
+      ],
+      [
+        246.0,
+        393
+      ],
+      [
+        231.0,
+        397
+      ],
+      [
+        203.0,
+        396
+      ],
+      [
+        255.0,
+        338
+      ],
+      [
+        231.0,
+        342
+      ],
+      [
+        224.0,
+        342
+      ],
+      [
+        193.0,
+        342
+      ]
+    ],
+    "originalScaleBox": [
+      75,
+      20,
+      181,
+      115
+    ],
+    "fixedGarmentRects": [
+      [
+        107,
+        116,
+        110,
+        119
+      ],
+      [
+        144,
+        116,
+        147,
+        119
+      ]
+    ]
+  },
+  "4": {
+    "role": "04_baker_male",
+    "bodyBoundary": [
+      [
+        0,
+        136
+      ],
+      [
+        111,
+        136
+      ],
+      [
+        119,
+        137
+      ],
+      [
+        137,
+        137
+      ],
+      [
+        148,
+        136
+      ],
+      [
+        255,
+        136
+      ]
+    ],
+    "neckRoot": [
+      118,
+      137,
+      136
+    ],
+    "targetNeckEnd": [
+      128,
+      138
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        233.0,
+        416
+      ],
+      [
+        222.0,
+        416
+      ],
+      [
+        206.0,
+        416
+      ],
+      [
+        209.5,
+        416
+      ],
+      [
+        233.0,
+        372
+      ],
+      [
+        223.0,
+        372
+      ],
+      [
+        222.5,
+        372
+      ],
+      [
+        223.0,
+        372
+      ]
+    ],
+    "originalScaleBox": [
+      64,
+      20,
+      191,
+      138
+    ],
+    "fixedGarmentRects": [
+      [
+        109,
+        138,
+        112,
+        141
+      ],
+      [
+        144,
+        138,
+        147,
+        141
+      ]
+    ]
+  },
+  "5": {
+    "role": "05_carpenter_male",
+    "bodyBoundary": [
+      [
+        0,
+        102
+      ],
+      [
+        108,
+        102
+      ],
+      [
+        118,
+        107
+      ],
+      [
+        126,
+        110
+      ],
+      [
+        136,
+        107
+      ],
+      [
+        147,
+        102
+      ],
+      [
+        255,
+        102
+      ]
+    ],
+    "neckRoot": [
+      116,
+      138,
+      110
+    ],
+    "targetNeckEnd": [
+      127,
+      115
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        230.0,
+        397
+      ],
+      [
+        226.0,
+        397
+      ],
+      [
+        222.0,
+        397
+      ],
+      [
+        225.0,
+        397
+      ],
+      [
+        229.0,
+        377
+      ],
+      [
+        222.0,
+        377
+      ],
+      [
+        222.0,
+        377
+      ],
+      [
+        220.0,
+        377
+      ]
+    ],
+    "originalScaleBox": [
+      79,
+      20,
+      165,
+      115
+    ],
+    "fixedGarmentRects": [
+      [
+        103,
+        104,
+        106,
+        107
+      ],
+      [
+        148,
+        104,
+        151,
+        107
+      ]
+    ]
+  },
+  "6": {
+    "role": "06_postman_male",
+    "bodyBoundary": [
+      [
+        0,
+        120
+      ],
+      [
+        114,
+        120
+      ],
+      [
+        121,
+        120
+      ],
+      [
+        136,
+        120
+      ],
+      [
+        146,
+        120
+      ],
+      [
+        255,
+        120
+      ]
+    ],
+    "neckRoot": [
+      119,
+      136,
+      119
+    ],
+    "targetNeckEnd": [
+      128,
+      124
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        224.0,
+        404
+      ],
+      [
+        225.0,
+        404
+      ],
+      [
+        212.0,
+        404
+      ],
+      [
+        212.0,
+        404
+      ],
+      [
+        224.0,
+        372
+      ],
+      [
+        215.0,
+        373
+      ],
+      [
+        216.0,
+        373
+      ],
+      [
+        213.0,
+        373
+      ]
+    ],
+    "originalScaleBox": [
+      65,
+      20,
+      190,
+      124
+    ],
+    "fixedGarmentRects": [
+      [
+        107,
+        121,
+        110,
+        124
+      ],
+      [
+        146,
+        121,
+        149,
+        124
+      ]
+    ]
+  },
+  "7": {
+    "role": "07_police_male",
+    "bodyBoundary": [
+      [
+        0,
+        115
+      ],
+      [
+        110,
+        115
+      ],
+      [
+        121,
+        117
+      ],
+      [
+        135,
+        117
+      ],
+      [
+        147,
+        115
+      ],
+      [
+        255,
+        115
+      ]
+    ],
+    "neckRoot": [
+      116,
+      139,
+      116
+    ],
+    "targetNeckEnd": [
+      128,
+      121
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        230.0,
+        405
+      ],
+      [
+        223.0,
+        405
+      ],
+      [
+        223.0,
+        405
+      ],
+      [
+        215.0,
+        405
+      ],
+      [
+        229.0,
+        368
+      ],
+      [
+        218.0,
+        368
+      ],
+      [
+        214.0,
+        368
+      ],
+      [
+        219.0,
+        368
+      ]
+    ],
+    "originalScaleBox": [
+      76,
+      20,
+      180,
+      121
+    ],
+    "fixedGarmentRects": [
+      [
+        101,
+        115,
+        104,
+        118
+      ],
+      [
+        151,
+        115,
+        154,
+        118
+      ]
+    ]
+  },
+  "8": {
+    "role": "08_doctor_male",
+    "bodyBoundary": [
+      [
+        0,
+        117
+      ],
+      [
+        115,
+        117
+      ],
+      [
+        121,
+        120
+      ],
+      [
+        136,
+        120
+      ],
+      [
+        144,
+        117
+      ],
+      [
+        255,
+        117
+      ]
+    ],
+    "neckRoot": [
+      120,
+      138,
+      120
+    ],
+    "targetNeckEnd": [
+      129,
+      122
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        221.0,
+        413
+      ],
+      [
+        226.0,
+        413
+      ],
+      [
+        235.0,
+        413
+      ],
+      [
+        236.5,
+        413
+      ],
+      [
+        221.0,
+        397
+      ],
+      [
+        214.0,
+        397
+      ],
+      [
+        208.0,
+        397
+      ],
+      [
+        208.0,
+        397
+      ]
+    ],
+    "originalScaleBox": [
+      71,
+      20,
+      184,
+      122
+    ],
+    "fixedGarmentRects": [
+      [
+        107,
+        122,
+        110,
+        125
+      ],
+      [
+        145,
+        122,
+        148,
+        125
+      ]
+    ]
+  },
+  "9": {
+    "role": "09_gardener_male",
+    "bodyBoundary": [
+      [
+        0,
+        116
+      ],
+      [
+        115,
+        116
+      ],
+      [
+        121,
+        124
+      ],
+      [
+        135,
+        124
+      ],
+      [
+        145,
+        116
+      ],
+      [
+        255,
+        116
+      ]
+    ],
+    "neckRoot": [
+      119,
+      137,
+      126
+    ],
+    "targetNeckEnd": [
+      128,
+      119
+    ],
+    "skinMinR": 100,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 60,
+    "sourceNeckAnchors": [
+      [
+        225.0,
+        389
+      ],
+      [
+        230.0,
+        389
+      ],
+      [
+        233.0,
+        389
+      ],
+      [
+        239.0,
+        389
+      ],
+      [
+        225.0,
+        352
+      ],
+      [
+        217.0,
+        352
+      ],
+      [
+        215.0,
+        352
+      ],
+      [
+        205.5,
+        352
+      ]
+    ],
+    "originalScaleBox": [
+      57,
+      20,
+      198,
+      119
+    ],
+    "fixedGarmentRects": [
+      [
+        107,
+        119,
+        110,
+        122
+      ],
+      [
+        144,
+        119,
+        147,
+        122
+      ]
+    ]
+  },
+  "10": {
+    "role": "10_musician_male",
+    "bodyBoundary": [
+      [
+        0,
+        119
+      ],
+      [
+        115,
+        119
+      ],
+      [
+        121,
+        123
+      ],
+      [
+        135,
+        123
+      ],
+      [
+        146,
+        119
+      ],
+      [
+        255,
+        119
+      ]
+    ],
+    "neckRoot": [
+      117,
+      137,
+      123
+    ],
+    "targetNeckEnd": [
+      127,
+      122
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        224.0,
+        410
+      ],
+      [
+        228.0,
+        410
+      ],
+      [
+        231.0,
+        409
+      ],
+      [
+        229.0,
+        410
+      ],
+      [
+        224.0,
+        409
+      ],
+      [
+        219.0,
+        405
+      ],
+      [
+        212.0,
+        402
+      ],
+      [
+        213.0,
+        401
+      ]
+    ],
+    "originalScaleBox": [
+      63,
+      20,
+      192,
+      122
+    ],
+    "fixedGarmentRects": [
+      [
+        108,
+        120,
+        111,
+        123
+      ],
+      [
+        147,
+        120,
+        150,
+        123
+      ]
+    ]
+  },
+  "11": {
+    "role": "11_chef_male",
+    "bodyBoundary": [
+      [
+        0,
+        138
+      ],
+      [
+        119,
+        138
+      ],
+      [
+        137,
+        138
+      ],
+      [
+        255,
+        138
+      ]
+    ],
+    "neckRoot": [
+      120,
+      139,
+      137
+    ],
+    "targetNeckEnd": [
+      130,
+      139
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        232.0,
+        403
+      ],
+      [
+        227.0,
+        403
+      ],
+      [
+        221.0,
+        403
+      ],
+      [
+        216.5,
+        403
+      ],
+      [
+        232.0,
+        378
+      ],
+      [
+        230.5,
+        378
+      ],
+      [
+        221.0,
+        378
+      ],
+      [
+        216.5,
+        378
+      ]
+    ],
+    "originalScaleBox": [
+      74,
+      20,
+      181,
+      139
+    ],
+    "fixedGarmentRects": [
+      [
+        107,
+        139,
+        110,
+        142
+      ],
+      [
+        143,
+        139,
+        146,
+        142
+      ]
+    ]
+  },
+  "12": {
+    "role": "12_florist_female",
+    "bodyBoundary": [
+      [
+        0,
+        103
+      ],
+      [
+        118,
+        103
+      ],
+      [
+        124,
+        104
+      ],
+      [
+        135,
+        104
+      ],
+      [
+        143,
+        103
+      ],
+      [
+        255,
+        103
+      ]
+    ],
+    "neckRoot": [
+      121,
+      136,
+      104
+    ],
+    "targetNeckEnd": [
+      128,
+      107
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [
+      [
+        [
+          156,
+          103
+        ],
+        [
+          164,
+          104
+        ],
+        [
+          173,
+          117
+        ],
+        [
+          177,
+          137
+        ],
+        [
+          183,
+          168
+        ],
+        [
+          171,
+          173
+        ],
+        [
+          164,
+          159
+        ],
+        [
+          161,
+          140
+        ],
+        [
+          154,
+          129
+        ]
+      ]
+    ],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        227.0,
+        337
+      ],
+      [
+        220.0,
+        337
+      ],
+      [
+        217.0,
+        337
+      ],
+      [
+        215.0,
+        337
+      ],
+      [
+        228.0,
+        325
+      ],
+      [
+        227.0,
+        321
+      ],
+      [
+        224.0,
+        321
+      ],
+      [
+        228.5,
+        321
+      ]
+    ],
+    "originalScaleBox": [
+      79,
+      20,
+      184,
+      153
+    ],
+    "fixedGarmentRects": [
+      [
+        115,
+        106,
+        118,
+        109
+      ],
+      [
+        145,
+        108,
+        148,
+        111
+      ]
+    ]
+  },
+  "13": {
+    "role": "13_pastrychef_female",
+    "bodyBoundary": [
+      [
+        0,
+        140
+      ],
+      [
+        120,
+        140
+      ],
+      [
+        136,
+        140
+      ],
+      [
+        255,
+        140
+      ]
+    ],
+    "neckRoot": [
+      119,
+      135,
+      139
+    ],
+    "targetNeckEnd": [
+      127,
+      140
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        230.0,
+        434
+      ],
+      [
+        221.0,
+        434
+      ],
+      [
+        225.0,
+        433
+      ],
+      [
+        222.0,
+        433
+      ],
+      [
+        229.0,
+        400
+      ],
+      [
+        237.0,
+        400
+      ],
+      [
+        229.0,
+        397
+      ],
+      [
+        225.0,
+        396
+      ]
+    ],
+    "originalScaleBox": [
+      65,
+      20,
+      191,
+      140
+    ],
+    "fixedGarmentRects": [
+      [
+        109,
+        141,
+        112,
+        144
+      ],
+      [
+        142,
+        141,
+        145,
+        144
+      ]
+    ]
+  },
+  "14": {
+    "role": "14_teacher_female",
+    "bodyBoundary": [
+      [
+        0,
+        118
+      ],
+      [
+        118,
+        118
+      ],
+      [
+        121,
+        121
+      ],
+      [
+        138,
+        121
+      ],
+      [
+        142,
+        118
+      ],
+      [
+        255,
+        118
+      ]
+    ],
+    "neckRoot": [
+      119,
+      139,
+      121
+    ],
+    "targetNeckEnd": [
+      129,
+      126
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        221.0,
+        390
+      ],
+      [
+        221.0,
+        390
+      ],
+      [
+        221.0,
+        394
+      ],
+      [
+        220.0,
+        391
+      ],
+      [
+        221.0,
+        370
+      ],
+      [
+        224.0,
+        367
+      ],
+      [
+        230.0,
+        367
+      ],
+      [
+        234.0,
+        367
+      ]
+    ],
+    "originalScaleBox": [
+      67,
+      20,
+      189,
+      126
+    ],
+    "fixedGarmentRects": [
+      [
+        113,
+        119,
+        116,
+        122
+      ],
+      [
+        144,
+        119,
+        147,
+        122
+      ]
+    ]
+  },
+  "15": {
+    "role": "15_nurse_female",
+    "bodyBoundary": [
+      [
+        0,
+        136
+      ],
+      [
+        114,
+        136
+      ],
+      [
+        120,
+        139
+      ],
+      [
+        138,
+        139
+      ],
+      [
+        146,
+        136
+      ],
+      [
+        255,
+        136
+      ]
+    ],
+    "neckRoot": [
+      117,
+      138,
+      139
+    ],
+    "targetNeckEnd": [
+      128,
+      147
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        220.0,
+        390
+      ],
+      [
+        223.0,
+        388
+      ],
+      [
+        228.0,
+        389
+      ],
+      [
+        275.5,
+        390
+      ],
+      [
+        219.5,
+        380
+      ],
+      [
+        220.0,
+        379
+      ],
+      [
+        228.0,
+        378
+      ],
+      [
+        155.0,
+        373
+      ]
+    ],
+    "originalScaleBox": [
+      59,
+      20,
+      196,
+      147
+    ],
+    "fixedGarmentRects": [
+      [
+        108,
+        138,
+        111,
+        141
+      ],
+      [
+        145,
+        138,
+        148,
+        141
+      ]
+    ]
+  },
+  "16": {
+    "role": "16_librarian_female",
+    "bodyBoundary": [
+      [
+        0,
+        104
+      ],
+      [
+        113,
+        104
+      ],
+      [
+        119,
+        108
+      ],
+      [
+        135,
+        108
+      ],
+      [
+        142,
+        104
+      ],
+      [
+        255,
+        104
+      ]
+    ],
+    "neckRoot": [
+      118,
+      137,
+      108
+    ],
+    "targetNeckEnd": [
+      128,
+      111
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        228.0,
+        396
+      ],
+      [
+        226.0,
+        397
+      ],
+      [
+        217.5,
+        397
+      ],
+      [
+        211.0,
+        396
+      ],
+      [
+        229.0,
+        366
+      ],
+      [
+        223.0,
+        363
+      ],
+      [
+        225.0,
+        363
+      ],
+      [
+        237.0,
+        363
+      ]
+    ],
+    "originalScaleBox": [
+      79,
+      20,
+      177,
+      115
+    ],
+    "fixedGarmentRects": [
+      [
+        113,
+        105,
+        116,
+        108
+      ],
+      [
+        141,
+        105,
+        144,
+        108
+      ]
+    ]
+  },
+  "17": {
+    "role": "17_cafeowner_female",
+    "bodyBoundary": [
+      [
+        0,
+        105
+      ],
+      [
+        115,
+        105
+      ],
+      [
+        122,
+        109
+      ],
+      [
+        135,
+        109
+      ],
+      [
+        141,
+        105
+      ],
+      [
+        255,
+        105
+      ]
+    ],
+    "neckRoot": [
+      121,
+      136,
+      109
+    ],
+    "targetNeckEnd": [
+      128,
+      112
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [
+      [
+        [
+          150,
+          102
+        ],
+        [
+          161,
+          104
+        ],
+        [
+          171,
+          113
+        ],
+        [
+          177,
+          127
+        ],
+        [
+          177,
+          133
+        ],
+        [
+          170,
+          136
+        ],
+        [
+          163,
+          122
+        ],
+        [
+          155,
+          116
+        ]
+      ]
+    ],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        226.0,
+        392
+      ],
+      [
+        234.0,
+        392
+      ],
+      [
+        227.0,
+        388
+      ],
+      [
+        224.0,
+        384
+      ],
+      [
+        225.0,
+        355
+      ],
+      [
+        231.0,
+        351
+      ],
+      [
+        228.0,
+        351
+      ],
+      [
+        226.0,
+        351
+      ]
+    ],
+    "originalScaleBox": [
+      85,
+      20,
+      171,
+      124
+    ],
+    "fixedGarmentRects": [
+      [
+        113,
+        107,
+        116,
+        110
+      ],
+      [
+        146,
+        106,
+        149,
+        109
+      ]
+    ]
+  },
+  "18": {
+    "role": "18_artist_female",
+    "bodyBoundary": [
+      [
+        0,
+        118
+      ],
+      [
+        113,
+        118
+      ],
+      [
+        120,
+        120
+      ],
+      [
+        136,
+        120
+      ],
+      [
+        144,
+        118
+      ],
+      [
+        255,
+        118
+      ]
+    ],
+    "neckRoot": [
+      118,
+      137,
+      119
+    ],
+    "targetNeckEnd": [
+      128,
+      124
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        230.0,
+        391
+      ],
+      [
+        216.0,
+        393
+      ],
+      [
+        213.0,
+        393
+      ],
+      [
+        201.0,
+        393
+      ],
+      [
+        230.0,
+        370
+      ],
+      [
+        240.0,
+        372
+      ],
+      [
+        236.0,
+        372
+      ],
+      [
+        238.0,
+        372
+      ]
+    ],
+    "originalScaleBox": [
+      70,
+      20,
+      186,
+      124
+    ],
+    "fixedGarmentRects": [
+      [
+        113,
+        119,
+        116,
+        122
+      ],
+      [
+        145,
+        119,
+        148,
+        122
+      ]
+    ]
+  },
+  "19": {
+    "role": "19_vet_female",
+    "bodyBoundary": [
+      [
+        0,
+        122
+      ],
+      [
+        114,
+        122
+      ],
+      [
+        120,
+        126
+      ],
+      [
+        137,
+        126
+      ],
+      [
+        145,
+        122
+      ],
+      [
+        255,
+        122
+      ]
+    ],
+    "neckRoot": [
+      119,
+      137,
+      127
+    ],
+    "targetNeckEnd": [
+      128,
+      128
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [
+      [
+        [
+          48,
+          121
+        ],
+        [
+          97,
+          121
+        ],
+        [
+          103,
+          124
+        ],
+        [
+          96,
+          128
+        ],
+        [
+          58,
+          129
+        ]
+      ],
+      [
+        [
+          153,
+          121
+        ],
+        [
+          206,
+          121
+        ],
+        [
+          203,
+          129
+        ],
+        [
+          158,
+          129
+        ]
+      ]
+    ],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        223.0,
+        407
+      ],
+      [
+        205.0,
+        407
+      ],
+      [
+        193.0,
+        404
+      ],
+      [
+        192.5,
+        405
+      ],
+      [
+        222.0,
+        393
+      ],
+      [
+        241.5,
+        389
+      ],
+      [
+        228.0,
+        385
+      ],
+      [
+        245.0,
+        385
+      ]
+    ],
+    "originalScaleBox": [
+      64,
+      20,
+      191,
+      130
+    ],
+    "fixedGarmentRects": [
+      [
+        110,
+        124,
+        113,
+        127
+      ],
+      [
+        143,
+        124,
+        146,
+        127
+      ]
+    ]
+  },
+  "20": {
+    "role": "20_student_female",
+    "bodyBoundary": [
+      [
+        0,
+        107
+      ],
+      [
+        119,
+        107
+      ],
+      [
+        137,
+        107
+      ],
+      [
+        255,
+        107
+      ]
+    ],
+    "neckRoot": [
+      119,
+      137,
+      107
+    ],
+    "targetNeckEnd": [
+      128,
+      112
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [
+      [
+        [
+          145,
+          102
+        ],
+        [
+          158,
+          101
+        ],
+        [
+          170,
+          109
+        ],
+        [
+          178,
+          113
+        ],
+        [
+          181,
+          116
+        ],
+        [
+          158,
+          116
+        ],
+        [
+          150,
+          112
+        ]
+      ]
+    ],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        229.0,
+        403
+      ],
+      [
+        226.5,
+        403
+      ],
+      [
+        218.0,
+        403
+      ],
+      [
+        211.0,
+        403
+      ],
+      [
+        229.0,
+        388
+      ],
+      [
+        227.0,
+        388
+      ],
+      [
+        224.0,
+        388
+      ],
+      [
+        232.0,
+        388
+      ]
+    ],
+    "originalScaleBox": [
+      75,
+      20,
+      180,
+      122
+    ],
+    "fixedGarmentRects": [
+      [
+        114,
+        107,
+        117,
+        110
+      ],
+      [
+        145,
+        107,
+        148,
+        110
+      ]
+    ]
+  },
+  "21": {
+    "role": "21_firefighter_male",
+    "bodyBoundary": [
+      [
+        0,
+        115
+      ],
+      [
+        111,
+        115
+      ],
+      [
+        119,
+        117
+      ],
+      [
+        137,
+        117
+      ],
+      [
+        145,
+        115
+      ],
+      [
+        255,
+        115
+      ]
+    ],
+    "neckRoot": [
+      115,
+      140,
+      116
+    ],
+    "targetNeckEnd": [
+      128,
+      122
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        211.5,
+        400
+      ],
+      [
+        215.0,
+        400
+      ],
+      [
+        218.0,
+        400
+      ],
+      [
+        233.0,
+        399
+      ],
+      [
+        211.5,
+        395
+      ],
+      [
+        223.5,
+        395
+      ],
+      [
+        222.5,
+        395
+      ],
+      [
+        211.0,
+        395
+      ]
+    ],
+    "originalScaleBox": [
+      78,
+      20,
+      176,
+      122
+    ],
+    "fixedGarmentRects": [
+      [
+        109,
+        116,
+        112,
+        119
+      ],
+      [
+        147,
+        116,
+        150,
+        119
+      ]
+    ]
+  },
+  "22": {
+    "role": "22_grocer_male",
+    "bodyBoundary": [
+      [
+        0,
+        120
+      ],
+      [
+        113,
+        120
+      ],
+      [
+        121,
+        127
+      ],
+      [
+        137,
+        127
+      ],
+      [
+        145,
+        120
+      ],
+      [
+        255,
+        120
+      ]
+    ],
+    "neckRoot": [
+      118,
+      139,
+      127
+    ],
+    "targetNeckEnd": [
+      128,
+      123
+    ],
+    "skinMinR": 100,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 60,
+    "sourceNeckAnchors": [
+      [
+        242.0,
+        395
+      ],
+      [
+        219.0,
+        395
+      ],
+      [
+        224.0,
+        395
+      ],
+      [
+        220.0,
+        395
+      ],
+      [
+        241.0,
+        373
+      ],
+      [
+        221.0,
+        373
+      ],
+      [
+        223.0,
+        372
+      ],
+      [
+        226.0,
+        372
+      ]
+    ],
+    "originalScaleBox": [
+      75,
+      20,
+      177,
+      123
+    ],
+    "fixedGarmentRects": [
+      [
+        113,
+        121,
+        116,
+        124
+      ],
+      [
+        145,
+        121,
+        148,
+        124
+      ]
+    ]
+  },
+  "23": {
+    "role": "23_farmer_male",
+    "bodyBoundary": [
+      [
+        0,
+        117
+      ],
+      [
+        98,
+        117
+      ],
+      [
+        106,
+        121
+      ],
+      [
+        116,
+        128
+      ],
+      [
+        120,
+        130
+      ],
+      [
+        136,
+        130
+      ],
+      [
+        145,
+        120
+      ],
+      [
+        160,
+        117
+      ],
+      [
+        255,
+        117
+      ]
+    ],
+    "neckRoot": [
+      117,
+      139,
+      134
+    ],
+    "targetNeckEnd": [
+      128,
+      131
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        223.0,
+        382
+      ],
+      [
+        216.0,
+        382
+      ],
+      [
+        214.0,
+        382
+      ],
+      [
+        219.0,
+        382
+      ],
+      [
+        222.0,
+        376
+      ],
+      [
+        225.0,
+        376
+      ],
+      [
+        224.0,
+        376
+      ],
+      [
+        227.0,
+        376
+      ]
+    ],
+    "originalScaleBox": [
+      55,
+      20,
+      199,
+      131
+    ],
+    "fixedGarmentRects": [
+      [
+        99,
+        119,
+        102,
+        122
+      ],
+      [
+        149,
+        119,
+        152,
+        122
+      ]
+    ]
+  },
+  "24": {
+    "role": "24_driver_male",
+    "bodyBoundary": [
+      [
+        0,
+        123
+      ],
+      [
+        114,
+        123
+      ],
+      [
+        121,
+        129
+      ],
+      [
+        137,
+        129
+      ],
+      [
+        145,
+        123
+      ],
+      [
+        255,
+        123
+      ]
+    ],
+    "neckRoot": [
+      118,
+      140,
+      128
+    ],
+    "targetNeckEnd": [
+      129,
+      129
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        220.0,
+        444
+      ],
+      [
+        219.0,
+        444
+      ],
+      [
+        219.0,
+        444
+      ],
+      [
+        226.0,
+        444
+      ],
+      [
+        220.0,
+        369
+      ],
+      [
+        218.0,
+        369
+      ],
+      [
+        216.0,
+        369
+      ],
+      [
+        213.0,
+        369
+      ]
+    ],
+    "originalScaleBox": [
+      76,
+      20,
+      180,
+      129
+    ],
+    "fixedGarmentRects": [
+      [
+        108,
+        124,
+        111,
+        127
+      ],
+      [
+        147,
+        124,
+        150,
+        127
+      ]
+    ]
+  },
+  "25": {
+    "role": "25_hairdresser_male",
+    "bodyBoundary": [
+      [
+        0,
+        120
+      ],
+      [
+        113,
+        120
+      ],
+      [
+        121,
+        128
+      ],
+      [
+        136,
+        128
+      ],
+      [
+        145,
+        120
+      ],
+      [
+        255,
+        120
+      ]
+    ],
+    "neckRoot": [
+      118,
+      138,
+      129
+    ],
+    "targetNeckEnd": [
+      128,
+      126
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        225.0,
+        413
+      ],
+      [
+        224.0,
+        410
+      ],
+      [
+        231.0,
+        410
+      ],
+      [
+        236.0,
+        408
+      ],
+      [
+        225.0,
+        400
+      ],
+      [
+        228.0,
+        397
+      ],
+      [
+        219.0,
+        397
+      ],
+      [
+        221.0,
+        396
+      ]
+    ],
+    "originalScaleBox": [
+      75,
+      20,
+      175,
+      126
+    ],
+    "fixedGarmentRects": [
+      [
+        110,
+        121,
+        113,
+        124
+      ],
+      [
+        145,
+        126,
+        148,
+        129
+      ]
+    ]
+  },
+  "26": {
+    "role": "26_baker_male",
+    "bodyBoundary": [
+      [
+        0,
+        114
+      ],
+      [
+        109,
+        114
+      ],
+      [
+        118,
+        123
+      ],
+      [
+        125,
+        127
+      ],
+      [
+        134,
+        123
+      ],
+      [
+        145,
+        114
+      ],
+      [
+        255,
+        114
+      ]
+    ],
+    "neckRoot": [
+      117,
+      138,
+      129
+    ],
+    "targetNeckEnd": [
+      128,
+      127
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        238.0,
+        427
+      ],
+      [
+        228.0,
+        426
+      ],
+      [
+        219.0,
+        426
+      ],
+      [
+        205.0,
+        426
+      ],
+      [
+        238.0,
+        344
+      ],
+      [
+        224.5,
+        343
+      ],
+      [
+        219.0,
+        343
+      ],
+      [
+        220.0,
+        343
+      ]
+    ],
+    "originalScaleBox": [
+      71,
+      20,
+      186,
+      127
+    ],
+    "fixedGarmentRects": [
+      [
+        104,
+        116,
+        107,
+        119
+      ],
+      [
+        148,
+        116,
+        151,
+        119
+      ]
+    ]
+  },
+  "27": {
+    "role": "27_librarian_male",
+    "bodyBoundary": [
+      [
+        0,
+        117
+      ],
+      [
+        111,
+        117
+      ],
+      [
+        119,
+        126
+      ],
+      [
+        136,
+        126
+      ],
+      [
+        144,
+        117
+      ],
+      [
+        255,
+        117
+      ]
+    ],
+    "neckRoot": [
+      117,
+      138,
+      127
+    ],
+    "targetNeckEnd": [
+      128,
+      128
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        225.0,
+        393
+      ],
+      [
+        210.0,
+        392
+      ],
+      [
+        198.0,
+        392
+      ],
+      [
+        190.0,
+        392
+      ],
+      [
+        226.0,
+        377
+      ],
+      [
+        221.0,
+        377
+      ],
+      [
+        224.0,
+        376
+      ],
+      [
+        217.0,
+        376
+      ]
+    ],
+    "originalScaleBox": [
+      75,
+      20,
+      181,
+      128
+    ],
+    "fixedGarmentRects": [
+      [
+        111,
+        120,
+        114,
+        123
+      ],
+      [
+        144,
+        120,
+        147,
+        123
+      ]
+    ]
+  },
+  "28": {
+    "role": "28_mechanic_male",
+    "bodyBoundary": [
+      [
+        0,
+        116
+      ],
+      [
+        108,
+        116
+      ],
+      [
+        116,
+        127
+      ],
+      [
+        139,
+        127
+      ],
+      [
+        149,
+        116
+      ],
+      [
+        255,
+        116
+      ]
+    ],
+    "neckRoot": [
+      113,
+      142,
+      128
+    ],
+    "targetNeckEnd": [
+      128,
+      126
+    ],
+    "skinMinR": 100,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 60,
+    "sourceNeckAnchors": [
+      [
+        227.0,
+        400
+      ],
+      [
+        214.0,
+        400
+      ],
+      [
+        221.0,
+        400
+      ],
+      [
+        226.0,
+        400
+      ],
+      [
+        227.0,
+        369
+      ],
+      [
+        232.0,
+        362
+      ],
+      [
+        216.0,
+        362
+      ],
+      [
+        221.0,
+        362
+      ]
+    ],
+    "originalScaleBox": [
+      74,
+      20,
+      181,
+      126
+    ],
+    "fixedGarmentRects": [
+      [
+        105,
+        120,
+        108,
+        123
+      ],
+      [
+        146,
+        120,
+        149,
+        123
+      ]
+    ]
+  },
+  "29": {
+    "role": "29_innkeeper_male",
+    "bodyBoundary": [
+      [
+        0,
+        110
+      ],
+      [
+        83,
+        114
+      ],
+      [
+        99,
+        122
+      ],
+      [
+        118,
+        127
+      ],
+      [
+        137,
+        127
+      ],
+      [
+        157,
+        121
+      ],
+      [
+        175,
+        111
+      ],
+      [
+        255,
+        110
+      ]
+    ],
+    "neckRoot": [
+      119,
+      137,
+      126
+    ],
+    "targetNeckEnd": [
+      128,
+      127
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        233.0,
+        395
+      ],
+      [
+        217.0,
+        395
+      ],
+      [
+        206.0,
+        395
+      ],
+      [
+        202.0,
+        395
+      ],
+      [
+        234.0,
+        358
+      ],
+      [
+        232.0,
+        358
+      ],
+      [
+        232.0,
+        358
+      ],
+      [
+        246.0,
+        358
+      ]
+    ],
+    "originalScaleBox": [
+      57,
+      20,
+      198,
+      127
+    ],
+    "fixedGarmentRects": [
+      [
+        95,
+        123,
+        98,
+        126
+      ],
+      [
+        158,
+        120,
+        161,
+        123
+      ]
+    ]
+  },
+  "30": {
+    "role": "30_florist_male",
+    "bodyBoundary": [
+      [
+        0,
+        119
+      ],
+      [
+        110,
+        119
+      ],
+      [
+        120,
+        124
+      ],
+      [
+        137,
+        124
+      ],
+      [
+        147,
+        119
+      ],
+      [
+        255,
+        119
+      ]
+    ],
+    "neckRoot": [
+      119,
+      139,
+      124
+    ],
+    "targetNeckEnd": [
+      129,
+      127
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [
+      [
+        [
+          54,
+          119
+        ],
+        [
+          104,
+          118
+        ],
+        [
+          104,
+          128
+        ],
+        [
+          92,
+          137
+        ],
+        [
+          77,
+          139
+        ],
+        [
+          65,
+          132
+        ]
+      ],
+      [
+        [
+          150,
+          118
+        ],
+        [
+          205,
+          119
+        ],
+        [
+          201,
+          132
+        ],
+        [
+          184,
+          139
+        ],
+        [
+          163,
+          133
+        ],
+        [
+          151,
+          127
+        ]
+      ]
+    ],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        240.0,
+        389
+      ],
+      [
+        239.0,
+        388
+      ],
+      [
+        296.0,
+        386
+      ],
+      [
+        305.0,
+        384
+      ],
+      [
+        233.0,
+        380
+      ],
+      [
+        221.0,
+        378
+      ],
+      [
+        141.0,
+        377
+      ],
+      [
+        130.0,
+        377
+      ]
+    ],
+    "originalScaleBox": [
+      68,
+      20,
+      187,
+      135
+    ],
+    "fixedGarmentRects": [
+      [
+        111,
+        121,
+        114,
+        124
+      ],
+      [
+        146,
+        121,
+        149,
+        124
+      ]
+    ]
+  },
+  "31": {
+    "role": "31_firefighter_female",
+    "bodyBoundary": [
+      [
+        0,
+        115
+      ],
+      [
+        112,
+        115
+      ],
+      [
+        119,
+        117
+      ],
+      [
+        136,
+        117
+      ],
+      [
+        144,
+        115
+      ],
+      [
+        255,
+        115
+      ]
+    ],
+    "neckRoot": [
+      115,
+      140,
+      116
+    ],
+    "targetNeckEnd": [
+      128,
+      122
+    ],
+    "skinMinR": 100,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 60,
+    "sourceNeckAnchors": [
+      [
+        267.0,
+        410
+      ],
+      [
+        245.0,
+        410
+      ],
+      [
+        224.0,
+        410
+      ],
+      [
+        177.0,
+        410
+      ],
+      [
+        266.5,
+        352
+      ],
+      [
+        232.0,
+        352
+      ],
+      [
+        202.0,
+        352
+      ],
+      [
+        184.0,
+        352
+      ]
+    ],
+    "originalScaleBox": [
+      72,
+      20,
+      181,
+      122
+    ],
+    "fixedGarmentRects": [
+      [
+        109,
+        116,
+        112,
+        119
+      ],
+      [
+        147,
+        116,
+        150,
+        119
+      ]
+    ]
+  },
+  "32": {
+    "role": "32_grocer_female",
+    "bodyBoundary": [
+      [
+        0,
+        121
+      ],
+      [
+        114,
+        121
+      ],
+      [
+        120,
+        126
+      ],
+      [
+        136,
+        126
+      ],
+      [
+        143,
+        121
+      ],
+      [
+        255,
+        121
+      ]
+    ],
+    "neckRoot": [
+      118,
+      138,
+      126
+    ],
+    "targetNeckEnd": [
+      128,
+      125
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        235.0,
+        373
+      ],
+      [
+        233.0,
+        373
+      ],
+      [
+        230.0,
+        372
+      ],
+      [
+        219.0,
+        372
+      ],
+      [
+        236.0,
+        360
+      ],
+      [
+        228.0,
+        359
+      ],
+      [
+        232.0,
+        359
+      ],
+      [
+        229.0,
+        359
+      ]
+    ],
+    "originalScaleBox": [
+      54,
+      20,
+      201,
+      125
+    ],
+    "fixedGarmentRects": [
+      [
+        111,
+        122,
+        114,
+        125
+      ],
+      [
+        142,
+        122,
+        145,
+        125
+      ]
+    ]
+  },
+  "33": {
+    "role": "33_farmer_female",
+    "bodyBoundary": [
+      [
+        0,
+        128
+      ],
+      [
+        117,
+        128
+      ],
+      [
+        138,
+        128
+      ],
+      [
+        255,
+        128
+      ]
+    ],
+    "neckRoot": [
+      118,
+      138,
+      127
+    ],
+    "targetNeckEnd": [
+      128,
+      130
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [
+      [
+        [
+          99,
+          121
+        ],
+        [
+          118,
+          121
+        ],
+        [
+          118,
+          155
+        ],
+        [
+          113,
+          175
+        ],
+        [
+          101,
+          180
+        ],
+        [
+          99,
+          155
+        ]
+      ],
+      [
+        [
+          137,
+          121
+        ],
+        [
+          160,
+          121
+        ],
+        [
+          163,
+          154
+        ],
+        [
+          158,
+          179
+        ],
+        [
+          140,
+          178
+        ],
+        [
+          137,
+          156
+        ]
+      ]
+    ],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        252.0,
+        358
+      ],
+      [
+        228.0,
+        358
+      ],
+      [
+        212.0,
+        366
+      ],
+      [
+        195.0,
+        373
+      ],
+      [
+        251.0,
+        317
+      ],
+      [
+        205.0,
+        343
+      ],
+      [
+        205.0,
+        340
+      ],
+      [
+        169.0,
+        335
+      ]
+    ],
+    "originalScaleBox": [
+      48,
+      20,
+      208,
+      143
+    ],
+    "fixedGarmentRects": [
+      [
+        120,
+        127,
+        123,
+        130
+      ],
+      [
+        134,
+        127,
+        137,
+        130
+      ]
+    ]
+  },
+  "34": {
+    "role": "34_driver_female",
+    "bodyBoundary": [
+      [
+        0,
+        124
+      ],
+      [
+        114,
+        124
+      ],
+      [
+        121,
+        128
+      ],
+      [
+        136,
+        128
+      ],
+      [
+        144,
+        124
+      ],
+      [
+        255,
+        124
+      ]
+    ],
+    "neckRoot": [
+      119,
+      137,
+      128
+    ],
+    "targetNeckEnd": [
+      128,
+      129
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        239.0,
+        395
+      ],
+      [
+        226.0,
+        395
+      ],
+      [
+        220.0,
+        394
+      ],
+      [
+        213.0,
+        394
+      ],
+      [
+        239.0,
+        348
+      ],
+      [
+        231.0,
+        348
+      ],
+      [
+        230.0,
+        346
+      ],
+      [
+        228.0,
+        346
+      ]
+    ],
+    "originalScaleBox": [
+      72,
+      20,
+      183,
+      129
+    ],
+    "fixedGarmentRects": [
+      [
+        111,
+        125,
+        114,
+        128
+      ],
+      [
+        145,
+        125,
+        148,
+        128
+      ]
+    ]
+  },
+  "35": {
+    "role": "35_hairdresser_female",
+    "bodyBoundary": [
+      [
+        0,
+        122
+      ],
+      [
+        112,
+        122
+      ],
+      [
+        120,
+        131
+      ],
+      [
+        137,
+        131
+      ],
+      [
+        146,
+        122
+      ],
+      [
+        255,
+        122
+      ]
+    ],
+    "neckRoot": [
+      118,
+      138,
+      132
+    ],
+    "targetNeckEnd": [
+      128,
+      134
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        253.0,
+        400
+      ],
+      [
+        233.0,
+        400
+      ],
+      [
+        217.0,
+        400
+      ],
+      [
+        199.0,
+        400
+      ],
+      [
+        253.0,
+        340
+      ],
+      [
+        226.0,
+        341
+      ],
+      [
+        204.0,
+        341
+      ],
+      [
+        194.0,
+        341
+      ]
+    ],
+    "originalScaleBox": [
+      60,
+      20,
+      196,
+      130
+    ],
+    "fixedGarmentRects": [
+      [
+        109,
+        127,
+        112,
+        130
+      ],
+      [
+        145,
+        127,
+        148,
+        130
+      ]
+    ]
+  },
+  "36": {
+    "role": "36_barista_female",
+    "bodyBoundary": [
+      [
+        0,
+        125
+      ],
+      [
+        113,
+        125
+      ],
+      [
+        121,
+        132
+      ],
+      [
+        138,
+        132
+      ],
+      [
+        146,
+        125
+      ],
+      [
+        255,
+        125
+      ]
+    ],
+    "neckRoot": [
+      119,
+      140,
+      134
+    ],
+    "targetNeckEnd": [
+      130,
+      134
+    ],
+    "skinMinR": 100,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [
+      [
+        [
+          47,
+          124
+        ],
+        [
+          109,
+          117
+        ],
+        [
+          113,
+          123
+        ],
+        [
+          101,
+          134
+        ],
+        [
+          93,
+          141
+        ],
+        [
+          77,
+          145
+        ],
+        [
+          63,
+          141
+        ],
+        [
+          50,
+          136
+        ]
+      ],
+      [
+        [
+          159,
+          118
+        ],
+        [
+          210,
+          116
+        ],
+        [
+          215,
+          123
+        ],
+        [
+          208,
+          132
+        ],
+        [
+          176,
+          131
+        ]
+      ]
+    ],
+    "skinMinG": 60,
+    "sourceNeckAnchors": [
+      [
+        264.5,
+        386
+      ],
+      [
+        272.0,
+        386
+      ],
+      [
+        276.5,
+        387
+      ],
+      [
+        276.5,
+        387
+      ],
+      [
+        264.0,
+        349
+      ],
+      [
+        176.0,
+        349
+      ],
+      [
+        168.0,
+        347
+      ],
+      [
+        167.0,
+        349
+      ]
+    ],
+    "originalScaleBox": [
+      55,
+      20,
+      194,
+      144
+    ],
+    "fixedGarmentRects": [
+      [
+        110,
+        126,
+        113,
+        129
+      ],
+      [
+        147,
+        126,
+        150,
+        129
+      ]
+    ]
+  },
+  "37": {
+    "role": "37_carpenter_female",
+    "bodyBoundary": [
+      [
+        0,
+        119
+      ],
+      [
+        115,
+        119
+      ],
+      [
+        119,
+        126
+      ],
+      [
+        136,
+        126
+      ],
+      [
+        140,
+        119
+      ],
+      [
+        255,
+        119
+      ]
+    ],
+    "neckRoot": [
+      117,
+      137,
+      127
+    ],
+    "targetNeckEnd": [
+      127,
+      126
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        231.0,
+        404
+      ],
+      [
+        227.0,
+        404
+      ],
+      [
+        220.0,
+        404
+      ],
+      [
+        217.0,
+        404
+      ],
+      [
+        231.0,
+        366
+      ],
+      [
+        229.0,
+        366
+      ],
+      [
+        234.0,
+        366
+      ],
+      [
+        230.0,
+        366
+      ]
+    ],
+    "originalScaleBox": [
+      64,
+      20,
+      192,
+      126
+    ],
+    "fixedGarmentRects": [
+      [
+        111,
+        121,
+        114,
+        124
+      ],
+      [
+        143,
+        122,
+        146,
+        125
+      ]
+    ]
+  },
+  "38": {
+    "role": "38_postal_female",
+    "bodyBoundary": [
+      [
+        0,
+        120
+      ],
+      [
+        116,
+        120
+      ],
+      [
+        122,
+        123
+      ],
+      [
+        135,
+        123
+      ],
+      [
+        142,
+        120
+      ],
+      [
+        255,
+        120
+      ]
+    ],
+    "neckRoot": [
+      118,
+      138,
+      123
+    ],
+    "targetNeckEnd": [
+      128,
+      125
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        238.0,
+        400
+      ],
+      [
+        222.0,
+        400
+      ],
+      [
+        210.0,
+        400
+      ],
+      [
+        203.0,
+        400
+      ],
+      [
+        238.0,
+        395
+      ],
+      [
+        240.0,
+        395
+      ],
+      [
+        241.0,
+        395
+      ],
+      [
+        233.0,
+        390
+      ]
+    ],
+    "originalScaleBox": [
+      52,
+      20,
+      203,
+      125
+    ],
+    "fixedGarmentRects": [
+      [
+        112,
+        121,
+        115,
+        124
+      ],
+      [
+        143,
+        121,
+        146,
+        124
+      ]
+    ]
+  },
+  "39": {
+    "role": "39_police_female",
+    "bodyBoundary": [
+      [
+        0,
+        119
+      ],
+      [
+        112,
+        119
+      ],
+      [
+        121,
+        126
+      ],
+      [
+        136,
+        126
+      ],
+      [
+        146,
+        119
+      ],
+      [
+        255,
+        119
+      ]
+    ],
+    "neckRoot": [
+      118,
+      138,
+      127
+    ],
+    "targetNeckEnd": [
+      128,
+      124
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [
+      [
+        [
+          80,
+          117
+        ],
+        [
+          113,
+          117
+        ],
+        [
+          112,
+          149
+        ],
+        [
+          108,
+          160
+        ],
+        [
+          96,
+          166
+        ],
+        [
+          82,
+          160
+        ],
+        [
+          79,
+          146
+        ]
+      ]
+    ],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        259.0,
+        401
+      ],
+      [
+        234.5,
+        401
+      ],
+      [
+        212.0,
+        401
+      ],
+      [
+        195.0,
+        398
+      ],
+      [
+        259.0,
+        362
+      ],
+      [
+        236.0,
+        362
+      ],
+      [
+        203.0,
+        356
+      ],
+      [
+        196.0,
+        356
+      ]
+    ],
+    "originalScaleBox": [
+      72,
+      20,
+      182,
+      126
+    ],
+    "fixedGarmentRects": [
+      [
+        116,
+        125,
+        119,
+        128
+      ],
+      [
+        147,
+        122,
+        150,
+        125
+      ]
+    ]
+  },
+  "40": {
+    "role": "40_doctor_female",
+    "bodyBoundary": [
+      [
+        0,
+        128
+      ],
+      [
+        115,
+        128
+      ],
+      [
+        121,
+        135
+      ],
+      [
+        137,
+        135
+      ],
+      [
+        144,
+        128
+      ],
+      [
+        255,
+        128
+      ]
+    ],
+    "neckRoot": [
+      118,
+      138,
+      136
+    ],
+    "targetNeckEnd": [
+      128,
+      135
+    ],
+    "skinMinR": 135,
+    "review": "original collar and shoulders manually located; inspect final seam crops",
+    "originalHairPolygons": [],
+    "skinMinG": 100,
+    "sourceNeckAnchors": [
+      [
+        234.0,
+        394
+      ],
+      [
+        225.0,
+        394
+      ],
+      [
+        212.0,
+        394
+      ],
+      [
+        203.0,
+        394
+      ],
+      [
+        234.0,
+        388
+      ],
+      [
+        233.0,
+        383
+      ],
+      [
+        231.5,
+        383
+      ],
+      [
+        236.0,
+        382
+      ]
+    ],
+    "originalScaleBox": [
+      61,
+      20,
+      195,
+      135
+    ],
+    "fixedGarmentRects": [
+      [
+        113,
+        130,
+        116,
+        133
+      ],
+      [
+        146,
+        130,
+        149,
+        133
+      ]
+    ]
+  }
+}

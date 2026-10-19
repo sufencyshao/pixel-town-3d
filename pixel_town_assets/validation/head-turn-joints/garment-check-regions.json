@@ -1,0 +1,642 @@
+{
+  "01_hero_male": {
+    "fixedGarmentRects": [
+      [
+        105,
+        109,
+        108,
+        112
+      ],
+      [
+        150,
+        109,
+        153,
+        112
+      ]
+    ]
+  },
+  "02_hero_female": {
+    "fixedGarmentRects": [
+      [
+        104,
+        115,
+        107,
+        118
+      ],
+      [
+        149,
+        115,
+        152,
+        118
+      ]
+    ]
+  },
+  "03_barista_male": {
+    "fixedGarmentRects": [
+      [
+        107,
+        116,
+        110,
+        119
+      ],
+      [
+        144,
+        116,
+        147,
+        119
+      ]
+    ]
+  },
+  "04_baker_male": {
+    "fixedGarmentRects": [
+      [
+        109,
+        138,
+        112,
+        141
+      ],
+      [
+        144,
+        138,
+        147,
+        141
+      ]
+    ]
+  },
+  "05_carpenter_male": {
+    "fixedGarmentRects": [
+      [
+        103,
+        104,
+        106,
+        107
+      ],
+      [
+        148,
+        104,
+        151,
+        107
+      ]
+    ]
+  },
+  "06_postman_male": {
+    "fixedGarmentRects": [
+      [
+        107,
+        121,
+        110,
+        124
+      ],
+      [
+        146,
+        121,
+        149,
+        124
+      ]
+    ]
+  },
+  "07_police_male": {
+    "fixedGarmentRects": [
+      [
+        101,
+        115,
+        104,
+        118
+      ],
+      [
+        151,
+        115,
+        154,
+        118
+      ]
+    ]
+  },
+  "08_doctor_male": {
+    "fixedGarmentRects": [
+      [
+        107,
+        122,
+        110,
+        125
+      ],
+      [
+        145,
+        122,
+        148,
+        125
+      ]
+    ]
+  },
+  "09_gardener_male": {
+    "fixedGarmentRects": [
+      [
+        107,
+        119,
+        110,
+        122
+      ],
+      [
+        144,
+        119,
+        147,
+        122
+      ]
+    ]
+  },
+  "10_musician_male": {
+    "fixedGarmentRects": [
+      [
+        108,
+        120,
+        111,
+        123
+      ],
+      [
+        147,
+        120,
+        150,
+        123
+      ]
+    ]
+  },
+  "11_chef_male": {
+    "fixedGarmentRects": [
+      [
+        107,
+        139,
+        110,
+        142
+      ],
+      [
+        143,
+        139,
+        146,
+        142
+      ]
+    ]
+  },
+  "12_florist_female": {
+    "fixedGarmentRects": [
+      [
+        115,
+        106,
+        118,
+        109
+      ],
+      [
+        145,
+        108,
+        148,
+        111
+      ]
+    ]
+  },
+  "13_pastrychef_female": {
+    "fixedGarmentRects": [
+      [
+        109,
+        141,
+        112,
+        144
+      ],
+      [
+        142,
+        141,
+        145,
+        144
+      ]
+    ]
+  },
+  "14_teacher_female": {
+    "fixedGarmentRects": [
+      [
+        113,
+        119,
+        116,
+        122
+      ],
+      [
+        144,
+        119,
+        147,
+        122
+      ]
+    ]
+  },
+  "15_nurse_female": {
+    "fixedGarmentRects": [
+      [
+        108,
+        138,
+        111,
+        141
+      ],
+      [
+        145,
+        138,
+        148,
+        141
+      ]
+    ]
+  },
+  "16_librarian_female": {
+    "fixedGarmentRects": [
+      [
+        113,
+        105,
+        116,
+        108
+      ],
+      [
+        141,
+        105,
+        144,
+        108
+      ]
+    ]
+  },
+  "17_cafeowner_female": {
+    "fixedGarmentRects": [
+      [
+        113,
+        107,
+        116,
+        110
+      ],
+      [
+        146,
+        106,
+        149,
+        109
+      ]
+    ]
+  },
+  "18_artist_female": {
+    "fixedGarmentRects": [
+      [
+        113,
+        119,
+        116,
+        122
+      ],
+      [
+        145,
+        119,
+        148,
+        122
+      ]
+    ]
+  },
+  "19_vet_female": {
+    "fixedGarmentRects": [
+      [
+        110,
+        124,
+        113,
+        127
+      ],
+      [
+        143,
+        124,
+        146,
+        127
+      ]
+    ]
+  },
+  "20_student_female": {
+    "fixedGarmentRects": [
+      [
+        114,
+        107,
+        117,
+        110
+      ],
+      [
+        145,
+        107,
+        148,
+        110
+      ]
+    ]
+  },
+  "21_firefighter_male": {
+    "fixedGarmentRects": [
+      [
+        109,
+        116,
+        112,
+        119
+      ],
+      [
+        147,
+        116,
+        150,
+        119
+      ]
+    ]
+  },
+  "22_grocer_male": {
+    "fixedGarmentRects": [
+      [
+        113,
+        121,
+        116,
+        124
+      ],
+      [
+        145,
+        121,
+        148,
+        124
+      ]
+    ]
+  },
+  "23_farmer_male": {
+    "fixedGarmentRects": [
+      [
+        99,
+        119,
+        102,
+        122
+      ],
+      [
+        149,
+        119,
+        152,
+        122
+      ]
+    ]
+  },
+  "24_driver_male": {
+    "fixedGarmentRects": [
+      [
+        108,
+        124,
+        111,
+        127
+      ],
+      [
+        147,
+        124,
+        150,
+        127
+      ]
+    ]
+  },
+  "25_hairdresser_male": {
+    "fixedGarmentRects": [
+      [
+        110,
+        121,
+        113,
+        124
+      ],
+      [
+        145,
+        126,
+        148,
+        129
+      ]
+    ]
+  },
+  "26_baker_male": {
+    "fixedGarmentRects": [
+      [
+        104,
+        116,
+        107,
+        119
+      ],
+      [
+        148,
+        116,
+        151,
+        119
+      ]
+    ]
+  },
+  "27_librarian_male": {
+    "fixedGarmentRects": [
+      [
+        111,
+        120,
+        114,
+        123
+      ],
+      [
+        144,
+        120,
+        147,
+        123
+      ]
+    ]
+  },
+  "28_mechanic_male": {
+    "fixedGarmentRects": [
+      [
+        105,
+        120,
+        108,
+        123
+      ],
+      [
+        146,
+        120,
+        149,
+        123
+      ]
+    ]
+  },
+  "29_innkeeper_male": {
+    "fixedGarmentRects": [
+      [
+        95,
+        123,
+        98,
+        126
+      ],
+      [
+        158,
+        120,
+        161,
+        123
+      ]
+    ]
+  },
+  "30_florist_male": {
+    "fixedGarmentRects": [
+      [
+        111,
+        121,
+        114,
+        124
+      ],
+      [
+        146,
+        121,
+        149,
+        124
+      ]
+    ]
+  },
+  "31_firefighter_female": {
+    "fixedGarmentRects": [
+      [
+        109,
+        116,
+        112,
+        119
+      ],
+      [
+        147,
+        116,
+        150,
+        119
+      ]
+    ]
+  },
+  "32_grocer_female": {
+    "fixedGarmentRects": [
+      [
+        111,
+        122,
+        114,
+        125
+      ],
+      [
+        142,
+        122,
+        145,
+        125
+      ]
+    ]
+  },
+  "33_farmer_female": {
+    "fixedGarmentRects": [
+      [
+        120,
+        127,
+        123,
+        130
+      ],
+      [
+        134,
+        127,
+        137,
+        130
+      ]
+    ]
+  },
+  "34_driver_female": {
+    "fixedGarmentRects": [
+      [
+        111,
+        125,
+        114,
+        128
+      ],
+      [
+        145,
+        125,
+        148,
+        128
+      ]
+    ]
+  },
+  "35_hairdresser_female": {
+    "fixedGarmentRects": [
+      [
+        109,
+        127,
+        112,
+        130
+      ],
+      [
+        145,
+        127,
+        148,
+        130
+      ]
+    ]
+  },
+  "36_barista_female": {
+    "fixedGarmentRects": [
+      [
+        110,
+        126,
+        113,
+        129
+      ],
+      [
+        147,
+        126,
+        150,
+        129
+      ]
+    ]
+  },
+  "37_carpenter_female": {
+    "fixedGarmentRects": [
+      [
+        111,
+        121,
+        114,
+        124
+      ],
+      [
+        143,
+        122,
+        146,
+        125
+      ]
+    ]
+  },
+  "38_postal_female": {
+    "fixedGarmentRects": [
+      [
+        112,
+        121,
+        115,
+        124
+      ],
+      [
+        143,
+        121,
+        146,
+        124
+      ]
+    ]
+  },
+  "39_police_female": {
+    "fixedGarmentRects": [
+      [
+        116,
+        125,
+        119,
+        128
+      ],
+      [
+        147,
+        122,
+        150,
+        125
+      ]
+    ]
+  },
+  "40_doctor_female": {
+    "fixedGarmentRects": [
+      [
+        113,
+        130,
+        116,
+        133
+      ],
+      [
+        146,
+        130,
+        149,
+        133
+      ]
+    ]
+  }
+}

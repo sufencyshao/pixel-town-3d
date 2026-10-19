@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-04",
+  "reused": 32,
+  "generated": 13,
+  "entries": [
+    {
+      "id": "25_hairdresser_male",
+      "name": "银梳",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/25_hairdresser_male/frame_01.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/25_hairdresser_male.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "26_baker_male",
+      "name": "陶麦",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/26_baker_male/frame_01.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/26_baker_male.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "27_librarian_male",
+      "name": "书衡",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/27_librarian_male/frame_01.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/27_librarian_male.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "28_mechanic_male",
+      "name": "罗栓",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/28_mechanic_male/frame_01.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/28_mechanic_male.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "29_innkeeper_male",
+      "name": "顾栈",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/29_innkeeper_male/frame_01.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/29_innkeeper_male.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "30_florist_male",
+      "name": "林苔",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/30_florist_male/frame_01.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/30_florist_male.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "31_firefighter_female",
+      "name": "岑灯",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/31_firefighter_female/frame_01.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/31_firefighter_female.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "32_grocer_female",
+      "name": "陆杏",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/32_grocer_female/frame_01.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/32_grocer_female.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "hai-qin-yan",
+      "name": "海琴烟",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/hai-qin-yan/portrait.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/hai-qin-yan.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "kanna",
+      "name": "康娜",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/kanna/portrait.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/kanna.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "rui",
+      "name": "锐",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/rui/portrait.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/rui.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "xin",
+      "name": "歆",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/xin/portrait.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/xin.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    },
+    {
+      "id": "xin-fragrance",
+      "name": "馨",
+      "tool": "image_gen.imagegen",
+      "reference": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/codexmini/xin-fragrance/portrait.png",
+      "result": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/production/side-lying-20261004/generated/xin-fragrance.png",
+      "promptSummary": "identity-preserving new side-lying pose, lower forearm supports head on cream pillow, upper bent arm at chest, naturally connected short neck/shoulder, bent stacked knees, closed eyes; preserve reference hair/outfit/colors/accessories/shoes and fantasy traits, no held items; hard-edge pixel art, actual transparent RGBA background"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "bytes": 1839752,
+  "stats": {
+    "meshes": 790,
+    "triangles": 27670
+  },
+  "reimport": {
+    "meshes": 790,
+    "bounds": [
+      22.700000762939453,
+      6.252417150659026,
+      12.039795149574644
+    ],
+    "root": "H01_Creekside_Cafe"
+  }
+}

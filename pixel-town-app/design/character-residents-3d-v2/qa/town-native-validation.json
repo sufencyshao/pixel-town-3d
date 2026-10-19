@@ -1,0 +1,9 @@
+{
+  "residentCount": 45,
+  "residentActions": 1350,
+  "rigs": 65,
+  "bones": 3482,
+  "file": "town/Town-with-residents.blend",
+  "passed": true,
+  "scope": "Editable initial placement and animation library; simulation is provided byHTML, not embedded inBlender."
+}

@@ -1,0 +1,50 @@
+{
+  "views": [
+    {
+      "mode": "overview",
+      "meshCount": 2547,
+      "roof": true,
+      "toolFront": true
+    },
+    {
+      "mode": "plan",
+      "meshCount": 2547,
+      "roof": false,
+      "toolFront": true
+    },
+    {
+      "mode": "greenhouse",
+      "meshCount": 2547,
+      "roof": false,
+      "toolFront": true
+    },
+    {
+      "mode": "tool",
+      "meshCount": 2547,
+      "roof": false,
+      "toolFront": false
+    },
+    {
+      "mode": "fields",
+      "meshCount": 2547,
+      "roof": true,
+      "toolFront": true
+    },
+    {
+      "mode": "orchard",
+      "meshCount": 2547,
+      "roof": true,
+      "toolFront": true
+    }
+  ],
+  "errors": [],
+  "glbDownload": "G-garden-greenhouse.glb",
+  "capture": "G-overview.png",
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "canvasWidth": 390
+  },
+  "fileOfflineLoaded": true,
+  "heroMeshCount": 1421
+}

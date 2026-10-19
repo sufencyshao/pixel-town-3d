@@ -1,0 +1,495 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "male native bone names",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male no active animation",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male body topology preserved",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male UV kept",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male Body all weighted",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male Body skin rig",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male Eyes all weighted",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male Eyes skin rig",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male Eyebrows all weighted",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male Eyebrows skin rig",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male seed full skin single material",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male images self-contained",
+      "pass": true,
+      "details": [
+        "T_Eye_Brown",
+        "T_Eye_Normal.png"
+      ]
+    },
+    {
+      "check": "male l shoulder T horizontal",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male l elbow connected distance",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male l knee connected distance",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male l knee forward of ankle",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male r shoulder T horizontal",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male r elbow connected distance",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male r knee connected distance",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male r knee forward of ankle",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male GLB roundtrip65 bones",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male GLB roundtrip names",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male GLB roundtrip3 meshes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "male frozen bytes unchanged",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female native bone names",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female no active animation",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female body topology preserved",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female UV kept",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female Body all weighted",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female Body skin rig",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female Eyes all weighted",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female Eyes skin rig",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female Eyebrows all weighted",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female Eyebrows skin rig",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female seed full skin single material",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female images self-contained",
+      "pass": true,
+      "details": [
+        "T_Eye_Brown",
+        "T_Eye_Normal.png"
+      ]
+    },
+    {
+      "check": "female l shoulder T horizontal",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female l elbow connected distance",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female l knee connected distance",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female l knee forward of ankle",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female r shoulder T horizontal",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female r elbow connected distance",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female r knee connected distance",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female r knee forward of ankle",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female GLB roundtrip65 bones",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female GLB roundtrip names",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female GLB roundtrip3 meshes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "female frozen bytes unchanged",
+      "pass": true,
+      "details": null
+    }
+  ],
+  "count": 48,
+  "restOrientationDifferencesMaleVsFemale": [
+    {
+      "bone": "thumb_01_l",
+      "orientationDifferenceDegrees": 12.517610852254206
+    },
+    {
+      "bone": "thumb_01_r",
+      "orientationDifferenceDegrees": 12.517610852254206
+    },
+    {
+      "bone": "thumb_02_l",
+      "orientationDifferenceDegrees": 12.51554386625663
+    },
+    {
+      "bone": "thumb_02_r",
+      "orientationDifferenceDegrees": 12.51554386625663
+    },
+    {
+      "bone": "thumb_03_l",
+      "orientationDifferenceDegrees": 12.492211940051867
+    },
+    {
+      "bone": "thumb_03_r",
+      "orientationDifferenceDegrees": 12.492211940051867
+    },
+    {
+      "bone": "neck_01",
+      "orientationDifferenceDegrees": 7.818720741041404
+    },
+    {
+      "bone": "foot_l",
+      "orientationDifferenceDegrees": 4.621088707037656
+    },
+    {
+      "bone": "foot_r",
+      "orientationDifferenceDegrees": 4.621088707037656
+    },
+    {
+      "bone": "ring_04_leaf_l",
+      "orientationDifferenceDegrees": 3.190645604256471
+    },
+    {
+      "bone": "ring_04_leaf_r",
+      "orientationDifferenceDegrees": 3.190645604256471
+    },
+    {
+      "bone": "index_04_leaf_l",
+      "orientationDifferenceDegrees": 3.168735424616128
+    },
+    {
+      "bone": "index_04_leaf_r",
+      "orientationDifferenceDegrees": 3.168735424616128
+    },
+    {
+      "bone": "middle_04_leaf_l",
+      "orientationDifferenceDegrees": 3.1630486518018572
+    },
+    {
+      "bone": "middle_04_leaf_r",
+      "orientationDifferenceDegrees": 3.1630486518018572
+    },
+    {
+      "bone": "pinky_04_leaf_l",
+      "orientationDifferenceDegrees": 3.092219803552237
+    },
+    {
+      "bone": "pinky_04_leaf_r",
+      "orientationDifferenceDegrees": 3.092219803552237
+    },
+    {
+      "bone": "clavicle_l",
+      "orientationDifferenceDegrees": 3.0772482423349805
+    },
+    {
+      "bone": "clavicle_r",
+      "orientationDifferenceDegrees": 3.0772482423349805
+    },
+    {
+      "bone": "thigh_l",
+      "orientationDifferenceDegrees": 2.7400443643323897
+    },
+    {
+      "bone": "thigh_r",
+      "orientationDifferenceDegrees": 2.7400443643323897
+    },
+    {
+      "bone": "pelvis",
+      "orientationDifferenceDegrees": 2.376888969134924
+    },
+    {
+      "bone": "pinky_02_l",
+      "orientationDifferenceDegrees": 2.3483974753424506
+    },
+    {
+      "bone": "pinky_02_r",
+      "orientationDifferenceDegrees": 2.3483974753424506
+    },
+    {
+      "bone": "middle_01_l",
+      "orientationDifferenceDegrees": 2.343058401845616
+    },
+    {
+      "bone": "middle_01_r",
+      "orientationDifferenceDegrees": 2.343058401845616
+    },
+    {
+      "bone": "middle_03_l",
+      "orientationDifferenceDegrees": 2.34272436290652
+    },
+    {
+      "bone": "pinky_01_l",
+      "orientationDifferenceDegrees": 2.34272436290652
+    },
+    {
+      "bone": "middle_03_r",
+      "orientationDifferenceDegrees": 2.34272436290652
+    },
+    {
+      "bone": "pinky_01_r",
+      "orientationDifferenceDegrees": 2.34272436290652
+    },
+    {
+      "bone": "index_02_l",
+      "orientationDifferenceDegrees": 2.337707375517734
+    },
+    {
+      "bone": "index_02_r",
+      "orientationDifferenceDegrees": 2.337707375517734
+    },
+    {
+      "bone": "index_03_l",
+      "orientationDifferenceDegrees": 2.3356973789110462
+    },
+    {
+      "bone": "index_03_r",
+      "orientationDifferenceDegrees": 2.3356973789110462
+    },
+    {
+      "bone": "ring_03_l",
+      "orientationDifferenceDegrees": 2.327640743898193
+    },
+    {
+      "bone": "ring_03_r",
+      "orientationDifferenceDegrees": 2.327640743898193
+    },
+    {
+      "bone": "ring_01_r",
+      "orientationDifferenceDegrees": 2.3266315834483238
+    },
+    {
+      "bone": "ring_01_l",
+      "orientationDifferenceDegrees": 2.3262951966317007
+    },
+    {
+      "bone": "ring_02_l",
+      "orientationDifferenceDegrees": 2.3236017542211886
+    },
+    {
+      "bone": "ring_02_r",
+      "orientationDifferenceDegrees": 2.3236017542211886
+    },
+    {
+      "bone": "index_01_l",
+      "orientationDifferenceDegrees": 2.2800757334050474
+    },
+    {
+      "bone": "index_01_r",
+      "orientationDifferenceDegrees": 2.2800757334050474
+    },
+    {
+      "bone": "middle_02_l",
+      "orientationDifferenceDegrees": 2.278015150709819
+    },
+    {
+      "bone": "middle_02_r",
+      "orientationDifferenceDegrees": 2.277671506817203
+    },
+    {
+      "bone": "pinky_03_r",
+      "orientationDifferenceDegrees": 2.263191932663599
+    },
+    {
+      "bone": "pinky_03_l",
+      "orientationDifferenceDegrees": 2.2628459408934556
+    },
+    {
+      "bone": "spine_03",
+      "orientationDifferenceDegrees": 1.6551237763543416
+    },
+    {
+      "bone": "thumb_04_leaf_r",
+      "orientationDifferenceDegrees": 1.2123903807455862
+    },
+    {
+      "bone": "thumb_04_leaf_l",
+      "orientationDifferenceDegrees": 1.2117447144256084
+    },
+    {
+      "bone": "spine_02",
+      "orientationDifferenceDegrees": 1.0179772635925184
+    },
+    {
+      "bone": "calf_l",
+      "orientationDifferenceDegrees": 0.989911055797584
+    },
+    {
+      "bone": "calf_r",
+      "orientationDifferenceDegrees": 0.989911055797584
+    },
+    {
+      "bone": "hand_l",
+      "orientationDifferenceDegrees": 0.9091295547101969
+    },
+    {
+      "bone": "hand_r",
+      "orientationDifferenceDegrees": 0.9082682038228348
+    },
+    {
+      "bone": "spine_01",
+      "orientationDifferenceDegrees": 0.8327420530540965
+    },
+    {
+      "bone": "upperarm_l",
+      "orientationDifferenceDegrees": 0.6620446867206353
+    },
+    {
+      "bone": "upperarm_r",
+      "orientationDifferenceDegrees": 0.659675998460816
+    },
+    {
+      "bone": "Head",
+      "orientationDifferenceDegrees": 0.6230659710661361
+    },
+    {
+      "bone": "lowerarm_l",
+      "orientationDifferenceDegrees": 0.1312212074681015
+    },
+    {
+      "bone": "lowerarm_r",
+      "orientationDifferenceDegrees": 0.1312212074681015
+    }
+  ],
+  "note": "Different body proportions mean rest locations and some bone rotations differ. Apply shared body actions as local rotations and preserve each seed rest; do not overwrite female rest matrices with male ones."
+}

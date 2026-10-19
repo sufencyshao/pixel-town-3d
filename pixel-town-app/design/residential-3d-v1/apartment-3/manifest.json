@@ -1,0 +1,49 @@
+{
+  "key": "apartment-3",
+  "title": "河畔公寓 · 3层",
+  "floors": 3,
+  "floorHeight": 3.2,
+  "slabThickness": 0.2,
+  "units": 6,
+  "unitsPerFloor": 2,
+  "building": [
+    22,
+    11
+  ],
+  "plot": [
+    25,
+    17
+  ],
+  "stairsPerFlight": 18,
+  "program": [
+    "每层左右各一套独立住宅",
+    "每套：客餐厅、厨房、卧室、卫浴、书桌、阳台",
+    "中央公共门厅与双跑楼梯"
+  ],
+  "sceneTarget": [
+    0,
+    -0.4,
+    4.199999999999999
+  ],
+  "scale": 34.5,
+  "meshObjects": 1384,
+  "triangles": 45060,
+  "degenerateTriangles": 0,
+  "bounds": [
+    25.642444610595703,
+    17.0,
+    10.659999430179596
+  ],
+  "unit": "metres",
+  "sha256": "fed28a9b7da4670469418c959853455f8898511df3a5b1d151aa450a16fcf8fc",
+  "blender": "5.2.2 LTS",
+  "status": "design-review",
+  "sourceAxes": {
+    "up": "+Z",
+    "front": "-Y"
+  },
+  "glbAxes": {
+    "up": "+Y",
+    "front": "+Z"
+  }
+}

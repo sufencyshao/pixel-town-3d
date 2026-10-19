@@ -1,0 +1,50 @@
+[
+  {
+    "id": "A-chibi",
+    "name": "大头 Q 版",
+    "bones": 65,
+    "meshes": 29,
+    "clips": [
+      "Idle",
+      "Walk",
+      "Wave"
+    ],
+    "height": 1.65,
+    "bodyScale": 0.56,
+    "headScale": 2.65,
+    "eyeScale": 1.35,
+    "glbBytes": 1225068
+  },
+  {
+    "id": "B-cartoon",
+    "name": "修长卡通",
+    "bones": 65,
+    "meshes": 29,
+    "clips": [
+      "Idle",
+      "Walk",
+      "Wave"
+    ],
+    "height": 1.65,
+    "bodyScale": 0.82,
+    "headScale": 1.65,
+    "eyeScale": 1.12,
+    "glbBytes": 1225496
+  },
+  {
+    "id": "C-natural",
+    "name": "偏写实比例",
+    "bones": 65,
+    "meshes": 4,
+    "clips": [
+      "Idle",
+      "Walk",
+      "Wave"
+    ],
+    "height": 1.65,
+    "bodyScale": 1.0,
+    "headScale": 1.0,
+    "eyeScale": 1.0,
+    "glbBytes": 1108184
+  }
+]

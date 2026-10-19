@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-17",
+  "checks": [
+    {
+      "name": "A-chibi native bones",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi native actions",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Idle finite pose 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Idle finite pose 12",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Idle finite pose 24",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Idle finite pose 36",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Walk finite pose 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Walk finite pose 12",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Walk finite pose 24",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Walk finite pose 36",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Wave finite pose 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Wave finite pose 12",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Wave finite pose 24",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi Wave finite pose 36",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi textures portable",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi GLB roundtrip skeleton",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi GLB roundtrip actions",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi all GLB mesh nodes declare skins",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "A-chibi GLB bound meshes",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon native bones",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon native actions",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Idle finite pose 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Idle finite pose 12",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Idle finite pose 24",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Idle finite pose 36",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Walk finite pose 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Walk finite pose 12",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Walk finite pose 24",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Walk finite pose 36",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Wave finite pose 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Wave finite pose 12",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Wave finite pose 24",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon Wave finite pose 36",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon textures portable",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon GLB roundtrip skeleton",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon GLB roundtrip actions",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon all GLB mesh nodes declare skins",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "B-cartoon GLB bound meshes",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural native bones",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural native actions",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Idle finite pose 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Idle finite pose 12",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Idle finite pose 24",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Idle finite pose 36",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Walk finite pose 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Walk finite pose 12",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Walk finite pose 24",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Walk finite pose 36",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Wave finite pose 0",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Wave finite pose 12",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Wave finite pose 24",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural Wave finite pose 36",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural textures portable",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural GLB roundtrip skeleton",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural GLB roundtrip actions",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural all GLB mesh nodes declare skins",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "C-natural GLB bound meshes",
+      "pass": true,
+      "info": null
+    }
+  ]
+}

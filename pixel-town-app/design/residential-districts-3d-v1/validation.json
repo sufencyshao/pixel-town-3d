@@ -1,0 +1,364 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "courtyard source blend unchanged",
+      "passed": true
+    },
+    {
+      "check": "courtyard source glb unchanged",
+      "passed": true
+    },
+    {
+      "check": "courtyard source triangles retained",
+      "passed": true
+    },
+    {
+      "check": "hero source blend unchanged",
+      "passed": true
+    },
+    {
+      "check": "hero source glb unchanged",
+      "passed": true
+    },
+    {
+      "check": "hero source triangles retained",
+      "passed": true
+    },
+    {
+      "check": "apartment-3 source blend unchanged",
+      "passed": true
+    },
+    {
+      "check": "apartment-3 source glb unchanged",
+      "passed": true
+    },
+    {
+      "check": "apartment-3 source triangles retained",
+      "passed": true
+    },
+    {
+      "check": "apartment-4 source blend unchanged",
+      "passed": true
+    },
+    {
+      "check": "apartment-4 source glb unchanged",
+      "passed": true
+    },
+    {
+      "check": "apartment-4 source triangles retained",
+      "passed": true
+    },
+    {
+      "check": "apartment-5 source blend unchanged",
+      "passed": true
+    },
+    {
+      "check": "apartment-5 source glb unchanged",
+      "passed": true
+    },
+    {
+      "check": "apartment-5 source triangles retained",
+      "passed": true
+    },
+    {
+      "check": "A plots contained",
+      "passed": true
+    },
+    {
+      "check": "A private plots disjoint",
+      "passed": true
+    },
+    {
+      "check": "A path tiles disjoint",
+      "passed": true
+    },
+    {
+      "check": "A paths form one connected network",
+      "passed": true
+    },
+    {
+      "check": "A01 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "A02 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "A03 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "A04 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "A05 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "A06 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "A07 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "C plots contained",
+      "passed": true
+    },
+    {
+      "check": "C private plots disjoint",
+      "passed": true
+    },
+    {
+      "check": "C path tiles disjoint",
+      "passed": true
+    },
+    {
+      "check": "C paths form one connected network",
+      "passed": true
+    },
+    {
+      "check": "C01 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "C02 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "C03 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "C04 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "C05 entry meets connected path",
+      "passed": true
+    },
+    {
+      "check": "47 units including hero",
+      "passed": true
+    },
+    {
+      "check": "GLB SHA256",
+      "passed": true
+    },
+    {
+      "check": "5 saved camera scenes",
+      "passed": true
+    },
+    {
+      "check": "A01 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "A01 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "A01 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "A01 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "A02 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "A02 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "A02 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "A02 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "A03 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "A03 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "A03 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "A03 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "A04 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "A04 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "A04 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "A04 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "A05 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "A05 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "A05 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "A05 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "A06 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "A06 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "A06 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "A06 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "A07 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "A07 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "A07 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "A07 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "C01 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "C01 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "C01 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "C01 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "C02 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "C02 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "C02 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "C02 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "C03 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "C03 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "C03 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "C03 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "C04 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "C04 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "C04 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "C04 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "C05 root at original scale / planned position",
+      "passed": true
+    },
+    {
+      "check": "C05 geometry count preserved",
+      "passed": true
+    },
+    {
+      "check": "C05 all floors retained",
+      "passed": true
+    },
+    {
+      "check": "C05 geometry within district boundary",
+      "passed": true
+    },
+    {
+      "check": "GLB reimport triangles",
+      "passed": true
+    },
+    {
+      "check": "GLB all building roots present",
+      "passed": true
+    },
+    {
+      "check": "GLB district roots present",
+      "passed": true
+    }
+  ],
+  "glbMeshObjects": 815,
+  "glbTriangles": 474836,
+  "note": "GLB material primitives can split mesh objects; triangle totals remain identical. Path checks validate static geometry layout, not runtime navigation."
+}

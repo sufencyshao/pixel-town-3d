@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "name": "Only realistic rabbit remains in active gallery",
+      "pass": true
+    },
+    {
+      "name": "Original seven timed clips and two static poses load",
+      "pass": true,
+      "details": {
+        "positive": 7,
+        "poses": 2,
+        "changed": 7,
+        "finite": true
+      }
+    },
+    {
+      "name": "Native running clip scrubs correctly",
+      "pass": true
+    },
+    {
+      "name": "Native rig can be inspected",
+      "pass": true
+    },
+    {
+      "name": "Download matches converted file",
+      "pass": true
+    },
+    {
+      "name": "390px layout",
+      "pass": true
+    },
+    {
+      "name": "Offline file preview needs no network",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "No application errors",
+      "pass": true,
+      "details": []
+    }
+  ],
+  "errors": [],
+  "status": "PASS"
+}

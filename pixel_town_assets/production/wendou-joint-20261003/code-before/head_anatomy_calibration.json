@@ -1,0 +1,1922 @@
+{
+  "1": {
+    "role": "01_hero_male",
+    "targetJawY": 107,
+    "targetNeckEndY": 116,
+    "sourceLandmarks": [
+      {
+        "neckX": 229.0,
+        "neckEndY": 384,
+        "jawY": 348
+      },
+      {
+        "neckX": 235.0,
+        "neckEndY": 384,
+        "jawY": 353
+      },
+      {
+        "neckX": 242.0,
+        "neckEndY": 384,
+        "jawY": 356
+      },
+      {
+        "neckX": 240.0,
+        "neckEndY": 384,
+        "jawY": 356
+      },
+      {
+        "neckX": 229.0,
+        "neckEndY": 362,
+        "jawY": 331
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 362,
+        "jawY": 337
+      },
+      {
+        "neckX": 208.0,
+        "neckEndY": 362,
+        "jawY": 335
+      },
+      {
+        "neckX": 214.0,
+        "neckEndY": 362,
+        "jawY": 334
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "2": {
+    "role": "02_hero_female",
+    "targetJawY": 107,
+    "targetNeckEndY": 114,
+    "sourceLandmarks": [
+      {
+        "neckX": 224.0,
+        "neckEndY": 384,
+        "jawY": 343
+      },
+      {
+        "neckX": 217.0,
+        "neckEndY": 386,
+        "jawY": 343
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 384,
+        "jawY": 346
+      },
+      {
+        "neckX": 214.0,
+        "neckEndY": 386,
+        "jawY": 343
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 360,
+        "jawY": 317
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 360,
+        "jawY": 317
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 360,
+        "jawY": 318
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 360,
+        "jawY": 317
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "3": {
+    "role": "03_barista_male",
+    "targetJawY": 112,
+    "targetNeckEndY": 125,
+    "sourceLandmarks": [
+      {
+        "neckX": 255.0,
+        "neckEndY": 389,
+        "jawY": 368
+      },
+      {
+        "neckX": 245.0,
+        "neckEndY": 389,
+        "jawY": 364
+      },
+      {
+        "neckX": 231.0,
+        "neckEndY": 392,
+        "jawY": 374
+      },
+      {
+        "neckX": 203.0,
+        "neckEndY": 392,
+        "jawY": 373
+      },
+      {
+        "neckX": 254.0,
+        "neckEndY": 334,
+        "jawY": 314
+      },
+      {
+        "neckX": 231.0,
+        "neckEndY": 337,
+        "jawY": 312
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 337,
+        "jawY": 318
+      },
+      {
+        "neckX": 194.5,
+        "neckEndY": 337,
+        "jawY": 321
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "4": {
+    "role": "04_baker_male",
+    "targetJawY": 136,
+    "targetNeckEndY": 142,
+    "sourceLandmarks": [
+      {
+        "neckX": 233.0,
+        "neckEndY": 416,
+        "jawY": 394
+      },
+      {
+        "neckX": 223.0,
+        "neckEndY": 416,
+        "jawY": 391
+      },
+      {
+        "neckX": 206.0,
+        "neckEndY": 416,
+        "jawY": 396
+      },
+      {
+        "neckX": 210.0,
+        "neckEndY": 416,
+        "jawY": 396
+      },
+      {
+        "neckX": 233.0,
+        "neckEndY": 372,
+        "jawY": 351
+      },
+      {
+        "neckX": 222.5,
+        "neckEndY": 372,
+        "jawY": 352
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 372,
+        "jawY": 352
+      },
+      {
+        "neckX": 222.5,
+        "neckEndY": 372,
+        "jawY": 353
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "5": {
+    "role": "05_carpenter_male",
+    "targetJawY": 102,
+    "targetNeckEndY": 112,
+    "sourceLandmarks": [
+      {
+        "neckX": 230.0,
+        "neckEndY": 397,
+        "jawY": 350
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 397,
+        "jawY": 350
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 397,
+        "jawY": 353
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 397,
+        "jawY": 353
+      },
+      {
+        "neckX": 229.0,
+        "neckEndY": 377,
+        "jawY": 334
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 377,
+        "jawY": 333
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 377,
+        "jawY": 333
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 377,
+        "jawY": 333
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "6": {
+    "role": "06_postman_male",
+    "targetJawY": 121,
+    "targetNeckEndY": 125,
+    "sourceLandmarks": [
+      {
+        "neckX": 224.0,
+        "neckEndY": 399,
+        "jawY": 368
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 399,
+        "jawY": 374
+      },
+      {
+        "neckX": 212.0,
+        "neckEndY": 399,
+        "jawY": 378
+      },
+      {
+        "neckX": 212.0,
+        "neckEndY": 399,
+        "jawY": 378
+      },
+      {
+        "neckX": 223.0,
+        "neckEndY": 366,
+        "jawY": 338
+      },
+      {
+        "neckX": 214.0,
+        "neckEndY": 367,
+        "jawY": 342
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 368,
+        "jawY": 342
+      },
+      {
+        "neckX": 213.0,
+        "neckEndY": 368,
+        "jawY": 345
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "7": {
+    "role": "07_police_male",
+    "targetJawY": 112,
+    "targetNeckEndY": 118,
+    "sourceLandmarks": [
+      {
+        "neckX": 229.0,
+        "neckEndY": 399,
+        "jawY": 373
+      },
+      {
+        "neckX": 219.0,
+        "neckEndY": 399,
+        "jawY": 375
+      },
+      {
+        "neckX": 219.0,
+        "neckEndY": 399,
+        "jawY": 378
+      },
+      {
+        "neckX": 208.0,
+        "neckEndY": 399,
+        "jawY": 378
+      },
+      {
+        "neckX": 229.0,
+        "neckEndY": 362,
+        "jawY": 337
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 362,
+        "jawY": 337
+      },
+      {
+        "neckX": 219.0,
+        "neckEndY": 362,
+        "jawY": 340
+      },
+      {
+        "neckX": 223.0,
+        "neckEndY": 362,
+        "jawY": 340
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "8": {
+    "role": "08_doctor_male",
+    "targetJawY": 120,
+    "targetNeckEndY": 128,
+    "sourceLandmarks": [
+      {
+        "neckX": 220.0,
+        "neckEndY": 409,
+        "jawY": 382
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 409,
+        "jawY": 382
+      },
+      {
+        "neckX": 238.0,
+        "neckEndY": 409,
+        "jawY": 388
+      },
+      {
+        "neckX": 238.5,
+        "neckEndY": 409,
+        "jawY": 386
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 393,
+        "jawY": 367
+      },
+      {
+        "neckX": 215.0,
+        "neckEndY": 393,
+        "jawY": 369
+      },
+      {
+        "neckX": 205.0,
+        "neckEndY": 393,
+        "jawY": 375
+      },
+      {
+        "neckX": 206.0,
+        "neckEndY": 393,
+        "jawY": 373
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "9": {
+    "role": "09_gardener_male",
+    "targetJawY": 112,
+    "targetNeckEndY": 128,
+    "sourceLandmarks": [
+      {
+        "neckX": 223.5,
+        "neckEndY": 389,
+        "jawY": 364
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 389,
+        "jawY": 363
+      },
+      {
+        "neckX": 234.0,
+        "neckEndY": 389,
+        "jawY": 361
+      },
+      {
+        "neckX": 241.0,
+        "neckEndY": 389,
+        "jawY": 360
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 352,
+        "jawY": 326
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 352,
+        "jawY": 326
+      },
+      {
+        "neckX": 212.0,
+        "neckEndY": 352,
+        "jawY": 324
+      },
+      {
+        "neckX": 205.0,
+        "neckEndY": 352,
+        "jawY": 323
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "10": {
+    "role": "10_musician_male",
+    "targetJawY": 117,
+    "targetNeckEndY": 129,
+    "sourceLandmarks": [
+      {
+        "neckX": 224.0,
+        "neckEndY": 406,
+        "jawY": 351
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 406,
+        "jawY": 351
+      },
+      {
+        "neckX": 231.0,
+        "neckEndY": 406,
+        "jawY": 354
+      },
+      {
+        "neckX": 229.0,
+        "neckEndY": 406,
+        "jawY": 357
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 405,
+        "jawY": 352
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 402,
+        "jawY": 349
+      },
+      {
+        "neckX": 214.5,
+        "neckEndY": 398,
+        "jawY": 351
+      },
+      {
+        "neckX": 214.0,
+        "neckEndY": 397,
+        "jawY": 349
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "11": {
+    "role": "11_chef_male",
+    "targetJawY": 136,
+    "targetNeckEndY": 140,
+    "sourceLandmarks": [
+      {
+        "neckX": 231.0,
+        "neckEndY": 403,
+        "jawY": 378
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 403,
+        "jawY": 379
+      },
+      {
+        "neckX": 219.0,
+        "neckEndY": 403,
+        "jawY": 382
+      },
+      {
+        "neckX": 214.0,
+        "neckEndY": 403,
+        "jawY": 382
+      },
+      {
+        "neckX": 231.0,
+        "neckEndY": 378,
+        "jawY": 353
+      },
+      {
+        "neckX": 231.0,
+        "neckEndY": 378,
+        "jawY": 352
+      },
+      {
+        "neckX": 223.0,
+        "neckEndY": 378,
+        "jawY": 355
+      },
+      {
+        "neckX": 218.0,
+        "neckEndY": 378,
+        "jawY": 354
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "12": {
+    "role": "12_florist_female",
+    "targetJawY": 101,
+    "targetNeckEndY": 111,
+    "sourceLandmarks": [
+      {
+        "neckX": 227.5,
+        "neckEndY": 332,
+        "jawY": 308
+      },
+      {
+        "neckX": 220.5,
+        "neckEndY": 336,
+        "jawY": 306
+      },
+      {
+        "neckX": 215.5,
+        "neckEndY": 336,
+        "jawY": 311
+      },
+      {
+        "neckX": 214.0,
+        "neckEndY": 332,
+        "jawY": 308
+      },
+      {
+        "neckX": 228.0,
+        "neckEndY": 321,
+        "jawY": 308
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 319,
+        "jawY": 296
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 317,
+        "jawY": 294
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 317,
+        "jawY": 296
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "13": {
+    "role": "13_pastrychef_female",
+    "targetJawY": 137,
+    "targetNeckEndY": 143,
+    "sourceLandmarks": [
+      {
+        "neckX": 229.0,
+        "neckEndY": 429,
+        "jawY": 412
+      },
+      {
+        "neckX": 221.0,
+        "neckEndY": 429,
+        "jawY": 410
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 428,
+        "jawY": 409
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 427,
+        "jawY": 407
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 396,
+        "jawY": 379
+      },
+      {
+        "neckX": 237.0,
+        "neckEndY": 396,
+        "jawY": 376
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 392,
+        "jawY": 375
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 392,
+        "jawY": 373
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "14": {
+    "role": "14_teacher_female",
+    "targetJawY": 111,
+    "targetNeckEndY": 122,
+    "sourceLandmarks": [
+      {
+        "neckX": 221.0,
+        "neckEndY": 386,
+        "jawY": 341
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 386,
+        "jawY": 341
+      },
+      {
+        "neckX": 218.0,
+        "neckEndY": 389,
+        "jawY": 341
+      },
+      {
+        "neckX": 209.0,
+        "neckEndY": 386,
+        "jawY": 344
+      },
+      {
+        "neckX": 221.0,
+        "neckEndY": 365,
+        "jawY": 321
+      },
+      {
+        "neckX": 226.5,
+        "neckEndY": 362,
+        "jawY": 318
+      },
+      {
+        "neckX": 236.0,
+        "neckEndY": 362,
+        "jawY": 320
+      },
+      {
+        "neckX": 240.0,
+        "neckEndY": 362,
+        "jawY": 318
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "15": {
+    "role": "15_nurse_female",
+    "targetJawY": 132,
+    "targetNeckEndY": 141,
+    "sourceLandmarks": [
+      {
+        "neckX": 220.0,
+        "neckEndY": 385,
+        "jawY": 349
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 384,
+        "jawY": 350
+      },
+      {
+        "neckX": 217.0,
+        "neckEndY": 385,
+        "jawY": 353
+      },
+      {
+        "neckX": 206.0,
+        "neckEndY": 385,
+        "jawY": 353
+      },
+      {
+        "neckX": 221.0,
+        "neckEndY": 375,
+        "jawY": 340
+      },
+      {
+        "neckX": 223.0,
+        "neckEndY": 375,
+        "jawY": 339
+      },
+      {
+        "neckX": 231.0,
+        "neckEndY": 373,
+        "jawY": 342
+      },
+      {
+        "neckX": 241.0,
+        "neckEndY": 370,
+        "jawY": 339
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "16": {
+    "role": "16_librarian_female",
+    "targetJawY": 101,
+    "targetNeckEndY": 110,
+    "sourceLandmarks": [
+      {
+        "neckX": 228.0,
+        "neckEndY": 396,
+        "jawY": 342
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 397,
+        "jawY": 349
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 397,
+        "jawY": 349
+      },
+      {
+        "neckX": 209.0,
+        "neckEndY": 396,
+        "jawY": 349
+      },
+      {
+        "neckX": 228.0,
+        "neckEndY": 366,
+        "jawY": 314
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 363,
+        "jawY": 318
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 363,
+        "jawY": 317
+      },
+      {
+        "neckX": 238.0,
+        "neckEndY": 363,
+        "jawY": 317
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "17": {
+    "role": "17_cafeowner_female",
+    "targetJawY": 103,
+    "targetNeckEndY": 115,
+    "sourceLandmarks": [
+      {
+        "neckX": 226.0,
+        "neckEndY": 388,
+        "jawY": 350
+      },
+      {
+        "neckX": 232.0,
+        "neckEndY": 388,
+        "jawY": 350
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 385,
+        "jawY": 351
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 380,
+        "jawY": 349
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 351,
+        "jawY": 311
+      },
+      {
+        "neckX": 232.5,
+        "neckEndY": 347,
+        "jawY": 318
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 347,
+        "jawY": 319
+      },
+      {
+        "neckX": 228.0,
+        "neckEndY": 347,
+        "jawY": 318
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "18": {
+    "role": "18_artist_female",
+    "targetJawY": 114,
+    "targetNeckEndY": 124,
+    "sourceLandmarks": [
+      {
+        "neckX": 232.0,
+        "neckEndY": 387,
+        "jawY": 344
+      },
+      {
+        "neckX": 215.0,
+        "neckEndY": 389,
+        "jawY": 348
+      },
+      {
+        "neckX": 211.0,
+        "neckEndY": 389,
+        "jawY": 353
+      },
+      {
+        "neckX": 198.0,
+        "neckEndY": 389,
+        "jawY": 353
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 366,
+        "jawY": 323
+      },
+      {
+        "neckX": 241.0,
+        "neckEndY": 368,
+        "jawY": 330
+      },
+      {
+        "neckX": 237.0,
+        "neckEndY": 368,
+        "jawY": 330
+      },
+      {
+        "neckX": 241.0,
+        "neckEndY": 368,
+        "jawY": 330
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "19": {
+    "role": "19_vet_female",
+    "targetJawY": 121,
+    "targetNeckEndY": 133,
+    "sourceLandmarks": [
+      {
+        "neckX": 223.0,
+        "neckEndY": 403,
+        "jawY": 356
+      },
+      {
+        "neckX": 205.0,
+        "neckEndY": 403,
+        "jawY": 363
+      },
+      {
+        "neckX": 192.0,
+        "neckEndY": 403,
+        "jawY": 365
+      },
+      {
+        "neckX": 193.0,
+        "neckEndY": 400,
+        "jawY": 363
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 392,
+        "jawY": 347
+      },
+      {
+        "neckX": 241.0,
+        "neckEndY": 388,
+        "jawY": 348
+      },
+      {
+        "neckX": 229.0,
+        "neckEndY": 381,
+        "jawY": 347
+      },
+      {
+        "neckX": 244.0,
+        "neckEndY": 384,
+        "jawY": 347
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "20": {
+    "role": "20_student_female",
+    "targetJawY": 105,
+    "targetNeckEndY": 111,
+    "sourceLandmarks": [
+      {
+        "neckX": 229.0,
+        "neckEndY": 403,
+        "jawY": 353
+      },
+      {
+        "neckX": 218.0,
+        "neckEndY": 403,
+        "jawY": 362
+      },
+      {
+        "neckX": 207.5,
+        "neckEndY": 403,
+        "jawY": 364
+      },
+      {
+        "neckX": 203.0,
+        "neckEndY": 403,
+        "jawY": 365
+      },
+      {
+        "neckX": 229.0,
+        "neckEndY": 388,
+        "jawY": 340
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 388,
+        "jawY": 349
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 388,
+        "jawY": 349
+      },
+      {
+        "neckX": 238.0,
+        "neckEndY": 388,
+        "jawY": 349
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "21": {
+    "role": "21_firefighter_male",
+    "targetJawY": 118,
+    "targetNeckEndY": 121,
+    "sourceLandmarks": [
+      {
+        "neckX": 211.0,
+        "neckEndY": 400,
+        "jawY": 373
+      },
+      {
+        "neckX": 214.0,
+        "neckEndY": 400,
+        "jawY": 376
+      },
+      {
+        "neckX": 219.0,
+        "neckEndY": 400,
+        "jawY": 376
+      },
+      {
+        "neckX": 233.5,
+        "neckEndY": 399,
+        "jawY": 381
+      },
+      {
+        "neckX": 211.0,
+        "neckEndY": 395,
+        "jawY": 369
+      },
+      {
+        "neckX": 223.0,
+        "neckEndY": 395,
+        "jawY": 370
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 395,
+        "jawY": 376
+      },
+      {
+        "neckX": 211.0,
+        "neckEndY": 395,
+        "jawY": 376
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "22": {
+    "role": "22_grocer_male",
+    "targetJawY": 123,
+    "targetNeckEndY": 134,
+    "sourceLandmarks": [
+      {
+        "neckX": 242.0,
+        "neckEndY": 395,
+        "jawY": 370
+      },
+      {
+        "neckX": 219.0,
+        "neckEndY": 395,
+        "jawY": 364
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 395,
+        "jawY": 370
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 395,
+        "jawY": 370
+      },
+      {
+        "neckX": 241.0,
+        "neckEndY": 373,
+        "jawY": 347
+      },
+      {
+        "neckX": 221.0,
+        "neckEndY": 373,
+        "jawY": 342
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 372,
+        "jawY": 347
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 372,
+        "jawY": 347
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "23": {
+    "role": "23_farmer_male",
+    "targetJawY": 124,
+    "targetNeckEndY": 136,
+    "sourceLandmarks": [
+      {
+        "neckX": 224.0,
+        "neckEndY": 378,
+        "jawY": 347
+      },
+      {
+        "neckX": 215.0,
+        "neckEndY": 377,
+        "jawY": 347
+      },
+      {
+        "neckX": 212.0,
+        "neckEndY": 378,
+        "jawY": 354
+      },
+      {
+        "neckX": 219.0,
+        "neckEndY": 377,
+        "jawY": 356
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 372,
+        "jawY": 342
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 372,
+        "jawY": 345
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 372,
+        "jawY": 346
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 372,
+        "jawY": 351
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "24": {
+    "role": "24_driver_male",
+    "targetJawY": 127,
+    "targetNeckEndY": 133,
+    "sourceLandmarks": [
+      {
+        "neckX": 220.0,
+        "neckEndY": 438,
+        "jawY": 407
+      },
+      {
+        "neckX": 223.0,
+        "neckEndY": 438,
+        "jawY": 407
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 438,
+        "jawY": 412
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 438,
+        "jawY": 410
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 363,
+        "jawY": 332
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 363,
+        "jawY": 331
+      },
+      {
+        "neckX": 214.0,
+        "neckEndY": 363,
+        "jawY": 337
+      },
+      {
+        "neckX": 213.0,
+        "neckEndY": 363,
+        "jawY": 335
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "25": {
+    "role": "25_hairdresser_male",
+    "targetJawY": 123,
+    "targetNeckEndY": 137,
+    "sourceLandmarks": [
+      {
+        "neckX": 224.0,
+        "neckEndY": 413,
+        "jawY": 390
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 410,
+        "jawY": 385
+      },
+      {
+        "neckX": 233.0,
+        "neckEndY": 410,
+        "jawY": 387
+      },
+      {
+        "neckX": 237.5,
+        "neckEndY": 408,
+        "jawY": 385
+      },
+      {
+        "neckX": 223.0,
+        "neckEndY": 400,
+        "jawY": 377
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 397,
+        "jawY": 371
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 397,
+        "jawY": 375
+      },
+      {
+        "neckX": 218.5,
+        "neckEndY": 396,
+        "jawY": 373
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "26": {
+    "role": "26_baker_male",
+    "targetJawY": 116,
+    "targetNeckEndY": 130,
+    "sourceLandmarks": [
+      {
+        "neckX": 238.0,
+        "neckEndY": 427,
+        "jawY": 384
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 426,
+        "jawY": 384
+      },
+      {
+        "neckX": 218.5,
+        "neckEndY": 426,
+        "jawY": 392
+      },
+      {
+        "neckX": 204.0,
+        "neckEndY": 426,
+        "jawY": 389
+      },
+      {
+        "neckX": 238.0,
+        "neckEndY": 344,
+        "jawY": 300
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 343,
+        "jawY": 299
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 343,
+        "jawY": 308
+      },
+      {
+        "neckX": 221.0,
+        "neckEndY": 343,
+        "jawY": 309
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "27": {
+    "role": "27_librarian_male",
+    "targetJawY": 120,
+    "targetNeckEndY": 130,
+    "sourceLandmarks": [
+      {
+        "neckX": 226.0,
+        "neckEndY": 389,
+        "jawY": 359
+      },
+      {
+        "neckX": 208.0,
+        "neckEndY": 387,
+        "jawY": 353
+      },
+      {
+        "neckX": 198.0,
+        "neckEndY": 386,
+        "jawY": 358
+      },
+      {
+        "neckX": 190.0,
+        "neckEndY": 386,
+        "jawY": 358
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 372,
+        "jawY": 341
+      },
+      {
+        "neckX": 221.0,
+        "neckEndY": 372,
+        "jawY": 338
+      },
+      {
+        "neckX": 225.0,
+        "neckEndY": 369,
+        "jawY": 341
+      },
+      {
+        "neckX": 218.0,
+        "neckEndY": 369,
+        "jawY": 340
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "28": {
+    "role": "28_mechanic_male",
+    "targetJawY": 122,
+    "targetNeckEndY": 128,
+    "sourceLandmarks": [
+      {
+        "neckX": 227.0,
+        "neckEndY": 400,
+        "jawY": 377
+      },
+      {
+        "neckX": 214.5,
+        "neckEndY": 400,
+        "jawY": 379
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 400,
+        "jawY": 386
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 400,
+        "jawY": 386
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 369,
+        "jawY": 344
+      },
+      {
+        "neckX": 231.0,
+        "neckEndY": 362,
+        "jawY": 349
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 362,
+        "jawY": 349
+      },
+      {
+        "neckX": 221.0,
+        "neckEndY": 362,
+        "jawY": 349
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "29": {
+    "role": "29_innkeeper_male",
+    "targetJawY": 121,
+    "targetNeckEndY": 127,
+    "sourceLandmarks": [
+      {
+        "neckX": 234.0,
+        "neckEndY": 395,
+        "jawY": 359
+      },
+      {
+        "neckX": 217.0,
+        "neckEndY": 395,
+        "jawY": 362
+      },
+      {
+        "neckX": 205.0,
+        "neckEndY": 395,
+        "jawY": 364
+      },
+      {
+        "neckX": 201.0,
+        "neckEndY": 395,
+        "jawY": 364
+      },
+      {
+        "neckX": 234.0,
+        "neckEndY": 358,
+        "jawY": 325
+      },
+      {
+        "neckX": 232.0,
+        "neckEndY": 358,
+        "jawY": 325
+      },
+      {
+        "neckX": 232.0,
+        "neckEndY": 358,
+        "jawY": 326
+      },
+      {
+        "neckX": 246.0,
+        "neckEndY": 358,
+        "jawY": 323
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "30": {
+    "role": "30_florist_male",
+    "targetJawY": 117,
+    "targetNeckEndY": 129,
+    "sourceLandmarks": [
+      {
+        "neckX": 241.0,
+        "neckEndY": 382,
+        "jawY": 334
+      },
+      {
+        "neckX": 217.0,
+        "neckEndY": 382,
+        "jawY": 334
+      },
+      {
+        "neckX": 215.5,
+        "neckEndY": 380,
+        "jawY": 335
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 378,
+        "jawY": 335
+      },
+      {
+        "neckX": 233.0,
+        "neckEndY": 374,
+        "jawY": 326
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 372,
+        "jawY": 325
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 370,
+        "jawY": 326
+      },
+      {
+        "neckX": 229.0,
+        "neckEndY": 370,
+        "jawY": 325
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "31": {
+    "role": "31_firefighter_female",
+    "targetJawY": 118,
+    "targetNeckEndY": 120,
+    "sourceLandmarks": [
+      {
+        "neckX": 262.0,
+        "neckEndY": 398,
+        "jawY": 387
+      },
+      {
+        "neckX": 237.0,
+        "neckEndY": 398,
+        "jawY": 390
+      },
+      {
+        "neckX": 201.0,
+        "neckEndY": 401,
+        "jawY": 389
+      },
+      {
+        "neckX": 153.0,
+        "neckEndY": 402,
+        "jawY": 386
+      },
+      {
+        "neckX": 263.0,
+        "neckEndY": 339,
+        "jawY": 328
+      },
+      {
+        "neckX": 248.0,
+        "neckEndY": 342,
+        "jawY": 331
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 343,
+        "jawY": 329
+      },
+      {
+        "neckX": 207.0,
+        "neckEndY": 343,
+        "jawY": 329
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "32": {
+    "role": "32_grocer_female",
+    "targetJawY": 117,
+    "targetNeckEndY": 129,
+    "sourceLandmarks": [
+      {
+        "neckX": 235.0,
+        "neckEndY": 373,
+        "jawY": 336
+      },
+      {
+        "neckX": 232.0,
+        "neckEndY": 373,
+        "jawY": 335
+      },
+      {
+        "neckX": 228.0,
+        "neckEndY": 372,
+        "jawY": 336
+      },
+      {
+        "neckX": 218.0,
+        "neckEndY": 372,
+        "jawY": 335
+      },
+      {
+        "neckX": 235.0,
+        "neckEndY": 360,
+        "jawY": 324
+      },
+      {
+        "neckX": 229.0,
+        "neckEndY": 359,
+        "jawY": 321
+      },
+      {
+        "neckX": 233.0,
+        "neckEndY": 359,
+        "jawY": 321
+      },
+      {
+        "neckX": 231.0,
+        "neckEndY": 359,
+        "jawY": 318
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "33": {
+    "role": "33_farmer_female",
+    "targetJawY": 122,
+    "targetNeckEndY": 132,
+    "sourceLandmarks": [
+      {
+        "neckX": 252.0,
+        "neckEndY": 358,
+        "jawY": 325
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 358,
+        "jawY": 323
+      },
+      {
+        "neckX": 210.0,
+        "neckEndY": 363,
+        "jawY": 332
+      },
+      {
+        "neckX": 196.0,
+        "neckEndY": 363,
+        "jawY": 335
+      },
+      {
+        "neckX": 251.0,
+        "neckEndY": 317,
+        "jawY": 285
+      },
+      {
+        "neckX": 248.0,
+        "neckEndY": 317,
+        "jawY": 281
+      },
+      {
+        "neckX": 241.0,
+        "neckEndY": 317,
+        "jawY": 289
+      },
+      {
+        "neckX": 217.0,
+        "neckEndY": 317,
+        "jawY": 291
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "34": {
+    "role": "34_driver_female",
+    "targetJawY": 128,
+    "targetNeckEndY": 133,
+    "sourceLandmarks": [
+      {
+        "neckX": 239.0,
+        "neckEndY": 387,
+        "jawY": 376
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 395,
+        "jawY": 371
+      },
+      {
+        "neckX": 222.0,
+        "neckEndY": 394,
+        "jawY": 371
+      },
+      {
+        "neckX": 213.0,
+        "neckEndY": 394,
+        "jawY": 373
+      },
+      {
+        "neckX": 238.5,
+        "neckEndY": 348,
+        "jawY": 339
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 348,
+        "jawY": 325
+      },
+      {
+        "neckX": 226.0,
+        "neckEndY": 346,
+        "jawY": 324
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 346,
+        "jawY": 325
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "35": {
+    "role": "35_hairdresser_female",
+    "targetJawY": 123,
+    "targetNeckEndY": 139,
+    "sourceLandmarks": [
+      {
+        "neckX": 253.0,
+        "neckEndY": 400,
+        "jawY": 357
+      },
+      {
+        "neckX": 232.0,
+        "neckEndY": 400,
+        "jawY": 359
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 400,
+        "jawY": 363
+      },
+      {
+        "neckX": 198.0,
+        "neckEndY": 400,
+        "jawY": 364
+      },
+      {
+        "neckX": 253.0,
+        "neckEndY": 340,
+        "jawY": 298
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 341,
+        "jawY": 299
+      },
+      {
+        "neckX": 205.0,
+        "neckEndY": 341,
+        "jawY": 305
+      },
+      {
+        "neckX": 195.0,
+        "neckEndY": 341,
+        "jawY": 305
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "36": {
+    "role": "36_barista_female",
+    "targetJawY": 128,
+    "targetNeckEndY": 135,
+    "sourceLandmarks": [
+      {
+        "neckX": 264.0,
+        "neckEndY": 384,
+        "jawY": 348
+      },
+      {
+        "neckX": 271.0,
+        "neckEndY": 384,
+        "jawY": 351
+      },
+      {
+        "neckX": 275.0,
+        "neckEndY": 384,
+        "jawY": 354
+      },
+      {
+        "neckX": 276.0,
+        "neckEndY": 384,
+        "jawY": 351
+      },
+      {
+        "neckX": 264.0,
+        "neckEndY": 348,
+        "jawY": 315
+      },
+      {
+        "neckX": 176.5,
+        "neckEndY": 347,
+        "jawY": 314
+      },
+      {
+        "neckX": 168.0,
+        "neckEndY": 345,
+        "jawY": 315
+      },
+      {
+        "neckX": 167.0,
+        "neckEndY": 347,
+        "jawY": 317
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "37": {
+    "role": "37_carpenter_female",
+    "targetJawY": 119,
+    "targetNeckEndY": 130,
+    "sourceLandmarks": [
+      {
+        "neckX": 231.0,
+        "neckEndY": 404,
+        "jawY": 360
+      },
+      {
+        "neckX": 227.0,
+        "neckEndY": 404,
+        "jawY": 361
+      },
+      {
+        "neckX": 220.0,
+        "neckEndY": 404,
+        "jawY": 361
+      },
+      {
+        "neckX": 216.0,
+        "neckEndY": 404,
+        "jawY": 366
+      },
+      {
+        "neckX": 231.0,
+        "neckEndY": 366,
+        "jawY": 322
+      },
+      {
+        "neckX": 230.0,
+        "neckEndY": 366,
+        "jawY": 326
+      },
+      {
+        "neckX": 234.0,
+        "neckEndY": 366,
+        "jawY": 327
+      },
+      {
+        "neckX": 229.0,
+        "neckEndY": 366,
+        "jawY": 327
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "38": {
+    "role": "38_postal_female",
+    "targetJawY": 117,
+    "targetNeckEndY": 127,
+    "sourceLandmarks": [
+      {
+        "neckX": 238.0,
+        "neckEndY": 400,
+        "jawY": 361
+      },
+      {
+        "neckX": 221.0,
+        "neckEndY": 400,
+        "jawY": 362
+      },
+      {
+        "neckX": 209.0,
+        "neckEndY": 400,
+        "jawY": 361
+      },
+      {
+        "neckX": 203.0,
+        "neckEndY": 400,
+        "jawY": 364
+      },
+      {
+        "neckX": 238.0,
+        "neckEndY": 395,
+        "jawY": 362
+      },
+      {
+        "neckX": 240.0,
+        "neckEndY": 395,
+        "jawY": 361
+      },
+      {
+        "neckX": 241.0,
+        "neckEndY": 395,
+        "jawY": 361
+      },
+      {
+        "neckX": 234.0,
+        "neckEndY": 390,
+        "jawY": 359
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "39": {
+    "role": "39_police_female",
+    "targetJawY": 119,
+    "targetNeckEndY": 132,
+    "sourceLandmarks": [
+      {
+        "neckX": 259.0,
+        "neckEndY": 401,
+        "jawY": 366
+      },
+      {
+        "neckX": 233.0,
+        "neckEndY": 401,
+        "jawY": 363
+      },
+      {
+        "neckX": 208.0,
+        "neckEndY": 401,
+        "jawY": 365
+      },
+      {
+        "neckX": 192.0,
+        "neckEndY": 398,
+        "jawY": 368
+      },
+      {
+        "neckX": 259.0,
+        "neckEndY": 362,
+        "jawY": 326
+      },
+      {
+        "neckX": 238.0,
+        "neckEndY": 362,
+        "jawY": 326
+      },
+      {
+        "neckX": 207.0,
+        "neckEndY": 356,
+        "jawY": 330
+      },
+      {
+        "neckX": 200.0,
+        "neckEndY": 356,
+        "jawY": 328
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  },
+  "40": {
+    "role": "40_doctor_female",
+    "targetJawY": 126,
+    "targetNeckEndY": 139,
+    "sourceLandmarks": [
+      {
+        "neckX": 234.0,
+        "neckEndY": 394,
+        "jawY": 350
+      },
+      {
+        "neckX": 224.0,
+        "neckEndY": 394,
+        "jawY": 347
+      },
+      {
+        "neckX": 211.0,
+        "neckEndY": 394,
+        "jawY": 343
+      },
+      {
+        "neckX": 202.0,
+        "neckEndY": 394,
+        "jawY": 345
+      },
+      {
+        "neckX": 234.0,
+        "neckEndY": 388,
+        "jawY": 333
+      },
+      {
+        "neckX": 234.0,
+        "neckEndY": 383,
+        "jawY": 345
+      },
+      {
+        "neckX": 232.0,
+        "neckEndY": 383,
+        "jawY": 342
+      },
+      {
+        "neckX": 237.0,
+        "neckEndY": 383,
+        "jawY": 339
+      }
+    ],
+    "review": "original jaw and neck opening annotated; all seven used source poses visually reviewed"
+  }
+}

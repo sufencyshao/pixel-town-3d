@@ -1,0 +1,601 @@
+{
+  "schemaVersion": 1,
+  "passed": 42,
+  "total": 42,
+  "failed": [],
+  "checks": [
+    {
+      "check": "65 canonical bones",
+      "pass": true
+    },
+    {
+      "check": "30 complete named actions",
+      "pass": true
+    },
+    {
+      "check": "22 preserved action fingerprints",
+      "pass": true
+    },
+    {
+      "check": "Wave exact C1.1 data",
+      "pass": true
+    },
+    {
+      "check": "All sampled quaternion/location/scale finite",
+      "pass": true
+    },
+    {
+      "check": "New quaternion norm error below .001",
+      "pass": true,
+      "max": 1.1920928955078125e-07,
+      "preservedSourceMaximum": 0.0015694499015808105,
+      "runtimeRule": "normalize before retarget bake"
+    },
+    {
+      "check": "New arms preserve single-axis elbow flexion (under 3 deg off-axis)",
+      "pass": true,
+      "byAction": {
+        "Drink": 0.0,
+        "Eat": 0.0,
+        "LieRest": 0.0,
+        "Phone": 0.0,
+        "Read": 0.0,
+        "Stretch": 0.0
+      }
+    },
+    {
+      "check": "New lie floor no penetration beyond 0.2mm",
+      "pass": true,
+      "minimum": -2.5331974029541016e-07
+    },
+    {
+      "check": "Eat root in place",
+      "pass": true
+    },
+    {
+      "check": "Eat no abrupt joint jumps",
+      "pass": true,
+      "maxDegreesPerFrame": 8.38136525788402
+    },
+    {
+      "check": "Drink root in place",
+      "pass": true
+    },
+    {
+      "check": "Drink no abrupt joint jumps",
+      "pass": true,
+      "maxDegreesPerFrame": 2.426105604746743
+    },
+    {
+      "check": "Read root in place",
+      "pass": true
+    },
+    {
+      "check": "Read no abrupt joint jumps",
+      "pass": true,
+      "maxDegreesPerFrame": 0.6078048738610947
+    },
+    {
+      "check": "Phone root in place",
+      "pass": true
+    },
+    {
+      "check": "Phone no abrupt joint jumps",
+      "pass": true,
+      "maxDegreesPerFrame": 0.596102732100453
+    },
+    {
+      "check": "Stretch root in place",
+      "pass": true
+    },
+    {
+      "check": "Stretch no abrupt joint jumps",
+      "pass": true,
+      "maxDegreesPerFrame": 6.633057103961489
+    },
+    {
+      "check": "LieDown root in place",
+      "pass": true
+    },
+    {
+      "check": "LieDown no abrupt joint jumps",
+      "pass": true,
+      "maxDegreesPerFrame": 6.374912238714973
+    },
+    {
+      "check": "LieRest root in place",
+      "pass": true
+    },
+    {
+      "check": "LieRest no abrupt joint jumps",
+      "pass": true,
+      "maxDegreesPerFrame": 0
+    },
+    {
+      "check": "GetUp root in place",
+      "pass": true
+    },
+    {
+      "check": "GetUp no abrupt joint jumps",
+      "pass": true,
+      "maxDegreesPerFrame": 6.374789295309912
+    },
+    {
+      "check": "Eat loop continuity",
+      "pass": true,
+      "difference": {
+        "location": 1.0323827311807139e-07,
+        "rotationDeg": 0.0
+      }
+    },
+    {
+      "check": "Read loop continuity",
+      "pass": true,
+      "difference": {
+        "location": 1.228781230931777e-07,
+        "rotationDeg": 0.0
+      }
+    },
+    {
+      "check": "Phone loop continuity",
+      "pass": true,
+      "difference": {
+        "location": 1.228781230931777e-07,
+        "rotationDeg": 0.0
+      }
+    },
+    {
+      "check": "LieRest loop continuity",
+      "pass": true,
+      "difference": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      }
+    },
+    {
+      "check": "LieDown -> LieRest",
+      "pass": true,
+      "difference": {
+        "location": 0.0,
+        "rotationDeg": 1.7302844014466245e-05
+      }
+    },
+    {
+      "check": "LieRest -> GetUp",
+      "pass": true,
+      "difference": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      }
+    },
+    {
+      "check": "LieDown/GetUp identical standing pose",
+      "pass": true,
+      "difference": {
+        "location": 0.0,
+        "rotationDeg": 1.7302844014466245e-05
+      }
+    },
+    {
+      "check": "Lie torso horizontal",
+      "pass": true,
+      "upDot": 0.0
+    },
+    {
+      "check": "Lie both knees flexed",
+      "pass": true,
+      "degrees": {
+        "l": 71.2813294991138,
+        "r": 55.82930033224015
+      }
+    },
+    {
+      "check": "Lower palm supports lateral head",
+      "pass": true,
+      "headToPalmMetres": 0.1528085356924107
+    },
+    {
+      "check": "Wave elbow flexion plane",
+      "pass": true,
+      "maxDegrees": 0.0047121101611066725
+    },
+    {
+      "check": "Wave elbow anatomical flexion",
+      "pass": true,
+      "range": [
+        74.52219135100084,
+        80.52221691051679
+      ]
+    },
+    {
+      "check": "Wave palm faces front",
+      "pass": true,
+      "minDot": 0.9869011044502258
+    },
+    {
+      "check": "Wave connected shoulder/elbow/wrist",
+      "pass": true,
+      "maxGap": 5.831596610110247e-07
+    },
+    {
+      "check": "Wave continuous wrist motion",
+      "pass": true
+    },
+    {
+      "check": "Wave loop wrist boundary",
+      "pass": true
+    },
+    {
+      "check": "Shared Blender reopen: only one rig object",
+      "pass": true
+    },
+    {
+      "check": "Shared Blender reopen: 30 retained Actions",
+      "pass": true
+    }
+  ],
+  "sampledFrameCount": 2338,
+  "actionMetrics": {
+    "Crouch": {
+      "frames": 89,
+      "maxAdjacentBoneRotationDeg": 0.4861793217847074,
+      "loopBoundary": {
+        "location": 1.1704139830903076e-07,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "CrouchWalk": {
+      "frames": 61,
+      "maxAdjacentBoneRotationDeg": 16.199890484760434,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Dance": {
+      "frames": 31,
+      "maxAdjacentBoneRotationDeg": 10.58455974166117,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Drink": {
+      "frames": 115,
+      "maxAdjacentBoneRotationDeg": 2.426105604746743,
+      "loopBoundary": {
+        "location": 1.228781230931777e-07,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": 0.0
+    },
+    "Eat": {
+      "frames": 121,
+      "maxAdjacentBoneRotationDeg": 8.38136525788402,
+      "loopBoundary": {
+        "location": 1.0323827311807139e-07,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": 0.0
+    },
+    "Feed": {
+      "frames": 61,
+      "maxAdjacentBoneRotationDeg": 0.10467831195095843,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "GetUp": {
+      "frames": 151,
+      "maxAdjacentBoneRotationDeg": 6.374789295309912,
+      "loopBoundary": {
+        "location": 0.6445247120301559,
+        "rotationDeg": 155.7857176285412
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": -2.5331974029541016e-07,
+      "floorMax": 2.384185791015625e-07,
+      "hingeOffAxisDeg": null
+    },
+    "Idle": {
+      "frames": 61,
+      "maxAdjacentBoneRotationDeg": 0.8604769966742853,
+      "loopBoundary": {
+        "location": 0.00011760256195085632,
+        "rotationDeg": 0.3916705545281963
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "JumpLand": {
+      "frames": 39,
+      "maxAdjacentBoneRotationDeg": 34.890040620150835,
+      "loopBoundary": {
+        "location": 0.057849949309390525,
+        "rotationDeg": 95.59750645384369
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "JumpLoop": {
+      "frames": 76,
+      "maxAdjacentBoneRotationDeg": 1.0762796516260413,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "JumpStart": {
+      "frames": 41,
+      "maxAdjacentBoneRotationDeg": 86.8189853325173,
+      "loopBoundary": {
+        "location": 0.3555572576611802,
+        "rotationDeg": 95.59748596327618
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "LieDown": {
+      "frames": 151,
+      "maxAdjacentBoneRotationDeg": 6.374912238714973,
+      "loopBoundary": {
+        "location": 0.6445247120301559,
+        "rotationDeg": 155.7857176285412
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": -2.5331974029541016e-07,
+      "floorMax": 2.384185791015625e-07,
+      "hingeOffAxisDeg": null
+    },
+    "LieRest": {
+      "frames": 121,
+      "maxAdjacentBoneRotationDeg": 0,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": 0.0,
+      "floorMax": 0.0,
+      "hingeOffAxisDeg": 0.0
+    },
+    "Nod": {
+      "frames": 76,
+      "maxAdjacentBoneRotationDeg": 2.162740553983633,
+      "loopBoundary": {
+        "location": 0.00011760256195085632,
+        "rotationDeg": 0.3916705545281963
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Pet": {
+      "frames": 61,
+      "maxAdjacentBoneRotationDeg": 0.10467831195095843,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Phone": {
+      "frames": 121,
+      "maxAdjacentBoneRotationDeg": 0.596102732100453,
+      "loopBoundary": {
+        "location": 1.228781230931777e-07,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": 0.0
+    },
+    "PickUp": {
+      "frames": 26,
+      "maxAdjacentBoneRotationDeg": 38.54456748651201,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Read": {
+      "frames": 121,
+      "maxAdjacentBoneRotationDeg": 0.6078048738610947,
+      "loopBoundary": {
+        "location": 1.228781230931777e-07,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": 0.0
+    },
+    "Run": {
+      "frames": 29,
+      "maxAdjacentBoneRotationDeg": 60.932575208358145,
+      "loopBoundary": {
+        "location": 2.6822086773847575e-07,
+        "rotationDeg": 0.6501149075615618
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "ShakeHead": {
+      "frames": 76,
+      "maxAdjacentBoneRotationDeg": 3.683075776431356,
+      "loopBoundary": {
+        "location": 0.00011760256195085632,
+        "rotationDeg": 0.3916705545281963
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Sit": {
+      "frames": 51,
+      "maxAdjacentBoneRotationDeg": 0.9039492831115653,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "SitDown": {
+      "frames": 40,
+      "maxAdjacentBoneRotationDeg": 19.172436622874173,
+      "loopBoundary": {
+        "location": 0.41554372813414536,
+        "rotationDeg": 98.2749610990562
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "StandUp": {
+      "frames": 32,
+      "maxAdjacentBoneRotationDeg": 16.157031047718604,
+      "loopBoundary": {
+        "location": 0.41554372813414536,
+        "rotationDeg": 98.2749610990562
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Stretch": {
+      "frames": 151,
+      "maxAdjacentBoneRotationDeg": 6.633057103961489,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": 0.0
+    },
+    "Swim": {
+      "frames": 41,
+      "maxAdjacentBoneRotationDeg": 18.298490012908946,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Talk": {
+      "frames": 89,
+      "maxAdjacentBoneRotationDeg": 11.413898386157044,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "ThrowBall": {
+      "frames": 43,
+      "maxAdjacentBoneRotationDeg": 14.4588257464527,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 129.43813631934626
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Walk": {
+      "frames": 33,
+      "maxAdjacentBoneRotationDeg": 15.538859654244721,
+      "loopBoundary": {
+        "location": 0.0,
+        "rotationDeg": 0.0
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Wave": {
+      "frames": 73,
+      "maxAdjacentBoneRotationDeg": 2.0838520825133973,
+      "loopBoundary": {
+        "location": 0.00011760256195085632,
+        "rotationDeg": 0.3916705545281963
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    },
+    "Work": {
+      "frames": 157,
+      "maxAdjacentBoneRotationDeg": 18.18270464609889,
+      "loopBoundary": {
+        "location": 3.4290889951098435e-07,
+        "rotationDeg": 0.9117086981738172
+      },
+      "rootLocalDrift": 0.0,
+      "floorMin": null,
+      "floorMax": null,
+      "hingeOffAxisDeg": null
+    }
+  },
+  "nonfinite": []
+}

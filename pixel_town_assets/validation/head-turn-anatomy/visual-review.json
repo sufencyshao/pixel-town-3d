@@ -1,0 +1,1198 @@
+{
+  "revision": "20261003-refusal-anatomy-v7",
+  "date": "2026-10-03",
+  "scope": "all 40 human shake_head clips",
+  "uniquePosesReviewed": 280,
+  "technicalFramesChecked": 1000,
+  "method": "Previous v7 review missed Wendou. Carry forward 273 unchanged reviewed poses for the other39; replace only Wendou with the seven newly viewed full sprites/neck crops and browser max-turn proofs. Script checks repeated phases; no new blanket visual signoff is inferred.",
+  "boardSHA256": {
+    "keyposes-1.png": "0768f3be88dd54625615d5034e0e4e070a468384ce6d34252256c1b796dfcec1",
+    "keyposes-2.png": "41c6dd845cd1520ae975465916d304de1ca242efbf717df12794ba48b2e40086",
+    "keyposes-3.png": "ea50ca58b7257829e8edcca4b4e587dd09ae0fa3e00401a07f3a6a83d114d6ae",
+    "keyposes-4.png": "430243764c253b9b8f0225f330063fc35cc1266f5da41036e92555b858dedeb1",
+    "keyposes-5.png": "00ff0faaae001287a167527a55d29d201d0f3958f0df82f5a7bbb2cdefd49fcd",
+    "keyposes-6.png": "578ca86c44913f62c54d7afe4d050fa0860765c903c1869a3f0e2dd0c269c3f2",
+    "keyposes-7.png": "408efbf8072cf5f4a6fbe6c6160511033d7f39bda541b871b4c8d00604772140",
+    "keyposes-8.png": "855a9887e8b7d9826f44ca31885cd331dfd12c9a4b2774b25579a462b12dbc4d",
+    "seams-1.png": "6fa0c5bf12c7ab96d8c573fd42107352b339b72024cb946ce0923dd09b4bd1b1",
+    "seams-2.png": "374d6293e29b2fc3c84c3d90532792d44dabfb42955de875be25c7305d9e62c2",
+    "seams-3.png": "8777fd488b17a91225538bf118bb0689968465dd90f9f61cc1eaea8d86e4eb37",
+    "seams-4.png": "d166477863b5cd3c2171d45ebd55f0f37151029917d21311d582f256e2710c4f",
+    "seams-5.png": "3e8a846b55cf889b949316ca98237325c81385d7e3bbfe2508b8040711254bf2",
+    "seams-6.png": "435e85a03fa5804be5349764a60ae854ed2229600568e00646fbe849b52c70a2",
+    "seams-7.png": "521b9a6889021a86f9b9389f28bde550b9e686861d9511e57dae863136da3644",
+    "seams-8.png": "bb7a84c850bd18bdaecc2b1a8fd996eb2904e69a1e475de891b0e04f1720b6d8"
+  },
+  "roles": [
+    {
+      "role": "01_hero_male",
+      "name": "阿澈",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-1.png",
+      "seamBoard": "seams-1.png",
+      "reviewedFrameSHA256": {
+        "characters/01_hero_male/animations/daily/shake_head/frame_01.png": "54d67594ffe038007a21c0b042e5477b4578de1ffe3c4211a9a41521da10a137",
+        "characters/01_hero_male/animations/daily/shake_head/frame_02.png": "76498ec33e6aeae631801ea077317d4e668557142ad3ed6664cb653aff3d094d",
+        "characters/01_hero_male/animations/daily/shake_head/frame_03.png": "e2c36bdc3f4927adf98b265f6c4cc7ff0c68f72b504dc473032046995aec9e8a",
+        "characters/01_hero_male/animations/daily/shake_head/frame_04.png": "90d42d480ca61f962111697c778565a52884941d328a41b93cd619bf9285ff1f",
+        "characters/01_hero_male/animations/daily/shake_head/frame_08.png": "b42a8f7b948f0334ed4e5fb1ffc0afc153e77d680e72f6e3258a4501437f5ed3",
+        "characters/01_hero_male/animations/daily/shake_head/frame_09.png": "e8dc07b7341108e74dcce96f4caa1a7755e50aa1af2cf1b6ae0329cf6397d582",
+        "characters/01_hero_male/animations/daily/shake_head/frame_10.png": "d595c96f7926aa0094bc828528771ce2657aa16117e5a22100d85dc7c0431e5f"
+      },
+      "notes": "圆领与双肩固定，下巴到原颈根连续",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "02_hero_female",
+      "name": "小满",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-1.png",
+      "seamBoard": "seams-1.png",
+      "reviewedFrameSHA256": {
+        "characters/02_hero_female/animations/daily/shake_head/frame_01.png": "19106cf429a61914873474891b91a7593349e44dc666ce7091a6b05f762a0a28",
+        "characters/02_hero_female/animations/daily/shake_head/frame_02.png": "de2fc0df5197899f6e0a7b1388f34921513ad3585eaeca952ba08cdb9c4f8792",
+        "characters/02_hero_female/animations/daily/shake_head/frame_03.png": "7e3cf41fd0e719faede610ef90c58204ccef5abdc54f3dcf74b4348388206787",
+        "characters/02_hero_female/animations/daily/shake_head/frame_04.png": "be1f3eef12b8b5e414af35f292ff03a236b76517ab21f4cbfd4d527683aed281",
+        "characters/02_hero_female/animations/daily/shake_head/frame_08.png": "479aa31b98133e4197b81e7a651fd58f91b28feec5a2f47487c477bac02e0d56",
+        "characters/02_hero_female/animations/daily/shake_head/frame_09.png": "600a192d6097d05965fc68329c51d55eb1407160f4fd9a1f2395252a27cc0189",
+        "characters/02_hero_female/animations/daily/shake_head/frame_10.png": "1bc2733b50f4037e475231f0c2d5ca0654f725a4a1c75e5c25876a9b5ae797fb"
+      },
+      "notes": "短发整体转向，发尾遮挡领口自然",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "03_barista_male",
+      "name": "林屿",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-1.png",
+      "seamBoard": "seams-1.png",
+      "reviewedFrameSHA256": {
+        "characters/03_barista_male/animations/daily/shake_head/frame_01.png": "0de0f187769894b206322d666abf409b392ea197d0624855a03c8a37a972a95f",
+        "characters/03_barista_male/animations/daily/shake_head/frame_02.png": "1649b28d7777318a4f311998519e45237b336f92b320aa795f8f101ebaf83817",
+        "characters/03_barista_male/animations/daily/shake_head/frame_03.png": "65db3cddfcf30aca31af6b37db877f7630973ea9004fb5d686c44be50aad74ea",
+        "characters/03_barista_male/animations/daily/shake_head/frame_04.png": "dcb6734da4f78aea5a788542e3bb72f953c8e79ba09c6d67011b9a0c43cabd98",
+        "characters/03_barista_male/animations/daily/shake_head/frame_08.png": "4c5c7d0a5e2ff2b57eb0ec0ce1ce0f33d447e3e488d96351350ae6ec534a0422",
+        "characters/03_barista_male/animations/daily/shake_head/frame_09.png": "ae4634121bddb97b215f970c3df10f70406df32259b772a56607ad511276cfc2",
+        "characters/03_barista_male/animations/daily/shake_head/frame_10.png": "da8c02984242e7a26e571aa9b84c51ddf6c6b6606198c93ff917878b0f9264f7"
+      },
+      "notes": "衬衫领口与围裙不随头移动",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "04_baker_male",
+      "name": "麦麦",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-1.png",
+      "seamBoard": "seams-1.png",
+      "reviewedFrameSHA256": {
+        "characters/04_baker_male/animations/daily/shake_head/frame_01.png": "192bd361b088981dc307a37d01e357f636acd57e149ffde7e3ce780d4a08ae20",
+        "characters/04_baker_male/animations/daily/shake_head/frame_02.png": "263cd0b6ae088856236fba250141e4e6cdb0490359926818737bad1062840f69",
+        "characters/04_baker_male/animations/daily/shake_head/frame_03.png": "10e06291084efdef3fd527fc76db5a4c2fc2c8a16ac8003083bca89a2a5d165b",
+        "characters/04_baker_male/animations/daily/shake_head/frame_04.png": "ba4a94d2e88804cf9832b6d8bfcc1de5c7a73867c4dde4f4bc902b2c67392839",
+        "characters/04_baker_male/animations/daily/shake_head/frame_08.png": "a5dfe17d1fe495a2951ce945bc5b9392a8d4733045fb6a12c2d596f3ccff6ea7",
+        "characters/04_baker_male/animations/daily/shake_head/frame_09.png": "035a900310e02a83797205d052c5d25e0692dfa59489a0727778545218a2562d",
+        "characters/04_baker_male/animations/daily/shake_head/frame_10.png": "27b082f820c1f2f0e1c88c94d242d41652e3dafe9d3ef7bd63fae856469b2679"
+      },
+      "notes": "白帽整头转向，双排扣衣服固定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "05_carpenter_male",
+      "name": "大森",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-1.png",
+      "seamBoard": "seams-1.png",
+      "reviewedFrameSHA256": {
+        "characters/05_carpenter_male/animations/daily/shake_head/frame_01.png": "b1618699a257364b34a6321a92194d0e52871c42848791e80f4bfc90a7a1b60c",
+        "characters/05_carpenter_male/animations/daily/shake_head/frame_02.png": "ea68e9019270898f98f9b2e8fa5b7dfc83eb79da5db47007322b372fe6ee90c9",
+        "characters/05_carpenter_male/animations/daily/shake_head/frame_03.png": "3e10d89253bbe3af68a4681a246e21adafa04df60368dad916e879d2f6387e82",
+        "characters/05_carpenter_male/animations/daily/shake_head/frame_04.png": "6585fb056f8c91bc75a34c1590fd78e55c992f3c32324af4dfa3db2946fee7e8",
+        "characters/05_carpenter_male/animations/daily/shake_head/frame_08.png": "ff467e754bf62904192310e4837b07e28b9aeb6448c7dc728724fa1fa40c69f1",
+        "characters/05_carpenter_male/animations/daily/shake_head/frame_09.png": "532c25464c814c8e4a255f0395f4a3517bd195080e370fcadb0c3abdc0210a5e",
+        "characters/05_carpenter_male/animations/daily/shake_head/frame_10.png": "541627e3081a6e2e55315809ee874c6323d3730f6f83b7b6240e36f5b7a94470"
+      },
+      "notes": "红格衬衫双肩和领口完整",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "06_postman_male",
+      "name": "小路",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-2.png",
+      "seamBoard": "seams-2.png",
+      "reviewedFrameSHA256": {
+        "characters/06_postman_male/animations/daily/shake_head/frame_01.png": "5a542afff52d968fc1516b1680ee32068cc4b0d329d97c4b22c52f11168040e0",
+        "characters/06_postman_male/animations/daily/shake_head/frame_02.png": "32d2e5a0f8b474b2441ad082b7dccbdcdec44f6e1ca95d5e67673d8691d0fee2",
+        "characters/06_postman_male/animations/daily/shake_head/frame_03.png": "231b2af4dc2a2827c7ccb6383a49710f2502eea2b67b18d571cbe40684d82aa3",
+        "characters/06_postman_male/animations/daily/shake_head/frame_04.png": "be7aee7ad807a7dfdd3b4e7c6c0cf782078f1471dffdc0a5262662e8043443db",
+        "characters/06_postman_male/animations/daily/shake_head/frame_08.png": "395486223be8d5763e8e542d8c17bb7affbb548efc3a1034b24b0e0a92d8147d",
+        "characters/06_postman_male/animations/daily/shake_head/frame_09.png": "441c6fa1ed00d7381324e6c0b306844707b7ec90009b2948850eca274acce9aa",
+        "characters/06_postman_male/animations/daily/shake_head/frame_10.png": "7a3d588165a4271f48acce3d46ea3877b0cf2687ac170534d1bba4d8668d7764"
+      },
+      "notes": "邮差制服、领带及斜挎带保持位置",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "07_police_male",
+      "name": "程正",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-2.png",
+      "seamBoard": "seams-2.png",
+      "reviewedFrameSHA256": {
+        "characters/07_police_male/animations/daily/shake_head/frame_01.png": "1ada669885fed65be26ea03745b99a764aae68e3cb85b4ff358287e16e2242a1",
+        "characters/07_police_male/animations/daily/shake_head/frame_02.png": "3b6aae8f5a8185e5b7bb493c27ef9836e9dc5c013ad0768e67e9fc69da56206b",
+        "characters/07_police_male/animations/daily/shake_head/frame_03.png": "88e041d7a899eb7f39e4c1808fba7d19a1bcb47dea4bd83793c76533d34471b6",
+        "characters/07_police_male/animations/daily/shake_head/frame_04.png": "a1a1bf5cf2e8dec72af6f367ec8139656c2a9a8ec146a7412a574920ea26c68f",
+        "characters/07_police_male/animations/daily/shake_head/frame_08.png": "9d5b873b4274563cdf4bb076020ec3132fe8a77361c2e814232eabf813daefd6",
+        "characters/07_police_male/animations/daily/shake_head/frame_09.png": "6a45fd2f4cf9b6ea48280b46b937985ef7ab7c8046f0a564d1b72730b7ec129d",
+        "characters/07_police_male/animations/daily/shake_head/frame_10.png": "87c0d9f7c2546db07b88fe8bb5ad623730701d0e5933eb6dc755edc205229935"
+      },
+      "notes": "警服肩章与高衣领稳定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "08_doctor_male",
+      "name": "许衡",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-2.png",
+      "seamBoard": "seams-2.png",
+      "reviewedFrameSHA256": {
+        "characters/08_doctor_male/animations/daily/shake_head/frame_01.png": "176b212fbae979f0bdf8904e88bcc95284398a7f5d35b8a57ccb6da06aae2573",
+        "characters/08_doctor_male/animations/daily/shake_head/frame_02.png": "a64ae7b0e3de9d5361ea9086acabe529d72ddd89cea33dc6f003f8450404428b",
+        "characters/08_doctor_male/animations/daily/shake_head/frame_03.png": "37a96ee6bae53eb17d9cc4f678b01f3d99686bebba2f34bc2b17efa015228ae1",
+        "characters/08_doctor_male/animations/daily/shake_head/frame_04.png": "9c0b7c65def19872a6f4ce4a60104c8b591a8bea30cfaebbba070e69b5c5bf4d",
+        "characters/08_doctor_male/animations/daily/shake_head/frame_08.png": "4288cdb7b48e5b9bb73b1f936494bb41045adbed8fd27a0906ad84c7061a33a4",
+        "characters/08_doctor_male/animations/daily/shake_head/frame_09.png": "fd6904d3973ade278d0953a528c070e97b1d5d3ceb9c4ce981f9250cf942f4aa",
+        "characters/08_doctor_male/animations/daily/shake_head/frame_10.png": "79eb601571af9450609cbab4c35a6c93ceb10e4a7a3f2141574f8f91b95b3dc8"
+      },
+      "notes": "眼镜随整头，白衣领和听诊器固定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "09_gardener_male",
+      "name": "阿禾",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-2.png",
+      "seamBoard": "seams-2.png",
+      "reviewedFrameSHA256": {
+        "characters/09_gardener_male/animations/daily/shake_head/frame_01.png": "45a41f4a2c73754e8daac2fd6ad524ca83831e782c096c5420ed4fd26cf58511",
+        "characters/09_gardener_male/animations/daily/shake_head/frame_02.png": "33e6ef4b54a0e9e651ad504a998c7dcf6818fb0358eb8577ebfd8d142889f279",
+        "characters/09_gardener_male/animations/daily/shake_head/frame_03.png": "21df6b3534fb65da1d05060e30a11b2982a8c812c8228f1c55bb6a94f1496e82",
+        "characters/09_gardener_male/animations/daily/shake_head/frame_04.png": "8e7da484d78aec6ffa67d644ce9df8744d69d00dbb82f345640bfcc1a865f642",
+        "characters/09_gardener_male/animations/daily/shake_head/frame_08.png": "835e092da6c36644ce85f6c21c96ce555800a92b01f2fe0388e0cff7c4c1a3f7",
+        "characters/09_gardener_male/animations/daily/shake_head/frame_09.png": "b1d4c8ada49922e606491490e4d6135f6e0347b4fb664eccb4906dfac147b6c2",
+        "characters/09_gardener_male/animations/daily/shake_head/frame_10.png": "32dc543257aa4f9ac6300889c65e67fa2dcd3a269f20f1a9f5ec74e3c1ad5a59"
+      },
+      "notes": "深肤色下巴/颈部贴合原衣领",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "10_musician_male",
+      "name": "迟野",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-2.png",
+      "seamBoard": "seams-2.png",
+      "reviewedFrameSHA256": {
+        "characters/10_musician_male/animations/daily/shake_head/frame_01.png": "21569bf7c0e2f7437701acf13ad7725b22a9bebf98e3e3b09ccea6ec7e43cd87",
+        "characters/10_musician_male/animations/daily/shake_head/frame_02.png": "1bc7ad7b3253a5d5ec65100abccfaefb6ef5bf85c412b51fb81e859d6ab5b7ac",
+        "characters/10_musician_male/animations/daily/shake_head/frame_03.png": "e4487e2f8154de3e22bf358787916bbec56f1f7a5d665732e000f2c778c0f9f9",
+        "characters/10_musician_male/animations/daily/shake_head/frame_04.png": "47abae9f57dc5c4cf2ac149a45a0568d8f4f5b67e574d36eb868e098016f2d4e",
+        "characters/10_musician_male/animations/daily/shake_head/frame_08.png": "562bba11c991df3b2cf716dda26df9b978d562ab676823ac3e63a57825f11199",
+        "characters/10_musician_male/animations/daily/shake_head/frame_09.png": "311c104d54fa9aa956f54b8ef3c6db3a93be2bc6961e3309b2c3dbf2974b3013",
+        "characters/10_musician_male/animations/daily/shake_head/frame_10.png": "a688f977b3bf8e7613feaac8d866405c8158e6fe6ffa5fb9b1b8ee0412dfefb8"
+      },
+      "notes": "长发完整，皮夹克和吉他保持位置",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "11_chef_male",
+      "name": "陈锅",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-3.png",
+      "seamBoard": "seams-3.png",
+      "reviewedFrameSHA256": {
+        "characters/11_chef_male/animations/daily/shake_head/frame_01.png": "42a8f1bd044600655c20203936a3910234d30dd5be61c7c68fba09ff648df0a0",
+        "characters/11_chef_male/animations/daily/shake_head/frame_02.png": "c22604bcabe1b09ea5f561cf5e3060aa256c6801798f201a468869f49fb4bd28",
+        "characters/11_chef_male/animations/daily/shake_head/frame_03.png": "1ba34966fab7bfaaa99472129d2cd56bb3e9a220a7375dd1a6a7c044911caae8",
+        "characters/11_chef_male/animations/daily/shake_head/frame_04.png": "90a23e38e806b160b75bf861cdc4b4cc0396021d9d564c29e2be88caf61bcf83",
+        "characters/11_chef_male/animations/daily/shake_head/frame_08.png": "925de1e35f0a5f00b713def4b76703699cbc4041f2d8e3a4770c9e2db1c9c873",
+        "characters/11_chef_male/animations/daily/shake_head/frame_09.png": "aceacb5cc4fdcfc87723264f409d5bdeb4ec85ce33cb37bb80eba1f20e9bf052",
+        "characters/11_chef_male/animations/daily/shake_head/frame_10.png": "67d5179f8adb486895d0955ceec40c557fe6d35ede1209175713775b19d66c08"
+      },
+      "notes": "白帽转向及红领巾处短颈衔接",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "12_florist_female",
+      "name": "花音",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-3.png",
+      "seamBoard": "seams-3.png",
+      "reviewedFrameSHA256": {
+        "characters/12_florist_female/animations/daily/shake_head/frame_01.png": "8cebcd5a8a5f764d775962dc4f5c147da29727db08d5091555e8f2709ef0ba56",
+        "characters/12_florist_female/animations/daily/shake_head/frame_02.png": "c2d24b5a569b0b60e8056bee5db0c3404a8e3bb8845fe7d1c3271cc9dd06ac60",
+        "characters/12_florist_female/animations/daily/shake_head/frame_03.png": "ac1a2b1e8b426e2070640775fa6dc237521f8a3f02edfded8d3469526d4a1c7d",
+        "characters/12_florist_female/animations/daily/shake_head/frame_04.png": "0c039e7f0dadcfaa4be26d151f1300a378ea2aa6a3060b6f8685b890ba85babb",
+        "characters/12_florist_female/animations/daily/shake_head/frame_08.png": "9c4f4f4f779e03d305f460a7d8eca6cb8a1151dad69bf107f0ab54c706171432",
+        "characters/12_florist_female/animations/daily/shake_head/frame_09.png": "b4b83427b5f24ddc2fdd7e6234ce936313b5da3b9fae3e59d06df4e01b31a2fd",
+        "characters/12_florist_female/animations/daily/shake_head/frame_10.png": "2a4712e70cf1c0ff568325380d8ec97c14e584d3f0a43d9319ad3f6a5671c8fe"
+      },
+      "notes": "整根发辫保留，原右侧发梢残影清除",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "13_pastrychef_female",
+      "name": "糖糖",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-3.png",
+      "seamBoard": "seams-3.png",
+      "reviewedFrameSHA256": {
+        "characters/13_pastrychef_female/animations/daily/shake_head/frame_01.png": "f18d7fe0a0630e66ca73575e6d1aab73de098f841b02aa7bf7cf4a55f519647e",
+        "characters/13_pastrychef_female/animations/daily/shake_head/frame_02.png": "1cf5c362433fcf68aebfff3c28e31a6ea85a03fb724f007903a360ab91e6c46f",
+        "characters/13_pastrychef_female/animations/daily/shake_head/frame_03.png": "bc23391dec84acf21f263c1299b97e4840a6c01c2f19df2b32feec98dde033a9",
+        "characters/13_pastrychef_female/animations/daily/shake_head/frame_04.png": "431d2e91d28fa47326b7179a86ce90240865bfdacd7d5ab761236904f36d86cd",
+        "characters/13_pastrychef_female/animations/daily/shake_head/frame_08.png": "a06b960dca71095b5ad80085fdebe0839bfb1d20696980eb199505272cdb700d",
+        "characters/13_pastrychef_female/animations/daily/shake_head/frame_09.png": "dcba0a24584710d215c6bb230b1e4cd38c28e8ca4ef1654fcc5ec261fbe7af71",
+        "characters/13_pastrychef_female/animations/daily/shake_head/frame_10.png": "66ac03df0fae0eeb1b09bf43df25dc1bf5ab985f4d1005d18146956628024444"
+      },
+      "notes": "帽子整头转向，粉色衣领完整",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "14_teacher_female",
+      "name": "温书",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-3.png",
+      "seamBoard": "seams-3.png",
+      "reviewedFrameSHA256": {
+        "characters/14_teacher_female/animations/daily/shake_head/frame_01.png": "8630d4e90a90f189d1ee0556a2cedfc8960241e66e9113155741fafc19da74f4",
+        "characters/14_teacher_female/animations/daily/shake_head/frame_02.png": "9df70cc1d960e77d9d49bed5ecbb0c218bbd05f5825be5b24472f417f2ee5166",
+        "characters/14_teacher_female/animations/daily/shake_head/frame_03.png": "6adeb3804732f30bda83a545d79f4504ca7bda082b4bd32f27f56ee5836e300a",
+        "characters/14_teacher_female/animations/daily/shake_head/frame_04.png": "168136dbdda16ca34366dafa661c602c4e67097f74652a6c36a01ef3079c91da",
+        "characters/14_teacher_female/animations/daily/shake_head/frame_08.png": "0baa99d3776587b8bf114327bf2e5fb833de85ecec17f4d065de0f162a111944",
+        "characters/14_teacher_female/animations/daily/shake_head/frame_09.png": "88ca5349aa5fe8038ad2363931d343a29b6eeb0480d3dda1ba59879de75872c0",
+        "characters/14_teacher_female/animations/daily/shake_head/frame_10.png": "22db295eee59ef26737d513c573b7ee2aa5b11acd9941afd0c75ba09faf0ef97"
+      },
+      "notes": "眼镜随头，下巴高度与衣领对齐",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "15_nurse_female",
+      "name": "苏晴",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-3.png",
+      "seamBoard": "seams-3.png",
+      "reviewedFrameSHA256": {
+        "characters/15_nurse_female/animations/daily/shake_head/frame_01.png": "1112fb02e367592a2c047448555b4cf3b9666ff5c96bb8716aa6453c118e3bee",
+        "characters/15_nurse_female/animations/daily/shake_head/frame_02.png": "d23bde00a21531dbb6f2d1702f0b0d099b5f8826d2e40fb56e1a30da4bc2122d",
+        "characters/15_nurse_female/animations/daily/shake_head/frame_03.png": "de0839015be0449f79adaf9ec835ecad4b728235518b19911353d49ddeba5b2d",
+        "characters/15_nurse_female/animations/daily/shake_head/frame_04.png": "b699bfd35c66a69bcd699cb61d6f45f88fac33563e1ed51c86b3f50d766fd81a",
+        "characters/15_nurse_female/animations/daily/shake_head/frame_08.png": "6f22712465d2899dfba1b8dc99a20fe66ecad3efc4c8b222879a1214a65e9fb0",
+        "characters/15_nurse_female/animations/daily/shake_head/frame_09.png": "9a91eef3be9b23fddbd444db98bb35b05ac09f99b6fddfe2e45310e960ae3b5d",
+        "characters/15_nurse_female/animations/daily/shake_head/frame_10.png": "fcdf2da09b3112d1415bae83378a33418b253acf12d5149e6bda7024d9677ad7"
+      },
+      "notes": "黑发遮挡关系及粉白衣袖连接",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "16_librarian_female",
+      "name": "知秋",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-4.png",
+      "seamBoard": "seams-4.png",
+      "reviewedFrameSHA256": {
+        "characters/16_librarian_female/animations/daily/shake_head/frame_01.png": "901e9c5e4490de38d479b50dfcb8769793ea5be07982a813ceef4bbd1078aaaa",
+        "characters/16_librarian_female/animations/daily/shake_head/frame_02.png": "be29b92d3ded89be8b3423ca8344fcbfa2e6e88dc34194c6cb065b7c4078f33c",
+        "characters/16_librarian_female/animations/daily/shake_head/frame_03.png": "816e86933c0499e2e5871f1d631c09cc73dad7880b5cac50c9a174f333d9c735",
+        "characters/16_librarian_female/animations/daily/shake_head/frame_04.png": "9b3bcc598a4d264dab8761c0be5de17aa45f0a82baafdf41d7729a137b456d56",
+        "characters/16_librarian_female/animations/daily/shake_head/frame_08.png": "7e73d4c9696df7e02743d9949a5dc7ad41ce4ec96b1b593e8a80044339e94ffa",
+        "characters/16_librarian_female/animations/daily/shake_head/frame_09.png": "542d9d74fd141217675372b951e753bf9680b5a86b938bfaf0daca2a3ad6e15e",
+        "characters/16_librarian_female/animations/daily/shake_head/frame_10.png": "833d8c219b411187c9bf1586caa2766dd2233c6b3411949c0a711a1120845738"
+      },
+      "notes": "眼镜和短发一起转向，脖子不过度拉长，手中书固定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "17_cafeowner_female",
+      "name": "沈知",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-4.png",
+      "seamBoard": "seams-4.png",
+      "reviewedFrameSHA256": {
+        "characters/17_cafeowner_female/animations/daily/shake_head/frame_01.png": "7a355c82c2a5fcbcf88cf355466ba1dc7772047f576a26cc1c972cc70d3d1cd8",
+        "characters/17_cafeowner_female/animations/daily/shake_head/frame_02.png": "92018758ddc9f028226c43ba18fd0f5334b8ed35a51f99466708591f13e148c7",
+        "characters/17_cafeowner_female/animations/daily/shake_head/frame_03.png": "7b50c4329d2c816e99acddb436405c44cb0d651199fd769d0d2b3856ef64a6eb",
+        "characters/17_cafeowner_female/animations/daily/shake_head/frame_04.png": "88bd84de8518f50bd175f1593264a0ad89e05b5c0d3d2e6610a56fdbb6ff486e",
+        "characters/17_cafeowner_female/animations/daily/shake_head/frame_08.png": "20248ac313cf790baffb940a147ba22b3dbc6b17e56e274d93a6e4e324017742",
+        "characters/17_cafeowner_female/animations/daily/shake_head/frame_09.png": "3b7e6c806105b59fa4db42791676775520307a03da88d7c097364462ee9634d0",
+        "characters/17_cafeowner_female/animations/daily/shake_head/frame_10.png": "1324a9d505c14ac924d84e6f3b257bb0cd0a998b0b70a965d4c40cf2ce4c65e4"
+      },
+      "notes": "马尾与整头一起转向，原衬衫肩部和背心领口稳定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "18_artist_female",
+      "name": "鹿眠",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-4.png",
+      "seamBoard": "seams-4.png",
+      "reviewedFrameSHA256": {
+        "characters/18_artist_female/animations/daily/shake_head/frame_01.png": "e5fb30434335a03970f2d8eb2d0c141c72c433154fcf3aed53710e6536e86ecb",
+        "characters/18_artist_female/animations/daily/shake_head/frame_02.png": "e52db607706349a5811eff7e1ec5036926e3e620c9f15452fc53fd924c3c356a",
+        "characters/18_artist_female/animations/daily/shake_head/frame_03.png": "29f37cc2ed2a8de9c0f2bb617efbea2dde2e311573e9efe9b6afbfe09eda186e",
+        "characters/18_artist_female/animations/daily/shake_head/frame_04.png": "8f8e2aeb615e0e3e7cf30ca7e73735ce659d1f6f05581bd754777180e8ee4d29",
+        "characters/18_artist_female/animations/daily/shake_head/frame_08.png": "7871f23861d4aabd008b20bf166341c0dcb60b150924c74338f434f63adfaded",
+        "characters/18_artist_female/animations/daily/shake_head/frame_09.png": "5869e7e2acede018a8bd2af65b2d100c2437c5547ac6a6955c984238d0198d78",
+        "characters/18_artist_female/animations/daily/shake_head/frame_10.png": "5968bb4b9a67a233b50d44a8183e5b86de19b40f1e68b13225ff118adb369063"
+      },
+      "notes": "发尾自然盖住肩部，画板/围裙固定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "19_vet_female",
+      "name": "安安",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-4.png",
+      "seamBoard": "seams-4.png",
+      "reviewedFrameSHA256": {
+        "characters/19_vet_female/animations/daily/shake_head/frame_01.png": "e60aea4939a9ddee65fedc499dd4f0b72c3ed6e4fed18b1be57f374c637f154e",
+        "characters/19_vet_female/animations/daily/shake_head/frame_02.png": "8149ae15c50e5c1b78b8649ab8b531787fa2f601150a2903b60810cb0ef2de3c",
+        "characters/19_vet_female/animations/daily/shake_head/frame_03.png": "20eb450e4ffe1a22d55ad97e50b344663bd624c6e92f9edf89b7e065251082c3",
+        "characters/19_vet_female/animations/daily/shake_head/frame_04.png": "3ea6995eb7ffe452b754e74beb8155547944e3176e8d66321f7187d600e04cc8",
+        "characters/19_vet_female/animations/daily/shake_head/frame_08.png": "0a8caac07ee9887224b92116c39fd4a7f4117df02da2cf713ebde87c0e6260c6",
+        "characters/19_vet_female/animations/daily/shake_head/frame_09.png": "7a666f2f9cc1ad53739dfc812668f889f62427f4060a9b24a1701bcd8560db95",
+        "characters/19_vet_female/animations/daily/shake_head/frame_10.png": "fb8a6a215c19f50ced885c27e86fad32764bfae743d52cbaaa2978a3cd6cd2c8"
+      },
+      "notes": "下巴与蓝色衣领衔接，两侧听诊器位置稳定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "20_student_female",
+      "name": "夏芽",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-4.png",
+      "seamBoard": "seams-4.png",
+      "reviewedFrameSHA256": {
+        "characters/20_student_female/animations/daily/shake_head/frame_01.png": "6c2f5f5b2a0798bade9249ffb7a27e1064e37ca6aa62beea8117bbd2b6be50cc",
+        "characters/20_student_female/animations/daily/shake_head/frame_02.png": "2197a8284558538b5dc180d176fb47d67472a19e42cab7299b1c1f718805073e",
+        "characters/20_student_female/animations/daily/shake_head/frame_03.png": "7cec9a496469d61955abdbd9fe7f705cb2d4ce752b2cfabe386bce71be91762f",
+        "characters/20_student_female/animations/daily/shake_head/frame_04.png": "42cb2e5f03b401b1f34dac8423bfb6da289be1fdd8508a7a0b0b07342663f1c7",
+        "characters/20_student_female/animations/daily/shake_head/frame_08.png": "b054e955e43ea47e493369e310c154fab68cbb8a9f2ee91ae06a6ee4b30a6f9e",
+        "characters/20_student_female/animations/daily/shake_head/frame_09.png": "c1d37a5ad093acfec0181d3e7d2a8d4a1cea2c5b07471c8f981ba8f4e6f6c242",
+        "characters/20_student_female/animations/daily/shake_head/frame_10.png": "101cb4f8e6c2071b5ab53e3e83d212101c726319f225a98f2676874e3db50dc8"
+      },
+      "notes": "整头与长发转向，紫色衣帽领口及背包带固定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "21_firefighter_male",
+      "name": "陆焰",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-5.png",
+      "seamBoard": "seams-5.png",
+      "reviewedFrameSHA256": {
+        "characters/21_firefighter_male/animations/daily/shake_head/frame_01.png": "c2b5e9cba5fc4deedf28aff5f37b39bd563b698cfec906a7f13f0af4d90a7cf4",
+        "characters/21_firefighter_male/animations/daily/shake_head/frame_02.png": "eec484e8a0daa3f43840589ffffe32a6f12cf4742c3380c28ff3aca3ae0a7d6b",
+        "characters/21_firefighter_male/animations/daily/shake_head/frame_03.png": "033a1f0e6f78a15ed45c0dedc6cb9e534e9e46e26501ee3b0d78424f99cda3c6",
+        "characters/21_firefighter_male/animations/daily/shake_head/frame_04.png": "080f13304a5b35990c128ebe4ee40d3b24e7cd0b7f23ed8fc8830da22eb105bf",
+        "characters/21_firefighter_male/animations/daily/shake_head/frame_08.png": "41bfdc1947bbcd0534b0755c6e15d2850127578b41a4b8d92d0a56710900330d",
+        "characters/21_firefighter_male/animations/daily/shake_head/frame_09.png": "86e17a8dc1255817c146c8e06253c3c9b817ff8fdf2c87ada2321808edbea21c",
+        "characters/21_firefighter_male/animations/daily/shake_head/frame_10.png": "baee2e26796b9ac46d33b73507d597393aa2b90891d8c7f1c94e4525b273cee1"
+      },
+      "notes": "下巴连接消防服高领，肩膀反光带完整",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "22_grocer_male",
+      "name": "周籽",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-5.png",
+      "seamBoard": "seams-5.png",
+      "reviewedFrameSHA256": {
+        "characters/22_grocer_male/animations/daily/shake_head/frame_01.png": "7974cf02aee024d24962799c260f983319196fd1ad9fe0f28274993f37435f04",
+        "characters/22_grocer_male/animations/daily/shake_head/frame_02.png": "b46161c98e419109c854e5c0bc104a389459ff2b3d3a6c9eac3f7778148c5fde",
+        "characters/22_grocer_male/animations/daily/shake_head/frame_03.png": "4a5d597a9bf0b00cba86b9faa7efb20d428e82bc1cc8e2956a7a70edd065212c",
+        "characters/22_grocer_male/animations/daily/shake_head/frame_04.png": "fe793db5206884ce81113a1c4c3d310576a3bcd8c0844ba18e47e6f3a83044e9",
+        "characters/22_grocer_male/animations/daily/shake_head/frame_08.png": "b86080927b3c9f877e5c79ace5502d9f9df2f11c9e645713a5ab06bc429d3ed0",
+        "characters/22_grocer_male/animations/daily/shake_head/frame_09.png": "4652e317ef8dd0369df90f457ec012d89d09f6cd7bf8ae4c45ab600cd3c0d7a5",
+        "characters/22_grocer_male/animations/daily/shake_head/frame_10.png": "20939b7c8f64cd846529bb246d812d2a28ee3c2d2b0cec432d45760dc29048ac"
+      },
+      "notes": "眼镜与头一起转，白衬衫领口及绿背心稳定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "23_farmer_male",
+      "name": "田伯",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-5.png",
+      "seamBoard": "seams-5.png",
+      "reviewedFrameSHA256": {
+        "characters/23_farmer_male/animations/daily/shake_head/frame_01.png": "22484f46e516cd84ffb54349778bcd76532c9cbcf388f7008a366e6e832fe4b2",
+        "characters/23_farmer_male/animations/daily/shake_head/frame_02.png": "25a05ef4628370e190249b7f312b1f8b36457bc45b4e1fa7e29cf872c9442053",
+        "characters/23_farmer_male/animations/daily/shake_head/frame_03.png": "6be5d12eb36179985c69d774892791ef4e78e242c9814e1cba30afbc02a1040e",
+        "characters/23_farmer_male/animations/daily/shake_head/frame_04.png": "8e26e633d310aabc1e7637b9035076c28a2b6c933c902a6e0f853b7938e02805",
+        "characters/23_farmer_male/animations/daily/shake_head/frame_08.png": "69366ca26fe3bafafc054a9d88c7a40fe52d9dbccd292da142c3fc2fd619dfaa",
+        "characters/23_farmer_male/animations/daily/shake_head/frame_09.png": "f01b4a3f9db101a8111381ea3a9b0ddec54390a6f1ab561e71876a0b80bc858b",
+        "characters/23_farmer_male/animations/daily/shake_head/frame_10.png": "966fb3403d5128aad0d4d6ca8cbfc6c8230cefa2808b293b905e9dddfb32d17e"
+      },
+      "notes": "草帽、白须一起转向，格纹双肩完整",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "24_driver_male",
+      "name": "韩途",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-5.png",
+      "seamBoard": "seams-5.png",
+      "reviewedFrameSHA256": {
+        "characters/24_driver_male/animations/daily/shake_head/frame_01.png": "3f4802b6e5d5b4b2edb430502c5916d4c0be9ca2917c9b3561903977199dc9be",
+        "characters/24_driver_male/animations/daily/shake_head/frame_02.png": "72277480ae5cdade3ddb1284149f1fd699567145419d6d85a87ce8d6f1c2823f",
+        "characters/24_driver_male/animations/daily/shake_head/frame_03.png": "2c6c82a880109e58374a77c084dc00736bce9a888f60a0023bedd1450e5ef9a6",
+        "characters/24_driver_male/animations/daily/shake_head/frame_04.png": "e3c972e13956bbb896f7dbcf5e33f54eea32a6f5857534819dca066340aa923a",
+        "characters/24_driver_male/animations/daily/shake_head/frame_08.png": "7d3c53e2a5cfdf71420f627cdfa5147a24781352c3950bec7bdc34e2803f2348",
+        "characters/24_driver_male/animations/daily/shake_head/frame_09.png": "7d05c58739ef62614409b0f4926302b87b47d1510823db7823269954c0ca9d72",
+        "characters/24_driver_male/animations/daily/shake_head/frame_10.png": "68b48fefe598cf4cf06ccdf9872142e0365344db94f1d9c1546e2c21577a9f74"
+      },
+      "notes": "帽子随整头，蓝衣领和红领带固定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "25_hairdresser_male",
+      "name": "银梳",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-5.png",
+      "seamBoard": "seams-5.png",
+      "reviewedFrameSHA256": {
+        "characters/25_hairdresser_male/animations/daily/shake_head/frame_01.png": "75a123196c9896085c76dbe867a772340db919d10644f940bedbd0f6b812d9a3",
+        "characters/25_hairdresser_male/animations/daily/shake_head/frame_02.png": "f169c7fd72b817eec9b56642f97eaef327f1d20504b9b1808689b852c8eaf2c7",
+        "characters/25_hairdresser_male/animations/daily/shake_head/frame_03.png": "d4580e45a6c02f62646a56b07ce5ad2d27df12292c4858eca9722c22adbbb8bb",
+        "characters/25_hairdresser_male/animations/daily/shake_head/frame_04.png": "81b373c9dfa9d8bcfde0da2332e562429009aae95fba95e23e04638cc4e5cfd4",
+        "characters/25_hairdresser_male/animations/daily/shake_head/frame_08.png": "6456af2c20b0406e57aa783646011f9ac0c031054c4ed45e00aac55da00e5c94",
+        "characters/25_hairdresser_male/animations/daily/shake_head/frame_09.png": "d280c4dc632d953699b8d524aaedf3bded766a62b081068e61527e5c2838010f",
+        "characters/25_hairdresser_male/animations/daily/shake_head/frame_10.png": "335933e4ee984378c7723b15fb32e6030a58105d937d6cd1afaefe97602f81f8"
+      },
+      "notes": "灰发/耳饰整体转向，V领及围裙肩带稳定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "26_baker_male",
+      "name": "陶麦",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-6.png",
+      "seamBoard": "seams-6.png",
+      "reviewedFrameSHA256": {
+        "characters/26_baker_male/animations/daily/shake_head/frame_01.png": "78838ad1ec1abbe447e6f9974b1d4c3ae5ffd79737a6cd9db445b27cd491eed9",
+        "characters/26_baker_male/animations/daily/shake_head/frame_02.png": "f5417f0d457a8a2d5d955bc9c454e96c6d861ba79a83bf5fdf9c6f3ef2e202eb",
+        "characters/26_baker_male/animations/daily/shake_head/frame_03.png": "6290778f58c488c3242e8e15575e3fb5f690c66756e0b251f8161d3ab0f1b813",
+        "characters/26_baker_male/animations/daily/shake_head/frame_04.png": "499acc684e5780e24548da4062c04fb15301fc4eb307f60f789077dd38de2955",
+        "characters/26_baker_male/animations/daily/shake_head/frame_08.png": "d182af9af062ef54ed1ad2f1e09e9f3cf5e114a0e4eeb9d2dfbebe5e16d5d63e",
+        "characters/26_baker_male/animations/daily/shake_head/frame_09.png": "b1ce1ea5897bf3b677beb0b889743cd44129505147a7a2d16eb5f55e3519977c",
+        "characters/26_baker_male/animations/daily/shake_head/frame_10.png": "72940966dfbbe7a9201d89502d7e0b023d0c074b7c022a75aff3bb4b1f9c02b5"
+      },
+      "notes": "黑发头颅体积、短颈及蓝衣领连接",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "27_librarian_male",
+      "name": "书衡",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-6.png",
+      "seamBoard": "seams-6.png",
+      "reviewedFrameSHA256": {
+        "characters/27_librarian_male/animations/daily/shake_head/frame_01.png": "6264e78b8ebcb398864a3ff9dbdffa114a53ae2b3bf068216ff14837eb5ce14f",
+        "characters/27_librarian_male/animations/daily/shake_head/frame_02.png": "6dba1e8361af04ec688cad58ca1d1599f102b6628af2076dd0d2f02fc3f55e44",
+        "characters/27_librarian_male/animations/daily/shake_head/frame_03.png": "ed1107a49cd68de0c9361307832b1c5665d2540133b179333f1e8dca8f95f5ea",
+        "characters/27_librarian_male/animations/daily/shake_head/frame_04.png": "9513a5356dbc892bf9aea3b78985cca896190f56858535603ca564715e328774",
+        "characters/27_librarian_male/animations/daily/shake_head/frame_08.png": "5d705a92ed1c70c7d02232f5db0d662c797f83f9803362060f5f4ef09a7721c6",
+        "characters/27_librarian_male/animations/daily/shake_head/frame_09.png": "d821c444a9dbc8bf2887ec9a1ed9ed420c16935ea6f7e1854568c35488c7aa4b",
+        "characters/27_librarian_male/animations/daily/shake_head/frame_10.png": "c40a0a4927f58816060881e8c610ce267bdeda82bdaedfd52e37facda6389e05"
+      },
+      "notes": "灰发/眼镜同步转向，白领口稳定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "28_mechanic_male",
+      "name": "罗栓",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-6.png",
+      "seamBoard": "seams-6.png",
+      "reviewedFrameSHA256": {
+        "characters/28_mechanic_male/animations/daily/shake_head/frame_01.png": "7c6bcd8aee50202e96cb8f54bcdc83a05e93170a0c120c5f949c88735ba588b2",
+        "characters/28_mechanic_male/animations/daily/shake_head/frame_02.png": "a8e019bdd714b667f5d0256e932b9d30fdb81adb926674183ed668ad6ff89342",
+        "characters/28_mechanic_male/animations/daily/shake_head/frame_03.png": "cc9b0ba16d4103d8f4dbe7ac102d40d3fb66d2494f3e576a44a89b2d4d9c7404",
+        "characters/28_mechanic_male/animations/daily/shake_head/frame_04.png": "9905bc4ebc98386ea0c7de86a2bb0f1df789e55c708ebfbc5bfee270e4d5c957",
+        "characters/28_mechanic_male/animations/daily/shake_head/frame_08.png": "c4ce159081fda8b31448c7de0134de0428df2f52a177a5f6083a37304f1e6a96",
+        "characters/28_mechanic_male/animations/daily/shake_head/frame_09.png": "8faaed8e5458d539be1f4839dcc813bc340be8aaa2f83bdde2e2d3d393b9cc9a",
+        "characters/28_mechanic_male/animations/daily/shake_head/frame_10.png": "f4a29ec5d27875661501ec29af9e0e0032cf78d11c27c766f607412f2a61e944"
+      },
+      "notes": "胡须随整头，深肤色颈部连接橙色制服",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "29_innkeeper_male",
+      "name": "顾栈",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-6.png",
+      "seamBoard": "seams-6.png",
+      "reviewedFrameSHA256": {
+        "characters/29_innkeeper_male/animations/daily/shake_head/frame_01.png": "c8e09d6d379c7d73f79b6f28580fa443ba13d573e29b196db667d8b68adee12a",
+        "characters/29_innkeeper_male/animations/daily/shake_head/frame_02.png": "8b5ee88c95447239039d70702a8e20268320a5e0cc0f9f7cddc8a1dcf20b8056",
+        "characters/29_innkeeper_male/animations/daily/shake_head/frame_03.png": "ed9fe137241c69ae77be91d65d96747bc35a55beab9aba0109ea0a1fa3a72a26",
+        "characters/29_innkeeper_male/animations/daily/shake_head/frame_04.png": "b526e5600482d6cb054cb9d6565a76f5af7ad6fda7510485dbb28156cf786fd5",
+        "characters/29_innkeeper_male/animations/daily/shake_head/frame_08.png": "fd738dc7344bb7b0f2af5d610995fba3a07ee8801ce9a22db6d28e089bee176a",
+        "characters/29_innkeeper_male/animations/daily/shake_head/frame_09.png": "d1a86cb606c120c0ca34a9625fc1e6dd570569e924e2cefb212af83a9d5e6877",
+        "characters/29_innkeeper_male/animations/daily/shake_head/frame_10.png": "2bb07b842e9a2bb45c9b0c291ca43adceee3711a8c2bffe90c7a4644e789a6fd"
+      },
+      "notes": "圆脸与胡须转向，白领及背心不移位",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "30_florist_male",
+      "name": "林苔",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-6.png",
+      "seamBoard": "seams-6.png",
+      "reviewedFrameSHA256": {
+        "characters/30_florist_male/animations/daily/shake_head/frame_01.png": "5aca46e3feaff21c8248ae049bab8fa90f6e0773ef3f77cca964bd322d2d5ee8",
+        "characters/30_florist_male/animations/daily/shake_head/frame_02.png": "11c0d88369141e6f890942bf73e95edfaa1904cb80e124b4ec927afb7ea89db1",
+        "characters/30_florist_male/animations/daily/shake_head/frame_03.png": "ff968c163eff62d21ab848a8ac48fbf0af54c3e3dd5113f192beb7a9014eb8d6",
+        "characters/30_florist_male/animations/daily/shake_head/frame_04.png": "a6715c4e76d25a1392cb27734bd2b52655c87caa76ca9001ea1866102b028bc5",
+        "characters/30_florist_male/animations/daily/shake_head/frame_08.png": "bbda53b71f294e401513020e0f6d889d56a45b45961a8b6f3db44e465b77ae5f",
+        "characters/30_florist_male/animations/daily/shake_head/frame_09.png": "406cdcae0b0241e8f124727e8949173ad002b88b7aadf7ef763ec50cbfd67855",
+        "characters/30_florist_male/animations/daily/shake_head/frame_10.png": "899f2fa9d6e87214ef7112da191a393352d49f4a531bfdd619051b936e8683f9"
+      },
+      "notes": "绿色肩带不再穿过头发，原衣领和双肩连续",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "31_firefighter_female",
+      "name": "岑灯",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-7.png",
+      "seamBoard": "seams-7.png",
+      "reviewedFrameSHA256": {
+        "characters/31_firefighter_female/animations/daily/shake_head/frame_01.png": "8221590b1e29cc4f4138059eb1d4213c8a778f9a0001f22fe1ecf31e5318dbe0",
+        "characters/31_firefighter_female/animations/daily/shake_head/frame_02.png": "97b2233978b4d899e70c4783d860748fa6ce97f0d6990825c9fb9d95c107de67",
+        "characters/31_firefighter_female/animations/daily/shake_head/frame_03.png": "e12421c8be1bd077a3d7f2d7b6a419d19150635a9f8ce8768d6c9238d59edc68",
+        "characters/31_firefighter_female/animations/daily/shake_head/frame_04.png": "dcf95b262d25efbc2053e1b8c09a51faec302d718be3b794795ae8471d8f93fc",
+        "characters/31_firefighter_female/animations/daily/shake_head/frame_08.png": "c0474a01e205ede4d49cb018f026bb59d9c417adc2c25bfaf36db642668be3b4",
+        "characters/31_firefighter_female/animations/daily/shake_head/frame_09.png": "64738c812ebbdcd98463125c530cc763d1a797161f5c61d32920d3620033a5cd",
+        "characters/31_firefighter_female/animations/daily/shake_head/frame_10.png": "15fdd3bcaec83ed72acd821b55e2acf16054123a0001bdfdadc94418fd5c6db0"
+      },
+      "notes": "整头下巴对齐消防服高领，双肩稳定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "32_grocer_female",
+      "name": "陆杏",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-7.png",
+      "seamBoard": "seams-7.png",
+      "reviewedFrameSHA256": {
+        "characters/32_grocer_female/animations/daily/shake_head/frame_01.png": "e170141cd0b353858e5e46ad63e513257f5be89b136a31c7c3b6fe3ea34c801a",
+        "characters/32_grocer_female/animations/daily/shake_head/frame_02.png": "37069a3155d1b42b45d89570600c81c6eba5c674e0cd8a0df293735da90c6258",
+        "characters/32_grocer_female/animations/daily/shake_head/frame_03.png": "26238bfb6c2b66a944bf522e0f25334ae4d688c60d29b2ea5db330be35ce2ce2",
+        "characters/32_grocer_female/animations/daily/shake_head/frame_04.png": "31d95b773406b8cce1b27f41716870a1b837a357aa3fd2dec2f5cb4a89a5b9c4",
+        "characters/32_grocer_female/animations/daily/shake_head/frame_08.png": "822d17c62aa9497d11262ad1089cd646f57944e712a5003838557610e6f5daba",
+        "characters/32_grocer_female/animations/daily/shake_head/frame_09.png": "367b66e8dc993c00fea23bec294925a8a6e458aede86413060c1c65de2574201",
+        "characters/32_grocer_female/animations/daily/shake_head/frame_10.png": "c09e9f7206c26b70c6b2ffb859a8eeac9a04543cae79f7fa1dbbadd70999f1bb"
+      },
+      "notes": "红色短发遮挡与黄色领口连接",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "33_farmer_female",
+      "name": "禾青",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-7.png",
+      "seamBoard": "seams-7.png",
+      "reviewedFrameSHA256": {
+        "characters/33_farmer_female/animations/daily/shake_head/frame_01.png": "37d444ba2c238d6965c0d1fa64e17f3ec1fb2057153e9835f57f21d51f594ac2",
+        "characters/33_farmer_female/animations/daily/shake_head/frame_02.png": "81aa5e6603724ff019018af7ae504d5b1996ea4db599fa5df1d4c2f10c76589a",
+        "characters/33_farmer_female/animations/daily/shake_head/frame_03.png": "27092c0ffc001cd969122707da3a240d03038e231218fe63bd89807db1d7f03d",
+        "characters/33_farmer_female/animations/daily/shake_head/frame_04.png": "d5b16dc3ef17da3e5ae0354f5fee8bd2093a54c8693202191f1680b0d1a0832b",
+        "characters/33_farmer_female/animations/daily/shake_head/frame_08.png": "be7e7532426f698ee85e5d40338a7e5c5508c01b91d8dd7832148c13a1aa6e18",
+        "characters/33_farmer_female/animations/daily/shake_head/frame_09.png": "4835e40724a942b231a835ed45603c118fd424568617153b6f557b85e55beadf",
+        "characters/33_farmer_female/animations/daily/shake_head/frame_10.png": "3233d014abf5041c7fe9d17dd4ab2fac4c6b6c31168283c0d90c570f716352f1"
+      },
+      "notes": "草帽随头转，原下段双辫细节完整，上段弯动连续",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "34_driver_female",
+      "name": "叶驰",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-7.png",
+      "seamBoard": "seams-7.png",
+      "reviewedFrameSHA256": {
+        "characters/34_driver_female/animations/daily/shake_head/frame_01.png": "9583dafaaef1381abdc00f810486f54610714eca2f600dcbdcd2550a35841600",
+        "characters/34_driver_female/animations/daily/shake_head/frame_02.png": "5a9fed1947e002515f635db70caad1d7601e859df6db0c24e36995708d7895ab",
+        "characters/34_driver_female/animations/daily/shake_head/frame_03.png": "30e5aa660da066d09eff61e5b69e74d39900d49cf746442097054c0d2fd023e8",
+        "characters/34_driver_female/animations/daily/shake_head/frame_04.png": "27707a5bc190a50244de1438f95555fdaf273e0e8245ea61dfb324e5129fcb02",
+        "characters/34_driver_female/animations/daily/shake_head/frame_08.png": "797f71ff2c4bc66e1b3ff10550e66a9e809dd95024a671cf6d859a85501b594a",
+        "characters/34_driver_female/animations/daily/shake_head/frame_09.png": "a8332eb06dbee8b8ee68f6448ca51e7e61b4dc5bbc81419db5baf6bc746031cc",
+        "characters/34_driver_female/animations/daily/shake_head/frame_10.png": "352966ab9be2696b70b57bb56d20fdadbe8335aa4a46d87483bb7f518e244370"
+      },
+      "notes": "帽子/灰发/耳饰同步，领带和双肩稳定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "35_hairdresser_female",
+      "name": "卷云",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-7.png",
+      "seamBoard": "seams-7.png",
+      "reviewedFrameSHA256": {
+        "characters/35_hairdresser_female/animations/daily/shake_head/frame_01.png": "ef1160b564416270e7a8704d5b6151e596ef06cc4ab0824ba632ac0c8909f091",
+        "characters/35_hairdresser_female/animations/daily/shake_head/frame_02.png": "44577b95a189c63abb4f36970d313e278a71a164f943195625d9665500afb1da",
+        "characters/35_hairdresser_female/animations/daily/shake_head/frame_03.png": "b6b05d2c003e242ad441cf7b19f4ae95a7ca8a340e0b0936ab3f87ec4c2deb5c",
+        "characters/35_hairdresser_female/animations/daily/shake_head/frame_04.png": "f0c44dff64c07618a9a65f76beb363ac4354b22125b1eff1a35080e0488729b6",
+        "characters/35_hairdresser_female/animations/daily/shake_head/frame_08.png": "4f85456cff45f1e3cfdd0e6f1a0158cc7097249380cba19c7e040342b8473a39",
+        "characters/35_hairdresser_female/animations/daily/shake_head/frame_09.png": "ac960133b244c55e30cb60d3069568ced8d37eea4c2c261f8451b88114ccef26",
+        "characters/35_hairdresser_female/animations/daily/shake_head/frame_10.png": "565d97cd30fc72a2081f7ecc4269e6b373f22b6a3d9c7b75880f7088329022cc"
+      },
+      "notes": "卷发和眼镜整体转向，紫色V领及肩部连续",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "36_barista_female",
+      "name": "闻豆",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-8.png",
+      "seamBoard": "seams-8.png",
+      "reviewedFrameSHA256": {
+        "characters/36_barista_female/animations/daily/shake_head/frame_01.png": "1e3e55599d6b7aec10c7942c83a49ad19592f5edf2aadf371be75526a2862921",
+        "characters/36_barista_female/animations/daily/shake_head/frame_02.png": "52d3ed46dda3d842ba43899b2dac2b10e8e87e5fbb27c3d490593d1be4fc5006",
+        "characters/36_barista_female/animations/daily/shake_head/frame_03.png": "c7514b9169c88601b18f1ae8f41bcd5e96efb85d64941c5e148b8fe4713c5ecc",
+        "characters/36_barista_female/animations/daily/shake_head/frame_04.png": "fd408345bed7535ec30f22ff11aedd93ba59137493f320dc7a1a5c867d2d2a13",
+        "characters/36_barista_female/animations/daily/shake_head/frame_08.png": "8806b7ab80316243e3384d5f1041c7e0bf07289cae7fca5bbfba45356fa7e9f9",
+        "characters/36_barista_female/animations/daily/shake_head/frame_09.png": "d22e413e2ddcec9d8dcb0806167ac4a1bf3e135c2eaf843fcd8623916b5f73c1",
+        "characters/36_barista_female/animations/daily/shake_head/frame_10.png": "2df869e4b2650cf86be621f8fefbbb1c21bb68b32d6df5348997f5bef44ac2e7"
+      },
+      "notes": "原 V 领颈根重新定位；蓝肩带、米色衣领与下缘固定；七姿态追加复查",
+      "productionVisualStatus": "re-reviewed after user rejected the prior v7 neck result",
+      "userApproval": "pending for Wendou corrective v1",
+      "roleRevision": "20261003-wendou-joint-v1",
+      "correctiveReview": "../wendou-joint/visual-review.json"
+    },
+    {
+      "role": "37_carpenter_female",
+      "name": "榆棠",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-8.png",
+      "seamBoard": "seams-8.png",
+      "reviewedFrameSHA256": {
+        "characters/37_carpenter_female/animations/daily/shake_head/frame_01.png": "106b78fcf2a558771f77b7b1b92e52c5ecf2077ef354eba575ca2f2071d46c32",
+        "characters/37_carpenter_female/animations/daily/shake_head/frame_02.png": "8e16e81f57ac514c830730d4996e342bfaf0ab2e8f9c3583d6be9bf87916f532",
+        "characters/37_carpenter_female/animations/daily/shake_head/frame_03.png": "3f057d60b537f57ca1ea206749d72c18db4d11e682f3a8b75a376a7b23f62429",
+        "characters/37_carpenter_female/animations/daily/shake_head/frame_04.png": "80ec17e3e16eed995e6b87d5ba84b4e3eaef0a802606bc62c6d771515af885ec",
+        "characters/37_carpenter_female/animations/daily/shake_head/frame_08.png": "516242981745b0372f7d2c3996baac5e34eeba59ff42349604869b20d5fea169",
+        "characters/37_carpenter_female/animations/daily/shake_head/frame_09.png": "54a36f7d3b309d37c9c9713a886bb9f51b7b4acdcb070f9d1c7d0fa1465f5377",
+        "characters/37_carpenter_female/animations/daily/shake_head/frame_10.png": "d4b7a1ea63eedb3778b28a752349eea70bc87eda3e8f44c213571a75f05c3532"
+      },
+      "notes": "短红发/耳饰转向，背带和黑衣领固定",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "38_postal_female",
+      "name": "章铃",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-8.png",
+      "seamBoard": "seams-8.png",
+      "reviewedFrameSHA256": {
+        "characters/38_postal_female/animations/daily/shake_head/frame_01.png": "8842ae3a8f4a79e8c36f132a8a6b9369805e691fb0f9b7686df1d912531f01b5",
+        "characters/38_postal_female/animations/daily/shake_head/frame_02.png": "90a7fbac7f057571441cbf53dbe8206f4875bb68fdb58504270505f2372c9a9f",
+        "characters/38_postal_female/animations/daily/shake_head/frame_03.png": "603cd1244c0e1015e36ba452f576a1b5ac2062d3e2a074146c84bc8d764455be",
+        "characters/38_postal_female/animations/daily/shake_head/frame_04.png": "3c5b2d1e1b0fd8d0d26f414d1fcb5e264efeefe6c4cb031cb3a53c05ad0823c1",
+        "characters/38_postal_female/animations/daily/shake_head/frame_08.png": "bba1e60d575720692069d701b05764febb1fa325da738761efb5c059a71a9e00",
+        "characters/38_postal_female/animations/daily/shake_head/frame_09.png": "46327d88dd73b939f768ff1681eff2593cfb1c6434b9998ef0683ca3bc4118b1",
+        "characters/38_postal_female/animations/daily/shake_head/frame_10.png": "ee81f9037f9281a0ca0023e19dc5b252f2ba154ead76ca44b7adb0507141b4e3"
+      },
+      "notes": "补齐两侧肩顶及轮廓，回正与转向使用同一身体底层",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "39_police_female",
+      "name": "许巡",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-8.png",
+      "seamBoard": "seams-8.png",
+      "reviewedFrameSHA256": {
+        "characters/39_police_female/animations/daily/shake_head/frame_01.png": "4ee975a74b07625d8d06ffc0983bc167b35f598916fee5ab10b7f41a172566bf",
+        "characters/39_police_female/animations/daily/shake_head/frame_02.png": "6243e37c36a01d7de04c275e0072bac243181d85e2f3a0d175b9c30f538a7d33",
+        "characters/39_police_female/animations/daily/shake_head/frame_03.png": "3e3b72f257d941de9c0f1b66b726328c3cdd55620b6f03bb3eba766469f10e86",
+        "characters/39_police_female/animations/daily/shake_head/frame_04.png": "2cf03c271900d543ddb989f463594d8c9ff4ec9c0583a60c4d874fd473821b17",
+        "characters/39_police_female/animations/daily/shake_head/frame_08.png": "007c5a92e480a11734d52d3b7fb1f0d13822361266fdf4c5b46f0e0bffc5e6bf",
+        "characters/39_police_female/animations/daily/shake_head/frame_09.png": "a3419ae56016b55f5ba5a4e33cdc5988c8ad3f7645866370bbf258722970a9f9",
+        "characters/39_police_female/animations/daily/shake_head/frame_10.png": "2c932db20034f0cb241b6801216354dee5c7adcfc213629c87834d88e6a39519"
+      },
+      "notes": "补齐辫子移开后露出的左肩，原下段辫子与上段连续",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    },
+    {
+      "role": "40_doctor_female",
+      "name": "余笙",
+      "phaseIndicesZeroBased": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uniquePosesReviewed": 7,
+      "reviewType": "production-side visual review by assistant; not user signoff",
+      "fullBodyBoard": "keyposes-8.png",
+      "seamBoard": "seams-8.png",
+      "reviewedFrameSHA256": {
+        "characters/40_doctor_female/animations/daily/shake_head/frame_01.png": "fadee3113e7cfc761c52fae5926c141944a462fc0e412642af7f33590262be75",
+        "characters/40_doctor_female/animations/daily/shake_head/frame_02.png": "ff9b01ffa4ae2a88f0a20860f24cee53c75d58b744623b4c77c243b9bd6e9970",
+        "characters/40_doctor_female/animations/daily/shake_head/frame_03.png": "ff9b82e91a5a6f53300a4a0832ee92b18fab889072c0b8f21e2a05634136d010",
+        "characters/40_doctor_female/animations/daily/shake_head/frame_04.png": "29ccc1134a655868703c6c6e73f70c28dd4dbf30ff773a7c2542b3d2b233f99e",
+        "characters/40_doctor_female/animations/daily/shake_head/frame_08.png": "b47d6225d7a4ef8625f317dc8823336a87a5b8d3c431bbc94a50924649f4b6de",
+        "characters/40_doctor_female/animations/daily/shake_head/frame_09.png": "881c61d6a1844ae4ea4b73279429b7420b7c1021a708e05b6f28db3eb25a2fae",
+        "characters/40_doctor_female/animations/daily/shake_head/frame_10.png": "b51f62681c7b1c781d9064b569634f0b03d200c63ef3fc18d8f3c2dab48a8972"
+      },
+      "notes": "眼镜随整头，白衣领及听诊器保持位置",
+      "productionVisualStatus": "reviewed after corrections",
+      "userApproval": "pending for v7"
+    }
+  ],
+  "userApproval": "not yet recorded for this revision; earlier back-walk approval remains valid",
+  "latestRoleCorrection": {
+    "role": "36_barista_female",
+    "revision": "20261003-wendou-joint-v1",
+    "freshUniquePosesReviewed": 7,
+    "unchangedPriorUniquePosesCarried": 273,
+    "record": "../wendou-joint/visual-review.json"
+  }
+}

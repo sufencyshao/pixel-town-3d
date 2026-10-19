@@ -1,0 +1,16 @@
+{
+  "name": "town-seasons",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "preview:build": "esbuild src/viewer.js --bundle --format=iife --minify --outfile=viewer.bundle.js && python3 src/package_preview.py",
+    "test": "node --test src/environment-state.test.js"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.9"
+  },
+  "type": "module"
+}

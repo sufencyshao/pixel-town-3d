@@ -1,0 +1,9 @@
+{
+  "isolatedUniform": "leafTime",
+  "phases": [
+    0,
+    2.3
+  ],
+  "changedPixelsOver8": 1451,
+  "passed": true
+}

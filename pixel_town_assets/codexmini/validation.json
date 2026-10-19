@@ -1,0 +1,45 @@
+{
+  "existingProfiles": 20,
+  "existingPresets": 60,
+  "sex": {
+    "male": 10,
+    "female": 10
+  },
+  "codexmini": [
+    {
+      "id": "xin-fragrance",
+      "actions": 10,
+      "sourceFrames": 73,
+      "gifDecodedFrames": 73,
+      "sourceUnchanged": true
+    },
+    {
+      "id": "xin",
+      "actions": 10,
+      "sourceFrames": 73,
+      "gifDecodedFrames": 73,
+      "sourceUnchanged": true
+    },
+    {
+      "id": "kanna",
+      "actions": 10,
+      "sourceFrames": 73,
+      "gifDecodedFrames": 73,
+      "sourceUnchanged": true
+    },
+    {
+      "id": "rui",
+      "actions": 10,
+      "sourceFrames": 73,
+      "gifDecodedFrames": 73,
+      "sourceUnchanged": true
+    },
+    {
+      "id": "hai-qin-yan",
+      "actions": 10,
+      "sourceFrames": 73,
+      "gifDecodedFrames": 73,
+      "sourceUnchanged": true
+    }
+  ]
+}

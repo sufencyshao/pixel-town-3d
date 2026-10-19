@@ -1,0 +1,14 @@
+[
+  {
+    "file": "rabbit.blend",
+    "url": "https://opengameart.org/sites/default/files/rabbit.blend",
+    "bytes": 5996916,
+    "sha256": "bb6deef1ee91b21380355138374cae87946451ce864502b1af68eb60f4750843"
+  },
+  {
+    "file": "bird.blend",
+    "url": "https://opengameart.org/sites/default/files/bird_0.blend",
+    "bytes": 1033280,
+    "sha256": "ce694dea3a10b268f33217c665ff16e6b8e7222acbf9ceac178814cf5d7fb33a"
+  }
+]

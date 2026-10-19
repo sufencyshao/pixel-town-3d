@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "imported": [
+    {
+      "id": "hai-qin-yan",
+      "name": "海琴烟",
+      "assetFolder": "codexmini/hai-qin-yan",
+      "sourcePath": "/Users/summerwindy/.codex/pets/hai-qin-yan",
+      "actions": [
+        "idle",
+        "walk_right",
+        "walk_left",
+        "wave",
+        "jump",
+        "sad",
+        "wait",
+        "work",
+        "think",
+        "look"
+      ],
+      "frameCount": 73,
+      "missingActions": [
+        "walk_up",
+        "walk_down",
+        "sleep",
+        "eat"
+      ],
+      "sourceSha256": "cf7526e664817c0f3abe1cac7f577ce618ae314245f3ed0fd4df245cf7428671"
+    },
+    {
+      "id": "xin",
+      "name": "歆",
+      "assetFolder": "codexmini/xin",
+      "sourcePath": "/Users/summerwindy/.codex/pets/xin",
+      "actions": [
+        "idle",
+        "walk_right",
+        "walk_left",
+        "wave",
+        "jump",
+        "sad",
+        "wait",
+        "work",
+        "think",
+        "look"
+      ],
+      "frameCount": 73,
+      "missingActions": [
+        "walk_up",
+        "walk_down",
+        "sleep",
+        "eat"
+      ],
+      "sourceSha256": "b4d86e1f29da1e61d2bc7de352c59b1efbb6bc01a2ea87ace3a5a3ebb2060d48"
+    },
+    {
+      "id": "xin-fragrance",
+      "name": "馨",
+      "assetFolder": "codexmini/xin-fragrance",
+      "sourcePath": "/Users/summerwindy/.codex/pets/xin-fragrance",
+      "actions": [
+        "idle",
+        "walk_right",
+        "walk_left",
+        "wave",
+        "jump",
+        "sad",
+        "wait",
+        "work",
+        "think",
+        "look"
+      ],
+      "frameCount": 73,
+      "missingActions": [
+        "walk_up",
+        "walk_down",
+        "sleep",
+        "eat"
+      ],
+      "sourceSha256": "e626178505a409e4276dc70eeb4bb8c101ab4a898d049c5d934c81569750c663"
+    },
+    {
+      "id": "kanna",
+      "name": "康娜",
+      "assetFolder": "codexmini/kanna",
+      "sourcePath": "/Users/summerwindy/.codex/pets/kanna",
+      "actions": [
+        "idle",
+        "walk_right",
+        "walk_left",
+        "wave",
+        "jump",
+        "sad",
+        "wait",
+        "work",
+        "think",
+        "look"
+      ],
+      "frameCount": 73,
+      "missingActions": [
+        "walk_up",
+        "walk_down",
+        "sleep",
+        "eat"
+      ],
+      "sourceSha256": "327c1cb088a57cafd523490ad1d14d07de36cd2bba31b4831445afdf6e1451fe"
+    },
+    {
+      "id": "rui",
+      "name": "锐",
+      "assetFolder": "codexmini/rui",
+      "sourcePath": "/Users/summerwindy/.codex/pets/rui",
+      "actions": [
+        "idle",
+        "walk_right",
+        "walk_left",
+        "wave",
+        "jump",
+        "sad",
+        "wait",
+        "work",
+        "think",
+        "look"
+      ],
+      "frameCount": 73,
+      "missingActions": [
+        "walk_up",
+        "walk_down",
+        "sleep",
+        "eat"
+      ],
+      "sourceSha256": "b6d3076b871091527467bed0ec1231b540b5b80492229fcb13229e08a043b16a"
+    }
+  ],
+  "excluded": "旧版备份目录不重复导入",
+  "sourceConvention": "V2 1536×2288 atlas; 8 columns × 11 rows; 192×208 cells"
+}

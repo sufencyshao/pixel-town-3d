@@ -1,0 +1,109 @@
+{
+  "role": "36_barista_female",
+  "revision": "20261003-wendou-joint-v1",
+  "targetJawY": 125,
+  "targetNeckEndY": 138,
+  "targetNeckEnd": [
+    140,
+    138
+  ],
+  "neckRoot": [
+    133,
+    148,
+    135
+  ],
+  "neckOpeningRows": [
+    [
+      125,
+      133,
+      149
+    ],
+    [
+      126,
+      133,
+      148
+    ],
+    [
+      127,
+      133,
+      147
+    ],
+    [
+      128,
+      133,
+      147
+    ],
+    [
+      129,
+      134,
+      145
+    ],
+    [
+      130,
+      135,
+      145
+    ],
+    [
+      131,
+      136,
+      145
+    ],
+    [
+      132,
+      137,
+      144
+    ],
+    [
+      133,
+      138,
+      143
+    ],
+    [
+      134,
+      138,
+      143
+    ],
+    [
+      135,
+      139,
+      142
+    ],
+    [
+      136,
+      139,
+      142
+    ],
+    [
+      137,
+      140,
+      141
+    ]
+  ],
+  "review": "Measured on the original 256-pixel normalized frame: jaw shadow begins at row 125 and the V collar tip is at x140, row137. The previous x130/y134 neck endpoint was left of and above the actual collar. Reuse the original shaded neck within its hand-traced opening; keep the collar and apron straps in the stable body.",
+  "fixedGarmentRects": [
+    [
+      119,
+      125,
+      124,
+      129
+    ],
+    [
+      154,
+      125,
+      157,
+      129
+    ],
+    [
+      127,
+      128,
+      130,
+      132
+    ],
+    [
+      148,
+      130,
+      151,
+      133
+    ]
+  ]
+}

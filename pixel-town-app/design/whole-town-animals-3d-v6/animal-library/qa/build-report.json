@@ -1,0 +1,561 @@
+[
+  {
+    "id": "01_cat_tabby",
+    "bones": 23,
+    "vertices": 4592,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Run",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Groom",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.09728,
+        0.0,
+        0.23036
+      ],
+      [
+        0.09728,
+        0.51281,
+        -0.31507
+      ]
+    ]
+  },
+  {
+    "id": "02_cat_calico",
+    "bones": 23,
+    "vertices": 4592,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Run",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Groom",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.09527,
+        0.0,
+        0.21681
+      ],
+      [
+        0.09527,
+        0.4895,
+        -0.29654
+      ]
+    ]
+  },
+  {
+    "id": "03_cat_british_blue",
+    "bones": 23,
+    "vertices": 4592,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Run",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Groom",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.13083,
+        0.0,
+        0.23714
+      ],
+      [
+        0.13083,
+        0.52447,
+        -0.32434
+      ]
+    ]
+  },
+  {
+    "id": "04_cat_siamese",
+    "bones": 23,
+    "vertices": 4592,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Run",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Groom",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.08387,
+        0.0,
+        0.23544
+      ],
+      [
+        0.08387,
+        0.53224,
+        -0.32202
+      ]
+    ]
+  },
+  {
+    "id": "05_cat_maine",
+    "bones": 23,
+    "vertices": 4968,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Run",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Groom",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.11741,
+        0.0,
+        0.30489
+      ],
+      [
+        0.11741,
+        0.65582,
+        -0.41701
+      ]
+    ]
+  },
+  {
+    "id": "06_dog_corgi",
+    "bones": 46,
+    "vertices": 3666,
+    "actions": [
+      "Eat",
+      "Run",
+      "Idle",
+      "Walk",
+      "Drink",
+      "Rest",
+      "Wag",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.14459,
+        0.0,
+        0.51128
+      ],
+      [
+        0.14459,
+        0.38581,
+        -0.26811
+      ]
+    ]
+  },
+  {
+    "id": "07_dog_shiba",
+    "bones": 46,
+    "vertices": 3966,
+    "actions": [
+      "Eat",
+      "Run",
+      "Idle",
+      "Walk",
+      "Drink",
+      "Rest",
+      "Wag",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.12049,
+        0.0,
+        0.4614
+      ],
+      [
+        0.12049,
+        0.58643,
+        -0.30856
+      ]
+    ]
+  },
+  {
+    "id": "08_dog_border",
+    "bones": 49,
+    "vertices": 3614,
+    "actions": [
+      "Eat",
+      "Run",
+      "Idle",
+      "Walk",
+      "Drink",
+      "Rest",
+      "Wag",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.1188,
+        0.0,
+        0.54336
+      ],
+      [
+        0.1188,
+        0.77972,
+        -0.46414
+      ]
+    ]
+  },
+  {
+    "id": "09_dog_golden",
+    "bones": 49,
+    "vertices": 4300,
+    "actions": [
+      "Eat",
+      "Run",
+      "Idle",
+      "Walk",
+      "Drink",
+      "Rest",
+      "Wag",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.1798,
+        0.0,
+        0.6228
+      ],
+      [
+        0.1798,
+        0.78758,
+        -0.49509
+      ]
+    ]
+  },
+  {
+    "id": "10_dog_dachshund",
+    "bones": 46,
+    "vertices": 4418,
+    "actions": [
+      "Eat",
+      "Run",
+      "Idle",
+      "Walk",
+      "Drink",
+      "Rest",
+      "Wag",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.1102,
+        0.0,
+        0.6228
+      ],
+      [
+        0.1102,
+        0.31488,
+        -0.36758
+      ]
+    ]
+  },
+  {
+    "id": "11_dog_poodle",
+    "bones": 46,
+    "vertices": 6074,
+    "actions": [
+      "Eat",
+      "Run",
+      "Idle",
+      "Walk",
+      "Drink",
+      "Rest",
+      "Wag",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.1044,
+        0.0,
+        0.35032
+      ],
+      [
+        0.1044,
+        0.45526,
+        -0.2085
+      ]
+    ]
+  },
+  {
+    "id": "12_bird_budgie_green",
+    "bones": 13,
+    "vertices": 4932,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Observe",
+      "Hop",
+      "Fly",
+      "Groom"
+    ],
+    "boundsRest": [
+      [
+        -0.05675,
+        0.0,
+        0.082
+      ],
+      [
+        0.05675,
+        0.21046,
+        -0.14572
+      ]
+    ]
+  },
+  {
+    "id": "13_bird_budgie_blue",
+    "bones": 13,
+    "vertices": 4932,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Observe",
+      "Hop",
+      "Fly",
+      "Groom"
+    ],
+    "boundsRest": [
+      [
+        -0.05675,
+        0.0,
+        0.082
+      ],
+      [
+        0.05675,
+        0.21046,
+        -0.14572
+      ]
+    ]
+  },
+  {
+    "id": "14_bird_cockatiel",
+    "bones": 13,
+    "vertices": 5954,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Observe",
+      "Hop",
+      "Fly",
+      "Groom"
+    ],
+    "boundsRest": [
+      [
+        -0.06242,
+        0.0,
+        0.0902
+      ],
+      [
+        0.06242,
+        0.28134,
+        -0.16029
+      ]
+    ]
+  },
+  {
+    "id": "15_bird_canary",
+    "bones": 13,
+    "vertices": 4932,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Observe",
+      "Hop",
+      "Fly",
+      "Groom"
+    ],
+    "boundsRest": [
+      [
+        -0.0488,
+        0.0,
+        0.07052
+      ],
+      [
+        0.0488,
+        0.181,
+        -0.12532
+      ]
+    ]
+  },
+  {
+    "id": "16_rabbit_lop",
+    "bones": 15,
+    "vertices": 3308,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Observe",
+      "Run",
+      "Sniff",
+      "Groom",
+      "Hop"
+    ],
+    "boundsRest": [
+      [
+        -0.09342,
+        0.0,
+        0.2052
+      ],
+      [
+        0.09342,
+        0.23124,
+        -0.1808
+      ]
+    ]
+  },
+  {
+    "id": "17_rabbit_dutch",
+    "bones": 15,
+    "vertices": 3454,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Observe",
+      "Run",
+      "Sniff",
+      "Groom",
+      "Hop"
+    ],
+    "boundsRest": [
+      [
+        -0.092,
+        0.0,
+        0.2052
+      ],
+      [
+        0.092,
+        0.32574,
+        -0.1808
+      ]
+    ]
+  },
+  {
+    "id": "18_guineapig_rosette",
+    "bones": 15,
+    "vertices": 4108,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Eat",
+      "Drink",
+      "Rest",
+      "Observe",
+      "Run",
+      "Sniff",
+      "Groom"
+    ],
+    "boundsRest": [
+      [
+        -0.092,
+        0.0,
+        0.1512
+      ],
+      [
+        0.092,
+        0.158,
+        -0.1398
+      ]
+    ]
+  },
+  {
+    "id": "19_tortoise_hermann",
+    "bones": 13,
+    "vertices": 3622,
+    "actions": [
+      "Idle",
+      "Walk",
+      "Eat",
+      "Rest",
+      "Observe",
+      "Hide"
+    ],
+    "boundsRest": [
+      [
+        -0.12,
+        0.0,
+        0.167
+      ],
+      [
+        0.12,
+        0.12272,
+        -0.12659
+      ]
+    ]
+  },
+  {
+    "id": "20_pony_shetland",
+    "bones": 50,
+    "vertices": 4546,
+    "actions": [
+      "Eat",
+      "Run",
+      "Idle",
+      "Walk",
+      "Drink",
+      "Rest",
+      "Wag",
+      "Sniff",
+      "Observe"
+    ],
+    "boundsRest": [
+      [
+        -0.33169,
+        0.0,
+        1.17396
+      ],
+      [
+        0.33169,
+        1.49542,
+        -0.75592
+      ]
+    ]
+  }
+]

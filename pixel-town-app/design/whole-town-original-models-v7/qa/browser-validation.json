@@ -1,0 +1,490 @@
+{
+  "checks": [
+    {
+      "name": "Matched originals load; all unmatched identities remain listed",
+      "pass": true
+    },
+    {
+      "name": "No custom / rejected animal model is embedded",
+      "pass": true
+    },
+    {
+      "name": "06_dog_corgi uniform fit and feet at actual town ground",
+      "pass": true,
+      "details": {
+        "feet": -1.639127722441458e-10,
+        "height": 0.5965498393075359,
+        "target": 0.6,
+        "scale": [
+          0.19439595254076636,
+          0.19439595254076636,
+          0.19439595254076636
+        ],
+        "clip": "Idle"
+      }
+    },
+    {
+      "name": "06_dog_corgi all original clips run in town",
+      "pass": true,
+      "details": {
+        "count": 12,
+        "changed": 12,
+        "finite": true
+      }
+    },
+    {
+      "name": "07_dog_shiba uniform fit and feet at actual town ground",
+      "pass": true,
+      "details": {
+        "feet": -1.639127722441458e-10,
+        "height": 0.6263773312647168,
+        "target": 0.63,
+        "scale": [
+          0.20411575016780467,
+          0.20411575016780467,
+          0.20411575016780467
+        ],
+        "clip": "Idle"
+      }
+    },
+    {
+      "name": "07_dog_shiba all original clips run in town",
+      "pass": true,
+      "details": {
+        "count": 12,
+        "changed": 12,
+        "finite": true
+      }
+    },
+    {
+      "name": "08_dog_border uniform fit and feet at actual town ground",
+      "pass": true,
+      "details": {
+        "feet": -1.984089975648473e-17,
+        "height": 0.7754083317941932,
+        "target": 0.78,
+        "scale": [
+          0.24508890561740668,
+          0.24508890561740668,
+          0.24508890561740668
+        ],
+        "clip": "Idle"
+      }
+    },
+    {
+      "name": "08_dog_border all original clips run in town",
+      "pass": true,
+      "details": {
+        "count": 12,
+        "changed": 12,
+        "finite": true
+      }
+    },
+    {
+      "name": "09_dog_golden uniform fit and feet at actual town ground",
+      "pass": true,
+      "details": {
+        "feet": -4.097821387771816e-11,
+        "height": 0.8151728616707714,
+        "target": 0.82,
+        "scale": [
+          0.25765756744394036,
+          0.25765756744394036,
+          0.25765756744394036
+        ],
+        "clip": "Idle"
+      }
+    },
+    {
+      "name": "09_dog_golden all original clips run in town",
+      "pass": true,
+      "details": {
+        "count": 12,
+        "changed": 12,
+        "finite": true
+      }
+    },
+    {
+      "name": "10_dog_dachshund uniform fit and feet at actual town ground",
+      "pass": true,
+      "details": {
+        "feet": -3.3527614018424856e-10,
+        "height": 0.5766648448407783,
+        "target": 0.58,
+        "scale": [
+          0.18791608745607413,
+          0.18791608745607413,
+          0.18791608745607413
+        ],
+        "clip": "Idle"
+      }
+    },
+    {
+      "name": "10_dog_dachshund all original clips run in town",
+      "pass": true,
+      "details": {
+        "count": 12,
+        "changed": 12,
+        "finite": true
+      }
+    },
+    {
+      "name": "11_dog_poodle uniform fit and feet at actual town ground",
+      "pass": true,
+      "details": {
+        "feet": -1.2107198577027134e-10,
+        "height": 0.7157615371618657,
+        "target": 0.72,
+        "scale": [
+          0.22623591287760617,
+          0.22623591287760617,
+          0.22623591287760617
+        ],
+        "clip": "Idle"
+      }
+    },
+    {
+      "name": "11_dog_poodle all original clips run in town",
+      "pass": true,
+      "details": {
+        "count": 12,
+        "changed": 12,
+        "finite": true
+      }
+    },
+    {
+      "name": "20_pony_shetland uniform fit and feet at actual town ground",
+      "pass": true,
+      "details": {
+        "feet": -8.673617379884035e-18,
+        "height": 1.5069833412236329,
+        "target": 1.49542,
+        "scale": [
+          0.3099991625904301,
+          0.3099991625904301,
+          0.3099991625904301
+        ],
+        "clip": "Idle"
+      }
+    },
+    {
+      "name": "20_pony_shetland all original clips run in town",
+      "pass": true,
+      "details": {
+        "count": 13,
+        "changed": 13,
+        "finite": true
+      }
+    },
+    {
+      "name": "Caretaker is complete native character with 24 original clips",
+      "pass": true,
+      "details": [
+        "CharacterArmature|Death",
+        "CharacterArmature|Gun_Shoot",
+        "CharacterArmature|HitRecieve",
+        "CharacterArmature|HitRecieve_2",
+        "CharacterArmature|Idle",
+        "CharacterArmature|Idle_Gun",
+        "CharacterArmature|Idle_Gun_Pointing",
+        "CharacterArmature|Idle_Gun_Shoot",
+        "CharacterArmature|Idle_Neutral",
+        "CharacterArmature|Idle_Sword",
+        "CharacterArmature|Interact",
+        "CharacterArmature|Kick_Left",
+        "CharacterArmature|Kick_Right",
+        "CharacterArmature|Punch_Left",
+        "CharacterArmature|Punch_Right",
+        "CharacterArmature|Roll",
+        "CharacterArmature|Run",
+        "CharacterArmature|Run_Back",
+        "CharacterArmature|Run_Left",
+        "CharacterArmature|Run_Right",
+        "CharacterArmature|Run_Shoot",
+        "CharacterArmature|Sword_Slash",
+        "CharacterArmature|Walk",
+        "CharacterArmature|Wave"
+      ]
+    },
+    {
+      "name": "All 24 native human animations remain functional",
+      "pass": true,
+      "details": {
+        "count": 24,
+        "changed": 24,
+        "finite": true
+      }
+    },
+    {
+      "name": "Missing petting motion is explicitly unavailable",
+      "pass": true
+    },
+    {
+      "name": "feed completes with native character and original animal",
+      "pass": true,
+      "details": {
+        "ok": true,
+        "active": true,
+        "native": "CharacterArmature|Interact",
+        "events": [
+          "feed-complete"
+        ],
+        "phase": "idle"
+      }
+    },
+    {
+      "name": "Interaction camera contains full native human",
+      "pass": true
+    },
+    {
+      "name": "call completes with native character and original animal",
+      "pass": true,
+      "details": {
+        "ok": true,
+        "active": true,
+        "native": "CharacterArmature|Idle_Neutral",
+        "events": [
+          "call-complete"
+        ],
+        "phase": "idle"
+      }
+    },
+    {
+      "name": "fetch completes with native character and original animal",
+      "pass": true,
+      "details": {
+        "ok": true,
+        "active": true,
+        "native": "CharacterArmature|Idle_Neutral",
+        "events": [
+          "fetch-complete"
+        ],
+        "phase": "idle"
+      }
+    },
+    {
+      "name": "walk completes with native character and original animal",
+      "pass": true,
+      "details": {
+        "ok": true,
+        "active": true,
+        "native": "CharacterArmature|Walk",
+        "events": [
+          "walk-complete"
+        ],
+        "phase": "idle"
+      }
+    },
+    {
+      "name": "Native dogs approach and complete companion interaction",
+      "pass": true,
+      "details": {
+        "ok": true,
+        "events": [
+          "social-start",
+          "social-greeting",
+          "social-start",
+          "social-greeting",
+          "social-complete"
+        ]
+      }
+    },
+    {
+      "name": "All source animals remain on valid town routes",
+      "pass": true,
+      "details": [
+        {
+          "id": "06_dog_corgi",
+          "finite": true,
+          "legal": true
+        },
+        {
+          "id": "07_dog_shiba",
+          "finite": true,
+          "legal": true
+        },
+        {
+          "id": "08_dog_border",
+          "finite": true,
+          "legal": true
+        },
+        {
+          "id": "09_dog_golden",
+          "finite": true,
+          "legal": true
+        },
+        {
+          "id": "10_dog_dachshund",
+          "finite": true,
+          "legal": true
+        },
+        {
+          "id": "11_dog_poodle",
+          "finite": true,
+          "legal": true
+        },
+        {
+          "id": "20_pony_shetland",
+          "finite": true,
+          "legal": true
+        }
+      ]
+    },
+    {
+      "name": "Rain shelter remains functional with source proportions",
+      "pass": true,
+      "details": [
+        {
+          "id": "06_dog_corgi",
+          "state": "rest",
+          "distance": 0.12010279628333004,
+          "position": [
+            57.001572066578824,
+            0.044,
+            6.120092507184032
+          ],
+          "restSlot": [
+            57,
+            0.044,
+            6
+          ],
+          "path": 0,
+          "blocked": 0,
+          "radius": 0.323624951893021
+        },
+        {
+          "id": "07_dog_shiba",
+          "state": "rest",
+          "distance": 0.12297589022373744,
+          "position": [
+            57.00000160414323,
+            0.044,
+            5.122975890213275
+          ],
+          "restSlot": [
+            57,
+            0.044,
+            5
+          ],
+          "path": 0,
+          "blocked": 0,
+          "radius": 0.339806199487672
+        },
+        {
+          "id": "08_dog_border",
+          "state": "rest",
+          "distance": 0.12250000000001648,
+          "position": [
+            -63,
+            0,
+            56.12250000000002
+          ],
+          "restSlot": [
+            -63,
+            0,
+            56
+          ],
+          "path": 0,
+          "blocked": 0,
+          "radius": 0.38127937319334726
+        },
+        {
+          "id": "09_dog_golden",
+          "state": "rest",
+          "distance": 0.1249999999999929,
+          "position": [
+            56,
+            0.044,
+            6.124999999999993
+          ],
+          "restSlot": [
+            56,
+            0.044,
+            6
+          ],
+          "path": 0,
+          "blocked": 0,
+          "radius": 0.4008321615622369
+        },
+        {
+          "id": "10_dog_dachshund",
+          "state": "rest",
+          "distance": 0.10024778019061353,
+          "position": [
+            -0.499874693266759,
+            0,
+            78.10024770187574
+          ],
+          "restSlot": [
+            -0.5,
+            0,
+            78
+          ],
+          "path": 0,
+          "blocked": 0,
+          "radius": 0.3128374534965869
+        },
+        {
+          "id": "11_dog_poodle",
+          "state": "rest",
+          "distance": 0.11509999000201808,
+          "position": [
+            61.50230153953816,
+            0.13,
+            48.615076976907716
+          ],
+          "restSlot": [
+            61.5,
+            0.13,
+            48.5
+          ],
+          "path": 0,
+          "blocked": 0,
+          "radius": 0.35195019064001287
+        },
+        {
+          "id": "20_pony_shetland",
+          "state": "rest",
+          "distance": 0.11750000000002814,
+          "position": [
+            -75,
+            0,
+            55.11750000000003
+          ],
+          "restSlot": [
+            -75,
+            0,
+            55
+          ],
+          "path": 0,
+          "blocked": 0,
+          "radius": 0.7038364049013554
+        }
+      ]
+    },
+    {
+      "name": "Night rest remains functional",
+      "pass": true
+    },
+    {
+      "name": "Downloaded source GLB has unchanged bytes",
+      "pass": true
+    },
+    {
+      "name": "390px layout has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "Offline file opens original models in full town",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "No browser application errors",
+      "pass": true,
+      "details": []
+    }
+  ],
+  "errors": [],
+  "status": "PASS"
+}

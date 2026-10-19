@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-18",
+  "status": "FROZEN",
+  "files": [
+    {
+      "file": "male-seed.blend",
+      "bytes": 858689,
+      "sha256": "d1959f6e0a69b7403ddb9b1c77b0bf53fd47e7facf23364c11d57ed0785fc2a5"
+    },
+    {
+      "file": "female-seed.blend",
+      "bytes": 881584,
+      "sha256": "4b882918903009359a04438a1dcb47874e80f70b9e21cc3bc6bae7810c3f826e"
+    },
+    {
+      "file": "male-seed.glb",
+      "bytes": 861816,
+      "sha256": "accf39a2ad8d9f7c2f0fb01286289a3d52250e66dfea8f279114fa9f32391d67"
+    },
+    {
+      "file": "female-seed.glb",
+      "bytes": 1136464,
+      "sha256": "d314f4b677063786a8066a3bc13785de6a70334662f0e012d428786f344e3862"
+    },
+    {
+      "file": "hair_builder.py",
+      "bytes": 17469,
+      "sha256": "6e16baa36ff109ca68c48d5cf142f10fa20b92dbcb34e4fa1b70a0851f7b37a5"
+    },
+    {
+      "file": "hair-library.json",
+      "bytes": 692717,
+      "sha256": "608b5e82ac913f511eb33c6ceef28c81ab0a2ee2297ab2a3c2deda97a40982ea"
+    },
+    {
+      "file": "clothing-library.json",
+      "bytes": 2913096,
+      "sha256": "075c54e7d1f5dcd5aadbf16211eb5bc4c8ce2eca11c62533cc8de2e9ce35bdf6"
+    },
+    {
+      "file": "seed-manifest.json",
+      "bytes": 148627,
+      "sha256": "e092a2d01604261f62720e086f9f21f0a811897e43772e45950a97a517e403cb"
+    },
+    {
+      "file": "README.md",
+      "bytes": 6257,
+      "sha256": "a047e29aaa151ba582fc61356bdb5fff5de93ff3cf41195a58410eacd58370d1"
+    }
+  ],
+  "seedChecks": 48,
+  "hairIdentityInputs": 45,
+  "facialHairAfterLipRefinement": 3
+}

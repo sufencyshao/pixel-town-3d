@@ -1,0 +1,81 @@
+{
+  "checks": [
+    {
+      "name": "45 resident identities and20 animals",
+      "pass": true
+    },
+    {
+      "name": "No duplicate resident01",
+      "pass": true
+    },
+    {
+      "name": "Initial actors separated",
+      "pass": true,
+      "info": 1.8027756377319946
+    },
+    {
+      "name": "Focus 02_hero_female",
+      "pass": true
+    },
+    {
+      "name": "Focus 05_carpenter_male",
+      "pass": true
+    },
+    {
+      "name": "Focus 23_farmer_male",
+      "pass": true
+    },
+    {
+      "name": "Focus kanna",
+      "pass": true
+    },
+    {
+      "name": "Walk scene demonstration",
+      "pass": true
+    },
+    {
+      "name": "Wave scene demonstration",
+      "pass": true
+    },
+    {
+      "name": "Talk scene demonstration",
+      "pass": true
+    },
+    {
+      "name": "Nod scene demonstration",
+      "pass": true
+    },
+    {
+      "name": "ShakeHead scene demonstration",
+      "pass": true
+    },
+    {
+      "name": "Idle scene demonstration",
+      "pass": true
+    },
+    {
+      "name": "District isolation applies to residents",
+      "pass": true
+    },
+    {
+      "name": "Interior hides outdoor residents",
+      "pass": true
+    },
+    {
+      "name": "New01 can demonstrate while caretaker stays functional",
+      "pass": true
+    },
+    {
+      "name": "Town390px has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "No runtime exceptions",
+      "pass": true,
+      "info": []
+    }
+  ],
+  "errors": [],
+  "passed": 18,
+  "total": 18
+}

@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "status": "PASS",
+    "blender": "5.2.2 LTS",
+    "scenes": [
+      "01 Exterior",
+      "02 Floor 1 Interior",
+      "03 Floor 2 Interior",
+      "04 Floor 1 Plan",
+      "05 Floor 2 Plan"
+    ],
+    "meshObjects": 2054,
+    "triangles": 58564,
+    "sha256": "409e857aaa18a3acfd305167216970e1844a616a94c484773b4eac5527992f75",
+    "stairsAndFloorSlabs": "no volume intersections",
+    "unitCount": 1,
+    "wallSlabJoints": "continuous within 0.1 mm numerical tolerance",
+    "balconyJoints": "same level and edge-to-edge"
+  }
+}

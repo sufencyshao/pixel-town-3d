@@ -1,0 +1,592 @@
+{
+  "schemaVersion": 1,
+  "asset": "shared-motion.blend",
+  "rig": "ResidentMotionRig",
+  "boneCount": 65,
+  "fps": 30,
+  "coordinateSystem": "Blender +Z up, forward -Y; glTF export +Y up / +Z forward is exporter conversion, do not reinterpret bone-local offsets.",
+  "handBoneAxes": "UAL1 hand +Y along fingers, +X palm normal, +Z across palm. Prop socket quaternions align conventional prop +Z to palm +X where required.",
+  "socketUnits": "bone-local canonical metres, inherit recipient hand scale. rotationQuaternionWXYZ uses Blender ordering.",
+  "groundFit": "Custom floor transitions were fitted against skinned reference actor each sampled frame. Recipient body/clothes/foot ground fitting remains required. Existing22 clips preserved including source vertical offsets.",
+  "lyingChain": {
+    "enter": "LieDown",
+    "rest": "LieRest",
+    "exit": "GetUp",
+    "startEndPose": "LieDown end and GetUp start exactly match LieRest phase0; GetUp end matches grounded Idle phase0.",
+    "headSupport": "Lower right hand palm under right side of head; optional low pillow supports head and forearm; do not remove arm fold.",
+    "referencePillow": {
+      "center": [
+        -0.75,
+        0.02,
+        0.13
+      ],
+      "size": [
+        0.31,
+        0.22,
+        0.14
+      ],
+      "space": "armature local; optional artistic comfort, head already arm-supported"
+    }
+  },
+  "actions": [
+    {
+      "name": "Crouch",
+      "label": "蹲下休息",
+      "frameStart": 0,
+      "frameEnd": 88,
+      "fps": 30,
+      "duration": 2.933333,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Crouch_Idle_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "0f859a5f970715309c8654679f31b530b22f16828aa92c47235b4e20eea71873",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "CrouchWalk",
+      "label": "蹲行",
+      "frameStart": 0,
+      "frameEnd": 60,
+      "fps": 30,
+      "duration": 2.0,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Crouch_Fwd_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "3b5edb5a05bed5f09a9797c9f126b40518bc6199307e8deb1ffcc511bab37966",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Dance",
+      "label": "舞蹈",
+      "frameStart": 0,
+      "frameEnd": 30,
+      "fps": 30,
+      "duration": 1.0,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Dance_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "645e2340af4e4284686849c27b9c1c9d772edab84d414a147de8f1829aef63cb",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Drink",
+      "label": "喝水",
+      "frameStart": 0,
+      "frameEnd": 114,
+      "fps": 30,
+      "duration": 3.8,
+      "playback": "one-shot",
+      "source": "Original authored daily motion, 2026-10-18",
+      "sourceFile": "motion/build_motion.py",
+      "preservedFcurveSHA256": null,
+      "propSockets": [
+        {
+          "prop": "cup",
+          "bone": "hand_r",
+          "position": [
+            0,
+            0.105,
+            -0.005
+          ],
+          "rotationQuaternionWXYZ": [
+            0.7071067690849304,
+            -0.7071067690849304,
+            -0.0,
+            -0.0
+          ],
+          "size": [
+            0.075,
+            0.075,
+            0.105
+          ],
+          "axes": "prop +Z opening; cup becomes upright at lowered hand"
+        }
+      ],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Eat",
+      "label": "吃饭",
+      "frameStart": 0,
+      "frameEnd": 120,
+      "fps": 30,
+      "duration": 4.0,
+      "playback": "loop",
+      "source": "Original authored daily motion, 2026-10-18",
+      "sourceFile": "motion/build_motion.py",
+      "preservedFcurveSHA256": null,
+      "propSockets": [
+        {
+          "prop": "bowl",
+          "bone": "hand_l",
+          "position": [
+            0.035,
+            0.105,
+            0
+          ],
+          "rotationQuaternionWXYZ": [
+            0.7071068286895752,
+            0.0,
+            0.7071067690849304,
+            0.0
+          ],
+          "size": [
+            0.22,
+            0.22,
+            0.08
+          ],
+          "axes": "XY rim, +Z opening"
+        },
+        {
+          "prop": "spoon",
+          "bone": "hand_r",
+          "position": [
+            0,
+            0.075,
+            0
+          ],
+          "rotationQuaternionWXYZ": [
+            0.7071068286895752,
+            0.0,
+            0.7071067690849304,
+            0.0
+          ],
+          "size": [
+            0.025,
+            0.16,
+            0.012
+          ],
+          "axes": "+Y handle-to-tip"
+        }
+      ],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Feed",
+      "label": "跪姿喂食",
+      "frameStart": 0,
+      "frameEnd": 60,
+      "fps": 30,
+      "duration": 2.0,
+      "playback": "loop",
+      "source": "V6 original caretaker animation",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "943452c08d215a067df6ecd0362c5ac4a537780c256f32b17ab4ad30dee178bd",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "GetUp",
+      "label": "侧躺起身",
+      "frameStart": 0,
+      "frameEnd": 150,
+      "fps": 30,
+      "duration": 5.0,
+      "playback": "one-shot",
+      "source": "Original authored daily motion, 2026-10-18",
+      "sourceFile": "motion/build_motion.py",
+      "preservedFcurveSHA256": null,
+      "propSockets": [],
+      "support": "side floor, lower forearm under head, both knees flexed",
+      "recommendedBlendSeconds": 0.12
+    },
+    {
+      "name": "Idle",
+      "label": "站立呼吸",
+      "frameStart": 0,
+      "frameEnd": 60,
+      "fps": 30,
+      "duration": 2.0,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Idle_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "20c7f4b6a8dc5d7dca06dd29f688c2bf33ba92e8f3ab96af7d6eff3a44c8012f",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "JumpLand",
+      "label": "落地",
+      "frameStart": 0,
+      "frameEnd": 38,
+      "fps": 30,
+      "duration": 1.266667,
+      "playback": "one-shot",
+      "source": "Quaternius UAL1 / Jump_Land",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "fa72e4e7cab981fb9e33551f796ad299f0f642b8c46c39b86b6feb2864d11d23",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "JumpLoop",
+      "label": "空中姿态",
+      "frameStart": 0,
+      "frameEnd": 75,
+      "fps": 30,
+      "duration": 2.5,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Jump_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "3986d98eef5255d43e797ea1adcfb83f752a08c3350e1e7274c3938f7ffca3cd",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "JumpStart",
+      "label": "起跳",
+      "frameStart": 0,
+      "frameEnd": 40,
+      "fps": 30,
+      "duration": 1.333333,
+      "playback": "one-shot",
+      "source": "Quaternius UAL1 / Jump_Start",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "75bf9aa176f9d4782d9c36d01713e5e4fc29f02097fccb7e39e38cc69621f2fa",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "LieDown",
+      "label": "侧躺入睡",
+      "frameStart": 0,
+      "frameEnd": 150,
+      "fps": 30,
+      "duration": 5.0,
+      "playback": "one-shot",
+      "source": "Original authored daily motion, 2026-10-18",
+      "sourceFile": "motion/build_motion.py",
+      "preservedFcurveSHA256": null,
+      "propSockets": [],
+      "support": "side floor, lower forearm under head, both knees flexed",
+      "recommendedBlendSeconds": 0.12
+    },
+    {
+      "name": "LieRest",
+      "label": "侧躺呼吸",
+      "frameStart": 0,
+      "frameEnd": 120,
+      "fps": 30,
+      "duration": 4.0,
+      "playback": "loop",
+      "source": "Original authored daily motion, 2026-10-18",
+      "sourceFile": "motion/build_motion.py",
+      "preservedFcurveSHA256": null,
+      "propSockets": [],
+      "support": "side floor, lower forearm under head, both knees flexed",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Nod",
+      "label": "点头",
+      "frameStart": 0,
+      "frameEnd": 75,
+      "fps": 30,
+      "duration": 2.5,
+      "playback": "one-shot",
+      "source": "Quaternius UAL1 / Idle_Loop + original head nod",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "acf6b107443e65a4e8fcfad3ae57305d82e3f727525d39074e4eccff48a87f7a",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Pet",
+      "label": "跪姿轻抚",
+      "frameStart": 0,
+      "frameEnd": 60,
+      "fps": 30,
+      "duration": 2.0,
+      "playback": "loop",
+      "source": "V6 original caretaker animation",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "943452c08d215a067df6ecd0362c5ac4a537780c256f32b17ab4ad30dee178bd",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Phone",
+      "label": "看手机",
+      "frameStart": 0,
+      "frameEnd": 120,
+      "fps": 30,
+      "duration": 4.0,
+      "playback": "loop",
+      "source": "Original authored daily motion, 2026-10-18",
+      "sourceFile": "motion/build_motion.py",
+      "preservedFcurveSHA256": null,
+      "propSockets": [
+        {
+          "prop": "phone",
+          "bone": "hand_l",
+          "position": [
+            -0.032,
+            0.15,
+            0
+          ],
+          "rotationQuaternionWXYZ": [
+            0.7071068286895752,
+            0.0,
+            0.7071067690849304,
+            0.0
+          ],
+          "size": [
+            0.075,
+            0.145,
+            0.012
+          ],
+          "axes": "XY screen plane, -Z screen faces head"
+        }
+      ],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "PickUp",
+      "label": "拾取桌面物品",
+      "frameStart": 0,
+      "frameEnd": 25,
+      "fps": 30,
+      "duration": 0.833333,
+      "playback": "one-shot",
+      "source": "Quaternius UAL1 / PickUp_Table",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "9fef77eafc48f74d7fbc6d0323217f4dfa22605a1e4f3bbde74519758c41480c",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Read",
+      "label": "阅读",
+      "frameStart": 0,
+      "frameEnd": 120,
+      "fps": 30,
+      "duration": 4.0,
+      "playback": "loop",
+      "source": "Original authored daily motion, 2026-10-18",
+      "sourceFile": "motion/build_motion.py",
+      "preservedFcurveSHA256": null,
+      "propSockets": [
+        {
+          "prop": "open-book",
+          "bone": "hand_l",
+          "position": [
+            0.018,
+            0.145,
+            0
+          ],
+          "rotationQuaternionWXYZ": [
+            0.7071068286895752,
+            0.0,
+            0.7071067690849304,
+            0.0
+          ],
+          "size": [
+            0.21,
+            0.255,
+            0.028
+          ],
+          "axes": "XY pages, +Z page face, spine along local X"
+        }
+      ],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Run",
+      "label": "慢跑",
+      "frameStart": 0,
+      "frameEnd": 28,
+      "fps": 30,
+      "duration": 0.933333,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Jog_Fwd_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "0d654702b30c2298c3174c832e33831efea710a974cca71128010daf6f31275c",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "ShakeHead",
+      "label": "摇头",
+      "frameStart": 0,
+      "frameEnd": 75,
+      "fps": 30,
+      "duration": 2.5,
+      "playback": "one-shot",
+      "source": "Quaternius UAL1 / Idle_Loop + original head shake",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "79ec11cadce44cb664deea12b0aa9f2def9929f7fea86f494d6251202304b9ad",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Sit",
+      "label": "坐着",
+      "frameStart": 0,
+      "frameEnd": 50,
+      "fps": 30,
+      "duration": 1.666667,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Sitting_Idle_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "1d0c5e81bc981f2f8ad42fb980ca0862fc0ba151bc13a8a383c071dd06f7c451",
+      "propSockets": [],
+      "support": "seat (runtime seat height)",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "SitDown",
+      "label": "坐下",
+      "frameStart": 0,
+      "frameEnd": 39,
+      "fps": 30,
+      "duration": 1.3,
+      "playback": "one-shot",
+      "source": "Quaternius UAL1 / Sitting_Enter",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "28146565f56acabb615159ed2c41cde7dc6a26029807ef538b5b31bf06d92419",
+      "propSockets": [],
+      "support": "seat (runtime seat height)",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "StandUp",
+      "label": "站起",
+      "frameStart": 0,
+      "frameEnd": 31,
+      "fps": 30,
+      "duration": 1.033333,
+      "playback": "one-shot",
+      "source": "Quaternius UAL1 / Sitting_Exit",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "67a20ad582e5726207cc61fd35c2fe543132092faf26791cdb74aa2abc3b5b9c",
+      "propSockets": [],
+      "support": "seat (runtime seat height)",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Stretch",
+      "label": "伸展",
+      "frameStart": 0,
+      "frameEnd": 150,
+      "fps": 30,
+      "duration": 5.0,
+      "playback": "one-shot",
+      "source": "Original authored daily motion, 2026-10-18",
+      "sourceFile": "motion/build_motion.py",
+      "preservedFcurveSHA256": null,
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Swim",
+      "label": "向前游泳",
+      "frameStart": 0,
+      "frameEnd": 40,
+      "fps": 30,
+      "duration": 1.333333,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Swim_Fwd_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "1cd46594bd67e4c6d6360b23d14be1be6410ee52bd3e74bf2b45296f1f70b901",
+      "propSockets": [],
+      "support": "water plane",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Talk",
+      "label": "交流",
+      "frameStart": 0,
+      "frameEnd": 88,
+      "fps": 30,
+      "duration": 2.933333,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Idle_Talking_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "d5a66d109c30eddae42b7ba07a84ed192264babd044aeba472ca6441904388de",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "ThrowBall",
+      "label": "投球",
+      "frameStart": 0,
+      "frameEnd": 42,
+      "fps": 30,
+      "duration": 1.4,
+      "playback": "one-shot",
+      "source": "V6 original caretaker animation",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "54bfccecbac0ec89aa2a2d019ed1d3d4625740264a36ef43a68a0f4f05831915",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Walk",
+      "label": "走路",
+      "frameStart": 0,
+      "frameEnd": 32,
+      "fps": 30,
+      "duration": 1.066667,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Walk_Loop",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "4beb5e197be126e8e607dbfbe47ab4eac17a299f84b4ab76212ccb404dd2c85e",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Wave",
+      "label": "挥手（V1.1肘轴）",
+      "frameStart": 0,
+      "frameEnd": 72,
+      "fps": 30,
+      "duration": 2.4,
+      "playback": "loop",
+      "source": "C1.1 exact corrected shoulder roll + elbow X hinge",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "c4101ba6277708b7cdfc9945d8cc9e89bdc9b72b3d954b201fef631a9696d34e",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    },
+    {
+      "name": "Work",
+      "label": "跪姿作业",
+      "frameStart": 0,
+      "frameEnd": 156,
+      "fps": 30,
+      "duration": 5.2,
+      "playback": "loop",
+      "source": "Quaternius UAL1 / Fixing_Kneeling",
+      "sourceFile": "whole-town-animals-3d-v6/assets/people/Ache-caretaker.blend",
+      "preservedFcurveSHA256": "c016b804903167e591a49af296a27c8eb17c0e6a90bd2fb4cbf3f0bf16bf401c",
+      "propSockets": [],
+      "support": "ground",
+      "recommendedBlendSeconds": 0.25
+    }
+  ]
+}

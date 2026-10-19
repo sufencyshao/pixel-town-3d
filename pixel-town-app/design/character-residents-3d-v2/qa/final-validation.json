@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-18",
+  "residentCount": 45,
+  "actionsPerResident": 30,
+  "nativeBonesPerResident": 65,
+  "glbChecks": [
+    5625,
+    5625
+  ],
+  "previewModelBytesMatch": 45,
+  "caretakerBytesMatch": true,
+  "screenshots": 270,
+  "protectedSources": {
+    "character-natural-3d-v1": {
+      "files": 74,
+      "mismatches": []
+    },
+    "whole-town-animals-3d-v6": {
+      "files": 179,
+      "mismatches": []
+    },
+    "original2D": {
+      "files": 46,
+      "mismatches": []
+    }
+  },
+  "status": "Initial asset delivery; visual refinement and final user approval remain separate."
+}

@@ -1,0 +1,5 @@
+Bicolor Cat by kenchoo (https://sketchfab.com/kenchoo)
+Original: https://sketchfab.com/3d-models/bicolor-cat-e623a618ca344a8393d7ba4d63ec23cf
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Retrieved byte-identical from code4fukui/vr-cats, commit 0b5f3b586cdcda2d33cca54b34ce80f52f46376c.
+Source glTF embeds the author, license and original URL. No mesh/material/rig/animation edits.

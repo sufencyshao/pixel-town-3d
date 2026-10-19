@@ -1,0 +1,57 @@
+{
+  "id": "19_tortoise_hermann",
+  "sprite": "19_tortoise_hermann",
+  "assetFolder": "pets/19_tortoise_hermann",
+  "kind": "animal",
+  "name": "苔背",
+  "sex": "未指定",
+  "role": "陆龟",
+  "animal": {
+    "species": "陆龟",
+    "breed": "赫曼陆龟",
+    "coat": "黄黑甲纹",
+    "bodySize": "小",
+    "scale": 0.31,
+    "rig": "tortoise",
+    "senses": "极低视点，依据近处食物、障碍、温度与遮阴线索缓慢移动。",
+    "behavior": "缓步、探头、缩头、啃食、休息",
+    "allowedActions": [
+      "idle",
+      "walk",
+      "eat",
+      "rest",
+      "observe",
+      "hide",
+      "bask",
+      "forage"
+    ],
+    "habitat": "有日照遮阴的围栏",
+    "locomotion": "四足运动；禁止双足直立",
+    "speedFactor": 0.32,
+    "nonAnthropomorphic": true
+  },
+  "persona": {
+    "personality": "缓慢，先探头再移动",
+    "background": "在有日照遮阴的围栏生活的赫曼陆龟个体",
+    "interests": "缓步、探头、缩头、啃食、休息",
+    "speech": "仅自然叫声与姿态；不使用人类语言"
+  },
+  "presets": [
+    {
+      "id": "familiar",
+      "label": "熟悉环境",
+      "personality": "缓慢，先探头再移动",
+      "background": "已熟悉有日照遮阴的围栏的气味与安全位置",
+      "interests": "可接近食物、同类线索与安全藏身处",
+      "speech": "仅物种自然声音与身体姿态"
+    },
+    {
+      "id": "cautious",
+      "label": "刚到新环境",
+      "personality": "警觉，接近刺激前先观察，允许躲藏与退让",
+      "background": "刚进入有日照遮阴的围栏，逐渐建立安全感",
+      "interests": "熟悉照护者气味与退路",
+      "speech": "仅物种自然声音与身体姿态"
+    }
+  ]
+}

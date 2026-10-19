@@ -1,0 +1,442 @@
+[
+  {
+    "id": "02_hero_female",
+    "zone": "E",
+    "cell": 155319,
+    "position": [
+      -4.5,
+      0.09,
+      14.0
+    ]
+  },
+  {
+    "id": "03_barista_male",
+    "zone": "H",
+    "cell": 236454,
+    "position": [
+      -4.5,
+      0.09,
+      81.5
+    ]
+  },
+  {
+    "id": "04_baker_male",
+    "zone": "H",
+    "cell": 236460,
+    "position": [
+      -1.5,
+      0.09,
+      81.5
+    ]
+  },
+  {
+    "id": "05_carpenter_male",
+    "zone": "D",
+    "cell": 155148,
+    "position": [
+      -90.0,
+      0.09,
+      14.0
+    ]
+  },
+  {
+    "id": "06_postman_male",
+    "zone": "B",
+    "cell": 66358,
+    "position": [
+      -11.0,
+      0.09,
+      -60.0
+    ]
+  },
+  {
+    "id": "07_police_male",
+    "zone": "B",
+    "cell": 59768,
+    "position": [
+      -0.5,
+      0.09,
+      -65.5
+    ]
+  },
+  {
+    "id": "08_doctor_male",
+    "zone": "B",
+    "cell": 59772,
+    "position": [
+      1.5,
+      0.09,
+      -65.5
+    ]
+  },
+  {
+    "id": "09_gardener_male",
+    "zone": "H",
+    "cell": 236471,
+    "position": [
+      4.0,
+      0.09,
+      81.5
+    ]
+  },
+  {
+    "id": "10_musician_male",
+    "zone": "D",
+    "cell": 155152,
+    "position": [
+      -88.0,
+      0.09,
+      14.0
+    ]
+  },
+  {
+    "id": "11_chef_male",
+    "zone": "H",
+    "cell": 236475,
+    "position": [
+      6.0,
+      0.09,
+      81.5
+    ]
+  },
+  {
+    "id": "12_florist_female",
+    "zone": "H",
+    "cell": 244855,
+    "position": [
+      -11.0,
+      0.09,
+      88.5
+    ]
+  },
+  {
+    "id": "13_pastrychef_female",
+    "zone": "H",
+    "cell": 252687,
+    "position": [
+      -1.5,
+      0.09,
+      95.0
+    ]
+  },
+  {
+    "id": "14_teacher_female",
+    "zone": "B",
+    "cell": 57374,
+    "position": [
+      4.5,
+      0.09,
+      -67.5
+    ]
+  },
+  {
+    "id": "15_nurse_female",
+    "zone": "B",
+    "cell": 68762,
+    "position": [
+      -11.0,
+      0.09,
+      -58.0
+    ]
+  },
+  {
+    "id": "16_librarian_female",
+    "zone": "B",
+    "cell": 57967,
+    "position": [
+      0.5,
+      0.09,
+      -67.0
+    ]
+  },
+  {
+    "id": "17_cafeowner_female",
+    "zone": "H",
+    "cell": 252693,
+    "position": [
+      1.5,
+      0.09,
+      95.0
+    ]
+  },
+  {
+    "id": "18_artist_female",
+    "zone": "D",
+    "cell": 152748,
+    "position": [
+      -88.0,
+      0.09,
+      12.0
+    ]
+  },
+  {
+    "id": "19_vet_female",
+    "zone": "B",
+    "cell": 80807,
+    "position": [
+      1.5,
+      0.09,
+      -48.0
+    ]
+  },
+  {
+    "id": "20_student_female",
+    "zone": "B",
+    "cell": 57370,
+    "position": [
+      2.5,
+      0.09,
+      -67.5
+    ]
+  },
+  {
+    "id": "21_firefighter_male",
+    "zone": "I",
+    "cell": 235402,
+    "position": [
+      70.5,
+      0.13,
+      80.5
+    ]
+  },
+  {
+    "id": "22_grocer_male",
+    "zone": "H",
+    "cell": 252699,
+    "position": [
+      4.5,
+      0.09,
+      95.0
+    ]
+  },
+  {
+    "id": "23_farmer_male",
+    "zone": "G",
+    "cell": 242290,
+    "position": [
+      -91.5,
+      0.1,
+      86.5
+    ]
+  },
+  {
+    "id": "24_driver_male",
+    "zone": "I",
+    "cell": 232998,
+    "position": [
+      70.5,
+      0.13,
+      78.5
+    ]
+  },
+  {
+    "id": "25_hairdresser_male",
+    "zone": "H",
+    "cell": 252681,
+    "position": [
+      -4.5,
+      0.09,
+      95.0
+    ]
+  },
+  {
+    "id": "26_baker_male",
+    "zone": "H",
+    "cell": 253886,
+    "position": [
+      -3.0,
+      0.09,
+      96.0
+    ]
+  },
+  {
+    "id": "27_librarian_male",
+    "zone": "B",
+    "cell": 71166,
+    "position": [
+      -11.0,
+      0.09,
+      -56.0
+    ]
+  },
+  {
+    "id": "28_mechanic_male",
+    "zone": "H",
+    "cell": 253892,
+    "position": [
+      0.0,
+      0.09,
+      96.0
+    ]
+  },
+  {
+    "id": "29_innkeeper_male",
+    "zone": "I",
+    "cell": 230018,
+    "position": [
+      83.0,
+      0.13,
+      76.0
+    ]
+  },
+  {
+    "id": "30_florist_male",
+    "zone": "H",
+    "cell": 252703,
+    "position": [
+      6.5,
+      0.09,
+      95.0
+    ]
+  },
+  {
+    "id": "31_firefighter_female",
+    "zone": "I",
+    "cell": 228813,
+    "position": [
+      81.5,
+      0.13,
+      75.0
+    ]
+  },
+  {
+    "id": "32_grocer_female",
+    "zone": "H",
+    "cell": 252677,
+    "position": [
+      -6.5,
+      0.09,
+      95.0
+    ]
+  },
+  {
+    "id": "33_farmer_female",
+    "zone": "G",
+    "cell": 242294,
+    "position": [
+      -89.5,
+      0.1,
+      86.5
+    ]
+  },
+  {
+    "id": "34_driver_female",
+    "zone": "I",
+    "cell": 234197,
+    "position": [
+      69.0,
+      0.13,
+      79.5
+    ]
+  },
+  {
+    "id": "35_hairdresser_female",
+    "zone": "H",
+    "cell": 255091,
+    "position": [
+      -1.5,
+      0.09,
+      97.0
+    ]
+  },
+  {
+    "id": "36_barista_female",
+    "zone": "H",
+    "cell": 253898,
+    "position": [
+      3.0,
+      0.09,
+      96.0
+    ]
+  },
+  {
+    "id": "37_carpenter_female",
+    "zone": "D",
+    "cell": 157556,
+    "position": [
+      -88.0,
+      0.09,
+      16.0
+    ]
+  },
+  {
+    "id": "38_postal_female",
+    "zone": "B",
+    "cell": 80803,
+    "position": [
+      -0.5,
+      0.09,
+      -48.0
+    ]
+  },
+  {
+    "id": "39_police_female",
+    "zone": "B",
+    "cell": 82012,
+    "position": [
+      3.0,
+      0.09,
+      -47.0
+    ]
+  },
+  {
+    "id": "40_doctor_female",
+    "zone": "B",
+    "cell": 82016,
+    "position": [
+      5.0,
+      0.09,
+      -47.0
+    ]
+  },
+  {
+    "id": "hai-qin-yan",
+    "zone": "E",
+    "cell": 155325,
+    "position": [
+      -1.5,
+      0.09,
+      14.0
+    ]
+  },
+  {
+    "id": "kanna",
+    "zone": "E",
+    "cell": 155331,
+    "position": [
+      1.5,
+      0.09,
+      14.0
+    ]
+  },
+  {
+    "id": "rui",
+    "zone": "E",
+    "cell": 155337,
+    "position": [
+      4.5,
+      0.09,
+      14.0
+    ]
+  },
+  {
+    "id": "xin",
+    "zone": "E",
+    "cell": 157723,
+    "position": [
+      -4.5,
+      0.09,
+      16.0
+    ]
+  },
+  {
+    "id": "xin-fragrance",
+    "zone": "E",
+    "cell": 157729,
+    "position": [
+      -1.5,
+      0.09,
+      16.0
+    ]
+  }
+]

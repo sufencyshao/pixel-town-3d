@@ -1,0 +1,35 @@
+{
+  "id": "01_hero_male",
+  "name": "阿澈",
+  "style": "C-natural",
+  "bones": 65,
+  "animations": [
+    "Idle",
+    "Walk",
+    "Wave",
+    "Talk",
+    "Run",
+    "Crouch",
+    "CrouchWalk",
+    "SitDown",
+    "Sit",
+    "StandUp",
+    "PickUp",
+    "Work",
+    "Dance",
+    "Swim",
+    "JumpStart",
+    "JumpLoop",
+    "JumpLand",
+    "Nod",
+    "ShakeHead"
+  ],
+  "morphs": [
+    "Blink",
+    "Smile",
+    "Talk"
+  ],
+  "source": "selected C sample + Quaternius UAL1 + Modular Men Casual sneakers",
+  "status": "first character refinement, pending visual feedback",
+  "wave_revision": "1.1 shoulder roll and elbow hinge correction"
+}

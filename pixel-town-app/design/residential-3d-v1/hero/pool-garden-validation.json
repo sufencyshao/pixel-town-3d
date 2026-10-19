@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "pathWidthMetres": 1.25,
+  "terraceJoin": [
+    4.35,
+    -6.15,
+    0.2
+  ],
+  "poolDeckJoin": [
+    8,
+    -4,
+    0.26
+  ],
+  "landscapeBoundsChecked": 1095,
+  "vegetationOverPath": false
+}

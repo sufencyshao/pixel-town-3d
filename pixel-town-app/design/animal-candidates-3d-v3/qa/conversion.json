@@ -1,0 +1,111 @@
+{
+  "rabbit": {
+    "sourceSha256": "bb6deef1ee91b21380355138374cae87946451ce864502b1af68eb60f4750843",
+    "sourceGeometryUnchanged": {
+      "Fur": {
+        "vertices": 1303,
+        "coordinates": "d15b7b44ce99a8f6f435675d95eec7468e4ee7deddf7f1403104a92e08984cd1"
+      },
+      "Rabbit": {
+        "vertices": 893,
+        "coordinates": "b2fa66d01b4888cc51a6edb8df4e2e55200a390d4a729188b4bd84713d8c4c90"
+      }
+    },
+    "sourceActions": [
+      {
+        "name": "Basic",
+        "frames": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "Dead",
+        "frames": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "Dying.000",
+        "frames": [
+          0.0,
+          20.0
+        ]
+      },
+      {
+        "name": "Dying.001",
+        "frames": [
+          0.0,
+          20.0
+        ]
+      },
+      {
+        "name": "Guard",
+        "frames": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "Guarding",
+        "frames": [
+          0.0,
+          400.0
+        ]
+      },
+      {
+        "name": "Jump",
+        "frames": [
+          0.0,
+          24.0
+        ]
+      },
+      {
+        "name": "Running",
+        "frames": [
+          0.0,
+          16.0
+        ]
+      },
+      {
+        "name": "Sitting.000",
+        "frames": [
+          0.0,
+          550.0
+        ]
+      },
+      {
+        "name": "Sitting.001",
+        "frames": [
+          0.0,
+          550.0
+        ]
+      }
+    ],
+    "bones": 37,
+    "shaderTranslation": "Reconnected original packed diffuse/alpha/normal maps for PBR export; original UVs/geometry/rig/actions retained.",
+    "exportSha256": "7361b5580403d28551dd9f0cd67790b384d6f586c1d406ee90aadfd86d0b561b"
+  },
+  "bird": {
+    "sourceSha256": "ce694dea3a10b268f33217c665ff16e6b8e7222acbf9ceac178814cf5d7fb33a",
+    "sourceGeometryUnchanged": {
+      "Bird": {
+        "vertices": 716,
+        "coordinates": "fa087d6d3710b8c948f7ac408f67a65d4a5c9cc2c67047b364c64b2f0fd11bff"
+      }
+    },
+    "sourceActions": [
+      {
+        "name": "Bird ArmatureAction",
+        "frames": [
+          0.0,
+          171.0
+        ]
+      }
+    ],
+    "bones": 19,
+    "shaderTranslation": "Reconnected original packed diffuse/alpha/normal maps for PBR export; original UVs/geometry/rig/actions retained.",
+    "exportSha256": "91b50fef11a5c97d10478a460d165715883c6498490717a45cb5f4ea7951ec19"
+  }
+}

@@ -1,0 +1,1060 @@
+{
+  "status": "PASS",
+  "date": "2026-10-17",
+  "version": "1.1-final-animal-radii-and-bird-access",
+  "sourceBlendSha256": "131bace9631887565f12a61da65585c98c87b658d420886fa3c6c3d76fba92e7",
+  "sourceUnchanged": true,
+  "spacing": 0.5,
+  "minimumBodyClearance": 0.42,
+  "finalAnimalManifestSha256": "1e04a748f7e61d886399a0f706ceecd8e89ad1331007fa8908c73c939752d43b",
+  "ponyClearance": 0.81,
+  "supportTriangles": 7011,
+  "publicSupportTriangles": 5857,
+  "solidTriangles": 889868,
+  "habitats": [
+    {
+      "id": "a-garden-cats",
+      "cells": 1415,
+      "candidateCells": 1434,
+      "discardedComponents": 18,
+      "removedUnsafeEdges": 1,
+      "edgeSamples": 2665,
+      "finalMaximumAnimalRadius": 0.28876,
+      "sampledClearance": 0.42,
+      "heightRange": [
+        0.0,
+        0.07
+      ],
+      "center": [
+        -88.0,
+        0.07,
+        -91.0
+      ]
+    },
+    {
+      "id": "b-library-cat",
+      "cells": 89,
+      "candidateCells": 89,
+      "discardedComponents": 0,
+      "removedUnsafeEdges": 0,
+      "edgeSamples": 153,
+      "finalMaximumAnimalRadius": 0.22299,
+      "sampledClearance": 0.42,
+      "heightRange": [
+        0.0,
+        0.09
+      ],
+      "center": [
+        1.0,
+        0.09,
+        -78.0
+      ]
+    },
+    {
+      "id": "h-florist-courtyard",
+      "cells": 105,
+      "candidateCells": 105,
+      "discardedComponents": 0,
+      "removedUnsafeEdges": 0,
+      "edgeSamples": 188,
+      "finalMaximumAnimalRadius": 0.39615,
+      "sampledClearance": 0.43,
+      "heightRange": [
+        0.0,
+        0.09
+      ],
+      "center": [
+        1.0,
+        0.09,
+        78.0
+      ]
+    },
+    {
+      "id": "i-inn-garden",
+      "cells": 130,
+      "candidateCells": 248,
+      "discardedComponents": 111,
+      "removedUnsafeEdges": 7,
+      "edgeSamples": 233,
+      "finalMaximumAnimalRadius": 0.22459,
+      "sampledClearance": 0.42,
+      "heightRange": [
+        0.13,
+        0.13
+      ],
+      "center": [
+        68.0,
+        0.13,
+        49.5
+      ]
+    },
+    {
+      "id": "f-dog-meadow",
+      "cells": 865,
+      "candidateCells": 865,
+      "discardedComponents": 0,
+      "removedUnsafeEdges": 0,
+      "edgeSamples": 1572,
+      "finalMaximumAnimalRadius": 0.44715,
+      "sampledClearance": 0.48,
+      "heightRange": [
+        0.044,
+        0.044
+      ],
+      "center": [
+        64.0,
+        0.044,
+        13.0
+      ]
+    },
+    {
+      "id": "f-bird-sanctuary",
+      "cells": 88,
+      "candidateCells": 92,
+      "discardedComponents": 4,
+      "removedUnsafeEdges": 0,
+      "edgeSamples": 152,
+      "finalMaximumAnimalRadius": 0.1002,
+      "sampledClearance": 0.42,
+      "heightRange": [
+        0.0,
+        0.0
+      ],
+      "center": [
+        87.0,
+        0.0,
+        -21.0
+      ]
+    },
+    {
+      "id": "g-orchard-dog",
+      "cells": 138,
+      "candidateCells": 138,
+      "discardedComponents": 0,
+      "removedUnsafeEdges": 0,
+      "edgeSamples": 247,
+      "finalMaximumAnimalRadius": 0.403,
+      "sampledClearance": 0.44,
+      "heightRange": [
+        -0.0,
+        -0.0
+      ],
+      "center": [
+        -63.0,
+        0.0,
+        61.0
+      ]
+    },
+    {
+      "id": "g-rabbit-garden",
+      "cells": 180,
+      "candidateCells": 180,
+      "discardedComponents": 0,
+      "removedUnsafeEdges": 0,
+      "edgeSamples": 332,
+      "finalMaximumAnimalRadius": 0.1544,
+      "sampledClearance": 0.42,
+      "heightRange": [
+        0.0,
+        0.0
+      ],
+      "center": [
+        -84.0,
+        0.0,
+        54.0
+      ]
+    },
+    {
+      "id": "g-guinea-garden",
+      "cells": 99,
+      "candidateCells": 99,
+      "discardedComponents": 0,
+      "removedUnsafeEdges": 0,
+      "edgeSamples": 178,
+      "finalMaximumAnimalRadius": 0.1164,
+      "sampledClearance": 0.42,
+      "heightRange": [
+        0.0,
+        0.0
+      ],
+      "center": [
+        -83.0,
+        0.0,
+        66.0
+      ]
+    },
+    {
+      "id": "g-tortoise-garden",
+      "cells": 78,
+      "candidateCells": 78,
+      "discardedComponents": 0,
+      "removedUnsafeEdges": 0,
+      "edgeSamples": 137,
+      "finalMaximumAnimalRadius": 0.11744,
+      "sampledClearance": 0.42,
+      "heightRange": [
+        0.0,
+        0.1
+      ],
+      "center": [
+        -57.0,
+        0.0,
+        68.5
+      ]
+    },
+    {
+      "id": "g-pony-paddock",
+      "cells": 175,
+      "candidateCells": 175,
+      "discardedComponents": 0,
+      "removedUnsafeEdges": 0,
+      "edgeSamples": 318,
+      "finalMaximumAnimalRadius": 0.77195,
+      "sampledClearance": 0.81,
+      "heightRange": [
+        -0.0,
+        -0.0
+      ],
+      "center": [
+        -74.0,
+        0.0,
+        61.0
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "a-garden-cats",
+      "connectedToPublic": true,
+      "connectorCells": 10,
+      "publicEntry": [
+        -100.5,
+        0.07,
+        -89.0
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "b-library-cat",
+      "connectedToPublic": true,
+      "connectorCells": 3,
+      "publicEntry": [
+        1.0,
+        0.09,
+        -77.5
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "h-florist-courtyard",
+      "connectedToPublic": true,
+      "connectorCells": 1,
+      "publicEntry": [
+        1.0,
+        0.09,
+        79.0
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "i-inn-garden",
+      "connectedToPublic": true,
+      "connectorCells": 1,
+      "publicEntry": [
+        63.5,
+        0.13,
+        49.0
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "f-dog-meadow",
+      "connectedToPublic": true,
+      "connectorCells": 35,
+      "publicEntry": [
+        64.0,
+        0.1,
+        3.0
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "f-bird-sanctuary",
+      "connectedToPublic": true,
+      "connectorCells": 35,
+      "publicEntry": [
+        100.5,
+        0.1,
+        -19.0
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "g-orchard-dog",
+      "connectedToPublic": true,
+      "connectorCells": 19,
+      "publicEntry": [
+        -53.5,
+        0.1,
+        60.5
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "g-rabbit-garden",
+      "connectedToPublic": true,
+      "connectorCells": 11,
+      "publicEntry": [
+        -89.5,
+        0.1,
+        54.0
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "g-guinea-garden",
+      "connectedToPublic": true,
+      "connectorCells": 12,
+      "publicEntry": [
+        -83.5,
+        0.1,
+        71.5
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "g-tortoise-garden",
+      "connectedToPublic": true,
+      "connectorCells": 5,
+      "publicEntry": [
+        -57.5,
+        0.1,
+        71.5
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    },
+    {
+      "id": "g-pony-paddock",
+      "connectedToPublic": true,
+      "connectorCells": 23,
+      "publicEntry": [
+        -74.5,
+        0.1,
+        71.5
+      ],
+      "reachableFromMainPublicNetwork": true,
+      "originalEntryPreserved": true
+    }
+  ],
+  "allHabitatsMainNetworkReachable": true,
+  "publicHumanGraphPreserved": true,
+  "publicHumanGraphSha256": "67fe0576f9137989d3de783f76ac0dc42e87628ed27798d4870e8be52cac05bb",
+  "publicCells": 63444,
+  "humanReachableCells": 65061,
+  "publicComponents": 16,
+  "localEdgeMidpointSamples": 6157,
+  "humanEdgeMidpointSamples": 121913,
+  "removedUnsafeHumanCells": 4,
+  "flightRoutes": 39,
+  "birdRestSlots": 4,
+  "flightVolumeSamples": 2646,
+  "birdRuntimePropsValidated": true,
+  "assertions": 15927,
+  "sampleMethod": "Final asset maximum animal radius plus >=3cm margin; actual upward ground triangles, perimeter support, 7 overlapping body-height sphere samples, four-neighbor connected components and half-edge samples. Bird flight body root+[0,.20,0] radius .18 at <=10cm samples, including declared canopy, perch posts and crossbars, aviary corner posts, bowls and resting pad.",
+  "limitations": [
+    "Sampled graph, not continuous navmesh or exhaustive collision proof.",
+    "Runtime must use cardinal cells or validate additional shortcuts; arbitrary diagonal/string-pulled paths can cross obstacles.",
+    "Ground-agent dynamic avoidance and additional props need runtime validation. Bird props must match shelterCanopy and flightNodes contract.",
+    "No indoor/stair routing, road traffic logic, true species welfare or social inference."
+  ],
+  "elapsedSeconds": 4.18,
+  "geometryInventory": [
+    {
+      "name": "A__Paths",
+      "boundsBlender": [
+        [
+          -125.0,
+          42.5,
+          0.0
+        ],
+        [
+          -50.0,
+          105.0,
+          0.07
+        ]
+      ],
+      "materials": [
+        "stone.001"
+      ]
+    },
+    {
+      "name": "A__Landscape",
+      "boundsBlender": [
+        [
+          -125.0,
+          42.5,
+          -0.3
+        ],
+        [
+          -50.0,
+          105.0,
+          3.9375
+        ]
+      ],
+      "materials": [
+        "grass.001",
+        "wood.001",
+        "leafLight.001",
+        "leaf.001",
+        "white.001",
+        "flowerPink.001",
+        "flowerYellow.001",
+        "lavender.001"
+      ]
+    },
+    {
+      "name": "A__A01__Landscape",
+      "boundsBlender": [
+        [
+          -122.0257,
+          84.75,
+          -0.3
+        ],
+        [
+          -101.9743,
+          102.75,
+          3.6225
+        ]
+      ],
+      "materials": [
+        "grass.002",
+        "leaf.002",
+        "stone.002",
+        "roof.001",
+        "leafLight.002",
+        "lightwood.002",
+        "wood.002",
+        "sage.002"
+      ]
+    },
+    {
+      "name": "A__A02__Landscape",
+      "boundsBlender": [
+        [
+          -73.0257,
+          84.75,
+          -0.3
+        ],
+        [
+          -52.9743,
+          102.75,
+          3.6225
+        ]
+      ],
+      "materials": [
+        "grass.002",
+        "leaf.002",
+        "stone.002",
+        "roof.001",
+        "leafLight.002",
+        "lightwood.002",
+        "wood.002",
+        "sage.002"
+      ]
+    },
+    {
+      "name": "A__A03__Landscape",
+      "boundsBlender": [
+        [
+          -122.0257,
+          64.75,
+          -0.3
+        ],
+        [
+          -101.9743,
+          82.75,
+          3.6225
+        ]
+      ],
+      "materials": [
+        "grass.002",
+        "leaf.002",
+        "stone.002",
+        "roof.001",
+        "leafLight.002",
+        "lightwood.002",
+        "wood.002",
+        "sage.002"
+      ]
+    },
+    {
+      "name": "A__A04__Landscape",
+      "boundsBlender": [
+        [
+          -73.0257,
+          64.75,
+          -0.3
+        ],
+        [
+          -52.9743,
+          82.75,
+          3.6225
+        ]
+      ],
+      "materials": [
+        "grass.002",
+        "leaf.002",
+        "stone.002",
+        "roof.001",
+        "leafLight.002",
+        "lightwood.002",
+        "wood.002",
+        "sage.002"
+      ]
+    },
+    {
+      "name": "A__A05__Landscape",
+      "boundsBlender": [
+        [
+          -122.0257,
+          44.75,
+          -0.3
+        ],
+        [
+          -101.9743,
+          62.75,
+          3.6225
+        ]
+      ],
+      "materials": [
+        "grass.002",
+        "leaf.002",
+        "stone.002",
+        "roof.001",
+        "leafLight.002",
+        "lightwood.002",
+        "wood.002",
+        "sage.002"
+      ]
+    },
+    {
+      "name": "A__A06__Landscape",
+      "boundsBlender": [
+        [
+          -73.0257,
+          44.75,
+          -0.3
+        ],
+        [
+          -52.9743,
+          62.75,
+          3.6225
+        ]
+      ],
+      "materials": [
+        "grass.002",
+        "leaf.002",
+        "stone.002",
+        "roof.001",
+        "leafLight.002",
+        "lightwood.002",
+        "wood.002",
+        "sage.002"
+      ]
+    },
+    {
+      "name": "A__A07__Landscape",
+      "boundsBlender": [
+        [
+          -99.5257,
+          45.75,
+          -1.24
+        ],
+        [
+          -75.4743,
+          69.75,
+          3.6225
+        ]
+      ],
+      "materials": [
+        "grass.006",
+        "leaf.006",
+        "stone.006",
+        "roof.002",
+        "leafLight.006",
+        "lightwood.006",
+        "wood.006",
+        "sage.006",
+        "white.006",
+        "blue.001",
+        "tile.002",
+        "water.001",
+        "metal.002",
+        "fabric.002",
+        "earth.001",
+        "darkgreen.006",
+        "tomato.001",
+        "flowerYellow.002",
+        "flowerPink.002",
+        "lavender.002"
+      ]
+    },
+    {
+      "name": "B__Paths",
+      "boundsBlender": [
+        [
+          -42.5,
+          42.5,
+          0.0
+        ],
+        [
+          42.5,
+          105.0,
+          0.09
+        ]
+      ],
+      "materials": [
+        "gravel"
+      ]
+    },
+    {
+      "name": "B__Landscape",
+      "boundsBlender": [
+        [
+          -39.813,
+          47.6486,
+          -0.05
+        ],
+        [
+          38.8107,
+          104.2193,
+          3.995
+        ]
+      ],
+      "materials": [
+        "wood.007",
+        "leafLight.007",
+        "leaf.007",
+        "white.007",
+        "flowerPink.003",
+        "flowerYellow.003",
+        "lavender.003"
+      ]
+    },
+    {
+      "name": "B__Ground",
+      "boundsBlender": [
+        [
+          -42.5,
+          42.5,
+          -0.36
+        ],
+        [
+          42.5,
+          105.0,
+          0.0
+        ]
+      ],
+      "materials": [
+        "grass.007"
+      ]
+    },
+    {
+      "name": "F__Pet_Lawn",
+      "boundsBlender": [
+        [
+          54.625,
+          -22.5,
+          0.0
+        ],
+        [
+          73.625,
+          -3.5,
+          0.044
+        ]
+      ],
+      "materials": [
+        "meadow.001"
+      ]
+    },
+    {
+      "name": "F__Pet_Fence",
+      "boundsBlender": [
+        [
+          54.575,
+          -22.55,
+          0.0
+        ],
+        [
+          73.675,
+          -3.45,
+          1.2
+        ]
+      ],
+      "materials": [
+        "wood.010",
+        "lightwood.010",
+        "sage.012"
+      ]
+    },
+    {
+      "name": "F__Pet_Equipment",
+      "boundsBlender": [
+        [
+          56.625,
+          -18.31,
+          0.0
+        ],
+        [
+          71.745,
+          -5.78,
+          1.31
+        ]
+      ],
+      "materials": [
+        "sage.012",
+        "wood.010",
+        "roof.006",
+        "lightwood.010",
+        "darkgreen.010",
+        "metal.009",
+        "water.003"
+      ]
+    },
+    {
+      "name": "F__Paths",
+      "boundsBlender": [
+        [
+          51.25,
+          -40.0,
+          0.1
+        ],
+        [
+          115.325,
+          40.0,
+          0.1
+        ]
+      ],
+      "materials": [
+        "path.001"
+      ]
+    },
+    {
+      "name": "F__Habitat",
+      "boundsBlender": [
+        [
+          81.3964,
+          5.736,
+          -0.187
+        ],
+        [
+          98.8405,
+          26.9653,
+          5.395
+        ]
+      ],
+      "materials": [
+        "wood.010",
+        "leafLight.010",
+        "leaf.012",
+        "flowerWhite",
+        "flowerPink.006",
+        "flowerYellow.006",
+        "lavender.006",
+        "sand.001",
+        "water.003",
+        "stone.012",
+        "lightwood.010",
+        "roof.006",
+        "dark.011"
+      ]
+    },
+    {
+      "name": "F__Ground",
+      "boundsBlender": [
+        [
+          51.25,
+          -40.0,
+          0.0
+        ],
+        [
+          117.125,
+          40.0,
+          0.0
+        ]
+      ],
+      "materials": [
+        "grass.010"
+      ]
+    },
+    {
+      "name": "F__Far_Bank",
+      "boundsBlender": [
+        [
+          132.025,
+          -40.059,
+          0.0
+        ],
+        [
+          150.5936,
+          40.059,
+          5.6025
+        ]
+      ],
+      "materials": [
+        "meadow.001",
+        "sand.001",
+        "wood.010",
+        "leafLight.010",
+        "leaf.012"
+      ]
+    },
+    {
+      "name": "F__Bridges",
+      "boundsBlender": [
+        [
+          102.49,
+          -38.67,
+          -0.95
+        ],
+        [
+          148.76,
+          37.42,
+          1.6
+        ]
+      ],
+      "materials": [
+        "lightwood.010",
+        "wood.010",
+        "darkgreen.010"
+      ]
+    },
+    {
+      "name": "G__Paths",
+      "boundsBlender": [
+        [
+          -125.0,
+          -100.0,
+          0.0
+        ],
+        [
+          -50.0,
+          -45.0,
+          0.1
+        ]
+      ],
+      "materials": [
+        "gravel.002",
+        "stone.013"
+      ]
+    },
+    {
+      "name": "G__Orchard",
+      "boundsBlender": [
+        [
+          -81.6374,
+          -68.506,
+          0.0
+        ],
+        [
+          -55.268,
+          -48.5824,
+          7.084
+        ]
+      ],
+      "materials": [
+        "wood.011",
+        "leafLight.011",
+        "pear",
+        "soil.001",
+        "leaf.013",
+        "apple"
+      ]
+    },
+    {
+      "name": "G__Ground",
+      "boundsBlender": [
+        [
+          -125.0,
+          -100.0,
+          -0.36
+        ],
+        [
+          -50.0,
+          -45.0,
+          0.0
+        ]
+      ],
+      "materials": [
+        "grass.011"
+      ]
+    },
+    {
+      "name": "H__Paths",
+      "boundsBlender": [
+        [
+          -42.5,
+          -100.0,
+          0.0
+        ],
+        [
+          42.5,
+          -45.0,
+          0.09
+        ]
+      ],
+      "materials": [
+        "gravel.003"
+      ]
+    },
+    {
+      "name": "H__Landscape",
+      "boundsBlender": [
+        [
+          -38.644,
+          -79.6748,
+          -0.04
+        ],
+        [
+          38.6549,
+          -46.0283,
+          3.36
+        ]
+      ],
+      "materials": [
+        "wood.012",
+        "leafLight.012",
+        "leaf.014",
+        "white.013",
+        "flowerPink.008",
+        "lavender.008",
+        "flowerYellow.008"
+      ]
+    },
+    {
+      "name": "H__Ground",
+      "boundsBlender": [
+        [
+          -42.5,
+          -100.0,
+          -0.36
+        ],
+        [
+          42.5,
+          -45.0,
+          0.0
+        ]
+      ],
+      "materials": [
+        "grass.012"
+      ]
+    },
+    {
+      "name": "I__Paths",
+      "boundsBlender": [
+        [
+          51.25,
+          -100.0,
+          0.0
+        ],
+        [
+          96.625,
+          -45.0,
+          0.13
+        ]
+      ],
+      "materials": [
+        "paving.001"
+      ]
+    },
+    {
+      "name": "I__Inn_Terrace",
+      "boundsBlender": [
+        [
+          59.125,
+          -54.1,
+          0.0
+        ],
+        [
+          76.125,
+          -50.1,
+          3.32
+        ]
+      ],
+      "materials": [
+        "lightwood.013",
+        "wood.013",
+        "sage.016",
+        "darkgreen.013"
+      ]
+    },
+    {
+      "name": "I__Ground",
+      "boundsBlender": [
+        [
+          51.25,
+          -100.0,
+          -0.56
+        ],
+        [
+          105.0,
+          -45.0,
+          0.0
+        ]
+      ],
+      "materials": [
+        "grass.013"
+      ]
+    }
+  ],
+  "supportObjects": {
+    "C__Paths": 34,
+    "C__Landscape": 60,
+    "C__C01__Landscape": 30,
+    "C__C02__Landscape": 30,
+    "C__C03__Landscape": 30,
+    "C__C04__Landscape": 30,
+    "C__C05__Landscape": 30,
+    "A__Paths": 46,
+    "A__Landscape": 100,
+    "A__A01__Landscape": 16,
+    "A__A02__Landscape": 16,
+    "A__A03__Landscape": 16,
+    "A__A04__Landscape": 16,
+    "A__A05__Landscape": 16,
+    "A__A06__Landscape": 16,
+    "A__A07__Landscape": 92,
+    "B__Paths": 224,
+    "B__Ground": 2,
+    "D__Paths": 78,
+    "D__Ground": 2,
+    "E__Paving_Detail": 576,
+    "E__Paving": 1911,
+    "E__Ground": 2,
+    "F__Pet_Lawn": 2,
+    "F__Paths": 528,
+    "F__Ground": 320,
+    "F__Far_Bank": 640,
+    "F__Bridges": 364,
+    "G__Paths": 74,
+    "G__Ground": 2,
+    "H__Paths": 160,
+    "H__Ground": 2,
+    "I__Paths": 54,
+    "I__Inn_Terrace": 2,
+    "I__Ground": 2,
+    "T__Riverside_Paths": 1160,
+    "T__Transitions": 96,
+    "T__Paths": 232
+  }
+}

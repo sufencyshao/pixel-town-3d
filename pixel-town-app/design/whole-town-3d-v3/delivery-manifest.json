@@ -1,0 +1,158 @@
+{
+  "version": "3.0.0",
+  "date": "2026-10-16",
+  "files": {
+    "README.md": {
+      "bytes": 3572,
+      "sha256": "b41d1bdf4b411dd79780a62676061c993dd0bafc5df089d8a7d1483bf2990443"
+    },
+    "THIRD_PARTY_LICENSES.txt": {
+      "bytes": 2184,
+      "sha256": "584a15115b220302245e88d3524ca4b7944fce3c73c936fa7f59b64a5db06fa4"
+    },
+    "Town-complete.blend": {
+      "bytes": 22388341,
+      "sha256": "131bace9631887565f12a61da65585c98c87b658d420886fa3c6c3d76fba92e7"
+    },
+    "Town-complete.glb": {
+      "bytes": 89714632,
+      "sha256": "e81ec64d17ae3a51c101f98757893387aa86d0a353268d118285fd1c3a4c75a0"
+    },
+    "environment-data.json": {
+      "bytes": 55157,
+      "sha256": "71fe9fc671453e6d593af1937dec9ac1fc64eaf57b7ed5e6c68a39ebbaec418e"
+    },
+    "manifest.json": {
+      "bytes": 136767,
+      "sha256": "3cfed13ac5e54594e530d2eeab65dd7544c68a8e1649065f72b14c230bc69a35"
+    },
+    "package.json": {
+      "bytes": 409,
+      "sha256": "b7e571881ad84c3c6775cb57851c7cb7b940d159df75c968d3123195e6cbb4ce"
+    },
+    "qa/01-noon.png": {
+      "bytes": 398741,
+      "sha256": "8bb2276724ad30869138ab4322177ae6477b8bcf27da44a484ec915ee3818f63"
+    },
+    "qa/02-night.png": {
+      "bytes": 335052,
+      "sha256": "eeec70c59904b75ea364d034199abba61c57aafe7b7013d755290b7ae3caeb24"
+    },
+    "qa/03-river-night.png": {
+      "bytes": 371598,
+      "sha256": "36dacc0235b7bb13f8dae0bf6be82cdd46ae5cb2186c0e6121b431a43a56583f"
+    },
+    "qa/04-cutaway.png": {
+      "bytes": 565857,
+      "sha256": "1a6392e97ba46715fc8869948eaff42b6bfe780d34ec3df1a0bc4a6cb116661c"
+    },
+    "qa/05-mobile-top.png": {
+      "bytes": 144070,
+      "sha256": "c68cecdf1782df7925753f31125fc5dfce02495af3f36380b32a7b9f321a621f"
+    },
+    "qa/06-mobile-controls.png": {
+      "bytes": 46701,
+      "sha256": "7cc73029a5028f9752f4e69bf18d29c7968ba4d18707ec844d6fd07a2fe89509"
+    },
+    "qa/asset-validation.json": {
+      "bytes": 991,
+      "sha256": "a9ebe481981417ebb069244276e81cd0441546352f65e538c709a2547c62c03e"
+    },
+    "qa/browser-validation.json": {
+      "bytes": 7676,
+      "sha256": "79c38e97e7f643c438061d01790cd6ebe8fc84f95cde1fb586621623b908ed6a"
+    },
+    "qa/export-environment.log": {
+      "bytes": 242,
+      "sha256": "fd7718b376ab4cd813068e7297936ebbb8c3b87b1f2a986c6d4378d703a91eea"
+    },
+    "qa/responsive-validation.json": {
+      "bytes": 380,
+      "sha256": "342d7698f45fa013bde83dc36f37717f57deefd24a21f642a8846002cd249914"
+    },
+    "qa/state-tests.txt": {
+      "bytes": 644,
+      "sha256": "234c73b54ac2ddfe29bc906abd5c483f9b4622281f358e706819158839f2f51f"
+    },
+    "qa/weather-cloudy.png": {
+      "bytes": 557202,
+      "sha256": "ca6cb1b26cc2460fa19375372f3c69df453ea10a460af762e5f4c0074455c455"
+    },
+    "qa/weather-heavyRain.png": {
+      "bytes": 512732,
+      "sha256": "51d4ebaebfddfa3dccd4c7a3412e481bdb926c627c80051a0dc8162ec34bfd33"
+    },
+    "qa/weather-lightRain.png": {
+      "bytes": 425652,
+      "sha256": "95abf63708f7adc750ca5fc82c1b9d8a23417a4af779b13692add759a2dea919"
+    },
+    "qa/weather-overcast.png": {
+      "bytes": 400185,
+      "sha256": "18309a9997577e3420bf35c0cf2fd7ae3d548d5121da7827e43a300e293b2775"
+    },
+    "qa/weather-rain.png": {
+      "bytes": 463912,
+      "sha256": "7cf6fc8cee25f292d7a69a52e127bc5b79b09d46df00f174ddccd96a37d911d2"
+    },
+    "qa/weather-storm.png": {
+      "bytes": 514780,
+      "sha256": "ad06226400395dce04ccadedbd154919ebefcb8c617de29f21c54b3a824c171d"
+    },
+    "qa/weather-sunny.png": {
+      "bytes": 393302,
+      "sha256": "50e4e7623c9cfe12b6855a9d0eba5602f09c6efffae24ed1935e0037268f034e"
+    },
+    "reference/v2-hashes.json": {
+      "bytes": 314,
+      "sha256": "5ceb025455cf99d83a8ed1534d9919a3834affa5651a803ecbfd1f231628322d"
+    },
+    "src/environment-renderer.js": {
+      "bytes": 13335,
+      "sha256": "38aa6f6d26dea54cec67c36ffa59bf9f4d90e0c8e73405c0427f0f76bcc3abae"
+    },
+    "src/environment-state.js": {
+      "bytes": 2865,
+      "sha256": "ee51e5fb31507ce637d65b5ea8aeb91acdab894ed7b4eea67c3fe18f70bfe458"
+    },
+    "src/environment-state.test.js": {
+      "bytes": 2172,
+      "sha256": "92e9718fff4f8bb2872ec95338af980ee717184528c20cbb7120d6b511cff3e7"
+    },
+    "src/export_environment.py": {
+      "bytes": 1630,
+      "sha256": "56996095cd33f5e3035b679e461fc05dfbc8f378aae550ea660e423fbaff65f5"
+    },
+    "src/package_preview.py": {
+      "bytes": 478,
+      "sha256": "802b6a3b9d94c60372ad13a7591fca22e11ee39e2bc023f870d2593adb5d7a9a"
+    },
+    "src/viewer.js": {
+      "bytes": 12368,
+      "sha256": "d9f8d06629cdc2238936ee98132079115c935a76714cac89e5b0bcc54ecde9fe"
+    },
+    "template.html": {
+      "bytes": 10283,
+      "sha256": "ca435f0eb9309c0c3d155bdd08372e0934d4a3ee788f6f4d5ad75f1e22ec6b53"
+    },
+    "viewer.bundle.js": {
+      "bytes": 614566,
+      "sha256": "e977a08c4fb50902f48fb9298bf26a2d3fb7bce6cec2c9f22c23edf805640450"
+    },
+    "完整小镇-离线预览.html": {
+      "bytes": 120436253,
+      "sha256": "c397b51558910699761bb410d8d4573b61659bbe17e51fe639ba0980c4f078b5"
+    },
+    "整镇分区总图.png": {
+      "bytes": 2187539,
+      "sha256": "a24346cbec7055bb91680d9bf9eb616de1f80f9cdcb2479f3d48291673aa9c6c"
+    },
+    "整镇分区总图.svg": {
+      "bytes": 4066222,
+      "sha256": "afcea379c25b1b22f5a3b0040179a8496735451442df8c2b38c43d8d3b57f83b"
+    },
+    "验收报告.md": {
+      "bytes": 5153,
+      "sha256": "b03f409cb9ec4a28617ded33380db0769989e450e44657ff034b3f16a7ab5891"
+    }
+  }
+}

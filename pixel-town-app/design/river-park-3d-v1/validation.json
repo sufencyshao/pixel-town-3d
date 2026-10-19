@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "blender": "5.2.2 LTS",
+  "meshObjects": 3599,
+  "triangles": 111084,
+  "scenes": [
+    "01 Riverside park",
+    "02 Park plan",
+    "03 Vet interior",
+    "04 Pet meadow",
+    "05 Music pavilion",
+    "06 Riverside walk"
+  ],
+  "pathPieces": 264,
+  "pathNetwork": "one connected network; no overlapping path faces",
+  "corePortals": "west/north/south present",
+  "groundLevelObjectsChecked": 1568,
+  "vetPassages": "4 key doorway approach volumes clear",
+  "waterVisibility": "studio ground below river surface",
+  "bridgeApproaches": "guardrails do not cross promenade",
+  "sha256": "3627f9ac17623816cb9f589f2fee268249e512a512e45c17702e71d3191fa170"
+}

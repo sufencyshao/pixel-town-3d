@@ -1,0 +1,478 @@
+{
+  "version": 1,
+  "batch": "20261003-daily-v1",
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "animations": {
+    "nod": {
+      "atlas": "animations/daily/nod.png",
+      "gif": "animations/daily/nod.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/nod",
+      "humanApproval": "pending review of this new clip"
+    },
+    "shake_head": {
+      "atlas": "animations/daily/shake_head.png",
+      "gif": "animations/daily/shake_head.gif",
+      "frames": 25,
+      "frameMs": 30,
+      "loop": false,
+      "gifFrames": 25,
+      "source": "frame_01.png",
+      "technique": "imagegen whole-head keyposes reused; calibrated neck anchors and original garment foreground; +/-30-degree targets; two quick refusal shakes",
+      "individualFrames": "animations/daily/shake_head",
+      "humanApproval": "pending review of this new clip",
+      "durations": [
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        480
+      ],
+      "previewLoop": true,
+      "sources": [
+        "frame_01.png",
+        "frame_04.png",
+        "frame_07.png",
+        "source/shake-head-solid-poses.png"
+      ],
+      "headTurn": {
+        "revision": "20261003-refusal-fixed-joints-v6",
+        "anchors": [
+          [
+            230.0,
+            391
+          ],
+          [
+            216.0,
+            393
+          ],
+          [
+            213.0,
+            393
+          ],
+          [
+            201.0,
+            393
+          ],
+          [
+            230.0,
+            370
+          ],
+          [
+            240.0,
+            372
+          ],
+          [
+            236.0,
+            372
+          ],
+          [
+            238.0,
+            372
+          ]
+        ],
+        "keyRegistration": {
+          "-15": {
+            "sheetCell": 1,
+            "cropBox": [
+              49,
+              66,
+              418,
+              393
+            ],
+            "neckAnchor": [
+              216.0,
+              393
+            ],
+            "scale": [
+              0.3314285714285714,
+              0.3180428134556575
+            ],
+            "paste": [
+              73,
+              20,
+              195,
+              124
+            ]
+          },
+          "-25.980762": {
+            "sheetCell": 2,
+            "cropBox": [
+              50,
+              66,
+              419,
+              393
+            ],
+            "neckAnchor": [
+              213.0,
+              393
+            ],
+            "scale": [
+              0.3314285714285714,
+              0.3180428134556575
+            ],
+            "paste": [
+              74,
+              20,
+              196,
+              124
+            ]
+          },
+          "-30": {
+            "sheetCell": 3,
+            "cropBox": [
+              39,
+              66,
+              412,
+              393
+            ],
+            "neckAnchor": [
+              201.0,
+              393
+            ],
+            "scale": [
+              0.3314285714285714,
+              0.3180428134556575
+            ],
+            "paste": [
+              74,
+              20,
+              198,
+              124
+            ]
+          },
+          "15": {
+            "sheetCell": 5,
+            "cropBox": [
+              38,
+              45,
+              398,
+              372
+            ],
+            "neckAnchor": [
+              240.0,
+              372
+            ],
+            "scale": [
+              0.3314285714285714,
+              0.3180428134556575
+            ],
+            "paste": [
+              61,
+              20,
+              180,
+              124
+            ]
+          },
+          "25.980762": {
+            "sheetCell": 6,
+            "cropBox": [
+              32,
+              45,
+              397,
+              372
+            ],
+            "neckAnchor": [
+              236.0,
+              372
+            ],
+            "scale": [
+              0.3314285714285714,
+              0.3180428134556575
+            ],
+            "paste": [
+              60,
+              20,
+              181,
+              124
+            ]
+          },
+          "30": {
+            "sheetCell": 7,
+            "cropBox": [
+              26,
+              46,
+              401,
+              372
+            ],
+            "neckAnchor": [
+              238.0,
+              372
+            ],
+            "scale": [
+              0.3314285714285714,
+              0.31901840490797545
+            ],
+            "paste": [
+              58,
+              20,
+              182,
+              124
+            ]
+          }
+        },
+        "cutY": 124,
+        "originalHeadBox": [
+          70,
+          20,
+          186,
+          124
+        ],
+        "rawSheetSize": [
+          1774,
+          887
+        ],
+        "neutralUsesOriginal": true,
+        "bodyFixedFromY": 124,
+        "maxYawDegrees": 30,
+        "yawDegreesSequence": [
+          0,
+          -15.0,
+          -25.980762,
+          -30.0,
+          -25.980762,
+          -15.0,
+          -0.0,
+          15.0,
+          25.980762,
+          30.0,
+          25.980762,
+          15.0,
+          0,
+          -15.0,
+          -25.980762,
+          -30.0,
+          -25.980762,
+          -15.0,
+          -0.0,
+          15.0,
+          25.980762,
+          30.0,
+          25.980762,
+          15.0,
+          0
+        ],
+        "angleInterpretation": "illustrated pose targets; not a measured 3D model",
+        "shakeCount": 2,
+        "activeDurationMs": 720,
+        "neutralPauseMs": 480,
+        "durations": [
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          30,
+          480
+        ],
+        "frameMs": 30,
+        "loop": false,
+        "previewLoop": true,
+        "neutralFrameIndices": [
+          0,
+          6,
+          12,
+          18,
+          24
+        ],
+        "sources": [
+          "frame_01.png",
+          "frame_04.png",
+          "frame_07.png",
+          "source/shake-head-solid-poses.png"
+        ],
+        "method": "imagegen whole-head keyposes referenced to original front and side sprites",
+        "registeredHeadPaths": {
+          "0": "source/shake-head-solid/key_+0.png",
+          "-15": "source/shake-head-solid/key_-15.png",
+          "-25.980762": "source/shake-head-solid/key_-25.9808.png",
+          "-30": "source/shake-head-solid/key_-30.png",
+          "15": "source/shake-head-solid/key_+15.png",
+          "25.980762": "source/shake-head-solid/key_+25.9808.png",
+          "30": "source/shake-head-solid/key_+30.png"
+        },
+        "registeredHeadSHA256": {
+          "source/shake-head-solid/key_+0.png": "1f45e3379acbe1ff7634e8c0cd93119c6659ee2155537af889c201d8079578be",
+          "source/shake-head-solid/key_-15.png": "f0f0f096299ad55f32e26c894a9590066139936bf74df3c59d7391b16210b02c",
+          "source/shake-head-solid/key_-25.9808.png": "65beda78f6728a8fb47cbdf941615642757b9497045cff7d99ba8b731e93567e",
+          "source/shake-head-solid/key_-30.png": "a58afdab76910ba82213eb749b4b8d06a875d719ff5d43ca613fd55f01c1af47",
+          "source/shake-head-solid/key_+15.png": "13089e08da471253638fc8af670d973f243ee73560aa7e2ef449b10478be0d03",
+          "source/shake-head-solid/key_+25.9808.png": "7d34a25138c081f6e107c97d3cd965f42db44fea42b6f0807821b8ae627f2cf2",
+          "source/shake-head-solid/key_+30.png": "5ef648bb795a07cfd48d58de5acdce757faa1d69cda5518257fa288f7f108c6c"
+        },
+        "jointCalibration": {
+          "role": "18_artist_female",
+          "bodyBoundary": [
+            [
+              0,
+              118
+            ],
+            [
+              113,
+              118
+            ],
+            [
+              120,
+              120
+            ],
+            [
+              136,
+              120
+            ],
+            [
+              144,
+              118
+            ],
+            [
+              255,
+              118
+            ]
+          ],
+          "neckRoot": [
+            118,
+            137,
+            119
+          ],
+          "targetNeckEnd": [
+            128,
+            124
+          ],
+          "skinMinR": 135,
+          "review": "original collar and shoulders manually located; inspect final seam crops",
+          "originalHairPolygons": [],
+          "skinMinG": 100,
+          "sourceNeckAnchors": [
+            [
+              230.0,
+              391
+            ],
+            [
+              216.0,
+              393
+            ],
+            [
+              213.0,
+              393
+            ],
+            [
+              201.0,
+              393
+            ],
+            [
+              230.0,
+              370
+            ],
+            [
+              240.0,
+              372
+            ],
+            [
+              236.0,
+              372
+            ],
+            [
+              238.0,
+              372
+            ]
+          ],
+          "originalScaleBox": [
+            70,
+            20,
+            186,
+            124
+          ],
+          "fixedGarmentRects": [
+            [
+              113,
+              119,
+              116,
+              122
+            ],
+            [
+              145,
+              119,
+              148,
+              122
+            ]
+          ]
+        },
+        "fixedBodyPath": "source/shake-head-joint-body.png",
+        "fixedBodySHA256": "4d8666c92c46bc9d2afb4021464a77fc1c33bed65ae624f88245a183c9469b22",
+        "originalHeadPath": "source/shake-head-joint-original-head.png",
+        "originalHeadSHA256": "1f45e3379acbe1ff7634e8c0cd93119c6659ee2155537af889c201d8079578be",
+        "calibrationSHA256": "e4f2ed92f1d4b12d67b581899aa5f7b0dcd73e4f1cc0f959f538dac67892d86f",
+        "lowerHairPolicy": "original lower braids against torso retained for roles 12,33,39",
+        "fixedOriginalBodyPixels": 5586,
+        "neckAnchorMethod": "per-role source anchors; neck skin corrections for roles 12,17,19,33,36,39",
+        "originalBodyForeground": true,
+        "wholeHeadTurns": true,
+        "headSilhouetteFixed": false,
+        "palette": "original frame_01 opaque colours",
+        "rollDegrees": 0,
+        "verticalMotion": 0
+      }
+    },
+    "chat": {
+      "atlas": "animations/daily/chat.png",
+      "gif": "animations/daily/chat.gif",
+      "frames": 16,
+      "frameMs": 90,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing pixel rig; personal face preserved; body language, no lip sync",
+      "individualFrames": "animations/daily/chat",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "sourceSHA256": {
+    "frame_01.png": "f8fc43f1b6207911de1724370dc08126b1b5225ce0661e6bfe32c9e6d144efe3",
+    "frame_04.png": "d385687f8df3740b6a31bfc42596ca65b2f38c1704f1d0c0011e220bff96671c",
+    "frame_07.png": "9eb4b764e4e4f7436adeee301f1c29d6c5795fbeb1259d327ad54d491041ad0a",
+    "source/shake-head-solid-poses.png": "45bc7d8297b90a6b14499777abe5c0f86244f9ac4be22c5ae8fd1fdd9db83eb0"
+  }
+}

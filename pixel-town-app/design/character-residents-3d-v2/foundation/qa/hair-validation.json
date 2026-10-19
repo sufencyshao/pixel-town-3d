@@ -1,0 +1,997 @@
+{
+  "status": "passed",
+  "count": 45,
+  "identities": [
+    {
+      "id": "01_hero_male",
+      "name": "阿澈",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "02_hero_female",
+      "name": "小满",
+      "hairStyle": "bob",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 4482,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "03_barista_male",
+      "name": "林屿",
+      "hairStyle": "sidepart",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "04_baker_male",
+      "name": "麦麦",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "05_carpenter_male",
+      "name": "大森",
+      "hairStyle": "spiky",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "06_postman_male",
+      "name": "小路",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "07_police_male",
+      "name": "程正",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "08_doctor_male",
+      "name": "许衡",
+      "hairStyle": "sidepart",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "09_gardener_male",
+      "name": "阿禾",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "10_musician_male",
+      "name": "迟野",
+      "hairStyle": "long",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 3916,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "11_chef_male",
+      "name": "陈锅",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "12_florist_female",
+      "name": "花音",
+      "hairStyle": "singlebraid",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 13,
+      "vertices": 2730,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "13_pastrychef_female",
+      "name": "糖糖",
+      "hairStyle": "twin-buns",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 7,
+      "vertices": 4300,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "14_teacher_female",
+      "name": "温书",
+      "hairStyle": "bob",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 4482,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "15_nurse_female",
+      "name": "苏晴",
+      "hairStyle": "bob",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 4482,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "16_librarian_female",
+      "name": "知秋",
+      "hairStyle": "bun",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 11,
+      "vertices": 2038,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "17_cafeowner_female",
+      "name": "沈知",
+      "hairStyle": "ponytail",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 10,
+      "vertices": 1730,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "18_artist_female",
+      "name": "鹿眠",
+      "hairStyle": "bob",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 4482,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "19_vet_female",
+      "name": "安安",
+      "hairStyle": "ponytail",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 8,
+      "vertices": 4284,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "20_student_female",
+      "name": "夏芽",
+      "hairStyle": "ponytail",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 8,
+      "vertices": 4284,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "21_firefighter_male",
+      "name": "陆焰",
+      "hairStyle": "spiky",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "22_grocer_male",
+      "name": "周籽",
+      "hairStyle": "curly",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 28,
+      "vertices": 4538,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "23_farmer_male",
+      "name": "田伯",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 4,
+      "vertices": 1521,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "24_driver_male",
+      "name": "韩途",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 4,
+      "vertices": 1521,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "25_hairdresser_male",
+      "name": "银梳",
+      "hairStyle": "swept",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "26_baker_male",
+      "name": "陶麦",
+      "hairStyle": "curly",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 28,
+      "vertices": 4538,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "27_librarian_male",
+      "name": "书衡",
+      "hairStyle": "swept",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1293,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "28_mechanic_male",
+      "name": "罗栓",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 3,
+      "vertices": 1889,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "29_innkeeper_male",
+      "name": "顾栈",
+      "hairStyle": "swept",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 4,
+      "vertices": 1521,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "30_florist_male",
+      "name": "林苔",
+      "hairStyle": "long",
+      "headBounds": {
+        "min": [
+          -0.09252569079399109,
+          -0.11516908556222916,
+          1.5752215385437012
+        ],
+        "max": [
+          0.09252581000328064,
+          0.10951881110668182,
+          1.8195868730545044
+        ]
+      },
+      "meshCount": 8,
+      "vertices": 3868,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "31_firefighter_female",
+      "name": "岑灯",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 28,
+      "vertices": 4560,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "32_grocer_female",
+      "name": "陆杏",
+      "hairStyle": "bob",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 4482,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "33_farmer_female",
+      "name": "禾青",
+      "hairStyle": "twinbraid",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 18,
+      "vertices": 4184,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "34_driver_female",
+      "name": "叶驰",
+      "hairStyle": "short",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1315,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "35_hairdresser_female",
+      "name": "卷云",
+      "hairStyle": "curly",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 38,
+      "vertices": 5920,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "36_barista_female",
+      "name": "闻豆",
+      "hairStyle": "ponytail",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 20,
+      "vertices": 3994,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "37_carpenter_female",
+      "name": "榆棠",
+      "hairStyle": "spiky",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 2,
+      "vertices": 1315,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "38_postal_female",
+      "name": "章铃",
+      "hairStyle": "bob",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 4482,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "39_police_female",
+      "name": "许巡",
+      "hairStyle": "singlebraid",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 13,
+      "vertices": 2730,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "40_doctor_female",
+      "name": "余笙",
+      "hairStyle": "bob",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 4482,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "hai-qin-yan",
+      "name": "海琴烟",
+      "hairStyle": "long",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 3938,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "kanna",
+      "name": "康娜",
+      "hairStyle": "bob",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 11,
+      "vertices": 4578,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "rui",
+      "name": "锐",
+      "hairStyle": "long",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 8,
+      "vertices": 3890,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "xin",
+      "name": "歆",
+      "hairStyle": "bob",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 9,
+      "vertices": 4482,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    },
+    {
+      "id": "xin-fragrance",
+      "name": "馨",
+      "hairStyle": "long",
+      "headBounds": {
+        "min": [
+          -0.08887842297554016,
+          -0.11192343384027481,
+          1.5238444805145264
+        ],
+        "max": [
+          0.08887842297554016,
+          0.11289945244789124,
+          1.7750508785247803
+        ]
+      },
+      "meshCount": 17,
+      "vertices": 5762,
+      "allHeadWeighted": true,
+      "scalpBoundaryEdges": 0,
+      "scalpNonManifoldEdges": 0
+    }
+  ],
+  "source": "Quaternius CC0 mature mesh topology + bespoke closed scalp, solid fringe/tails/braids/curls. Long hair currently rigid Head-bound."
+}

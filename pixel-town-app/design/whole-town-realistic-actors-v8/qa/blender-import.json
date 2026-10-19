@@ -1,0 +1,12 @@
+{
+  "actorsPresent": 61,
+  "people": 45,
+  "animals": 16,
+  "objects": 6894,
+  "armatures": 61,
+  "meshes": 6058,
+  "missingActors": [],
+  "externalImages": 0,
+  "animationActions": 0,
+  "scope": "Static placement snapshot; runtime animations are provided by offline HTML and separate source clips."
+}

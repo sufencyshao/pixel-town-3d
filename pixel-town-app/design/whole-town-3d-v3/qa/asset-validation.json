@@ -1,0 +1,34 @@
+{
+  "checks": [
+    {
+      "check": "V2 unchanged: Town-complete.blend",
+      "sha256": "131bace9631887565f12a61da65585c98c87b658d420886fa3c6c3d76fba92e7"
+    },
+    {
+      "check": "V2 unchanged: Town-complete.glb",
+      "sha256": "e81ec64d17ae3a51c101f98757893387aa86d0a353268d118285fd1c3a4c75a0"
+    },
+    {
+      "check": "V2 unchanged: \u5b8c\u6574\u5c0f\u9547-\u79bb\u7ebf\u9884\u89c8.html",
+      "sha256": "9a61b6a05922068484de2dd95b377b5e5b7452b0797e2b5a17086c290691896a"
+    },
+    {
+      "check": "V3 static asset identical: Town-complete.blend",
+      "sha256": "131bace9631887565f12a61da65585c98c87b658d420886fa3c6c3d76fba92e7"
+    },
+    {
+      "check": "V3 static asset identical: Town-complete.glb",
+      "sha256": "e81ec64d17ae3a51c101f98757893387aa86d0a353268d118285fd1c3a4c75a0"
+    },
+    {
+      "check": "environment data valid",
+      "lamps": 53,
+      "gridSamples": 11011,
+      "heightRange": [
+        -1,
+        16.18
+      ]
+    }
+  ],
+  "pass": true
+}

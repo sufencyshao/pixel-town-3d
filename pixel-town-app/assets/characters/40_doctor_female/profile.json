@@ -1,0 +1,71 @@
+{
+  "id": "40_doctor_female",
+  "sprite": "40_doctor_female",
+  "assetFolder": "characters/40_doctor_female",
+  "kind": "human",
+  "name": "余笙",
+  "sex": "女",
+  "role": "医生",
+  "appearance": "栗短发、圆眼镜、白衣、青绿长裤",
+  "persona": {
+    "personality": "理性、耐心",
+    "background": "门诊医生，与许衡分担社区健康服务",
+    "interests": "阅读、植物观察",
+    "speech": "清楚温和，不夸大判断"
+  },
+  "presets": [
+    {
+      "id": "settled",
+      "label": "扎根小镇",
+      "role": "医生",
+      "personality": "理性、耐心",
+      "background": "门诊医生，与许衡分担社区健康服务",
+      "interests": "阅读、植物观察",
+      "speech": "清楚温和，不夸大判断"
+    },
+    {
+      "id": "newcomer",
+      "label": "新来的同行",
+      "role": "医生",
+      "personality": "慢热、好奇、有边界",
+      "background": "刚搬来小镇的医生，正在熟悉工作和邻里，希望结交能相互尊重的朋友。",
+      "interests": "阅读、植物观察、探索街区",
+      "speech": "先倾听，熟悉后主动提问"
+    },
+    {
+      "id": "mentor",
+      "label": "经验伙伴",
+      "role": "医生",
+      "personality": "耐心、务实、愿意分享",
+      "background": "有多年医生经验，选择在小镇稳定生活，愿意指导新人但不替别人决定。",
+      "interests": "阅读、植物观察、整理经验",
+      "speech": "以具体例子解释，给对方选择空间"
+    }
+  ],
+  "schedule": [
+    {
+      "time": "07:00",
+      "activity": "早餐与准备"
+    },
+    {
+      "time": "09:00",
+      "activity": "医生日常工作"
+    },
+    {
+      "time": "12:00",
+      "activity": "午间休息"
+    },
+    {
+      "time": "14:00",
+      "activity": "工作与邻里事务"
+    },
+    {
+      "time": "18:00",
+      "activity": "阅读、植物观察"
+    },
+    {
+      "time": "22:00",
+      "activity": "回家休息"
+    }
+  ]
+}

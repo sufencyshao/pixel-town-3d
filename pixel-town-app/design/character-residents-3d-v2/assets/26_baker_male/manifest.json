@@ -1,0 +1,339 @@
+{
+  "id": "26_baker_male",
+  "name": "陶麦",
+  "kind": "human",
+  "role": "面包师",
+  "sex": "male",
+  "referencePath": "/Users/summerwindy/Desktop/AI Chat/pixel_town_assets/characters/26_baker_male/frame_01.png",
+  "referenceRelativePath": "pixel_town_assets/characters/26_baker_male/frame_01.png",
+  "features": {
+    "hairStyle": "curly",
+    "hairColor": "#24232C",
+    "skinColor": "#BE6C32",
+    "eyeColor": "#402A1D",
+    "topType": "apron",
+    "topColor": "#F5DEB8",
+    "bottomType": "jeans",
+    "bottomColor": "#244B68",
+    "shoeType": "workshoes",
+    "shoeColor": "#26282C",
+    "accessories": [],
+    "distinctive": [
+      "乌黑短卷发",
+      "暖棕肤色",
+      "蓝色卷袖衬衫",
+      "奶油白围裙",
+      "深蓝裤",
+      "黑工作鞋"
+    ],
+    "hairDetail": "short soft curls",
+    "underlayerType": "shirt",
+    "underlayerColor": "#2C6790"
+  },
+  "design": {
+    "height": 1.72,
+    "build": "sturdy",
+    "shoulder": 0.48,
+    "waist": 0.38,
+    "hip": 0.4,
+    "legRatio": 0.48,
+    "headScale": 1.04,
+    "faceWidth": 1.08,
+    "ageStyle": "adult"
+  },
+  "observed": [
+    "乌黑短卷发",
+    "暖棕肤色",
+    "蓝色卷袖衬衫",
+    "奶油白围裙",
+    "深蓝裤",
+    "黑工作鞋"
+  ],
+  "inferred": [
+    "height、build、shoulder、waist、hip、legRatio、headScale、faceWidth均为本轮新3D设计值，并非原2D已有数值设定。",
+    "ageStyle仅为保持外观年龄感的制作描述，不声称角色实际年龄。",
+    "色值为原帧对应色块的代表性建模色；原帧有明暗及抗锯齿，不要求3D逐像素复制。"
+  ],
+  "base": "Quaternius Superhero Male",
+  "glb": "assets/26_baker_male/character.glb",
+  "runtimeGlb": "assets/26_baker_male/runtime.glb",
+  "blend": "assets/26_baker_male/character.blend",
+  "bones": 65,
+  "actions": [
+    "Crouch",
+    "CrouchWalk",
+    "Dance",
+    "Drink",
+    "Eat",
+    "Feed",
+    "GetUp",
+    "Idle",
+    "JumpLand",
+    "JumpLoop",
+    "JumpStart",
+    "LieDown",
+    "LieRest",
+    "Nod",
+    "Pet",
+    "Phone",
+    "PickUp",
+    "Read",
+    "Run",
+    "ShakeHead",
+    "Sit",
+    "SitDown",
+    "StandUp",
+    "Stretch",
+    "Swim",
+    "Talk",
+    "ThrowBall",
+    "Walk",
+    "Wave",
+    "Work"
+  ],
+  "dimensions": {
+    "height": 1.72,
+    "hipScale": 0.9081899834134842,
+    "legScale": 0.9124240367257501,
+    "verticalMap": [
+      [
+        0,
+        0
+      ],
+      [
+        0.0960097536444664,
+        0.08354285714285714
+      ],
+      [
+        0.5519098043441772,
+        0.4928125714285715
+      ],
+      [
+        0.958609938621521,
+        0.8706
+      ],
+      [
+        1.5300099849700928,
+        1.4188400363922118
+      ],
+      [
+        1.8195868730545044,
+        1.72
+      ]
+    ]
+  },
+  "groundSamples": [
+    {
+      "name": "Crouch",
+      "samples": 71,
+      "fps": 24,
+      "rawGroundMinimum": 0.029468759894371033,
+      "rawGroundMaximum": 0.03940543532371521
+    },
+    {
+      "name": "CrouchWalk",
+      "samples": 49,
+      "fps": 24,
+      "rawGroundMinimum": 0.013199567794799805,
+      "rawGroundMaximum": 0.14741258323192596
+    },
+    {
+      "name": "Dance",
+      "samples": 25,
+      "fps": 24,
+      "rawGroundMinimum": -0.0017310045659542084,
+      "rawGroundMaximum": 0.03973153233528137
+    },
+    {
+      "name": "Drink",
+      "samples": 92,
+      "fps": 24,
+      "rawGroundMinimum": -0.0012062746100127697,
+      "rawGroundMaximum": 0.0032740216702222824
+    },
+    {
+      "name": "Eat",
+      "samples": 97,
+      "fps": 24,
+      "rawGroundMinimum": -0.0012145410291850567,
+      "rawGroundMaximum": 0.003280727192759514
+    },
+    {
+      "name": "Feed",
+      "samples": 49,
+      "fps": 24,
+      "rawGroundMinimum": -0.017965959385037422,
+      "rawGroundMaximum": -0.017965959385037422
+    },
+    {
+      "name": "GetUp",
+      "samples": 121,
+      "fps": 24,
+      "rawGroundMinimum": -0.10945072770118713,
+      "rawGroundMaximum": 0.04589086025953293
+    },
+    {
+      "name": "Idle",
+      "samples": 49,
+      "fps": 24,
+      "rawGroundMinimum": -0.0012145410291850567,
+      "rawGroundMaximum": 0.0032807011157274246
+    },
+    {
+      "name": "JumpLand",
+      "samples": 31,
+      "fps": 24,
+      "rawGroundMinimum": -0.0925653800368309,
+      "rawGroundMaximum": 0.09485186636447906
+    },
+    {
+      "name": "JumpLoop",
+      "samples": 61,
+      "fps": 24,
+      "rawGroundMinimum": -0.1673833429813385,
+      "rawGroundMaximum": -0.1170601099729538
+    },
+    {
+      "name": "JumpStart",
+      "samples": 33,
+      "fps": 24,
+      "rawGroundMinimum": -0.1930806189775467,
+      "rawGroundMaximum": 0.3126642107963562
+    },
+    {
+      "name": "LieDown",
+      "samples": 121,
+      "fps": 24,
+      "rawGroundMinimum": -0.10945072770118713,
+      "rawGroundMaximum": 0.04589086025953293
+    },
+    {
+      "name": "LieRest",
+      "samples": 97,
+      "fps": 24,
+      "rawGroundMinimum": -0.08801749348640442,
+      "rawGroundMaximum": -0.08801749348640442
+    },
+    {
+      "name": "Nod",
+      "samples": 61,
+      "fps": 24,
+      "rawGroundMinimum": -0.0012062597088515759,
+      "rawGroundMaximum": 0.0032551437616348267
+    },
+    {
+      "name": "Pet",
+      "samples": 49,
+      "fps": 24,
+      "rawGroundMinimum": -0.017965959385037422,
+      "rawGroundMaximum": -0.017965959385037422
+    },
+    {
+      "name": "Phone",
+      "samples": 97,
+      "fps": 24,
+      "rawGroundMinimum": -0.0012145410291850567,
+      "rawGroundMaximum": 0.003280727192759514
+    },
+    {
+      "name": "PickUp",
+      "samples": 21,
+      "fps": 24,
+      "rawGroundMinimum": -0.04383092373609543,
+      "rawGroundMaximum": 0.00028331484645605087
+    },
+    {
+      "name": "Read",
+      "samples": 97,
+      "fps": 24,
+      "rawGroundMinimum": -0.0012145410291850567,
+      "rawGroundMaximum": 0.003280727192759514
+    },
+    {
+      "name": "Run",
+      "samples": 23,
+      "fps": 24,
+      "rawGroundMinimum": -0.042814917862415314,
+      "rawGroundMaximum": 0.1818777173757553
+    },
+    {
+      "name": "ShakeHead",
+      "samples": 61,
+      "fps": 24,
+      "rawGroundMinimum": -0.0012062597088515759,
+      "rawGroundMaximum": 0.0032551437616348267
+    },
+    {
+      "name": "Sit",
+      "samples": 41,
+      "fps": 24,
+      "rawGroundMinimum": 0.12185996025800705,
+      "rawGroundMaximum": 0.12185996025800705
+    },
+    {
+      "name": "SitDown",
+      "samples": 32,
+      "fps": 24,
+      "rawGroundMinimum": -0.0004023830406367779,
+      "rawGroundMaximum": 0.12247272580862045
+    },
+    {
+      "name": "StandUp",
+      "samples": 26,
+      "fps": 24,
+      "rawGroundMinimum": -0.0004023830406367779,
+      "rawGroundMaximum": 0.13594119250774384
+    },
+    {
+      "name": "Stretch",
+      "samples": 121,
+      "fps": 24,
+      "rawGroundMinimum": -0.00041876640170812607,
+      "rawGroundMaximum": -0.00041871145367622375
+    },
+    {
+      "name": "Swim",
+      "samples": 33,
+      "fps": 24,
+      "rawGroundMinimum": -0.453449547290802,
+      "rawGroundMaximum": -0.314372718334198
+    },
+    {
+      "name": "Talk",
+      "samples": 71,
+      "fps": 24,
+      "rawGroundMinimum": 0.0001307344064116478,
+      "rawGroundMaximum": 0.0027557630091905594
+    },
+    {
+      "name": "ThrowBall",
+      "samples": 35,
+      "fps": 24,
+      "rawGroundMinimum": 0.00013906694948673248,
+      "rawGroundMaximum": 0.0027105258777737617
+    },
+    {
+      "name": "Walk",
+      "samples": 27,
+      "fps": 24,
+      "rawGroundMinimum": -0.051803894340991974,
+      "rawGroundMaximum": 0.011509552597999573
+    },
+    {
+      "name": "Wave",
+      "samples": 59,
+      "fps": 24,
+      "rawGroundMinimum": -0.001193145290017128,
+      "rawGroundMaximum": 0.003239414654672146
+    },
+    {
+      "name": "Work",
+      "samples": 126,
+      "fps": 24,
+      "rawGroundMinimum": -0.06835203617811203,
+      "rawGroundMaximum": 0.013676811940968037
+    }
+  ],
+  "meshes": 51,
+  "elapsedSeconds": 15.26
+}

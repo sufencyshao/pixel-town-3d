@@ -1,0 +1,448 @@
+{
+  "date": "2026-10-18",
+  "checks": [
+    {
+      "name": "All45 identities and30 actions exposed",
+      "pass": true
+    },
+    {
+      "name": "阿澈 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "阿澈 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "小满 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "小满 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "林屿 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "林屿 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "麦麦 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "麦麦 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "大森 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "大森 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "小路 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "小路 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "程正 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "程正 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "许衡 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "许衡 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "阿禾 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "阿禾 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "迟野 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "迟野 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "陈锅 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "陈锅 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "花音 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "花音 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "糖糖 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "糖糖 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "温书 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "温书 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "苏晴 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "苏晴 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "知秋 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "知秋 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "沈知 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "沈知 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "鹿眠 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "鹿眠 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "安安 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "安安 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "夏芽 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "夏芽 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "陆焰 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "陆焰 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "周籽 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "周籽 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "田伯 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "田伯 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "韩途 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "韩途 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "银梳 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "银梳 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "陶麦 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "陶麦 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "书衡 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "书衡 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "罗栓 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "罗栓 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "顾栈 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "顾栈 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "林苔 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "林苔 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "岑灯 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "岑灯 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "陆杏 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "陆杏 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "禾青 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "禾青 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "叶驰 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "叶驰 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "卷云 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "卷云 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "闻豆 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "闻豆 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "榆棠 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "榆棠 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "章铃 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "章铃 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "许巡 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "许巡 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "余笙 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "余笙 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "海琴烟 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "海琴烟 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "康娜 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "康娜 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "锐 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "锐 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "歆 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "歆 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "馨 all30 finite poses",
+      "pass": true
+    },
+    {
+      "name": "馨 original reference loads",
+      "pass": true
+    },
+    {
+      "name": "Four distinct bodies compare at unit scale",
+      "pass": true
+    },
+    {
+      "name": "Lying comparisons use separate mats",
+      "pass": true
+    },
+    {
+      "name": "Pause freezes pose clock",
+      "pass": true
+    },
+    {
+      "name": "Resume advances pose clock",
+      "pass": true
+    },
+    {
+      "name": "SitDown transitions correctly",
+      "pass": true
+    },
+    {
+      "name": "LieDown transitions correctly",
+      "pass": true
+    },
+    {
+      "name": "GetUp transitions correctly",
+      "pass": true
+    },
+    {
+      "name": "Smile morph target responds",
+      "pass": true
+    },
+    {
+      "name": "Skeleton toggle responds",
+      "pass": true
+    },
+    {
+      "name": "Reading includes two hand props",
+      "pass": true
+    },
+    {
+      "name": "Prop visibility toggle",
+      "pass": true
+    },
+    {
+      "name": "Search filters by profession",
+      "pass": true
+    },
+    {
+      "name": "Companion filter shows5",
+      "pass": true
+    },
+    {
+      "name": "Downloaded model exactly matches currentGLB",
+      "pass": true
+    },
+    {
+      "name": "390px no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "File mode can switch local models offline",
+      "pass": true
+    },
+    {
+      "name": "Offline makes noHTTP request",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "No browser errors",
+      "pass": true,
+      "info": []
+    }
+  ],
+  "errors": [],
+  "people": 45,
+  "screenshotsPerPerson": 6,
+  "passed": 109,
+  "total": 109
+}

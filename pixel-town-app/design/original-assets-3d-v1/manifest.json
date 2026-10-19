@@ -1,0 +1,546 @@
+[
+  {
+    "id": "male-casual",
+    "label": "便装男性",
+    "kind": "人物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "license": "CC0-1.0",
+    "note": "开源项目保存的完整便装成品，24项原生动画。",
+    "glb": "assets/male-casual.glb",
+    "sourceFile": "vendor/quaternius-men/Quaternius-Casual.glb",
+    "sourceSha256": "fea7e71271203e7073f1a073fa1208de7402df276f87f80e149bf7589b5d46b4",
+    "portableSha256": "57d276fd1f78874343972dc269b84a7e0663f0d1ea3706428ea27b1e2dddaf13",
+    "binaryDataSha256": "e93f9c97a5623423f2f8030aaff6378f21dd0068091a6ce8c5845eb78654d21c",
+    "sourceBinaryDataSha256": "e93f9c97a5623423f2f8030aaff6378f21dd0068091a6ce8c5845eb78654d21c",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "CharacterArmature|Death"
+      },
+      {
+        "name": "CharacterArmature|Gun_Shoot"
+      },
+      {
+        "name": "CharacterArmature|HitRecieve"
+      },
+      {
+        "name": "CharacterArmature|HitRecieve_2"
+      },
+      {
+        "name": "CharacterArmature|Idle"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun_Pointing"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun_Shoot"
+      },
+      {
+        "name": "CharacterArmature|Idle_Neutral"
+      },
+      {
+        "name": "CharacterArmature|Idle_Sword"
+      },
+      {
+        "name": "CharacterArmature|Interact"
+      },
+      {
+        "name": "CharacterArmature|Kick_Left"
+      },
+      {
+        "name": "CharacterArmature|Kick_Right"
+      },
+      {
+        "name": "CharacterArmature|Punch_Left"
+      },
+      {
+        "name": "CharacterArmature|Punch_Right"
+      },
+      {
+        "name": "CharacterArmature|Roll"
+      },
+      {
+        "name": "CharacterArmature|Run"
+      },
+      {
+        "name": "CharacterArmature|Run_Back"
+      },
+      {
+        "name": "CharacterArmature|Run_Left"
+      },
+      {
+        "name": "CharacterArmature|Run_Right"
+      },
+      {
+        "name": "CharacterArmature|Run_Shoot"
+      },
+      {
+        "name": "CharacterArmature|Sword_Slash"
+      },
+      {
+        "name": "CharacterArmature|Walk"
+      },
+      {
+        "name": "CharacterArmature|Wave"
+      }
+    ],
+    "meshCount": 4,
+    "skinCount": 4
+  },
+  {
+    "id": "male-worker",
+    "label": "工装男性",
+    "kind": "人物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "license": "CC0-1.0",
+    "note": "开源项目保存的完整工装成品，24项原生动画。",
+    "glb": "assets/male-worker.glb",
+    "sourceFile": "vendor/quaternius-men/Quaternius-Worker.glb",
+    "sourceSha256": "9c28614f465b7dc105f908c20c22fc045f4b07caf8c5ef0e9f8049eceb6dd38d",
+    "portableSha256": "0a685a94b25b2ddcb9616958a98efbaf9aa500bb8d63c82a70f808290729fb8f",
+    "binaryDataSha256": "cdd738234ab6da3a7cd355afeef8a08f9482cbdf33d8d3d86f47019c51602ee4",
+    "sourceBinaryDataSha256": "cdd738234ab6da3a7cd355afeef8a08f9482cbdf33d8d3d86f47019c51602ee4",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "CharacterArmature|Death"
+      },
+      {
+        "name": "CharacterArmature|Gun_Shoot"
+      },
+      {
+        "name": "CharacterArmature|HitRecieve"
+      },
+      {
+        "name": "CharacterArmature|HitRecieve_2"
+      },
+      {
+        "name": "CharacterArmature|Idle"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun_Pointing"
+      },
+      {
+        "name": "CharacterArmature|Idle_Gun_Shoot"
+      },
+      {
+        "name": "CharacterArmature|Idle_Neutral"
+      },
+      {
+        "name": "CharacterArmature|Idle_Sword"
+      },
+      {
+        "name": "CharacterArmature|Interact"
+      },
+      {
+        "name": "CharacterArmature|Kick_Left"
+      },
+      {
+        "name": "CharacterArmature|Kick_Right"
+      },
+      {
+        "name": "CharacterArmature|Punch_Left"
+      },
+      {
+        "name": "CharacterArmature|Punch_Right"
+      },
+      {
+        "name": "CharacterArmature|Roll"
+      },
+      {
+        "name": "CharacterArmature|Run"
+      },
+      {
+        "name": "CharacterArmature|Run_Back"
+      },
+      {
+        "name": "CharacterArmature|Run_Left"
+      },
+      {
+        "name": "CharacterArmature|Run_Right"
+      },
+      {
+        "name": "CharacterArmature|Run_Shoot"
+      },
+      {
+        "name": "CharacterArmature|Sword_Slash"
+      },
+      {
+        "name": "CharacterArmature|Walk"
+      },
+      {
+        "name": "CharacterArmature|Wave"
+      }
+    ],
+    "meshCount": 4,
+    "skinCount": 4
+  },
+  {
+    "id": "female-casual",
+    "label": "便装女性",
+    "kind": "人物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimatemodularwomen.html",
+    "license": "CC0-1.0",
+    "note": "作者下载目录中的完整便装角色，24项原生动画。",
+    "glb": "assets/female-casual.glb",
+    "sourceFile": "vendor/quaternius-women/Casual.gltf",
+    "sourceSha256": "b0fe6e92219cd71808844a20a1a8b960fd1cf640a6546dc6362b5add6604e87c",
+    "portableSha256": "5ca77eac451a73665616455a75e6d9a4980b9f839ba3d049f877d8855aef45d2",
+    "binaryDataSha256": "18033e9d2bb8c605080f212c04c00b155649cc78485df8d596ceae58c7538de9",
+    "sourceBinaryDataSha256": "18033e9d2bb8c605080f212c04c00b155649cc78485df8d596ceae58c7538de9",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "Death"
+      },
+      {
+        "name": "Gun_Shoot"
+      },
+      {
+        "name": "HitRecieve"
+      },
+      {
+        "name": "HitRecieve_2"
+      },
+      {
+        "name": "Idle"
+      },
+      {
+        "name": "Idle_Gun"
+      },
+      {
+        "name": "Idle_Gun_Pointing"
+      },
+      {
+        "name": "Idle_Gun_Shoot"
+      },
+      {
+        "name": "Idle_Neutral"
+      },
+      {
+        "name": "Idle_Sword"
+      },
+      {
+        "name": "Interact"
+      },
+      {
+        "name": "Kick_Left"
+      },
+      {
+        "name": "Kick_Right"
+      },
+      {
+        "name": "Punch_Left"
+      },
+      {
+        "name": "Punch_Right"
+      },
+      {
+        "name": "Roll"
+      },
+      {
+        "name": "Run"
+      },
+      {
+        "name": "Run_Back"
+      },
+      {
+        "name": "Run_Left"
+      },
+      {
+        "name": "Run_Right"
+      },
+      {
+        "name": "Run_Shoot"
+      },
+      {
+        "name": "Sword_Slash"
+      },
+      {
+        "name": "Walk"
+      },
+      {
+        "name": "Wave"
+      }
+    ],
+    "meshCount": 4,
+    "skinCount": 1
+  },
+  {
+    "id": "female-worker",
+    "label": "工装女性",
+    "kind": "人物",
+    "author": "Quaternius",
+    "official": "https://quaternius.com/packs/ultimatemodularwomen.html",
+    "license": "CC0-1.0",
+    "note": "作者下载目录中的完整工装角色，24项原生动画。",
+    "glb": "assets/female-worker.glb",
+    "sourceFile": "vendor/quaternius-women/Worker.gltf",
+    "sourceSha256": "e2bfc1039f429e870a0119e274c2dd45f6304f00c39f4570dfeb9ed4d97a063d",
+    "portableSha256": "555f8ac66c19ea1a06474481e47dcaa2a6f30cc83f7748fde894558467fc46d6",
+    "binaryDataSha256": "f35a8767b5bf0cbe3eac8559ed0772eaf2587c5329690296277d297d15d748f0",
+    "sourceBinaryDataSha256": "f35a8767b5bf0cbe3eac8559ed0772eaf2587c5329690296277d297d15d748f0",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "Death"
+      },
+      {
+        "name": "Gun_Shoot"
+      },
+      {
+        "name": "HitRecieve"
+      },
+      {
+        "name": "HitRecieve_2"
+      },
+      {
+        "name": "Idle"
+      },
+      {
+        "name": "Idle_Gun"
+      },
+      {
+        "name": "Idle_Gun_Pointing"
+      },
+      {
+        "name": "Idle_Gun_Shoot"
+      },
+      {
+        "name": "Idle_Neutral"
+      },
+      {
+        "name": "Idle_Sword"
+      },
+      {
+        "name": "Interact"
+      },
+      {
+        "name": "Kick_Left"
+      },
+      {
+        "name": "Kick_Right"
+      },
+      {
+        "name": "Punch_Left"
+      },
+      {
+        "name": "Punch_Right"
+      },
+      {
+        "name": "Roll"
+      },
+      {
+        "name": "Run"
+      },
+      {
+        "name": "Run_Back"
+      },
+      {
+        "name": "Run_Left"
+      },
+      {
+        "name": "Run_Right"
+      },
+      {
+        "name": "Run_Shoot"
+      },
+      {
+        "name": "Sword_Slash"
+      },
+      {
+        "name": "Walk"
+      },
+      {
+        "name": "Wave"
+      }
+    ],
+    "meshCount": 4,
+    "skinCount": 1
+  },
+  {
+    "id": "pet-cat",
+    "label": "猫",
+    "kind": "动物",
+    "author": "Kenney",
+    "official": "https://kenney.nl/assets/cube-pets",
+    "license": "CC0-1.0",
+    "note": "作者Cube Pets 2.0原版，8项原生动画；保留成品外形与配色。",
+    "glb": "assets/pet-cat.glb",
+    "sourceFile": "vendor/kenney-cube-pets/Models/GLB format/animal-cat.glb",
+    "sourceSha256": "1e73aaf7d497dd7d2946badf92d189d2333f163e66dced91feb446bc9bdee850",
+    "portableSha256": "b95482ac4795ef37742101e4ada922e2518b0f030fb1e082a7c35c63c06b7e1d",
+    "binaryDataSha256": "43a3e9f942aa63921a13b0b4a9fdbecd229de1638802fb4452a126baee599e26",
+    "sourceBinaryDataSha256": "43a3e9f942aa63921a13b0b4a9fdbecd229de1638802fb4452a126baee599e26",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "static"
+      },
+      {
+        "name": "idle"
+      },
+      {
+        "name": "walk"
+      },
+      {
+        "name": "run"
+      },
+      {
+        "name": "eat"
+      },
+      {
+        "name": "dance"
+      },
+      {
+        "name": "gesture-positive"
+      },
+      {
+        "name": "gesture-negative"
+      }
+    ],
+    "meshCount": 7,
+    "skinCount": 0
+  },
+  {
+    "id": "pet-dog",
+    "label": "狗",
+    "kind": "动物",
+    "author": "Kenney",
+    "official": "https://kenney.nl/assets/cube-pets",
+    "license": "CC0-1.0",
+    "note": "作者Cube Pets 2.0原版，8项原生动画；保留成品外形与配色。",
+    "glb": "assets/pet-dog.glb",
+    "sourceFile": "vendor/kenney-cube-pets/Models/GLB format/animal-dog.glb",
+    "sourceSha256": "c127d71ac8794f9710313bbb44800ae33a79f1182cf5c523c4233cc10a93851f",
+    "portableSha256": "be3cd4715c8ec5e95a0abf159d84d1b642f95c813744e4448653c44091ed4888",
+    "binaryDataSha256": "711e5ad1b651f7306ca83b7e33139835903ae90200326d2fcda019228739ef3f",
+    "sourceBinaryDataSha256": "711e5ad1b651f7306ca83b7e33139835903ae90200326d2fcda019228739ef3f",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "static"
+      },
+      {
+        "name": "idle"
+      },
+      {
+        "name": "walk"
+      },
+      {
+        "name": "run"
+      },
+      {
+        "name": "eat"
+      },
+      {
+        "name": "dance"
+      },
+      {
+        "name": "gesture-positive"
+      },
+      {
+        "name": "gesture-negative"
+      }
+    ],
+    "meshCount": 5,
+    "skinCount": 0
+  },
+  {
+    "id": "pet-bunny",
+    "label": "兔子",
+    "kind": "动物",
+    "author": "Kenney",
+    "official": "https://kenney.nl/assets/cube-pets",
+    "license": "CC0-1.0",
+    "note": "作者Cube Pets 2.0原版，8项原生动画；保留成品外形与配色。",
+    "glb": "assets/pet-bunny.glb",
+    "sourceFile": "vendor/kenney-cube-pets/Models/GLB format/animal-bunny.glb",
+    "sourceSha256": "94b654915d9de70071bcf0bfa13de379a3ba4fdfeb231f0fec49335232cbc821",
+    "portableSha256": "3b826de954bd68819f836ba21797163bb689965e4299c79bd3546ec39f1de234",
+    "binaryDataSha256": "298591393371dc222c6bc57fa208831124735504759c106e4d8e2685067eb641",
+    "sourceBinaryDataSha256": "298591393371dc222c6bc57fa208831124735504759c106e4d8e2685067eb641",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "static"
+      },
+      {
+        "name": "idle"
+      },
+      {
+        "name": "walk"
+      },
+      {
+        "name": "run"
+      },
+      {
+        "name": "eat"
+      },
+      {
+        "name": "dance"
+      },
+      {
+        "name": "gesture-positive"
+      },
+      {
+        "name": "gesture-negative"
+      }
+    ],
+    "meshCount": 5,
+    "skinCount": 0
+  },
+  {
+    "id": "pet-parrot",
+    "label": "鹦鹉",
+    "kind": "动物",
+    "author": "Kenney",
+    "official": "https://kenney.nl/assets/cube-pets",
+    "license": "CC0-1.0",
+    "note": "作者Cube Pets 2.0原版，8项原生动画；保留成品外形与配色。",
+    "glb": "assets/pet-parrot.glb",
+    "sourceFile": "vendor/kenney-cube-pets/Models/GLB format/animal-parrot.glb",
+    "sourceSha256": "a028fcccd8559652ea100fabaceb82ef53633e3474025eca593a753b008f52ab",
+    "portableSha256": "1802cd702fd42373ddecb683a7550fcc5b869ee9983f61ef7ee2deae31c7ad89",
+    "binaryDataSha256": "68f57c8eb4aa0e61ad1d19810aaeb8b4ee519b9fa97238078122c6fe63d519e1",
+    "sourceBinaryDataSha256": "68f57c8eb4aa0e61ad1d19810aaeb8b4ee519b9fa97238078122c6fe63d519e1",
+    "originalDefinitionKeysPreserved": true,
+    "animations": [
+      {
+        "name": "static"
+      },
+      {
+        "name": "idle"
+      },
+      {
+        "name": "walk"
+      },
+      {
+        "name": "run"
+      },
+      {
+        "name": "eat"
+      },
+      {
+        "name": "dance"
+      },
+      {
+        "name": "gesture-positive"
+      },
+      {
+        "name": "gesture-negative"
+      }
+    ],
+    "meshCount": 7,
+    "skinCount": 0
+  }
+]

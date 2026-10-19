@@ -1,0 +1,2862 @@
+[
+  {
+    "role": "01_hero_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "01_hero_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "02_hero_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "03_barista_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "04_baker_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "05_carpenter_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "06_postman_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "07_police_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "08_doctor_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "09_gardener_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "10_musician_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "11_chef_male",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "12_florist_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "13_pastrychef_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "14_teacher_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "15_nurse_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "16_librarian_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "17_cafeowner_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "18_artist_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 15,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "19_vet_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "idle",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "walk_down",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "walk_left",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "walk_right",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "walk_up",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "wave",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "surprise",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "sit",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "jump",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "cheer",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  },
+  {
+    "role": "20_student_female",
+    "action": "work",
+    "frames": 16,
+    "gifFrames": 16,
+    "uniqueFrames": 16,
+    "durationMs": 1280,
+    "transparent": true,
+    "alphaValues": [
+      0,
+      255
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "batch": "20261003-daily-v1",
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "animations": {
+    "peck": {
+      "atlas": "animations/daily/peck.png",
+      "gif": "animations/daily/peck.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 15,
+      "source": "frame_01.png",
+      "technique": "existing bird pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/peck",
+      "humanApproval": "pending review of this new clip"
+    },
+    "hop": {
+      "atlas": "animations/daily/hop.png",
+      "gif": "animations/daily/hop.gif",
+      "frames": 16,
+      "frameMs": 80,
+      "loop": true,
+      "gifFrames": 16,
+      "source": "frame_01.png",
+      "technique": "existing bird pixel rig; approximate natural gesture",
+      "individualFrames": "animations/daily/hop",
+      "humanApproval": "pending review of this new clip"
+    }
+  },
+  "sourceSHA256": {
+    "frame_01.png": "759070740d1a140266dbd2b0683ef9c019f9393e39bd7a3af233a959d435a4b8"
+  }
+}

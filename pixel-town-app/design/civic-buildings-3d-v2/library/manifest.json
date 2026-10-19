@@ -1,0 +1,81 @@
+{
+  "id": "B02",
+  "title": "溪畔图书馆",
+  "building": [
+    19,
+    12
+  ],
+  "floors": 2,
+  "floorToFloor": 3.8,
+  "roof": "flat parapet",
+  "stair": {
+    "width": 2.3,
+    "steps": 22,
+    "riser": 0.17272727272727273,
+    "tread": 0.29,
+    "opening": [
+      -9.25,
+      -6.2,
+      -2.55,
+      3.93
+    ]
+  },
+  "plot": [
+    23.75,
+    15.5
+  ],
+  "areas": [
+    "借还书台",
+    "八组双面书架",
+    "一层共享阅览",
+    "二层安静阅读",
+    "楼梯与楼板开口",
+    "儿童阅读角",
+    "新书展示"
+  ],
+  "residents": [
+    "知秋",
+    "书衡"
+  ],
+  "seats": 30,
+  "anchors": {
+    "entrance": [
+      0,
+      -5.9,
+      0.2
+    ],
+    "lending": [
+      -4.25,
+      -4.95,
+      0.2
+    ],
+    "staff": [
+      -4.8,
+      -2.67,
+      0.2
+    ],
+    "children": [
+      5.55,
+      -4.35,
+      0.2
+    ]
+  },
+  "units": "metres",
+  "sourceAxes": {
+    "up": "+Z",
+    "front": "-Y"
+  },
+  "glbAxes": {
+    "up": "+Y",
+    "front": "+Z"
+  },
+  "blenderVersion": "5.2.2 LTS",
+  "meshObjects": 1456,
+  "triangles": 60922,
+  "nonfinite": [],
+  "degenerateTriangles": 0,
+  "asset": "B02-library.glb",
+  "sha256": "bcd9aaf93755021dd689766b2660d50f485ee4ec25cd9c1d1c259e0b9174c05b",
+  "status": "design-review",
+  "anchorsStatus": "proposed-not-pathfinding-tested"
+}

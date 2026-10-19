@@ -1,0 +1,13 @@
+{
+  "package": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/原版成品模型-自然比例动物-V2.zip",
+  "bytes": 13527611,
+  "sha256": "cb3c8b49be2671d48fc1ae8253c78559846999bb2a239b2d53186fe989e783e7",
+  "files": 54,
+  "archiveAllFilesMatch": true,
+  "models": 7,
+  "animals": 3,
+  "originalAnimations": 133,
+  "browserChecks": 26,
+  "formalAppChanged": false,
+  "note": "User rejected Cube Pets as too chibi; V2 samples preserve complete source appearance. Human assets byte-identical to V1. Cat excluded after visual inspection."
+}

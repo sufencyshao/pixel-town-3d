@@ -1,0 +1,11 @@
+{
+  "shared-motion.blend": "757485093b6db7cbe1cf821faf1af1582be4e04adbfbd705d90d131088ffe208",
+  "actions.json": "2934e647db50557c27830ec1a6471c85104b9e4bc0cabd9ea60a86df72ac1aa7",
+  "bone-rest.json": "46e173fa2106143b33c15792cbc165ffb99eb75b493174c2c2090c380590fe88",
+  "contact-samples.json": "0c42576da76ec054685c717b7f437ad212a1d416653aed2f836ebb1c6193c406",
+  "sources.json": "5042aa7c9347eee0a2117a9269353eca04b7183b0461cacec7e2c6bfd6a5e93d",
+  "qa/actor-motion.blend": "3d9e10680c6f62a873d2d91a6dd67cc116860ed37df58abc95f992de0ceae2ec",
+  "qa/validation.json": "a3185c0adb9a4fbff80df266c2300ad7ac162151ab29090bf65c3d397433c3d8",
+  "qa/daily-contact.png": "9c674e753bf06535979313eda8a74335f93774cc7580579e61e464ae49692f66",
+  "qa/lying-wave-contact.png": "6fef152590f8d19a7c30be219a31127f1e6c34331b0d87b369f12201097dba88"
+}

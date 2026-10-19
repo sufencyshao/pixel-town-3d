@@ -1,0 +1,50 @@
+{
+  "characters": [
+    {
+      "id": "02_hero_female",
+      "source": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/design/character-residents-3d-v2/assets/02_hero_female/character.blend",
+      "sourceSha256": "9f4eca1fefb964b362046bf985200969f5b04aafe441b3216bdba2efc7e545cb",
+      "sourceHashUnchanged": true,
+      "meshes": [
+        {
+          "object": "Skin",
+          "basisMatchesMesh": false,
+          "maxBasisMeshDeltaMetres": 0.17442945630916779,
+          "shapes": [
+            {
+              "name": "Smile",
+              "defaultValue": 1.0,
+              "maxDeltaMetres": 0.17442945630916779,
+              "defaultZero": false,
+              "boundedExpressionDelta": false
+            },
+            {
+              "name": "Talk",
+              "defaultValue": 1.0,
+              "maxDeltaMetres": 0.17442945630916779,
+              "defaultZero": false,
+              "boundedExpressionDelta": false
+            }
+          ]
+        },
+        {
+          "object": "Eyelids",
+          "basisMatchesMesh": false,
+          "maxBasisMeshDeltaMetres": 0.15691657372187645,
+          "shapes": [
+            {
+              "name": "Blink",
+              "defaultValue": 1.0,
+              "maxDeltaMetres": 0.1921073319788569,
+              "defaultZero": false,
+              "boundedExpressionDelta": false
+            }
+          ]
+        }
+      ],
+      "passed": false
+    }
+  ],
+  "passed": 0,
+  "total": 1
+}

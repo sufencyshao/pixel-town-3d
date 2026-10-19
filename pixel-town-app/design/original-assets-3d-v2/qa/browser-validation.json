@@ -1,0 +1,149 @@
+{
+  "checks": [
+    {
+      "name": "male-casual original clips run",
+      "pass": true,
+      "info": {
+        "count": 24,
+        "finite": true,
+        "changing": 24
+      }
+    },
+    {
+      "name": "male-casual timeline controls actual clip",
+      "pass": true
+    },
+    {
+      "name": "male-casual skeleton toggle",
+      "pass": true
+    },
+    {
+      "name": "male-worker original clips run",
+      "pass": true,
+      "info": {
+        "count": 24,
+        "finite": true,
+        "changing": 24
+      }
+    },
+    {
+      "name": "male-worker timeline controls actual clip",
+      "pass": true
+    },
+    {
+      "name": "male-worker skeleton toggle",
+      "pass": true
+    },
+    {
+      "name": "female-casual original clips run",
+      "pass": true,
+      "info": {
+        "count": 24,
+        "finite": true,
+        "changing": 24
+      }
+    },
+    {
+      "name": "female-casual timeline controls actual clip",
+      "pass": true
+    },
+    {
+      "name": "female-casual skeleton toggle",
+      "pass": true
+    },
+    {
+      "name": "female-worker original clips run",
+      "pass": true,
+      "info": {
+        "count": 24,
+        "finite": true,
+        "changing": 24
+      }
+    },
+    {
+      "name": "female-worker timeline controls actual clip",
+      "pass": true
+    },
+    {
+      "name": "female-worker skeleton toggle",
+      "pass": true
+    },
+    {
+      "name": "animal-husky original clips run",
+      "pass": true,
+      "info": {
+        "count": 12,
+        "finite": true,
+        "changing": 12
+      }
+    },
+    {
+      "name": "animal-husky timeline controls actual clip",
+      "pass": true
+    },
+    {
+      "name": "animal-husky skeleton toggle",
+      "pass": true
+    },
+    {
+      "name": "animal-shiba original clips run",
+      "pass": true,
+      "info": {
+        "count": 12,
+        "finite": true,
+        "changing": 12
+      }
+    },
+    {
+      "name": "animal-shiba timeline controls actual clip",
+      "pass": true
+    },
+    {
+      "name": "animal-shiba skeleton toggle",
+      "pass": true
+    },
+    {
+      "name": "animal-horse original clips run",
+      "pass": true,
+      "info": {
+        "count": 13,
+        "finite": true,
+        "changing": 13
+      }
+    },
+    {
+      "name": "animal-horse timeline controls actual clip",
+      "pass": true
+    },
+    {
+      "name": "animal-horse skeleton toggle",
+      "pass": true
+    },
+    {
+      "name": "Portable download bytes match",
+      "pass": true
+    },
+    {
+      "name": "Mobile no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "Offline file mode loads people and animals",
+      "pass": true
+    },
+    {
+      "name": "No offline network requests",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "No browser errors",
+      "pass": true,
+      "info": []
+    }
+  ],
+  "errors": [],
+  "passed": 26,
+  "total": 26,
+  "models": 7
+}

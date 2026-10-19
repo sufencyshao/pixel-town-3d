@@ -1,0 +1,20 @@
+[
+  {
+    "file": "benny.blend",
+    "url": "https://opengameart.org/sites/default/files/benny.blend",
+    "bytes": 5762024,
+    "sha256": "f8078954ea192f8cee33f552e7510adf2468b5b5a85b8e17a06c60e05392863e"
+  },
+  {
+    "file": "jack-russell.blend",
+    "url": "https://opengameart.org/sites/default/files/Dog%20%28Jack%20russel%29%20%20Release.blend",
+    "bytes": 818384,
+    "sha256": "48291e9f370e9696a790ff1265b14f7b86b7d496715cdb8f0e4d094b2bc174f2"
+  },
+  {
+    "file": "shrike.zip",
+    "url": "https://opengameart.org/sites/default/files/bird_yellow_billed_shrike.zip",
+    "bytes": 11246978,
+    "sha256": "a41a4f10ce7795d508b8eded4eb45e80ddf85bc4dba1f2bea4708e7705faac64"
+  }
+]

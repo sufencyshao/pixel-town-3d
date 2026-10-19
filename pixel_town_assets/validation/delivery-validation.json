@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-02",
+  "assetValidation": {
+    "entities": 65,
+    "categories": {
+      "characters": 40,
+      "pets": 20,
+      "codexmini": 5
+    },
+    "status": {
+      "ready": 65
+    },
+    "animations": 758,
+    "errors": 0,
+    "warnings": 86
+  },
+  "projectTests": {
+    "passed": 52,
+    "failed": 0,
+    "includesParallelPlayerFeatures": true
+  },
+  "packagedResourcesUI": {
+    "passed": true,
+    "characters": 45,
+    "naturalAnimals": 20,
+    "realApiCalls": 0,
+    "checks": [
+      "portrait decoding",
+      "invite natural animals and Codexmini",
+      "uninvited animal profile edit",
+      "background preset form",
+      "PNG atlas decoding",
+      "frame progression",
+      "pause freezes frame time"
+    ]
+  },
+  "packagedAssetCopies": {
+    "checked": 1924,
+    "errors": []
+  },
+  "codesignVerify": {
+    "passed": true,
+    "type": "local ad-hoc"
+  },
+  "appPath": "/Users/summerwindy/Desktop/AI Chat/pixel-town-app/dist-mac/像素小镇.app",
+  "originalSourcesPreserved": true,
+  "limitations": [
+    "Programmatic rig interpolation rather than all frames hand drawn",
+    "Original pale-clothing alpha holes preserved",
+    "Rabbit crouch-hop and bird wing motion are approximations",
+    "Codexmini missing actions documented",
+    "No real provider connectivity tested"
+  ]
+}

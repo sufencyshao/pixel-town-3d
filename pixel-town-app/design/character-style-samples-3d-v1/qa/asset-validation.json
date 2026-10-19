@@ -1,0 +1,10 @@
+{
+  "original2DUnchanged": true,
+  "embeddedGLBMatches": {
+    "A-chibi": true,
+    "B-cartoon": true,
+    "C-natural": true
+  },
+  "nativeChecks": 57,
+  "browserChecks": 31
+}

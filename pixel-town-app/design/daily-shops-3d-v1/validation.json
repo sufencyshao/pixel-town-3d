@@ -1,0 +1,199 @@
+{
+  "status": "PASS",
+  "date": "2026-10-15",
+  "blender": "5.2.2 LTS",
+  "checks": 64,
+  "scenes": [
+    "01 H whole street",
+    "02 Plan",
+    "03 H01",
+    "04 H02",
+    "05 H03",
+    "06 H04",
+    "07 H05",
+    "08 H06",
+    "09 Shopfront lane"
+  ],
+  "meshObjects": 4090,
+  "triangles": 161574,
+  "degenerateTriangles": 0,
+  "sampledWalkCells": 30776,
+  "reachableCells": 30367,
+  "bodyRadius": 0.35,
+  "rayBoundaryToleranceMetres": 2e-05,
+  "gridSpacing": 0.25,
+  "reachableGoals": {
+    "west": [
+      -42,
+      -1.5
+    ],
+    "east": [
+      42,
+      -1.5
+    ],
+    "north": [
+      0,
+      27
+    ],
+    "cafeEntry": [
+      -26.5,
+      7.75
+    ],
+    "cafeRearInside": [
+      -21.25,
+      15.25
+    ],
+    "cafeRearThreshold": [
+      -21.25,
+      16
+    ],
+    "H02entry": [
+      1.75,
+      7.5
+    ],
+    "H02rearInside": [
+      1.75,
+      15.5
+    ],
+    "H02backroom": [
+      1.75,
+      14.5
+    ],
+    "H02WC": [
+      10.4,
+      14.6
+    ],
+    "H03entry": [
+      28.125,
+      7.5
+    ],
+    "H03rearInside": [
+      28.125,
+      15.5
+    ],
+    "H03backroom": [
+      28.125,
+      14.5
+    ],
+    "H03WC": [
+      34.775,
+      14.6
+    ],
+    "H04entry": [
+      -26.5,
+      -11
+    ],
+    "H04rearInside": [
+      -26.5,
+      -19
+    ],
+    "H04backroom": [
+      -26.5,
+      -18.0
+    ],
+    "H04WC": [
+      -35.15,
+      -18.1
+    ],
+    "H05entry": [
+      1.75,
+      -11
+    ],
+    "H05rearInside": [
+      1.75,
+      -19
+    ],
+    "H05backroom": [
+      1.75,
+      -18.0
+    ],
+    "H05WC": [
+      -6.9,
+      -18.1
+    ],
+    "H06entry": [
+      28.125,
+      -11
+    ],
+    "H06rearInside": [
+      28.125,
+      -19
+    ],
+    "H06backroom": [
+      25.625,
+      -18.0
+    ],
+    "H06WC": [
+      21.475,
+      -18.1
+    ]
+  },
+  "sha256": "d40afd53fda6db0db2fe912656451eef1b3be1cdd6641a5125fd2281eb5dbcba",
+  "items": [
+    "Nine Blender review scenes",
+    "Masterplan H plot retained: 85 x 55 m",
+    "Six commercial buildings",
+    "All model geometry remains inside H plot",
+    "Buildings disjoint: H01 / H02",
+    "Buildings disjoint: H01 / H03",
+    "Buildings disjoint: H01 / H04",
+    "Buildings disjoint: H01 / H05",
+    "Buildings disjoint: H01 / H06",
+    "Buildings disjoint: H02 / H03",
+    "Buildings disjoint: H02 / H04",
+    "Buildings disjoint: H02 / H05",
+    "Buildings disjoint: H02 / H06",
+    "Buildings disjoint: H03 / H04",
+    "Buildings disjoint: H03 / H05",
+    "Buildings disjoint: H03 / H06",
+    "Buildings disjoint: H04 / H05",
+    "Buildings disjoint: H04 / H06",
+    "Buildings disjoint: H05 / H06",
+    "Three styling chairs",
+    "Two shampoo chairs",
+    "H02 wall meets ceiling without vertical gap",
+    "H03 wall meets ceiling without vertical gap",
+    "H04 wall meets ceiling without vertical gap",
+    "H05 wall meets ceiling without vertical gap",
+    "H06 wall meets ceiling without vertical gap",
+    "Cafe source unchanged: daily-shops-3d-v1/reference/cafe/H01-Cafe.blend",
+    "Cafe source unchanged: cafe-3d-v1/blender-validation/H01-Cafe.blend",
+    "Cafe source unchanged: daily-shops-3d-v1/reference/cafe/H01-cafe.glb",
+    "Cafe source unchanged: cafe-3d-v1/H01-cafe.glb",
+    "All 790 cafe meshes retain geometry and expected placement; rear door and receiving furniture explicitly adjusted",
+    "Cafe packed textures retained",
+    "South portal body clearance",
+    "Continuous body route reaches west",
+    "Continuous body route reaches east",
+    "Continuous body route reaches north",
+    "Continuous body route reaches cafeEntry",
+    "Continuous body route reaches cafeRearInside",
+    "Continuous body route reaches cafeRearThreshold",
+    "Continuous body route reaches H02entry",
+    "Continuous body route reaches H02rearInside",
+    "Continuous body route reaches H02backroom",
+    "Continuous body route reaches H02WC",
+    "Continuous body route reaches H03entry",
+    "Continuous body route reaches H03rearInside",
+    "Continuous body route reaches H03backroom",
+    "Continuous body route reaches H03WC",
+    "Continuous body route reaches H04entry",
+    "Continuous body route reaches H04rearInside",
+    "Continuous body route reaches H04backroom",
+    "Continuous body route reaches H04WC",
+    "Continuous body route reaches H05entry",
+    "Continuous body route reaches H05rearInside",
+    "Continuous body route reaches H05backroom",
+    "Continuous body route reaches H05WC",
+    "Continuous body route reaches H06entry",
+    "Continuous body route reaches H06rearInside",
+    "Continuous body route reaches H06backroom",
+    "Continuous body route reaches H06WC",
+    "Public paving union has no overlapping tiles",
+    "GLB mesh count equals source",
+    "GLB triangle count equals source",
+    "GLB zero degenerate triangles",
+    "GLB current hash"
+  ],
+  "scope": "Static sampled ground-floor entry routes; not runtime collision, stair traversal or regulatory accessibility certification"
+}

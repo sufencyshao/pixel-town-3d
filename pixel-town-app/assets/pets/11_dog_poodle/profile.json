@@ -1,0 +1,61 @@
+{
+  "id": "11_dog_poodle",
+  "sprite": "11_dog_poodle",
+  "assetFolder": "pets/11_dog_poodle",
+  "kind": "animal",
+  "name": "卷卷",
+  "sex": "未指定",
+  "role": "狗",
+  "animal": {
+    "species": "狗",
+    "breed": "玩具贵宾犬",
+    "coat": "奶油卷毛",
+    "bodySize": "小",
+    "scale": 0.43,
+    "rig": "dog",
+    "senses": "近地面视点，以可接近的气味线索和声响触发观察、嗅闻；熟悉与陌生气味分开。",
+    "behavior": "嗅闻、轻步、转耳、摇尾、休息",
+    "allowedActions": [
+      "idle",
+      "walk",
+      "run",
+      "eat",
+      "drink",
+      "groom",
+      "rest",
+      "observe",
+      "sniff",
+      "flee",
+      "wag",
+      "stretch"
+    ],
+    "habitat": "旅店小院",
+    "locomotion": "四足运动；禁止双足直立",
+    "speedFactor": 0.8,
+    "nonAnthropomorphic": true
+  },
+  "persona": {
+    "personality": "警觉，熟悉后活跃",
+    "background": "在旅店小院生活的玩具贵宾犬个体",
+    "interests": "嗅闻、轻步、转耳、摇尾、休息",
+    "speech": "仅自然叫声与姿态；不使用人类语言"
+  },
+  "presets": [
+    {
+      "id": "familiar",
+      "label": "熟悉环境",
+      "personality": "警觉，熟悉后活跃",
+      "background": "已熟悉旅店小院的气味与安全位置",
+      "interests": "可接近食物、同类线索与安全藏身处",
+      "speech": "仅物种自然声音与身体姿态"
+    },
+    {
+      "id": "cautious",
+      "label": "刚到新环境",
+      "personality": "警觉，接近刺激前先观察，允许躲藏与退让",
+      "background": "刚进入旅店小院，逐渐建立安全感",
+      "interests": "熟悉照护者气味与退路",
+      "speech": "仅物种自然声音与身体姿态"
+    }
+  ]
+}

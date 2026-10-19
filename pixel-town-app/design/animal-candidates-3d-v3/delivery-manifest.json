@@ -1,0 +1,78 @@
+{
+  "README.md": {
+    "bytes": 3752,
+    "sha256": "2cb1027eb8accd10df8eadb70ab58bd42b0f66f8a5b6e03a5a74fb3b3a6ca027"
+  },
+  "manifest.json": {
+    "bytes": 980,
+    "sha256": "fcd00cf9f5a9b29cafbcd2c18cad85e707526636d4fc2ec9a0c3220d1dd92e15"
+  },
+  "template.html": {
+    "bytes": 4451,
+    "sha256": "865bc9bf6ccf9c23be248391cd8644a78a296cba429ba8714ae749710cd05f9a"
+  },
+  "viewer.bundle.js": {
+    "bytes": 610109,
+    "sha256": "b6bb8718d7d10d6635b7c2c8a20cb69a2d23c0d7fc0d0c1cb18db0c3fc9f68b8"
+  },
+  "写实动物-原版预览.html": {
+    "bytes": 7003894,
+    "sha256": "bcf49427e5bf12c58c0b0f472825594d57d053cb36db36a44ae248a19ad7e662"
+  },
+  "assets/rabbit.glb": {
+    "bytes": 4791472,
+    "sha256": "7361b5580403d28551dd9f0cd67790b384d6f586c1d406ee90aadfd86d0b561b"
+  },
+  "vendor/THREE-LICENSE.txt": {
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  "vendor/oga/rabbit.blend": {
+    "bytes": 5996916,
+    "sha256": "bb6deef1ee91b21380355138374cae87946451ce864502b1af68eb60f4750843"
+  },
+  "vendor/oga/Rabbit-LICENSE.md": {
+    "bytes": 367,
+    "sha256": "325057cca2a3e3ee90b58ec16ae56f7b85bcf4661c232d4b9a9b874070ff0ace"
+  },
+  "vendor/oga/downloads.json": {
+    "bytes": 422,
+    "sha256": "0497f56494f988970dd4d1ce0e43daa1bce721a3abd071a0a0b9a7dd0b72f13d"
+  },
+  "src/viewer.js": {
+    "bytes": 9100,
+    "sha256": "b2d93bbbd668a6d3ff21106944a954fe94e12600cb939674795f8cb069f8c2c8"
+  },
+  "src/package_preview.py": {
+    "bytes": 2010,
+    "sha256": "f342fca8b2ed30dd3fb70e9d9a0d6d464102cafb513948d014d7bee0d815b7e9"
+  },
+  "src/export_originals.py": {
+    "bytes": 3120,
+    "sha256": "213524b5512f1bbc744c51ef7bb473cb134daca5e6644ef684e719abf35422a6"
+  },
+  "src/verify.cjs": {
+    "bytes": 3840,
+    "sha256": "546db2a3bce0abeddd66ca23b9a03624d35be21e9e182efb171df4a75d35876f"
+  },
+  "qa/conversion.json": {
+    "bytes": 2424,
+    "sha256": "cb51c1c0c3cff46d934efb7c5a2dbc3d5b578816657528aca8dfa9ecf93d822d"
+  },
+  "qa/browser-validation.json": {
+    "bytes": 877,
+    "sha256": "9069440173ee58241ec1ecd24302f8c13f0ab971147f454fba0c6233784e9c7e"
+  },
+  "qa/realistic-rabbit-full.png": {
+    "bytes": 324462,
+    "sha256": "74d603cd81a21fb4e4b6cc82b7d7314ee738872d7518eb96038b08dc820479b3"
+  },
+  "qa/realistic-rabbit-back.png": {
+    "bytes": 397214,
+    "sha256": "9db78f9379f912ee46622e46a502a4eb5358576481316a95a01e1d4a3e41bfeb"
+  },
+  "qa/realistic-rabbit-side.png": {
+    "bytes": 563347,
+    "sha256": "8d0b769f6884db860188683590a27f28253217270e4acc7f4188186c5a36d2a8"
+  }
+}

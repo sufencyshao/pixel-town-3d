@@ -1,0 +1,292 @@
+{
+  "date": "2026-10-17",
+  "checks": [
+    {
+      "name": "C identity and 2D reference",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "all 19 clips exposed",
+      "pass": true,
+      "info": [
+        "Crouch",
+        "CrouchWalk",
+        "Dance",
+        "Idle",
+        "JumpLand",
+        "JumpLoop",
+        "JumpStart",
+        "Nod",
+        "PickUp",
+        "Run",
+        "ShakeHead",
+        "Sit",
+        "SitDown",
+        "StandUp",
+        "Swim",
+        "Talk",
+        "Walk",
+        "Wave",
+        "Work"
+      ]
+    },
+    {
+      "name": "pause freezes clip",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "resume advances clip",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "speed control selected",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Crouch selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "CrouchWalk selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Dance selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Idle selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpLand selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpLoop selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "JumpStart selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Nod selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "PickUp selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Run selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "ShakeHead selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Sit selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "SitDown selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "StandUp selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Swim selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Talk selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Walk selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Wave selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Work selectable and finite",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Walk changes skeletal pose",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Wave changes skeletal pose",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "Nod changes skeletal pose",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "ShakeHead changes skeletal pose",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "chair follows seated action",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "swim demonstration offset and water",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "standing resets water and model offset",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "SitDown transitions to Sit",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "StandUp transitions to Idle",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "front view control",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "back view control",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "shoes view control",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "face view control",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "smile target responds",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "talk target responds",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "neutral mouth closes",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "blink closes eyelids",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "blink switch restores open eyes",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "skeleton enabled",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "skeleton disabled",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "download bytes match GLB",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "390px page has no horizontal overflow",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "mobile stage stays visible",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "mobile action control works",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "file opens fully offline",
+      "pass": true,
+      "info": null
+    },
+    {
+      "name": "offline preview makes no HTTP requests",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "no browser or shader errors",
+      "pass": true,
+      "info": []
+    }
+  ],
+  "errors": [],
+  "viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "note": "Chrome headless; visual screenshots also inspected. No claim of real mobile device QA."
+}

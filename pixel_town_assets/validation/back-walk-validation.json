@@ -1,0 +1,529 @@
+{
+  "roles": 20,
+  "replacedFrames": 40,
+  "errors": [],
+  "changedOriginalFiles": [
+    "characters/01_hero_male/frame_12.png",
+    "characters/01_hero_male/frame_11.png",
+    "characters/02_hero_female/frame_12.png",
+    "characters/02_hero_female/frame_11.png",
+    "characters/03_barista_male/frame_12.png",
+    "characters/03_barista_male/frame_11.png",
+    "characters/04_baker_male/frame_12.png",
+    "characters/04_baker_male/frame_11.png",
+    "characters/05_carpenter_male/frame_12.png",
+    "characters/05_carpenter_male/frame_11.png",
+    "characters/06_postman_male/frame_12.png",
+    "characters/06_postman_male/frame_11.png",
+    "characters/07_police_male/frame_12.png",
+    "characters/07_police_male/frame_11.png",
+    "characters/08_doctor_male/frame_12.png",
+    "characters/08_doctor_male/frame_11.png",
+    "characters/09_gardener_male/frame_12.png",
+    "characters/09_gardener_male/frame_11.png",
+    "characters/10_musician_male/frame_12.png",
+    "characters/10_musician_male/frame_11.png",
+    "characters/11_chef_male/frame_12.png",
+    "characters/11_chef_male/frame_11.png",
+    "characters/12_florist_female/frame_12.png",
+    "characters/12_florist_female/frame_11.png",
+    "characters/13_pastrychef_female/frame_12.png",
+    "characters/13_pastrychef_female/frame_11.png",
+    "characters/14_teacher_female/frame_12.png",
+    "characters/14_teacher_female/frame_11.png",
+    "characters/15_nurse_female/frame_12.png",
+    "characters/15_nurse_female/frame_11.png",
+    "characters/16_librarian_female/frame_12.png",
+    "characters/16_librarian_female/frame_11.png",
+    "characters/17_cafeowner_female/frame_12.png",
+    "characters/17_cafeowner_female/frame_11.png",
+    "characters/18_artist_female/frame_12.png",
+    "characters/18_artist_female/frame_11.png",
+    "characters/19_vet_female/frame_12.png",
+    "characters/19_vet_female/frame_11.png",
+    "characters/20_student_female/frame_12.png",
+    "characters/20_student_female/frame_11.png"
+  ],
+  "checks": [
+    {
+      "role": "01_hero_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        5514,
+        5514,
+        4951,
+        4951
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "02_hero_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        8288,
+        8288,
+        7718,
+        7718
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "03_barista_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        6826,
+        6826,
+        6299,
+        6299
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "04_baker_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        3838,
+        3838,
+        3560,
+        3560
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "05_carpenter_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        11100,
+        11100,
+        10440,
+        10440
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "06_postman_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        9359,
+        9359,
+        8845,
+        8845
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "07_police_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        9394,
+        9394,
+        8800,
+        8800
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "08_doctor_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        2672,
+        2672,
+        2368,
+        2368
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "09_gardener_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        8700,
+        8700,
+        8285,
+        8285
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "10_musician_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        10574,
+        10574,
+        9794,
+        9794
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "11_chef_male",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        4082,
+        4082,
+        3820,
+        3820
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "12_florist_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        9397,
+        9397,
+        8834,
+        8834
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "13_pastrychef_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        6250,
+        6250,
+        6005,
+        6005
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "14_teacher_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        6266,
+        6266,
+        5929,
+        5929
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "15_nurse_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        7628,
+        7628,
+        7453,
+        7453
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "16_librarian_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        6541,
+        6541,
+        6138,
+        6138
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "17_cafeowner_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        7064,
+        7064,
+        6552,
+        6552
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "18_artist_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        7315,
+        7315,
+        6942,
+        6942
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "19_vet_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        8223,
+        8223,
+        7574,
+        7574
+      ],
+      "gifDurationMs": 640
+    },
+    {
+      "role": "20_student_female",
+      "alpha": [
+        0,
+        255
+      ],
+      "frames": [
+        10,
+        11,
+        12
+      ],
+      "sourcePhases": [
+        2,
+        10
+      ],
+      "newOpaqueColors": 0,
+      "changedPixelsPerLoopTransition": [
+        8067,
+        8067,
+        7673,
+        7673
+      ],
+      "gifDurationMs": 640
+    }
+  ]
+}

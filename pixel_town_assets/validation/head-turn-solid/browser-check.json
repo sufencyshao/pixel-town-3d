@@ -1,0 +1,10 @@
+{
+  "url": "http://127.0.0.1:8769/validation/head-turn-revision/preview.html",
+  "cards": 40,
+  "images": 80,
+  "loadedImagesChecked": 16,
+  "brokenLoadedImages": 0,
+  "horizontalOverflow": false,
+  "lazyLoading": true,
+  "manualScreenshotInspected": true
+}

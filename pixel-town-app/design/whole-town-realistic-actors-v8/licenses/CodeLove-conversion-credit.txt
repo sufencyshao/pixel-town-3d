@@ -1,0 +1,4 @@
+Rocketbox GLB conversions retrieved from https://models.codelove.in/
+Original artwork: Microsoft / Rocketbox, MIT.
+Downloaded compressed GLB files are unchanged; EXT_meshopt_compression decoded by Three.js MeshoptDecoder.
+Original FBX and textures also retrieved from Microsoft at pinned commit 0943055db6ec570bcef9f2c8b41c9e5467c808f9.

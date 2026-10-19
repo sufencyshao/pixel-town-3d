@@ -1,0 +1,71 @@
+{
+  "id": "B03",
+  "title": "溪畔诊所",
+  "building": [
+    16,
+    11
+  ],
+  "plot": [
+    19.5,
+    15.5
+  ],
+  "areas": [
+    "接待候诊",
+    "诊室一",
+    "诊室二",
+    "护理观察",
+    "用品储物",
+    "卫生间"
+  ],
+  "residents": [
+    "许衡",
+    "余笙",
+    "苏晴"
+  ],
+  "seats": 6,
+  "anchors": {
+    "entrance": [
+      0,
+      -5.4,
+      0.2
+    ],
+    "reception": [
+      -3.3,
+      -3.2,
+      0.2
+    ],
+    "doctor1": [
+      -4.43,
+      4.63,
+      0.2
+    ],
+    "doctor2": [
+      0.82,
+      4.63,
+      0.2
+    ],
+    "nurse": [
+      3.7,
+      2.0,
+      0.2
+    ]
+  },
+  "units": "metres",
+  "sourceAxes": {
+    "up": "+Z",
+    "front": "-Y"
+  },
+  "glbAxes": {
+    "up": "+Y",
+    "front": "+Z"
+  },
+  "blenderVersion": "5.2.2 LTS",
+  "meshObjects": 516,
+  "triangles": 41308,
+  "nonfinite": [],
+  "degenerateTriangles": 0,
+  "asset": "B03-clinic.glb",
+  "sha256": "c8572237a9b69a3e2bfdde93de455d9f447af4ec8e4915cee43d8b3293cc1114",
+  "status": "design-review",
+  "anchorsStatus": "proposed-not-pathfinding-tested"
+}

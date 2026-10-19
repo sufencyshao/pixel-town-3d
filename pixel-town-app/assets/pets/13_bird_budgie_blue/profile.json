@@ -1,0 +1,59 @@
+{
+  "id": "13_bird_budgie_blue",
+  "sprite": "13_bird_budgie_blue",
+  "assetFolder": "pets/13_bird_budgie_blue",
+  "kind": "animal",
+  "name": "蓝芽",
+  "sex": "未指定",
+  "role": "鸟",
+  "animal": {
+    "species": "鸟",
+    "breed": "虎皮鹦鹉",
+    "coat": "白头蓝体黑翼纹",
+    "bodySize": "极小",
+    "scale": 0.25,
+    "rig": "bird",
+    "senses": "栖枝或飞行高度视点，观察可落脚位置、遮蔽处、声响和移动目标，避免封闭路径。",
+    "behavior": "栖停、侧头观察、啄食、理羽、短飞",
+    "allowedActions": [
+      "idle",
+      "walk",
+      "fly",
+      "eat",
+      "groom",
+      "rest",
+      "observe",
+      "flee",
+      "peck",
+      "hop"
+    ],
+    "habitat": "有遮蔽的鸟舍",
+    "locomotion": "双翼短飞与双足跳步",
+    "speedFactor": 1.4,
+    "nonAnthropomorphic": true
+  },
+  "persona": {
+    "personality": "谨慎，先观察环境",
+    "background": "在有遮蔽的鸟舍生活的虎皮鹦鹉个体",
+    "interests": "栖停、侧头观察、啄食、理羽、短飞",
+    "speech": "仅自然叫声与姿态；不使用人类语言"
+  },
+  "presets": [
+    {
+      "id": "familiar",
+      "label": "熟悉环境",
+      "personality": "谨慎，先观察环境",
+      "background": "已熟悉有遮蔽的鸟舍的气味与安全位置",
+      "interests": "可接近食物、同类线索与安全藏身处",
+      "speech": "仅物种自然声音与身体姿态"
+    },
+    {
+      "id": "cautious",
+      "label": "刚到新环境",
+      "personality": "警觉，接近刺激前先观察，允许躲藏与退让",
+      "background": "刚进入有遮蔽的鸟舍，逐渐建立安全感",
+      "interests": "熟悉照护者气味与退路",
+      "speech": "仅物种自然声音与身体姿态"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "town-daily-shops-preview",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "preview:build": "esbuild src/viewer.js --bundle --format=iife --minify --outfile=viewer.bundle.js && python3 src/package_preview.py"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.9"
+  }
+}

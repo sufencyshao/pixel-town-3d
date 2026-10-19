@@ -1,0 +1,47 @@
+{
+  "id": "02_hero_female",
+  "status": "prototype-blocked",
+  "sourceSha256": "9f4eca1fefb964b362046bf985200969f5b04aafe441b3216bdba2efc7e545cb",
+  "sourceHashUnchanged": true,
+  "issues": [
+    {
+      "priority": "P1",
+      "title": "表情Basis比例和默认表情值不一致导致人体分离",
+      "evidence": [
+        "02_hero_female/Idle-00-quarter.png",
+        "02_hero_female/Sit-50-front.png",
+        "02_hero_female/geometry-inspection.json"
+      ],
+      "finding": "Skin原mesh顶高1.62m，shape key Basis仍1.7751m；Smile和Talk均为1.0且顶高1.62m。REST实际Skin顶高1.4649m，而眼/头发仍在各自1.49–1.62m范围，故头脸分离和手指丝状拉伸。",
+      "suggestion": "所有shape key包括Basis采用同一比例映射；所有非Basis默认值置0，再重做表情和动作输出检查。"
+    },
+    {
+      "priority": "P2",
+      "title": "上衣花纹呈现巨大单花需复核UV",
+      "evidence": [
+        "02_hero_female/Idle-00-quarter.png"
+      ],
+      "finding": "上身黑色花朵成为横跨腹部的大块图案，与原2D密集小花不同。现绑定问题影响画面，需修后复核。",
+      "suggestion": "检查纹理实际读取的UV与新建GarmentUV的active_render设置。"
+    }
+  ],
+  "passedScope": [
+    {
+      "name": "裙装壳体闭合",
+      "evidence": "Top_dress、Dress_Skirt、Dress_Hem及Dress_Hem.001边界边数均0。"
+    },
+    {
+      "name": "未发现重复完整裸体",
+      "evidence": "scene仅Skin为人体裸肤网格，Top_dress为单独材料裁片；Superhero_Female.001仅data名称不能据此判重复。"
+    },
+    {
+      "name": "源文件只读",
+      "evidence": "渲染前后character.blend SHA256一致。"
+    }
+  ],
+  "pending": [
+    "修正后的肘膝/服装穿透/鞋带与脚位重新视觉检查",
+    "最终发型帽及身份精度复核",
+    "45人全批完成后逐人原图对照"
+  ]
+}

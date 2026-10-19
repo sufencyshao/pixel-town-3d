@@ -1,0 +1,760 @@
+{
+  "benny.blend": {
+    "objects": [
+      {
+        "name": "Camera",
+        "type": "CAMERA",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "Cube",
+        "type": "MESH",
+        "bones": null,
+        "materials": [
+          "fell",
+          "ear",
+          "hair2",
+          "schnauze"
+        ],
+        "uv": [
+          "UVMap",
+          "UVMap.001",
+          "UVMap.002"
+        ]
+      },
+      {
+        "name": "dogArmature",
+        "type": "ARMATURE",
+        "bones": 34,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "Lamp",
+        "type": "LIGHT",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "Point",
+        "type": "LIGHT",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "Point.001",
+        "type": "LIGHT",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "Point.002",
+        "type": "LIGHT",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      }
+    ],
+    "materials": {
+      "ear": {
+        "nodes": [
+          [
+            "FRAME",
+            null
+          ],
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_PRINCIPLED",
+            null
+          ],
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_DIFFUSE",
+            null
+          ]
+        ],
+        "links": [
+          [
+            "\u539f\u7406\u5316 BSDF",
+            "BSDF",
+            "\u6750\u8d28\u8f93\u51fa",
+            "Surface"
+          ],
+          [
+            "\u6f2b\u5c04 BSDF",
+            "BSDF",
+            "\u6750\u8d28\u8f93\u51fa.001",
+            "Surface"
+          ]
+        ]
+      },
+      "fell": {
+        "nodes": [
+          [
+            "FRAME",
+            null
+          ],
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_PRINCIPLED",
+            null
+          ],
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_DIFFUSE",
+            null
+          ]
+        ],
+        "links": [
+          [
+            "\u539f\u7406\u5316 BSDF",
+            "BSDF",
+            "\u6750\u8d28\u8f93\u51fa",
+            "Surface"
+          ],
+          [
+            "\u6f2b\u5c04 BSDF",
+            "BSDF",
+            "\u6750\u8d28\u8f93\u51fa.001",
+            "Surface"
+          ]
+        ]
+      },
+      "hair2": {
+        "nodes": [
+          [
+            "FRAME",
+            null
+          ],
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_PRINCIPLED",
+            null
+          ],
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_DIFFUSE",
+            null
+          ]
+        ],
+        "links": [
+          [
+            "\u539f\u7406\u5316 BSDF",
+            "BSDF",
+            "\u6750\u8d28\u8f93\u51fa",
+            "Surface"
+          ],
+          [
+            "\u6f2b\u5c04 BSDF",
+            "BSDF",
+            "\u6750\u8d28\u8f93\u51fa.001",
+            "Surface"
+          ]
+        ]
+      },
+      "schnauze": {
+        "nodes": [
+          [
+            "FRAME",
+            null
+          ],
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_PRINCIPLED",
+            null
+          ],
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_DIFFUSE",
+            null
+          ]
+        ],
+        "links": [
+          [
+            "\u539f\u7406\u5316 BSDF",
+            "BSDF",
+            "\u6750\u8d28\u8f93\u51fa",
+            "Surface"
+          ],
+          [
+            "\u6f2b\u5c04 BSDF",
+            "BSDF",
+            "\u6750\u8d28\u8f93\u51fa.001",
+            "Surface"
+          ]
+        ]
+      }
+    },
+    "images": [
+      {
+        "name": "Render Result",
+        "path": "",
+        "packed": false,
+        "size": [
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Rottweiler-Head.jpg",
+        "path": "//../../../../../../home/heizi/Downloads/Rottweiler-Head.jpg",
+        "packed": false,
+        "size": [
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Rottweiler.jpg",
+        "path": "//../../../../../../home/heizi/Downloads/Rottweiler.jpg",
+        "packed": true,
+        "size": [
+          789,
+          600
+        ]
+      },
+      {
+        "name": "Untitled.003",
+        "path": "",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "actions": [
+      {
+        "name": "attack",
+        "frames": [
+          1.0,
+          15.0
+        ]
+      },
+      {
+        "name": "attack2",
+        "frames": [
+          1.0,
+          18.0
+        ]
+      },
+      {
+        "name": "die",
+        "frames": [
+          1.0,
+          10.0
+        ]
+      },
+      {
+        "name": "flinch",
+        "frames": [
+          1.0,
+          5.0
+        ]
+      },
+      {
+        "name": "idle",
+        "frames": [
+          1.0,
+          28.0
+        ]
+      },
+      {
+        "name": "run",
+        "frames": [
+          1.0,
+          23.0
+        ]
+      }
+    ]
+  },
+  "jack-russell.blend": {
+    "objects": [
+      {
+        "name": "Camera",
+        "type": "CAMERA",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "Dog",
+        "type": "MESH",
+        "bones": null,
+        "materials": [
+          "Dog Eye White",
+          "Dog Eye Black",
+          "Dog White",
+          "Brown"
+        ],
+        "uv": []
+      },
+      {
+        "name": "Dog RIG",
+        "type": "ARMATURE",
+        "bones": 47,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "Lamp",
+        "type": "LIGHT",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "Sun",
+        "type": "LIGHT",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      }
+    ],
+    "materials": {
+      "Brown": {
+        "nodes": [
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_DIFFUSE",
+            null
+          ]
+        ],
+        "links": [
+          [
+            "Diffuse BSDF",
+            "BSDF",
+            "Material Output",
+            "Surface"
+          ]
+        ]
+      },
+      "Dog Eye Black": {
+        "nodes": [
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_GLOSSY",
+            null
+          ]
+        ],
+        "links": [
+          [
+            "Glossy BSDF",
+            "BSDF",
+            "Material Output",
+            "Surface"
+          ]
+        ]
+      },
+      "Dog Eye White": {
+        "nodes": [
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_DIFFUSE",
+            null
+          ]
+        ],
+        "links": [
+          [
+            "Diffuse BSDF",
+            "BSDF",
+            "Material Output",
+            "Surface"
+          ]
+        ]
+      },
+      "Dog White": {
+        "nodes": [
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "BSDF_DIFFUSE",
+            null
+          ]
+        ],
+        "links": [
+          [
+            "Diffuse BSDF",
+            "BSDF",
+            "Material Output",
+            "Surface"
+          ]
+        ]
+      }
+    },
+    "images": [
+      {
+        "name": "jack russel crad board.jpg",
+        "path": "//Reference/jack russel crad board.jpg",
+        "packed": false,
+        "size": [
+          0,
+          0
+        ]
+      },
+      {
+        "name": "jack russel front 2.jpg",
+        "path": "//Reference/jack russel front 2.jpg",
+        "packed": false,
+        "size": [
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Render Result",
+        "path": "",
+        "packed": false,
+        "size": [
+          0,
+          0
+        ]
+      }
+    ],
+    "actions": []
+  },
+  "bird_shrike1.blend": {
+    "objects": [
+      {
+        "name": "Bird_YBShrike",
+        "type": "MESH",
+        "bones": null,
+        "materials": [
+          "shrike"
+        ],
+        "uv": [
+          "UVMap"
+        ]
+      },
+      {
+        "name": "Bird_YBShrike Rig",
+        "type": "ARMATURE",
+        "bones": 65,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "Camera",
+        "type": "CAMERA",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "empty_dof",
+        "type": "EMPTY",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "l_cam",
+        "type": "LIGHT",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "l_fill",
+        "type": "LIGHT",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      },
+      {
+        "name": "l_key",
+        "type": "LIGHT",
+        "bones": null,
+        "materials": [],
+        "uv": null
+      }
+    ],
+    "materials": {
+      "shrike": {
+        "nodes": [
+          [
+            "UVMAP",
+            null
+          ],
+          [
+            "OUTPUT_MATERIAL",
+            null
+          ],
+          [
+            "NORMAL_MAP",
+            null
+          ],
+          [
+            "BSDF_TRANSPARENT",
+            null
+          ],
+          [
+            "MIX",
+            null
+          ],
+          [
+            "MIX_SHADER",
+            null
+          ],
+          [
+            "GROUP",
+            null
+          ],
+          [
+            "BSDF_TRANSLUCENT",
+            null
+          ],
+          [
+            "MIX_SHADER",
+            null
+          ],
+          [
+            "TEX_IMAGE",
+            "bird_shrike1_ao"
+          ],
+          [
+            "TEX_IMAGE",
+            "bird_shrike1_diff"
+          ],
+          [
+            "TEX_IMAGE",
+            "bird_shrike1_rgh"
+          ],
+          [
+            "TEX_IMAGE",
+            "bird_shrike1_sss"
+          ],
+          [
+            "TEX_IMAGE",
+            "bird_shrike1_norm"
+          ]
+        ],
+        "links": [
+          [
+            "UV Map.001",
+            "UV",
+            "Image Texture",
+            "Vector"
+          ],
+          [
+            "UV Map.001",
+            "UV",
+            "Image Texture.001",
+            "Vector"
+          ],
+          [
+            "UV Map.001",
+            "UV",
+            "Image Texture.003",
+            "Vector"
+          ],
+          [
+            "Image Texture.003",
+            "Color",
+            "Normal Map.001",
+            "Color"
+          ],
+          [
+            "UV Map.001",
+            "UV",
+            "Image Texture.004",
+            "Vector"
+          ],
+          [
+            "Image Texture.004",
+            "Color",
+            "Mix.001",
+            "Factor"
+          ],
+          [
+            "Image Texture",
+            "Color",
+            "Mix.001",
+            "B"
+          ],
+          [
+            "Normal Map.001",
+            "Normal",
+            "Group",
+            "Normal"
+          ],
+          [
+            "Image Texture.001",
+            "Color",
+            "Group",
+            "Roughness"
+          ],
+          [
+            "UV Map.001",
+            "UV",
+            "Image Texture.002",
+            "Vector"
+          ],
+          [
+            "Normal Map.001",
+            "Normal",
+            "Translucent BSDF",
+            "Normal"
+          ],
+          [
+            "Transparent BSDF",
+            "BSDF",
+            "Mix Shader",
+            "Shader"
+          ],
+          [
+            "Image Texture",
+            "Alpha",
+            "Mix Shader",
+            "Factor"
+          ],
+          [
+            "Image Texture.002",
+            "Color",
+            "Group",
+            "Scale"
+          ],
+          [
+            "Mix.001",
+            "Result",
+            "Group",
+            "Color"
+          ],
+          [
+            "Translucent BSDF",
+            "BSDF",
+            "Mix Shader.001",
+            "Shader"
+          ],
+          [
+            "Group",
+            "Shader",
+            "Mix Shader.001",
+            "Shader"
+          ],
+          [
+            "Image Texture",
+            "Color",
+            "Translucent BSDF",
+            "Color"
+          ],
+          [
+            "Mix Shader.001",
+            "Shader",
+            "Mix Shader",
+            "Shader"
+          ],
+          [
+            "Image Texture.002",
+            "Color",
+            "Mix Shader.001",
+            "Factor"
+          ],
+          [
+            "Mix Shader",
+            "Shader",
+            "Material Output",
+            "Surface"
+          ]
+        ]
+      }
+    },
+    "images": [
+      {
+        "name": "bird_shrike1_ao",
+        "path": "//textures/bird_shrike1_ao.png",
+        "packed": false,
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "bird_shrike1_diff",
+        "path": "//textures/bird_shrike1_diff.png",
+        "packed": false,
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "bird_shrike1_norm",
+        "path": "//textures/bird_shrike1_norm.png",
+        "packed": false,
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "bird_shrike1_rgh",
+        "path": "//textures/bird_shrike1_rgh.png",
+        "packed": false,
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "bird_shrike1_sss",
+        "path": "//textures/bird_shrike1_sss.png",
+        "packed": false,
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Render Result",
+        "path": "",
+        "packed": false,
+        "size": [
+          0,
+          0
+        ]
+      }
+    ],
+    "actions": []
+  }
+}

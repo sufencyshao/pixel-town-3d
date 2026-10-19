@@ -1,0 +1,542 @@
+{
+  "date": "2026-10-16",
+  "url": "http://127.0.0.1:49325/完整小镇-离线预览.html",
+  "browser": "Chrome headless / Playwright; Browser plugin not available",
+  "viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "checks": [
+    {
+      "name": "page identity and meaningful screen",
+      "pass": true
+    },
+    {
+      "name": "four season and thirteen weather controls",
+      "pass": true
+    },
+    {
+      "name": "initial spring vegetation is initialized",
+      "pass": true
+    },
+    {
+      "name": "spring control updates season label",
+      "pass": true
+    },
+    {
+      "name": "spring snowfall gate",
+      "pass": true
+    },
+    {
+      "name": "spring storm gate",
+      "pass": true
+    },
+    {
+      "name": "spring sky direction matches solar angle",
+      "pass": true
+    },
+    {
+      "name": "spring winter branches and flower visibility",
+      "pass": true
+    },
+    {
+      "name": "summer control updates season label",
+      "pass": true
+    },
+    {
+      "name": "summer snowfall gate",
+      "pass": true
+    },
+    {
+      "name": "summer storm gate",
+      "pass": true
+    },
+    {
+      "name": "summer sky direction matches solar angle",
+      "pass": true
+    },
+    {
+      "name": "summer winter branches and flower visibility",
+      "pass": true
+    },
+    {
+      "name": "autumn control updates season label",
+      "pass": true
+    },
+    {
+      "name": "autumn snowfall gate",
+      "pass": true
+    },
+    {
+      "name": "autumn storm gate",
+      "pass": true
+    },
+    {
+      "name": "autumn sky direction matches solar angle",
+      "pass": true
+    },
+    {
+      "name": "autumn winter branches and flower visibility",
+      "pass": true
+    },
+    {
+      "name": "winter control updates season label",
+      "pass": true
+    },
+    {
+      "name": "winter snowfall gate",
+      "pass": true
+    },
+    {
+      "name": "winter storm gate",
+      "pass": true
+    },
+    {
+      "name": "winter sky direction matches solar angle",
+      "pass": true
+    },
+    {
+      "name": "winter winter branches and flower visibility",
+      "pass": true
+    },
+    {
+      "name": "indoor greenery retains its original color",
+      "pass": true
+    },
+    {
+      "name": "pet lawn and balcony plants participate",
+      "pass": true
+    },
+    {
+      "name": "summer longer days and higher sun than winter",
+      "pass": true
+    },
+    {
+      "name": "season changes reach leaf grass and crowns",
+      "pass": true
+    },
+    {
+      "name": "winter snow with contracted canopy and accumulation",
+      "pass": true
+    },
+    {
+      "name": "cutaway retains snow exclusion",
+      "pass": true
+    },
+    {
+      "name": "winter to spring repairs snow and stops falling snow",
+      "pass": true
+    },
+    {
+      "name": "spring allows gradual remaining snow melt",
+      "pass": true
+    },
+    {
+      "name": "summer typhoon preserves river and wind",
+      "pass": true
+    },
+    {
+      "name": "summer lightning is available",
+      "pass": true
+    },
+    {
+      "name": "winter removes typhoon and disables lightning",
+      "pass": true
+    },
+    {
+      "name": "autumn wind emits leaves from existing crowns",
+      "pass": true
+    },
+    {
+      "name": "isolated district only emits leaves from visible trees",
+      "pass": true
+    },
+    {
+      "name": "cutaway hides autumn leaf particles",
+      "pass": true
+    },
+    {
+      "name": "gentle autumn wind has fewer drifting leaves",
+      "pass": true
+    },
+    {
+      "name": "calm autumn has no floating leaf plume",
+      "pass": true
+    },
+    {
+      "name": "winter wind has no autumn leaves",
+      "pass": true
+    },
+    {
+      "name": "summer wind has no autumn leaves",
+      "pass": true
+    },
+    {
+      "name": "summer 0530 sun above horizon",
+      "pass": true
+    },
+    {
+      "name": "winter 0530 night and streetlights",
+      "pass": true
+    },
+    {
+      "name": "summer evening daylight",
+      "pass": true
+    },
+    {
+      "name": "winter evening lamps on",
+      "pass": true
+    },
+    {
+      "name": "live midnight rolls winter into spring and clears snow",
+      "pass": true
+    },
+    {
+      "name": "fixed-season control survives thirteen game days",
+      "pass": true
+    },
+    {
+      "name": "automatic summer includes thunder typhoon rain and wind",
+      "pass": true
+    },
+    {
+      "name": "mobile has no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "mobile season and disabled snow controls",
+      "pass": true
+    },
+    {
+      "name": "mobile summer typhoon works",
+      "pass": true
+    },
+    {
+      "name": "all compiled shaders are runnable",
+      "pass": true
+    },
+    {
+      "name": "console and page errors clean",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "standalone file offline seasons and snow with no network",
+      "pass": true
+    }
+  ],
+  "console": [],
+  "screenshots": [
+    "season-spring.png",
+    "season-summer.png",
+    "season-autumn.png",
+    "season-winter.png",
+    "square-spring.png",
+    "square-summer.png",
+    "square-autumn.png",
+    "square-winter.png",
+    "park-autumn.png",
+    "park-winter.png",
+    "winter-snow-residential.png",
+    "winter-cutaway.png",
+    "summer-typhoon.png",
+    "autumn-wind-park.png",
+    "summer-dawn.png",
+    "winter-dawn.png",
+    "winter-evening.png",
+    "automatic-season-boundary.png",
+    "mobile-winter.png",
+    "mobile-weather-controls.png",
+    "autumn-leaves-close.png",
+    "autumn-leaves-phase-0.png",
+    "autumn-leaves-phase-1.png"
+  ],
+  "snapshots": [
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "sunny",
+      "autoWeather": false,
+      "season": "spring",
+      "seasonDay": 1,
+      "seasonDays": 12,
+      "autoSeasons": true,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.12,
+        "dark": 0.02,
+        "rain": 0,
+        "snow": 0,
+        "snowCap": 0,
+        "river": 0,
+        "wind": 0.7,
+        "fog": 0.00006,
+        "wet": 0,
+        "tornado": 0
+      },
+      "wetness": 0,
+      "snowDepth": 0,
+      "riverRise": 0,
+      "elevation": 0.848048096156426,
+      "altitude": 58.00000000000001,
+      "sunDirection": [
+        0,
+        0.848048096156426,
+        0.5299192642332049
+      ],
+      "dayLength": 12,
+      "sunrise": 6,
+      "sunset": 18,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 0,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": false,
+      "wetMaterials": 29,
+      "snowLayers": 556,
+      "snowEdges": 158,
+      "windMeshes": 68,
+      "waterMeshes": 8,
+      "flags": 7,
+      "snowCount": 0,
+      "snowVisible": false,
+      "tornadoVisible": false,
+      "windTrails": false,
+      "riverOffset": 0,
+      "windStrength": 0.7,
+      "seasonLeafMeshes": 118,
+      "seasonCrowns": 331,
+      "seasonGroundMaterials": 27,
+      "seasonFlowerMeshes": 35,
+      "seasonBranchGroups": 42,
+      "seasonCrownScale": 0.94,
+      "autumnLeafCount": 0,
+      "autumnLeavesVisible": false,
+      "autumnLeafSources": 331
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "sunny",
+      "autoWeather": false,
+      "season": "summer",
+      "seasonDay": 1,
+      "seasonDays": 12,
+      "autoSeasons": true,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.12,
+        "dark": 0.02,
+        "rain": 0,
+        "snow": 0,
+        "snowCap": 0,
+        "river": 0,
+        "wind": 0.7,
+        "fog": 0.00006,
+        "wet": 0,
+        "tornado": 0
+      },
+      "wetness": 0,
+      "snowDepth": 0,
+      "riverRise": 0,
+      "elevation": 0.9888605354482491,
+      "altitude": 81.44000000000001,
+      "sunDirection": [
+        0,
+        0.9888605354482491,
+        0.14884502488495216
+      ],
+      "dayLength": 14.095894702003495,
+      "sunrise": 4.952052648998253,
+      "sunset": 19.047947351001746,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 0,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": false,
+      "wetMaterials": 29,
+      "snowLayers": 556,
+      "snowEdges": 158,
+      "windMeshes": 68,
+      "waterMeshes": 8,
+      "flags": 7,
+      "snowCount": 0,
+      "snowVisible": false,
+      "tornadoVisible": false,
+      "windTrails": false,
+      "riverOffset": 0,
+      "windStrength": 0.7,
+      "seasonLeafMeshes": 118,
+      "seasonCrowns": 331,
+      "seasonGroundMaterials": 27,
+      "seasonFlowerMeshes": 35,
+      "seasonBranchGroups": 42,
+      "seasonCrownScale": 1,
+      "autumnLeafCount": 0,
+      "autumnLeavesVisible": false,
+      "autumnLeafSources": 331
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "sunny",
+      "autoWeather": false,
+      "season": "autumn",
+      "seasonDay": 1,
+      "seasonDays": 12,
+      "autoSeasons": true,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.12,
+        "dark": 0.02,
+        "rain": 0,
+        "snow": 0,
+        "snowCap": 0,
+        "river": 0,
+        "wind": 0.7,
+        "fog": 0.00006,
+        "wet": 0,
+        "tornado": 0
+      },
+      "wetness": 0,
+      "snowDepth": 0,
+      "riverRise": 0,
+      "elevation": 0.848048096156426,
+      "altitude": 58.00000000000001,
+      "sunDirection": [
+        0,
+        0.848048096156426,
+        0.5299192642332049
+      ],
+      "dayLength": 12,
+      "sunrise": 6,
+      "sunset": 18,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 0,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": false,
+      "wetMaterials": 29,
+      "snowLayers": 556,
+      "snowEdges": 158,
+      "windMeshes": 68,
+      "waterMeshes": 8,
+      "flags": 7,
+      "snowCount": 0,
+      "snowVisible": false,
+      "tornadoVisible": false,
+      "windTrails": false,
+      "riverOffset": 0,
+      "windStrength": 0.7,
+      "seasonLeafMeshes": 118,
+      "seasonCrowns": 331,
+      "seasonGroundMaterials": 27,
+      "seasonFlowerMeshes": 35,
+      "seasonBranchGroups": 42,
+      "seasonCrownScale": 0.82,
+      "autumnLeafCount": 0,
+      "autumnLeavesVisible": false,
+      "autumnLeafSources": 331
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "clock": "12:00",
+      "rate": 60,
+      "paused": true,
+      "weather": "sunny",
+      "autoWeather": false,
+      "season": "winter",
+      "seasonDay": 1,
+      "seasonDays": 12,
+      "autoSeasons": true,
+      "visual": {
+        "name": "晴天",
+        "cloud": 0.12,
+        "dark": 0.02,
+        "rain": 0,
+        "snow": 0,
+        "snowCap": 0,
+        "river": 0,
+        "wind": 0.7,
+        "fog": 0.00006,
+        "wet": 0,
+        "tornado": 0
+      },
+      "wetness": 0,
+      "snowDepth": 0,
+      "riverRise": 0,
+      "elevation": 0.5672689491267564,
+      "altitude": 34.559999999999995,
+      "sunDirection": [
+        0,
+        0.5672689491267564,
+        0.8235325976284273
+      ],
+      "dayLength": 9.904105297996509,
+      "sunrise": 7.047947351001746,
+      "sunset": 16.952052648998254,
+      "daylight": 1,
+      "night": 0,
+      "dusk": 0,
+      "rainCount": 0,
+      "lampsOn": false,
+      "lampCount": 53,
+      "activePointLights": 0,
+      "lightningCount": 0,
+      "flash": 0,
+      "rainVisible": false,
+      "wetMaterials": 29,
+      "snowLayers": 556,
+      "snowEdges": 158,
+      "windMeshes": 68,
+      "waterMeshes": 8,
+      "flags": 7,
+      "snowCount": 0,
+      "snowVisible": false,
+      "tornadoVisible": false,
+      "windTrails": false,
+      "riverOffset": 0,
+      "windStrength": 0.7,
+      "seasonLeafMeshes": 118,
+      "seasonCrowns": 331,
+      "seasonGroundMaterials": 27,
+      "seasonFlowerMeshes": 35,
+      "seasonBranchGroups": 42,
+      "seasonCrownScale": 0.1,
+      "autumnLeafCount": 0,
+      "autumnLeavesVisible": false,
+      "autumnLeafSources": 331
+    }
+  ]
+}

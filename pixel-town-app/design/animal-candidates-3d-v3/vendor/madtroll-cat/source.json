@@ -1,0 +1,14 @@
+[
+  {
+    "file": "cat.glb",
+    "url": "https://raw.githubusercontent.com/druboni/find-the-cat/0ee6eb153807ebff3c50cdff5778830b74e36b5a/assets/characters/cat.glb",
+    "bytes": 119908,
+    "sha256": "b5ef1a7fe8f62ac6864b7627e51ac7cf36403c4d4c893e4ec328160d9a74cbdd"
+  },
+  {
+    "file": "CREDITS.md",
+    "url": "https://raw.githubusercontent.com/druboni/find-the-cat/0ee6eb153807ebff3c50cdff5778830b74e36b5a/CREDITS.md",
+    "bytes": 2074,
+    "sha256": "9dd7d128c4c2e9c695abc0288f4b72f515e62010ed3c2cf867c5b15149c5ae69"
+  }
+]
