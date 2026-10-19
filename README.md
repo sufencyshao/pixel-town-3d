@@ -29,7 +29,7 @@ npm ci
 npm run start:3d
 ```
 
-Windows 可将 `python3` 改为 `py`。已下载完整源码包时执行 `py tools/restore-assets.py --archive "完整源码工程.zip的实际路径"`，可跳过网络下载。恢复只补缺少的资源，拒绝覆盖已修改文件，并逐个核对摘要。
+Windows 可将 `python3` 改为 `py`。已从本发布页下载完整源码包时执行 `py tools/restore-assets.py --archive "完整源码工程.zip的实际路径"`，可跳过网络下载。恢复只补缺少的资源，拒绝覆盖已修改文件，并逐个核对摘要。
 
 ```sh
 npm run build:3d

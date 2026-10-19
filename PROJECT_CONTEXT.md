@@ -4,6 +4,13 @@
 
 ## 当前任务与事实边界
 
+### 2026-10-19 GitHub 分类归档已完成（私有仓库）
+
+- 仓库 [sufencyshao/pixel-town-3d](https://github.com/sufencyshao/pixel-town-3d)，默认 `main`；源码、制作记录、预览、许可与目录在 Git，34 个产品档案约 6.94 GB 按当前应用、建筑九区、整镇环境、现成模型、历史美术、二维制作六类进入 Releases。另有六份校验清单，40 附件远端大小/SHA-256 全部一致；当前最新发布为 `v0.9.0`。API 密钥、私人存档、完整聊天及本机数据校验清单未上传。
+- 独立整理源码恢复 10,364 资源、重新构建三维、162 项原测试与 5 项资源恢复检查通过；33 ZIP 的 CRC 通过。Windows 仍未实机验收，Mac 仍未 Apple 公证。详细记录：`pixel-town-app/build/validation/github-archive-20261019/验收报告.md` 与 `remote-assets.json`。
+- 原工作区的 Git 工作副本为 `publish/pixel-town-3d/`，原 `pixel-town-app/` 不自动同步；在原目录改动后须同步明确文件再提交，不要全量推送混有原 AI Chat 的项目根。克隆 GitHub 后仓库根即工作区；大资源可用 `tools/restore-assets.py` 从该发布的完整源码包恢复。
+- 本地归档工具/记录在 `publish/tools/`、`publish/upload-jobs.json` 与 `publish/github-verification.json`。首次 Git 历史由现有文件建立，未伪造旧提交；被否定美术与旧卡通动物单独标为历史，不能当作当前认可方案。
+
 ### 2026-10-19 最新：完整应用0.9.0与Windows便携包、当前源码工程
 
 - 用户要求完整app打包，包含Win（允许Win继续完善）。交付目录 `pixel-town-app/releases/0.9.0/`：Mac arm64 DMG（内含独立`溪畔日常3D.app`）、Windows x64 ZIP（`PixelTown3D.exe`及完整运行目录）、完整当前源码工程ZIP（含V8原模型/动画/可编辑整镇Blender和V9源码、2D设置素材及原始导出验证输入）。不收历史设计/备份，不收个人API密钥或私人存档。
