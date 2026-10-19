@@ -6,12 +6,12 @@
 
 ### 2026-10-19 仓库已按用户要求公开
 
-- 用户因私有仓库网页404，明确授权“改为公开，允许任何人查看和下载”。现已设为Public，并从未登录的公开网页确认可读取。当前链接 https://github.com/sufencyshao/pixel-town-3d ，此前私有状态记录仅代表创建与初次验收时。继续执行Mac本地工程清理，结果见 `docs/Mac本地清理与Windows恢复.md`。
+- 用户因私有仓库网页404，明确授权“改为公开，允许任何人查看和下载”。现已设为Public，并从未登录的公开网页确认可读取。当前链接 https://github.com/sufencyshao/pixel-town-3d ，此前私有状态记录仅代表创建与初次验收时。Mac本地工程清理已完成，结果见 `docs/Mac本地清理与Windows恢复.md`。
 
 
 ### 2026-10-19 Mac 本地工程清理与 Windows 延续
 
-- 用户要求本机保留 App、在 Windows 从 GitHub 下载继续开发。Mac 独立应用已安装到 `/Applications/溪畔日常3D.app` 并验启动61角色；原2D应用、原AI Chat和正式私人存档保留。本地源码、素材、设计、Git工作副本与重复打包内容将移至废纸篓。最终执行结果见 `docs/Mac本地清理与Windows恢复.md`。
+- 用户要求本机保留 App、在 Windows 从 GitHub 下载继续开发。Mac 独立应用已安装到 `/Applications/溪畔日常3D.app` 并验启动61角色；原2D应用、原AI Chat和正式私人存档保留。本地源码、素材、设计、Git工作副本与重复打包内容已移至废纸篓（未清空），清理后App独立重启61角色通过、381个保护文件摘要不变。原Mac共享工作区只留云端恢复入口；GitHub源码仍完整可供Windows继续开发。执行验收见 `docs/Mac本地清理与Windows恢复.md`。
 - 清理前补传259份中间设计、旧源码快照和制作脚本，新增 `archive-process-supplement-20261019` 发布。当前合计7类35个产品档案、42发布附件；Windows从当前源码包或Git克隆恢复开发，Mac清理不影响云端原件。
 
 
