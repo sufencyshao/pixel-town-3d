@@ -7,6 +7,7 @@
 | 内容 | 入口 |
 |---|---|
 | Mac 应用、Windows 便携版、完整当前源码 | [0.9.0 发布](https://github.com/sufencyshao/pixel-town-3d/releases/tag/v0.9.0) |
+| 建筑、整镇与模型预览 | [作品预览](docs/作品预览.md) |
 | 所有产品与工程按类别下载 | [成品下载](docs/成品下载.md) |
 | 规划、九区、环境、美术、AI、打包过程 | [制作过程索引](docs/制作过程索引.md) |
 | 当前状态、历史决策和待办 | [项目交接索引](PROJECT_CONTEXT.md) |

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "v0.9.0",
+    "title": "当前应用与完整工程 0.9.0",
+    "status": "当前版本",
+    "productCount": 3,
+    "bytes": 2319610694,
+    "url": "https://github.com/sufencyshao/pixel-town-3d/releases/tag/v0.9.0"
+  },
+  {
+    "id": "archive-districts-20261019",
+    "title": "建筑与九区设计档案",
+    "status": "静态设计与历史迭代",
+    "productCount": 14,
+    "bytes": 282590495,
+    "url": "https://github.com/sufencyshao/pixel-town-3d/releases/tag/archive-districts-20261019"
+  },
+  {
+    "id": "archive-world-20261019",
+    "title": "整镇与环境系统档案 V1–V8",
+    "status": "历史版本；V8为当前模型布置基础，V6动物美术已弃用",
+    "productCount": 7,
+    "bytes": 1366711677,
+    "url": "https://github.com/sufencyshao/pixel-town-3d/releases/tag/archive-world-20261019"
+  },
+  {
+    "id": "archive-models-20261019",
+    "title": "现成人物与写实动物模型",
+    "status": "作者原版模型、动作、来源与许可",
+    "productCount": 3,
+    "bytes": 226232891,
+    "url": "https://github.com/sufencyshao/pixel-town-3d/releases/tag/archive-models-20261019"
+  },
+  {
+    "id": "archive-rejected-art-20261019",
+    "title": "历史美术探索：已停止采用",
+    "status": "用户否定或已被写实要求取代；不可视为当前认可方案",
+    "productCount": 6,
+    "bytes": 1277496612,
+    "url": "https://github.com/sufencyshao/pixel-town-3d/releases/tag/archive-rejected-art-20261019"
+  },
+  {
+    "id": "archive-2d-20261019",
+    "title": "二维美术与制作过程档案",
+    "status": "原始导出、角色设定、像素素材、制作脚本及验收记录",
+    "productCount": 1,
+    "bytes": 1463395979,
+    "url": "https://github.com/sufencyshao/pixel-town-3d/releases/tag/archive-2d-20261019"
+  }
+]

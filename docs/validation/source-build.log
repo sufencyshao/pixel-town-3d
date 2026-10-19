@@ -1,0 +1,10 @@
+
+> pixel-town-life@0.9.0 build:3d
+> node scripts/build-town-3d.js
+
+capabilities: 61 people: 45 jobs: 40
+
+  design/town-ai-v9/viewer.bundle.js  755.2kb
+
+⚡ Done in 120ms
+V9 HTML bytes 197234650
