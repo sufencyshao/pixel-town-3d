@@ -1,6 +1,6 @@
 # 权利与第三方素材
 
-本仓库为项目私有归档，没有为全部代码和素材统一授予开源许可证。
+本仓库为项目公开归档，没有为全部代码和素材统一授予开源许可证。
 
 当前人物主要来自 Microsoft Rocketbox（MIT），GLB 转换由 CodeLove 提供；橘白猫为 kenchoo 作品（CC BY 4.0），Kelgar 兔为 CDmir / TinyWorlds 的 CC0 作品。Three.js、meshoptimizer 等保留各自许可证。
 
