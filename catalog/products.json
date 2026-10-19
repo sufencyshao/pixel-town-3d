@@ -307,6 +307,15 @@
       "sha256": "b64120f9a1a2179ba765b926d81d9ecc7925e241425e57c28f3aa365c75fab65",
       "download": "https://github.com/sufencyshao/pixel-town-3d/releases/download/archive-2d-20261019/PixelTown-2D-art-and-production-20261019.zip",
       "assetName": "PixelTown-2D-art-and-production-20261019.zip"
+    },
+    {
+      "tag": "archive-process-supplement-20261019",
+      "name": "清理前补充过程档案-20261019.zip",
+      "assetName": "PixelTown-Additional-Process-20261019.zip",
+      "bytes": 73899372,
+      "sha256": "aa9733aed2be6f1dae2eb4b64cbdce0e0e2d6a1d3aa41e6a82b671aa40398798",
+      "download": "https://github.com/sufencyshao/pixel-town-3d/releases/download/archive-process-supplement-20261019/PixelTown-Additional-Process-20261019.zip",
+      "purpose": "清理前补存中间设计/旧源码/制作脚本"
     }
   ]
 }

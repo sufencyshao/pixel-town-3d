@@ -46,5 +46,13 @@
     "productCount": 1,
     "bytes": 1463395979,
     "url": "https://github.com/sufencyshao/pixel-town-3d/releases/tag/archive-2d-20261019"
+  },
+  {
+    "id": "archive-process-supplement-20261019",
+    "title": "清理前补充过程档案",
+    "status": "259份中间设计、旧源码快照和制作脚本；历史过程，不新增当前功能或美术认可。",
+    "productCount": 1,
+    "bytes": 73899372,
+    "url": "https://github.com/sufencyshao/pixel-town-3d/releases/tag/archive-process-supplement-20261019"
   }
 ]

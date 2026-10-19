@@ -58,3 +58,7 @@ Releases             应用包、模型/Blender 工程、完整离线预览、�
 ```
 
 本仓库默认私有，未上传 API 密钥、私人存档、私人日志或完整聊天。历史报告只代表对应版本当时的检查结果。历史美术探索已单独标注，不代表当前认可方案。详细归档范围见[归档说明](docs/归档说明.md)。
+
+## Mac 清理与 Windows 继续开发
+
+[清理范围与 Windows 恢复说明](docs/Mac本地清理与Windows恢复.md)。清理前另补存259份中间设计、旧源码快照和制作脚本，见[补充过程档案](https://github.com/sufencyshao/pixel-town-3d/releases/tag/archive-process-supplement-20261019)。

@@ -4,6 +4,12 @@
 
 ## 当前任务与事实边界
 
+### 2026-10-19 Mac 本地工程清理与 Windows 延续
+
+- 用户要求本机保留 App、在 Windows 从 GitHub 下载继续开发。Mac 独立应用已安装到 `/Applications/溪畔日常3D.app` 并验启动61角色；原2D应用、原AI Chat和正式私人存档保留。本地源码、素材、设计、Git工作副本与重复打包内容将移至废纸篓。最终执行结果见 `docs/Mac本地清理与Windows恢复.md`。
+- 清理前补传259份中间设计、旧源码快照和制作脚本，新增 `archive-process-supplement-20261019` 发布。当前合计7类35个产品档案、42发布附件；Windows从当前源码包或Git克隆恢复开发，Mac清理不影响云端原件。
+
+
 ### 2026-10-19 GitHub 分类归档已完成（私有仓库）
 
 - 仓库 [sufencyshao/pixel-town-3d](https://github.com/sufencyshao/pixel-town-3d)，默认 `main`；源码、制作记录、预览、许可与目录在 Git，34 个产品档案约 6.94 GB 按当前应用、建筑九区、整镇环境、现成模型、历史美术、二维制作六类进入 Releases。另有六份校验清单，40 附件远端大小/SHA-256 全部一致；当前最新发布为 `v0.9.0`。API 密钥、私人存档、完整聊天及本机数据校验清单未上传。
